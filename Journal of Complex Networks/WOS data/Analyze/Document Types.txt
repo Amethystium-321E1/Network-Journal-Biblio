@@ -1,0 +1,7 @@
+Document Types                               	   Record Count	         % of 547
+
+Article                                      	            517	    94.516
+Book Review                                  	              5	     0.914
+Correction                                   	             12	     2.194
+Editorial Material                           	              3	     0.548
+Review Article                               	             10	     1.828

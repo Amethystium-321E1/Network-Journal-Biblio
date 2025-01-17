@@ -1,0 +1,13 @@
+Document Types                               	   Record Count	       % of 1,557
+
+Article                                      	           1447	    92.935
+Biographical-Item                            	              1	     0.064
+Book Review                                  	             25	     1.606
+Correction                                   	             14	     0.899
+Correction, Addition                         	              5	     0.321
+Editorial Material                           	             31	     1.991
+Note                                         	             10	     0.642
+Proceeding Paper                             	             62	     3.982
+Reprint                                      	             10	     0.642
+Review Article                               	             13	     0.835
+Software Review                              	              1	     0.064

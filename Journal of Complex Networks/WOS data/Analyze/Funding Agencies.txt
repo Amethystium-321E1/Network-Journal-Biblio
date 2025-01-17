@@ -1,0 +1,696 @@
+Funding Agencies                             	   Record Count	         % of 547
+
+ACADEMIC EXCELLENCE FOUNDATION OF BUAA       	              1	     0.183
+ACADEMIC FUND PROGRAM AT THE NATIONAL RESEARC	              1	     0.183
+H UNIVERSITY HIGHER SCHOOL OF ECONOMICS HSE IN 2020 2021	               	          
+ACADEMICS GRANT OF THE IDEXLYON              	              1	     0.183
+ACADEMIE D AGRICULTURE DE FRANCE             	              1	     0.183
+ACADEMY OF FINLAND GRANT SUOMEN AKATEMIAN PAA	              1	     0.183
+TOS                                          	               	          
+ACADEMY OF MEDICAL SCIENCES NEWTON FUND      	              3	     0.548
+ACTION DE RECHERCHE CONCERTEE ARC OF THE FREN	              1	     0.183
+CH COMMUNITY OF BELGIUM                      	               	          
+ADD ON FELLOWSHIP FOR INTERDISCIPLINARY LIFE 	              1	     0.183
+SCIENCE BY THE JOACHIM HERZ STIFTUNG         	               	          
+AFA INSURANCE                                	              1	     0.183
+AGENCE NATIONALE DE LA RECHERCHE ANR         	              9	     1.645
+AGENCE NATIONALE DES PLANTES MEDICINALES ET A	              1	     0.183
+ROMATIQUES ANPMA MOROCCO                     	               	          
+AGENCE NATIONALE POUR LE DEVELOPPEMENT DE LA 	              2	     0.366
+RECHERCHE EN SANTE ANDRS                     	               	          
+AGORANTIC INTERDISCIPLINARY RESEARCH FEDERATI	              1	     0.183
+ON                                           	               	          
+AGORANTIC RESEARCH FEDERATION                	              1	     0.183
+AIR FORCE                                    	              1	     0.183
+AIR FORCE OFFICE OF SCIENTIFIC RESEARCH AFOSR	              9	     1.645
+AIR FORCE RESEARCH LABORATORY AND DEFENSE ADV	              1	     0.183
+ANCED RESEARCH PROJECTS AGENCY DARPA         	               	          
+ALAN TURING INSTITUTE                        	              3	     0.548
+ALAN TURING INSTITUTE FOR DATA SCIENCE AND AR	              1	     0.183
+TIFICIAL INTELLIGENCE                        	               	          
+ALEXANDER VON HUMBOLDT FOUNDATION            	              4	     0.731
+ALFRED P SLOAN FOUNDATION                    	              7	     1.280
+AMERICAN SOCIETY FOR ENGINEERING EDUCATION NA	              1	     0.183
+TIONAL SCIENCE AND ENGINEERING GRADUATE FELLOWSHIP NDSEG	               	          
+AMERICAN SOCIETY OF NEURORADIOLOGY           	              1	     0.183
+ANPCYT                                       	              1	     0.183
+APPLIED MATHEMATICS PROGRAM OF THE UNITED STA	              1	     0.183
+TES DEPARTMENT OF ENERGY OFFICE OF SCIENCE   	               	          
+ARC ACTION DE RECHERCHE CONCERTE ON MINING AN	              1	     0.183
+D OPTIMIZATION OF BIG DATA MODELS BY THE WALLONIA BRUSSELS FEDERATION	               	          
+ARC FEDERATION WALLONIA BRUXELLES ON BIG DATA	              1	     0.183
+MODELS AND METHODS                           	               	          
+ARCADIA GRANT                                	              1	     0.183
+ARMY RESEARCH LAB NETWORK SCIENCE COLLABORATI	              1	     0.183
+VE TECHNOLOGY ALLIANCE                       	               	          
+ARMY RESEARCH OFFICE                         	              8	     1.463
+ARMY RESEARCH OFFICE ARO                     	              1	     0.183
+ARMY RESEARCH OFFICE NETWORK SCIENCE PROGRAM 	              1	     0.183
+ARTS HUMANITIES RESEARCH COUNCIL AHRC        	              1	     0.183
+AUSTRALIAN GOVERNMENT                        	              3	     0.548
+AUSTRALIAN MATHEMATICAL SCIENCES INSTITUTE AM	              1	     0.183
+SI                                           	               	          
+AUSTRALIAN MATHEMATICAL SCIENCES INSTITUTE VA	              1	     0.183
+CATION RESEARCH SCHOLARSHIP                  	               	          
+AUSTRALIAN NATIONAL UNIVERSITY               	              1	     0.183
+AUSTRALIAN RESEARCH COUNCIL                  	              7	     1.280
+AUSTRIAN ACADEMY OF SCIENCES OAW VIA AN APART	              1	     0.183
+BARRETT THE HONORS COLLEGE AT ARIZONA STATE U	              1	     0.183
+NIVERSITY                                    	               	          
+BASIC RESEARCH PROGRAM OF THE NATIONAL RESEAR	              1	     0.183
+CH UNIVERSITY HIGHER SCHOOL OF ECONOMICS     	               	          
+BASIC SCIENCE RESEARCH PROGRAM THROUGH THE NA	              1	     0.183
+TIONAL RESEARCH FOUNDATION OF KOREA NRF MINISTRY OF SCIENCE ICT FUTURE PLANNING	               	          
+BASIS FOUNDATION FELLOWSHIP                  	              2	     0.366
+BAVARIAN STATE MINISTRY FOR SCIENCE AND ARTS 	              1	     0.183
+BELGIAN FEDERAL SCIENCE POLICY OFFICE        	              3	     0.548
+BELGIAN PROGRAMME OF INTERUNIVERSITY ATTRACTI	              1	     0.183
+ON POLES                                     	               	          
+BHARTI CENTRE FOR COMMUNICATION AT IIT BOMBAY	              1	     0.183
+BILATERAL NATIONAL SCIENCE FOUNDATION BIOTECH	              1	     0.183
+NOLOGY AND BIOLOGICAL SCIENCES RESEARCH COUNCIL	               	          
+BIOTECHNOLOGY AND BIOLOGICAL SCIENCES RESEARC	              1	     0.183
+H COUNCIL BBSRC                              	               	          
+BITUNAM                                      	              2	     0.366
+BITUNAM PROJECT                              	              1	     0.183
+BLOOM AGENCY                                 	              1	     0.183
+BOXREC COM                                   	              2	     0.366
+BRAIN PROGRAM OF THE IDEAS RESEARCH CENTER   	              1	     0.183
+BRAZILIAN RESEARCH AGENCIES CNPQ INERGE      	              1	     0.183
+BRISTOL MYERS SQUIBB                         	              1	     0.183
+BRUFENCE PROJECT INNOVIRIS REGION BRUXELLOISE	              1	     0.183
+BELGIUM                                      	               	          
+BUPT EXCELLENT PH D STUDENTS FOUNDATION      	              1	     0.183
+BURROUGHS WELLCOME FUND                      	              1	     0.183
+CAPES BRAZIL SAO PAULO RESEARCH FOUNDATION FA	              1	     0.183
+PESP                                         	               	          
+CARLSBERG FOUNDATION                         	              1	     0.183
+CENTER FOR COMMUNICABLE DISEASE DYNAMICS DEPA	              1	     0.183
+RTMENT OF EPIDEMIOLOGY HARVARD SCHOOL OF PUBLIC HEALTH FROM THE NATIONAL INSTITUTE OF GENERAL MEDICAL SCIENCES	               	          
+CENTER FOR UNCERTAIN SYSTEMS TOOLS FOR OPTIMI	              1	     0.183
+ZATION MANAGEMENT CUSTOM VISHWAMITRA RESEARCH INSTITUTE USA	               	          
+CENTER OF EXCELLENCE AND APPROPRIATION IN BIG	              1	     0.183
+DATA AND DATA ANALYTICS CAOBA AT THE PONTIFICIA UNIVERSIDAD JAVERIANA	               	          
+CENTRE FOR QUANTUM TECHNOLOGIES SINGAPORE    	              1	     0.183
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE 	              1	     0.183
+CNRS PEPS MOMIS URBIORBI                     	               	          
+CGIAR                                        	              5	     0.914
+CHINA POSTDOCTORAL SCIENCE FOUNDATION        	              2	     0.366
+CHINA SCHOLARSHIP COUNCIL                    	              3	     0.548
+CHINESE ACADEMY OF SCIENCES                  	              1	     0.183
+CLARKSON UNIVERSITY SPACE GRANT PROGRAM AN AF	              1	     0.183
+FILIATE OF THE NEW YORK NASA SPACE GRANT CONSORTIUM	               	          
+CNRS MISSION POUR L INTERDISCIPLINARITE MASTO	              1	     0.183
+DONS                                         	               	          
+CNRST OF MOROCCO                             	              1	     0.183
+COLEGIO DE CIENCIA Y TECNOLOGIA CCYT         	              1	     0.183
+COLLEGIUM TALENTUM PROGRAMME OF HUNGARY      	              1	     0.183
+COLOMBIAN MINISTRY OF SCIENCE GRANT          	              1	     0.183
+COMBAT CAPABILITIES DEVELOPMENT COMMAND ARMY 	              3	     0.548
+RESEARCH LABORATORY                          	               	          
+COMMITTEE OF RESEARCH CODI OF THE UNIVERSITY 	              1	     0.183
+OF ANTIOQUIA                                 	               	          
+COMPAGNIA DI SAN PAOLO                       	              1	     0.183
+COMUNIDAD DE ARAGON SPAIN                    	              1	     0.183
+CONCERTED RESEARCH ACTION ARC FEDERATION WALL	              1	     0.183
+ONIA BRUSSELS                                	               	          
+CONCERTED RESEARCH ACTION ARC PROGRAMME FEDER	              1	     0.183
+ATION WALLONIA BRUSSELS                      	               	          
+CONNECT PROGRAMM DER ALEXANDER VON HUMBOLD ST	              1	     0.183
+IFTUNG                                       	               	          
+CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA CONA	              5	     0.914
+CYT                                          	               	          
+CONSEJO NACIONAL DE INVESTIGACIONES CIENTIFIC	              2	     0.366
+AS Y TECNICAS CONICET                        	               	          
+CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFI	             24	     4.388
+CO E TECNOLOGICO CNPQ                        	               	          
+CONSILIUL NATIONAL AL CERCETARII STIINTIFICE 	              2	     0.366
+CNCS                                         	               	          
+COOPERATIVE RESEARCH CENTRES CRC PROGRAMME   	              1	     0.183
+COORDENACAO DE APERFEICOAMENTO DE PESSOAL DE 	             13	     2.377
+NIVEL SUPERIOR CAPES                         	               	          
+CORE RESEARCH FOR EVOLUTIONAL SCIENCE AND TEC	              1	     0.183
+HNOLOGY CREST                                	               	          
+COUNCIL FOR RESEARCH OF THE BABES BOLYAI UNIV	              1	     0.183
+ERSITY                                       	               	          
+COUNCIL OF HIGHER EDUCATION YOK IN TURKEY UND	              1	     0.183
+ER 100 2000 PROGRAM                          	               	          
+COUNCIL OF SCIENTIFIC INDUSTRIAL RESEARCH CSI	              3	     0.548
+R INDIA                                      	               	          
+CRISIS LAB PROJECT                           	              1	     0.183
+CRITEO                                       	              1	     0.183
+CYBER VALLEY RESEARCH FUND                   	              2	     0.366
+DAME KATHLEEN OLLERENSHAW RESEARCH FELLOWSHIP	              1	     0.183
+DEFENSE ADVANCED RESEARCH PROJECTS AGENCY DAR	              7	     1.280
+PA                                           	               	          
+DEFENSE THREAT REDUCTION AGENCY              	              5	     0.914
+DEFENSE THREAT REDUCTION AGENCY ROBUST NETWOR	              1	     0.183
+K INTERDICTION UNDER UNCERTAINTY             	               	          
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA TECNOL	              4	     0.731
+OGIA E INNOVACION COLCIENCIAS                	               	          
+DEPARTAMENTO DE INDUSTRIA E INNOVACION DEL GO	              1	     0.183
+BIERNO DE ARAGON Y FONDO SOCIAL EUROPEO      	               	          
+DEPARTMENT OF ATOMIC ENERGY DAE              	              1	     0.183
+DEPARTMENT OF BIOTECHNOLOGY DBT INDIA        	              1	     0.183
+DEPARTMENT OF ENERGY AT THE LOS ALAMOS NATION	              1	     0.183
+AL LABORATORY THROUGH THE LABORATORY DIRECTED RESEARCH AND DEVELOPMENT PROGRAMME	               	          
+DEPARTMENT OF EXCELLENCE INITIATIVE OF THE IT	              1	     0.183
+ALIAN MINISTRY OF UNIVERSITY AND RESEARCH    	               	          
+DEPARTMENT OF INDUSTRY INNOVATION AND SCIENCE	              1	     0.183
+DEPARTMENT OF SCIENCE AND TECHNOLOGY INSPIRE 	              1	     0.183
+FELLOWSHIP MINISTRY OF SCIENCE AND TECHNOLOGY GOVERNMENT OF INDIA	               	          
+DEPARTMENT OF SCIENCE AND TECHNOLOGY PROMOTIO	              1	     0.183
+N OF UNIVERSITY RESEARCH AND SCIENTIFIC EXCELLENCE DST PURSE GOVERNMENT OF INDIA	               	          
+DGA SPAIN                                    	              1	     0.183
+DGAPA                                        	              1	     0.183
+DIVISION OF COMPUTATIONAL BIOSCIENCE CENTER F	              1	     0.183
+OR INFORMATION TECHNOLOGY                    	               	          
+DIVISION OF INTERNATIONAL EPIDEMIOLOGY AND PO	              1	     0.183
+PULATION STUDIES                             	               	          
+DOCTORAL TRAINING CENTRE GRANT               	              1	     0.183
+DOCTORAL TRAINING CENTRE IN COMPLEX SYSTEMS S	              1	     0.183
+IMULATION                                    	               	          
+DR PERRY JAMES BROWNE RESEARCH CENTRE AT THE 	              1	     0.183
+UNIVERSITY OF SUSSEX                         	               	          
+DST FIST SCHEME GOVERNMENT OF INDIA          	              1	     0.183
+DST INSPIRE FACULTY FELLOWSHIP               	              1	     0.183
+EARLY CAREER AWARD FROM THE LABORATORY DIRECT	              1	     0.183
+ED RESEARCH AND DEVELOPMENT LDRD PROGRAM AT SANDIA NATIONAL LABORATORIES	               	          
+EC FET PROACTIVE                             	              1	     0.183
+EC FET PROACTIVE PROJECT MULTIPLEX           	              1	     0.183
+ECONOMIC SOCIAL RESEARCH COUNCIL ESRC        	              1	     0.183
+ELECTRICITE DE FRANCE EDF                    	              1	     0.183
+ELIS IT PROJECT REGION WALLONNE              	              1	     0.183
+ENGINEERING AND PHYSICAL SCIENCES COVID 19 SC	              1	     0.183
+HEME                                         	               	          
+ENGINEERING AND PHYSICAL SCIENCES RESEARCH CO	              1	     0.183
+UNCIL CENTRE FOR DOCTORAL TRAINING IN COMPUTATIONAL METHODS MATERIALS SCIENCE	               	          
+ENGINEERING PHYSICAL SCIENCES RESEARCH COUNCI	             38	     6.947
+L EPSRC                                      	               	          
+ERRETT FISHER FOUNDATION                     	              1	     0.183
+ESRC NETWORK PLUS PROJECT REBUILDING MACROECO	              1	     0.183
+NOMICS TM                                    	               	          
+ETH ZURICH RISK CENTER                       	              1	     0.183
+EU HORIZON 2020 FET OPEN RIA PROJECT IBSEN   	              1	     0.183
+EU HORIZON FET OPEN RIA PROJECT IBSEN        	              1	     0.183
+EU NETWORK OF EXCELLENCE EINS                	              1	     0.183
+EU PROJECT MULTIPLEX                         	              1	     0.183
+EU VIA CON GAS                               	              1	     0.183
+EUROPEAN COMMISSION EC REA                   	              1	     0.183
+EUROPEAN COMMISSION FET PROACTIVE PROJECT MUL	              1	     0.183
+TIPLEX                                       	               	          
+EUROPEAN COMMISSION JOINT RESEARCH CENTRE    	              7	     1.280
+EUROPEAN COMMISSION THROUGH THE EULER PART OF	              1	     0.183
+THE FUTURE INTERNET RESEARCH AND EXPERIMENTATION FIRE	               	          
+EUROPEAN COMMISSION WITHIN THE MARIE CURIE IN	              1	     0.183
+DUSTRY AND ACADEMIA PARTNERSHIPS AND PATHWAYS IAPP PROGRAMME	               	          
+EUROPEAN COMMUNITY S H2020 PROGRAM UNDER THE 	              1	     0.183
+FUNDING SCHEME INFRAIA 01 2018 2019 RESEARCH AND INNOVATION ACTION	               	          
+EUROPEAN COMMUNITY S PROGRAM                 	              1	     0.183
+EUROPEAN COOPERATION FOR STATISTICS OF NETWOR	              1	     0.183
+K DATA SCIENCE COSTNET COST ACTION           	               	          
+EUROPEAN COOPERATION IN SCIENCE AND TECHNOLOG	              2	     0.366
+Y COST                                       	               	          
+EUROPEAN MOLECULAR BIOLOGY LABORATORY        	              1	     0.183
+EUROPEAN RESEARCH COUNCIL ERC                	              6	     1.097
+EUROPEAN SOCIAL FUND ESF                     	              1	     0.183
+EUROPEAN SOCIAL FUND THROUGH PROJECT FUTURICT	              1	     0.183
+HU                                           	               	          
+EUROPEAN UNION EU                            	             21	     3.839
+EUROPEAN UNION S HORIZON 2020 RESEARCH AND IN	              1	     0.183
+NOVATION PROGRAM FIN TECH A FINANCIAL SUPERVISION AND TECHNOLOGY COMPLIANCE TRAINING PROGRAMME	               	          
+FACULTY OF SCIENCE ENGINEERING AND BUILT ENVI	              1	     0.183
+ROMENT DEAKIN UNIVERSITY                     	               	          
+FCT FUNDAO PARA A CILNCIA E TECNOLOGIA       	              1	     0.183
+FEDERATION WALLONIA BRUSSELS                 	              1	     0.183
+FEDERATION WALLONIA BRUSSELS CONTRACT        	              1	     0.183
+FET PROACTIVE PROJECT PLEXMATH EUROPEAN COMMI	              1	     0.183
+SSION                                        	               	          
+FINANCIADORA DE INOVACAO E PESQUISA FINEP    	              1	     0.183
+FLAGSHIP EUROPEAN RESEARCH AREA NETWORK FLAG 	              3	     0.548
+ERA JOINT TRANSNATIONAL CALL FUTURICT 2 0    	               	          
+FMSP PROGRAM OF THE UNIVERSITY OF TOKYO      	              1	     0.183
+FONCYT                                       	              1	     0.183
+FONDO INSTITUCIONAL PIFCA                    	              1	     0.183
+FONDS DE LA RECHERCHE SCIENTIFIQUE FNRS      	              2	     0.366
+FOUNDATIONAL QUESTIONS INSTITUTE             	              1	     0.183
+FPI PROGRAM OF THE GOVERNMENT OF ARAGON SPAIN	              1	     0.183
+FRENCH GOVERNMENT                            	              1	     0.183
+FUJITSU CONSULTING CANADA INC                	              1	     0.183
+FUJITSU LIMITED                              	              1	     0.183
+FUNDACAO CARLOS CHAGAS FILHO DE AMPARO A PESQ	              3	     0.548
+UISA DO ESTADO DO RIO DE JANEIRO FAPERJ      	               	          
+FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE MI	              5	     0.914
+NAS GERAIS FAPEMIG                           	               	          
+FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE SA	             13	     2.377
+O PAULO FAPESP                               	               	          
+FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RI	              1	     0.183
+O DE JANEIRO FAPERJ JCNE                     	               	          
+FUNDACAO DE AMPARO A PESQUISA E INOVACAO DO E	              3	     0.548
+STADO DE SANTA CATARINA FAPESC               	               	          
+FUNDACAO DE APOIO A PESQUISA DO DISTRITO FEDE	              1	     0.183
+RAL FAPDF                                    	               	          
+FUNDACAO PARA A CIENCIA E A TECNOLOGIA FCT   	              3	     0.548
+FUNDAMENTAL RESEARCH FUNDS FOR THE CENTRAL UN	              3	     0.548
+IVERSITIES                                   	               	          
+FUNDAO PARA A CILNCIA E TECNOLOGIA           	              1	     0.183
+FWO                                          	              2	     0.366
+GATSBY FOUNDATION                            	              1	     0.183
+GENERAL RESEARCH FUND GRANT                  	              1	     0.183
+GENERALITAT DE CATALUNYA                     	              2	     0.366
+GERMAN ISRAELI FOUNDATION FOR SCIENTIFIC RESE	              2	     0.366
+ARCH AND DEVELOPMENT                         	               	          
+GERMAN RESEARCH FOUNDATION DFG               	              8	     1.463
+GLOBAL GOOD FUND THROUGH THE INSTITUTE FOR DI	              1	     0.183
+SEASE MODELING                               	               	          
+GLOBAL RISK INSTITUTE FOR FINANCIAL SERVICES 	              1	     0.183
+IN TORONTO                                   	               	          
+GOBIERNO DE ARAGON                           	              2	     0.366
+GORDON AND BETTY MOORE FOUNDATION            	              1	     0.183
+GOVERNMENT OF ARAGON SPAIN THROUGH FEDER     	              1	     0.183
+GOVERNMENT OF ARAGON SPAIN THROUGH MINECO    	              1	     0.183
+GRADUATE OFFICE OF THE UNIVERSITY OF ANTIOQUI	              1	     0.183
+A DIRECCION DE POSGRADO                      	               	          
+GRANTS IN AID FOR SCIENTIFIC RESEARCH KAKENHI	              8	     1.463
+HEAL LINK                                    	              1	     0.183
+HELLENIC FOUNDATION FOR RESEARCH AND INNOVATI	              1	     0.183
+ON HFRI UNDER THE HFRI PHD FELLOWSHIP GRANT  	               	          
+HELMSLEY AGRICULTURAL BRAIN AND ROBOTICS FUND	              1	     0.183
+HIGHER EDUCATION COMMISSION OF PAKISTAN      	              1	     0.183
+HIGHER EDUCATION EXCELLENCE PROGRAM OF THE MI	              1	     0.183
+NISTRY OF HUMAN CAPACITIES OF BUDAPEST UNIVERSITY OF TECHNOLOGY AND ECONOMICS BME FIKP MI SC	               	          
+HISTOGRAPH RESEARCH PROJECT                  	              1	     0.183
+HONG KONG POLYTECHNIC UNIVERSITY             	              1	     0.183
+HUBEI PROVINCE KEY LABORATORY OF SYSTEMS SCIE	              1	     0.183
+NCE IN METALLURGICAL PROCESS WUHAN UNIVERSITY OF SCIENCE AND TECHNOLOGY	               	          
+HUMAN FRONTIER SCIENCE PROGRAM               	              1	     0.183
+HUMANITIES AND SOCIAL SCIENCE FOUNDATION OF A	              1	     0.183
+NHUI PROVINCE CHINA                          	               	          
+HUNAN SCIENCE AND TECHNOLOGY PLAN PROJECT    	              1	     0.183
+HUNGARIAN NATIONAL SCIENCE FOUNDATION        	              1	     0.183
+HUNGARIAN NATIONAL SCIENCE FUND              	              1	     0.183
+IAP INTERUNIVERSITY ATTRACTION POLE BELGIAN S	              1	     0.183
+CIENCE POLICY OFFICE DYSCO ON DYNAMICAL SYSTEMS CONTROL AND OPTIMIZATION	               	          
+ICREA                                        	              3	     0.548
+IDEXLYON                                     	              1	     0.183
+IGSSE                                        	              1	     0.183
+IIMA RP GRANT                                	              1	     0.183
+IISC MATHEMATICS GRANT                       	              1	     0.183
+IIT BOMBAY                                   	              1	     0.183
+INCIBE URJC                                  	              1	     0.183
+INDO FRENCH CENTRE FOR THE PROMOTION OF ADVAN	              1	     0.183
+CED RESEARCH IFCPAR CEFIPRA                  	               	          
+INRIA ASSOCIATED TEAM EFDYNET                	              1	     0.183
+INSTITUTE FOR CHEMICAL RESEARCH KYOTO UNIVERS	              1	     0.183
+ITY                                          	               	          
+INSTITUTO DE SALUD CARLOS III                	              1	     0.183
+INTEGRATED INNOVATION DEMONSTRATION OF KEY TE	              1	     0.183
+CHNOLOGIES IN SMART LYCIUM BARBARUM ORCHARD AND RESEARCH ON MATCHING HARVESTING MACHINERY	               	          
+INTEL CORPORATION THROUGH THE INTEL PARALLEL 	              1	     0.183
+COMPUTING CENTER AT THE UC DAVIS COMPLEXITY SCIENCES CENTER	               	          
+INTERNATIONAL MAX PLANCK RESEARCH SCHOOL FOR 	              1	     0.183
+INTELLIGENT SYSTEMS IMPRS IS                 	               	          
+IPICYT SUPERCOMPUTING NATIONAL CENTER FOR EDU	              1	     0.183
+CATION RESEARCH CNS IPICYT                   	               	          
+IRAN NATIONAL SCIENCE FOUNDATION INSF        	              1	     0.183
+ISI FOUNDATION                               	              1	     0.183
+ISRAEL MINISTRY OF DEFENSE                   	              1	     0.183
+ISRAEL SCIENCE FOUNDATION                    	              2	     0.366
+ISTITUTO NAZIONALE DI ALTA MATEMATICA FRANCES	              1	     0.183
+CO SEVERI GRUPPO NAZIONALE CALCOLO SCIENTIFICO INDAM GNCS	               	          
+JACQUES HADAMARD MATHEMATICS FOUNDATION FMJH 	              1	     0.183
+THROUGH THE GASPARD MONGE PROGRAM FOR OPTIMISATION AND OPERATIONAL RESEARCH PGMO	               	          
+JAMES S MCDONNELL FOUNDATION                 	              8	     1.463
+JAPAN SCIENCE TECHNOLOGY AGENCY JST          	              1	     0.183
+JAPAN SOCIETY FOR THE PROMOTION OF SCIENCE   	              9	     1.645
+JIANGSU OVERSEAS RESEARCH TRAINING PROGRAM FO	              1	     0.183
+R UNIVERSITY PROMINENT YOUNG MIDDLE AGED TEACHERS AND PRESIDENTS	               	          
+JIANGSU SOCIAL DEVELOPMENT SUPPORT PROJECT IN	              1	     0.183
+CHINA                                        	               	          
+JOHN D AND CATHERINE T MACARTHUR FOUNDATION  	              4	     0.731
+JOHN E FOGARTY INTERNATIONAL CENTER UNITED ST	              1	     0.183
+ATES NATIONAL INSTITUTES OF HEALTH           	               	          
+JOHN TEMPLETON FOUNDATION                    	              1	     0.183
+KEY PROGRAM OF SHANDONG NATURAL SCIENCE FOUND	              1	     0.183
+ATION                                        	               	          
+KEY RESEARCH PROGRAM OF FRONTIER SCIENCE OF C	              1	     0.183
+HINESE ACADEMY OF SCIENCES                   	               	          
+KEY SCIENTIFIC AND TECHNOLOGICAL PROJECTS IN 	              1	     0.183
+THE HIGH TECH FIELD OF HENAN PROVINCE RESEARCH ON KEY TECHNOLOGY OF MACHINE VISION IN AI ENVIRONMENT	               	          
+KEY SCIENTIFIC RESEARCH PROJECT OF COLLEGES A	              1	     0.183
+ND UNIVERSITIES IN HENAN PROVINCE RESEARCH ON MACHINE VISION TECHNOLOGY IN ARTIFICIAL INTELLIGENCE ENVIRONMENT	               	          
+KEY SCIENTIFIC RESEARCH PROJECT OF COLLEGES A	              1	     0.183
+ND UNIVERSITIES IN HENAN PROVINCE RESEARCH ON MACHINE VISION TECHNOLOGY IN ARTIFICIAL INTELLIGENCE ENVIRONMENT PROJECT NO 22B520036 KEY SCIENTIFIC AND TECHNOLOGICAL PROJECTS IN THE HIGH TECH FIELD OF HENA	               	          
+KNUT ALICE WALLENBERG FOUNDATION             	              2	     0.366
+KONRAD ADENAUER FOUNDATION                   	              2	     0.366
+KOREAN GOVERNMENT                            	              1	     0.183
+LABORATORY DIRECTED RESEARCH DEVELOPMENT LDRD	              1	     0.183
+PROGRAM AT SANDIA NATIONAL LABORATORIES      	               	          
+LARKINS FELLOWSHIP FROM MONASH UNIVERSITY    	              1	     0.183
+LEVERHULME TRUST                             	              2	     0.366
+LICHTENBERG PROFESSORSHIP OF THE VOLKSWAGENST	              1	     0.183
+IFTUNG                                       	               	          
+LINC PROJECT                                 	              1	     0.183
+LLNL LABORATORY RESEARCH AND DEVELOPMENT PROG	              1	     0.183
+RAM                                          	               	          
+LOUIS AND BESSIE STEIN FAMILY FELLOWSHIP FOR 	              1	     0.183
+EXCHANGES WITH ISRAELI UNIVERSITIES          	               	          
+MAKING SENSE PROJECT                         	              1	     0.183
+MARIE CURIE ACTIONS                          	              5	     0.914
+MARSDEN FUND NZ                              	              1	     0.183
+MASSEY UNIVERSITY                            	              1	     0.183
+MAX PLANCK ETH CENTER FOR LEARNING SYSTEMS   	              1	     0.183
+MAX PLANCK INSTITUTE FOR MATHEMATICS IN THE S	              1	     0.183
+CIENCES LEIPZIG                              	               	          
+MAX PLANCK SOCIETY GERMANY THROUGH THE AWARD 	              1	     0.183
+OF A MAX PLANCK PARTNER GROUP                	               	          
+MCDONNELL FOUNDATION                         	              1	     0.183
+MEDICAL RESEARCH COUNCIL UK MRC              	              2	     0.366
+MEMORIAL UNIVERSITY                          	              1	     0.183
+METAPROGRAMME INTEGRATED MANAGEMENT OF ANIMAL	              1	     0.183
+HEALTH GISA OF THE NATIONAL INSTITUTE OF AGRICULTURAL RESEARCH INRA	               	          
+MIMOMICS                                     	              1	     0.183
+MINISTRY FOR CULTURE AND INNOVATION          	              1	     0.183
+MINISTRY FOR INNOVATION AND TECHNOLOGY IN HUN	              1	     0.183
+GARY                                         	               	          
+MINISTRY OF DEFENSE GRANT THROUGH RAFAEL     	              1	     0.183
+MINISTRY OF EDUCATION AND SCIENCE RUSSIAN FED	              1	     0.183
+ERATION                                      	               	          
+MINISTRY OF EDUCATION CULTURE SPORTS SCIENCE 	              9	     1.645
+AND TECHNOLOGY JAPAN MEXT                    	               	          
+MINISTRY OF EDUCATION MOE REPUBLIC OF KOREA  	              2	     0.366
+MINISTRY OF EDUCATION SINGAPORE              	              1	     0.183
+MINISTRY OF EDUCATION UNIVERSITIES AND RESEAR	              3	     0.548
+CH MIUR                                      	               	          
+MINISTRY OF INFORMATION TECHNOLOGIES AND TELE	              1	     0.183
+COMMUNICATIONS OF COLOMBIA MINTIC            	               	          
+MINISTRY OF SCIENCE AND INNOVATION SPAIN MICI	              2	     0.366
+NN                                           	               	          
+MINISTRY OF SCIENCE AND TECHNOLOGY TAIWAN    	              1	     0.183
+MINISTRY OF SCIENCE ICT FUTURE PLANNING REPUB	              1	     0.183
+LIC OF KOREA                                 	               	          
+MINISTRY OF SCIENCE ICT MSIT REPUBLIC OF KORE	              1	     0.183
+A                                            	               	          
+MITACS ACCELERATE PHD AWARD                  	              1	     0.183
+MONASH UNIVERSITY                            	              1	     0.183
+MOVE IN FELLOWSHIP                           	              1	     0.183
+MTA BME STOCHASTICS RESEARCH GROUP           	              1	     0.183
+MULTINATIONAL INFLUENZA SEASONAL MORTALITY ST	              1	     0.183
+UDY MISMS                                    	               	          
+MULTIPLEX EU FET PROJECT                     	              1	     0.183
+MULTIPLEX FP7 PROJECT FOUNDATIONAL RESEARCH O	              1	     0.183
+N MULTILEVEL COMPLEX NETWORKS AND SYSTEMS    	               	          
+MURI                                         	              2	     0.366
+NAP PRP USP                                  	              1	     0.183
+NATIONAL ACADEMY OF SCIENCES ALLAHABAD INDIA 	              1	     0.183
+NATIONAL AERONAUTICS SPACE ADMINISTRATION NAS	              1	     0.183
+A                                            	               	          
+NATIONAL CENTER FOR SCIENTIFIC RESEARCH CNRS 	              1	     0.183
+THROUGH THE PEPS PROJECT DORE                	               	          
+NATIONAL HEALTH INSTITUTE                    	              1	     0.183
+NATIONAL INSTITUTE OF GENERAL MEDICAL SCIENCE	              1	     0.183
+S NIGMS AT THE UNITED STATES NATIONAL INSTITUTES OF HEALTH	               	          
+NATIONAL INSTITUTE OF GENERAL MEDICAL SCIENCE	              1	     0.183
+S OF THE NATIONAL INSTITUTES OF HEALTH NIH MODELS OF INFECTIOUS DISEASE AGENT STUDY MIDAS	               	          
+NATIONAL INSTITUTE OF GENERAL MEDICAL SCIENCE	              1	     0.183
+S PROGRAM FOR MODELS OF INFECTIOUS DISEASE AGENT STUDY	               	          
+NATIONAL INSTITUTE OF SCIENCE AND TECHNOLOGY 	              1	     0.183
+IN DATA SCIENCE INCT CID                     	               	          
+NATIONAL INSTITUTE OF STANDARDS TECHNOLOGY NI	              1	     0.183
+ST USA                                       	               	          
+NATIONAL INSTITUTES OF HEALTH INTRAMURAL RESE	              1	     0.183
+ARCH PROGRAM OF THE NATIONAL INSTITUTE OF MENTAL HEALTH	               	          
+NATIONAL INSTITUTES OF HEALTH NIH USA        	             17	     3.108
+NATIONAL KEY RESEARCH DEVELOPMENT PROGRAM OF 	              4	     0.731
+CHINA                                        	               	          
+NATIONAL LABORATORY FOR HEALTH SECURITY ALFRE	              1	     0.183
+D RENYI INSTITUTE                            	               	          
+NATIONAL NATURAL SCIENCE FOUNDATION OF CHINA 	             20	     3.656
+NSFC                                         	               	          
+NATIONAL NATURAL SCIENCE FOUNDATION OF GUANGD	              1	     0.183
+ONG PROVINCIAL GOVERNMENT                    	               	          
+NATIONAL NUCLEAR SECURITY ADMINISTRATION     	              2	     0.366
+NATIONAL POST DOCTORAL FELLOWSHIP NPDF OF DST	              1	     0.183
+SERB INDIA                                   	               	          
+NATIONAL RESEARCH DEVELOPMENT INNOVATION OFFI	              4	     0.731
+CE NRDIO HUNGARY                             	               	          
+NATIONAL RESEARCH FOUNDATION OF KOREA        	              5	     0.914
+NATIONAL RESEARCH FOUNDATION SINGAPORE       	              1	     0.183
+NATIONAL RESEARCH PROJECT PNR CRISIS LAB     	              1	     0.183
+NATIONAL SCIENCE CENTRE POLAND               	              1	     0.183
+NATIONAL SCIENCE FOUNDATION CENTER FOR SCIENC	              1	     0.183
+E OF INFORMATION STC                         	               	          
+NATIONAL SCIENCE FOUNDATION NSF              	             55	    10.055
+NATIONAL SOCIALSCIENCE FUND OF CHINA         	              1	     0.183
+NATIONAL UNIVERSITY OF COMAHUE               	              1	     0.183
+NATIONAL UNIVERSITY OF LA PLATA              	              1	     0.183
+NATURAL ENVIRONMENT RESEARCH COUNCIL NERC    	              1	     0.183
+NATURAL SCIENCE FOUNDATION OF JIANGSU PROVINC	              2	     0.366
+E                                            	               	          
+NATURAL SCIENCES AND ENGINEERING RESEARCH COU	              8	     1.463
+NCIL OF CANADA NSERC                         	               	          
+NETHERLANDS GOVERNMENT                       	              1	     0.183
+NETHERLANDS ORGANIZATION FOR SCIENTIFIC RESEA	              6	     1.097
+RCH NWO                                      	               	          
+NETSEED SEEDLING RESEARCH AWARD OF THE NETWOR	              1	     0.183
+K SCIENCE INSTITUTE OF NORTHEASTERN UNIVERSITY	               	          
+NEW COLLEGE UNDERGRADUATE INQUIRY AND RESEARC	              1	     0.183
+H EXPERIENCES NCUIRE FELLOWSHIP FROM THE NEW COLLEGE OF INTERDISCIPLINARY ARTS AND SCIENCES AT ARIZONA STATE UNIVERSITY	               	          
+NEW PALTZ FOUNDATION                         	              1	     0.183
+NEWTON FUND THE ACADEMY OF MEDICAL SCIENCES  	              1	     0.183
+NIH EUNICE KENNEDY SHRIVER NATIONAL INSTITUTE	              6	     1.097
+OF CHILD HEALTH HUMAN DEVELOPMENT NICHD      	               	          
+NIH FOGARTY INTERNATIONAL CENTER FIC         	              1	     0.183
+NIH NATIONAL INSTITUTE OF GENERAL MEDICAL SCI	              1	     0.183
+ENCES NIGMS                                  	               	          
+NIH NATIONAL INSTITUTE OF MENTAL HEALTH NIMH 	              3	     0.548
+NIH NATIONAL INSTITUTE ON AGING NIA          	              1	     0.183
+NIILO HELANDER S FOUNDATION                  	              2	     0.366
+NORTHEASTERN UNIVERSITY                      	              1	     0.183
+NORTHWESTERN INSTITUTE ON COMPLEX SYSTEMS NIC	              1	     0.183
+O                                            	               	          
+NORWEGIAN AGENCY FOR DEVELOPMENT COOPERATION 	              1	     0.183
+NORAD                                        	               	          
+NORWEGIAN INSTITUTE FOR NATURE RESEARCH RESEA	              1	     0.183
+RCH COUNCIL OF NORWAY                        	               	          
+NOTTINGHAM TRENT UNIVERSITY                  	              1	     0.183
+NSF AS PART OF THE JOINT NSF NIH USDA ECOLOGY	              1	     0.183
+AND EVOLUTION OF INFECTIOUS DISEASES PROGRAM 	               	          
+NSF DIRECTORATE FOR BIOLOGICAL SCIENCES BIO  	              1	     0.183
+NSF DIRECTORATE FOR COMPUTER INFORMATION SCIE	              4	     0.731
+NCE ENGINEERING CISE                         	               	          
+NSF DIRECTORATE FOR ENGINEERING ENG          	              2	     0.366
+NSF DIRECTORATE FOR MATHEMATICAL PHYSICAL SCI	             10	     1.828
+ENCES MPS                                    	               	          
+NSF DIRECTORATE FOR SOCIAL BEHAVIORAL ECONOMI	              4	     0.731
+C SCIENCES SBE                               	               	          
+NSF DIRECTORATE FOR STEM EDUCATION EDU       	              2	     0.366
+NSF DIVISION OF INFORMATION INTELLIGENT SYSTE	              1	     0.183
+MS IIS                                       	               	          
+NSF DIVISION OF INTEGRATIVE ORGANISMAL SYSTEM	              1	     0.183
+S IOS                                        	               	          
+NSF IIS GRANT                                	              1	     0.183
+NSF OFFICE OF THE DIRECTOR OD                	              1	     0.183
+NWO GRAVITATION NETWORKS                     	              1	     0.183
+OFFICE OF NAVAL RESEARCH                     	              5	     0.914
+OFFICE OF THE DEPUTY VICE CHANCELLOR FOR RESE	              1	     0.183
+ARCH AND GRADUATE STUDIES NATIONAL RESEARCH FOUNDATION UNITED ARAB EMIRATES UNIVERSITY UAEU HROUGH THE GRANT 3MOONS MODULAR MULTISCALE MULTIOMIC ONCOLOGY NETWORKS	               	          
+ONTARIO RESEARCH FUND                        	              1	     0.183
+ORANGE                                       	              1	     0.183
+ORISE FELLOWSHIP AT THE FOOD AND DRUG ADMINIS	              1	     0.183
+TRATION                                      	               	          
+ORSZAGOS TUDOMANYOS KUTATASI ALAPPROGRAMOK OT	              3	     0.548
+KA                                           	               	          
+OVERSEAS VISITING FELLOW PROGRAM             	              1	     0.183
+PASPA                                        	              1	     0.183
+PATAGONA TECHNOLOGIES THROUGH CANADIAN DEPART	              1	     0.183
+MENT OF NATIONAL DEFENSE PROJECT ON DETECTING AND RESPONDING TO HOSTILE INFORMATION ACTIVITIES UNSUPERVISED METHODS FOR MEASURING THE QUALITY OF GRAPH EMBEDDINGS	               	          
+PAUL G ALLEN FOUNDATION                      	              1	     0.183
+PENNSYLVANIA STATE UNIVERSITY CENTER FOR POLL	              1	     0.183
+INATOR RESEARCH                              	               	          
+PEW LATIN AMERICAN FELLOWSHIP                	              1	     0.183
+PHS GRANT                                    	              1	     0.183
+PIA                                          	              1	     0.183
+POLISH NATIONAL SCIENCE CENTER               	              1	     0.183
+PRIORITY ACADEMIC PROGRAM DEVELOPMENT PAPD OF	              1	     0.183
+JIANGSU HIGHER EDUCATION INSTITUTIONS        	               	          
+PROGRAM OF SONG SHAN LABORATORY INCLUDED IN T	              1	     0.183
+HE MANAGEMENT OF MAJOR SCIENCE AND TECHNOLOGY PROGRAM OF HENAN PROVINCE	               	          
+PROGRAMME ARC 5 OF THE REGION RHONE ALPES    	              1	     0.183
+PROGRAMME ARC 6 OF THE REGION RHONE ALPES    	              1	     0.183
+PROJECT 5 100 MINISTRY OF EDUCATION AND SCIEN	              1	     0.183
+CE RUSSIAN FEDERATION                        	               	          
+PROJECT FIR OF THE UNIVERSITY OF CATANIA     	              1	     0.183
+PROJECT OF NEW ERA EDUCATION QUALITY ENGINEER	              1	     0.183
+ING GRADUATE EDUCATION OF ANHUI PROVINCE     	               	          
+PROJECT OF SOCIAL SCIENCE INNOVATION AND DEVE	              1	     0.183
+LOPMENT RESEARCH OF ANHUI PROVINCE           	               	          
+PROVIDED BY THE PACIFIC NORTHWEST NATIONAL LA	              1	     0.183
+BORATORIES PNNL NATIONAL SECURITY DIRECTORATE MISSION SEED LABORATORY DIRECTED RESEARCH AND DEVELOPMENT LDRD PROGRAM	               	          
+R P GRANT IIM AHMEDABAD                      	              1	     0.183
+RAGNAR SOEDERBERG FOUNDATION                 	              1	     0.183
+RAND                                         	              1	     0.183
+RAPIDD PROGRAM OF THE SCIENCE AND TECHNOLOGY 	              1	     0.183
+DIRECTORATE DEPARTMENT OF HOMELAND SECURITY  	               	          
+RECTORS CONFERENCE OF THE SWISS UNIVERSITIES 	              1	     0.183
+RESEARCH COUNCIL OF FINLAND                  	              4	     0.731
+RESEARCH COUNCIL OF LITHUANIA LMTLT          	              1	     0.183
+RESEARCH OFFICE AT UNIVERSIDAD DE LOS ANDES F	              1	     0.183
+APA GRANT                                    	               	          
+RESEARCH PROJECT STOCHASTIC AND STATISTICAL M	              1	     0.183
+ODELS AND METHODS FOR THE APPLICATIONS UNIVERSITY OF TORINO	               	          
+RESEARCH PROJECT THE INTERNATIONAL TRADE NETW	              1	     0.183
+ORK EMPIRICAL ANALYSES AND THEORETICAL MODELS ITALIAN MINISTRY OF EDUCATION UNIVERSITY AND RESEARCH SCIENTIFIC RESEARCH PROGRAMS OF NATIONAL RELEVANCE	               	          
+RESEARCH SUPPORT FOUNDATION OF THE STATE OF B	              1	     0.183
+AHIA FAPESB                                  	               	          
+RILTUS PROJECT                               	              1	     0.183
+ROYAL COMMISSION FOR THE EXHIBITION OF 1851  	              1	     0.183
+ROYAL SOCIETY                                	              4	     0.731
+ROYAL SOCIETY OF NEW ZEALAND                 	              1	     0.183
+ROYAL SOCIEY WOLFSON RESEARCH MERIT AWARD    	              1	     0.183
+RUSSIAN FOUNDATION FOR BASIC RESEARCH RFBR   	              6	     1.097
+RUSSIAN SCIENCE FOUNDATION RSF               	              3	     0.548
+RUTHERFORD FOUNDATION VISITING FELLOWSHIP AT 	              1	     0.183
+THE ALAN TURING INSTITUTE UK                 	               	          
+SAGE CENTER FOR THE STUDY OF THE MIND INSTITU	              1	     0.183
+TE FOR COLLABORATIVE BIOTECHNOLOGIES FROM THE US ARMY RESEARCH OFFICE	               	          
+SCIENCE AND ENGINEERING RESEARCH BOARD DEPART	              1	     0.183
+MENT OF SCIENCE AND TECHNOLOGY GOVERNMENT OF INDIA	               	          
+SCIENCE AND ENGINEERING RESEARCH BOARD SERB D	              1	     0.183
+ST GOVERNMENT OF INDIA UNDER MATRICS PROJECT 	               	          
+SCIENCE AND TECHNOLOGY INNOVATION PROGRAM OF 	              1	     0.183
+HUNAN PROVINCE                               	               	          
+SCIENCE AND TECHNOLOGY INNOVATION PROJECTS OF	              1	     0.183
+UNIVERSITIES IN SHANXI PROVINCE              	               	          
+SCIENCE FOUNDATION IRELAND SFI               	              7	     1.280
+SCIENTIFIC RESEARCH FUND OF ZHEJIANG PROVINCI	              1	     0.183
+AL EDUCATION DEPARTMENT                      	               	          
+SCIENTIFIC RESEARCH PROJECT OF HUNAN PROVINCI	              1	     0.183
+AL DEPARTMENT OF EDUCATION                   	               	          
+SHAANXI PROVINCIAL NATURAL SCIENCE FOUNDATION	              1	     0.183
+PROJECT                                      	               	          
+SHANGHAI OUTSTANDING ACADEMIC LEADERS PLAN   	              1	     0.183
+SHANGHAI OUTSTANDING ACADEMICLEADERS PLAN    	              1	     0.183
+SHANGHAI PUJIANG PROGRAM                     	              1	     0.183
+SHANNXI PROVINCIAL EDUCATION COMMISSION      	              1	     0.183
+SHENZHEN BASIC RESEARCH PROJECT FOR DEVELOPME	              1	     0.183
+NT OF SCIENCE AND TECHNOLOGY                 	               	          
+SIMON LEE FOUNDATION                         	              1	     0.183
+SIMONS FOUNDATION                            	              2	     0.366
+SINGAPORE UNIVERSITY OF TECHNOLOGY DESIGN    	              1	     0.183
+SLOVENIAN RESEARCH AGENCY SLOVENIA           	              6	     1.097
+SNF EARLY POSTDOC MOBILITY FELLOWSHIP ON MULT	              1	     0.183
+ISPECIES INTERACTING STOCHASTIC SYSTEMS IN BIOLOGY	               	          
+SNIF PROJECT                                 	              1	     0.183
+SNII CONAHCYT                                	              1	     0.183
+SOBIGDATA                                    	              1	     0.183
+SOCIAL MEDIA IN STRATEGIC COMMUNICATION      	              1	     0.183
+SPANISH GOVERNMENT                           	             10	     1.828
+STATE TASK FOR ICP RAS                       	              1	     0.183
+STATEGRA                                     	              1	     0.183
+STOCKHOLM COUNTY COUNCIL                     	              1	     0.183
+SUNY NEW PALTZ RESEARCH AND CREATIVE PROJECT 	              1	     0.183
+AWARDS                                       	               	          
+SUNY NEW PALTZ RESEARCH SCHOLARSHIP AND CREAT	              1	     0.183
+IVE ACTIVITIES                               	               	          
+SUTD MIT POSTDOCTORAL PROGRAMME              	              1	     0.183
+SWEDISH RESEARCH COUNCIL                     	              5	     0.914
+SWISS NATIONAL SCIENCE FOUNDATION SNSF       	              4	     0.731
+SYSTEMS SCIENCE COLLABORATIVE INITIATIVE GRAN	              1	     0.183
+T FROM THE NEBRASKA RESEARCH INITIATIVE      	               	          
+TARBIAT MODARES UNIVERSITY                   	              1	     0.183
+TEKNIIKAN EDISTAMISSAATIO THE FINNISH FOUNDAT	              1	     0.183
+ION FOR TECHNOLOGY PROMOTION                 	               	          
+TEMPLETON FOUNDATION                         	              1	     0.183
+THALES GROUP                                 	              1	     0.183
+THE AUTHOR THANKS ANNA KHMELNITSKAYA DMITRY G	              1	     0.183
+UBANOV AND KONSTANTIN AVRACHENKOV FOR HELPFUL DISCUSSIONS AND TWO ANONYMOUS REVIEWERS FOR THEIR CAREFUL COMMENTS AND THOUGHTFUL SUGGESTIONS	               	          
+THE AUTHORS ACKNOWLEDGE THEIR VALUABLE DISCUS	              1	     0.183
+SION ON THIS WORK WITH PROFESSOR R B BAPAT PROFESSOR SANTANU RAY AND PROFESSOR BRIAN FATH THEY ARE ALSO VERY THANKFUL TO THE ANONYMOUS REFEREES FOR THEIR CONSTRUCTIVE SUGGESTIONS WHICH CONSIDERABLY IMPROVED	               	          
+THE DAVID LUCILE PACKARD FOUNDATION          	              1	     0.183
+THE LABORATORY FOR HYBRID MODELING ACKNOWLEDG	              1	     0.183
+ES FUNDING FROM THE BAVARIAN STATE MINISTRY FOR SCIENCE AND ARTS THROUGH GRANT EPILABKI	               	          
+THE MINISTRY OF SCIENCE RESEARCH AND THE ARTS	              1	     0.183
+OF THE STATE OF BADEN WURTTEMBERG            	               	          
+TOR VERGATA UNIVERSITY BEYOND BORDERS PROGRAM	              1	     0.183
+THROUGH THE PROJECT ASTRID                   	               	          
+TORSTEN SODERBERG FOUNDATION                 	              1	     0.183
+TRAINING PROGRAM FOR EXCELLENT YOUNG INNOVATO	              1	     0.183
+RS OF CHANGSHA                               	               	          
+TRANSFORMATION AND RESILIENCE PLAN FUNDS OF T	              1	     0.183
+HE EUROPEAN UNION NEXT GENERATION EU URJC    	               	          
+TURKIYE BILIMSEL VE TEKNOLOJIK ARASTIRMA KURU	              5	     0.914
+MU TUBITAK                                   	               	          
+U K MINISTRY OF DEFENCE                      	              1	     0.183
+U S ARMY RESEARCH LAB CYBER SECURITY CRA     	              1	     0.183
+U S ARMY RESEARCH OFFICE ARMY RESEARCH LABORA	              1	     0.183
+TORY UNDER THE MINERVA RESEARCH INITIATIVE   	               	          
+U S ARMY RESEARCH OFFICE UNDER MULTIDISCIPLIN	              1	     0.183
+ARY UNIVERSITY RESEARCH INITIATIVE           	               	          
+U S DEPARTMENT OF DEFENSE MINERVA            	              1	     0.183
+UK NATIONAL QUANTUM TECHNOLOGIES PROGRAMME   	              1	     0.183
+UK RESEARCH INNOVATION UKRI                  	             42	     7.678
+UNITATEA EXECUTIVA PENTRU FINANTAREA INVATAMA	              2	     0.366
+NTULUI SUPERIOR A CERCETARII DEZVOLTARII SI INOVARII UEFISCDI	               	          
+UNITED STATES AIR FORCE UNDER AIR FORCE      	              1	     0.183
+UNITED STATES DEPARTMENT OF AGRICULTURE NATIO	              1	     0.183
+NAL NEEDS PROGRAM                            	               	          
+UNITED STATES DEPARTMENT OF DEFENSE          	             30	     5.484
+UNITED STATES DEPARTMENT OF ENERGY DOE       	              7	     1.280
+UNITED STATES DEPARTMENT OF HEALTH HUMAN SERV	             17	     3.108
+ICES                                         	               	          
+UNITED STATES NAVY                           	              5	     0.914
+UNIVERSIDAD AUTONOMA DE LA CIUDAD DE MEXICO U	              1	     0.183
+ACM                                          	               	          
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO      	              1	     0.183
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO PROGR	              1	     0.183
+AMA DE APOYO A PROYECTOS DE INVESTIGACION E INNOVACION TECNOLOGICA	               	          
+UNIVERSIDAD NACIONAL DE CUYO                 	              1	     0.183
+UNIVERSITE DE LYON                           	              2	     0.366
+UNIVERSITY AT BUFFALO COMPUTATIONAL AND DATA 	              1	     0.183
+ENABLED SCIENCE AND ENGINEERING FELLOWSHIP   	               	          
+UNIVERSITY GRANTS COMMISSION INDIA           	              3	     0.548
+UNIVERSITY OF AVIGNON UAPV PROJET D EXCELLENC	              1	     0.183
+E SPIDERNET                                  	               	          
+UNIVERSITY OF CAMBRIDGE                      	              1	     0.183
+UNIVERSITY OF DEBRECEN                       	              1	     0.183
+UNIVERSITY OF GRAZ                           	              1	     0.183
+UNIVERSITY OF NEBRASKA AT OMAHA LIPTON PROGRA	              1	     0.183
+M FUND                                       	               	          
+UNIVERSITY OF NORTH CAROLINA WILMINGTON      	              1	     0.183
+UNIVERSITY OF PADOVA                         	              1	     0.183
+UNIVERSITY OF PISA                           	              1	     0.183
+UNIVERSITY OF QUEENSLAND                     	              1	     0.183
+UNIVERSITY OF SOUTHAMPTON                    	              1	     0.183
+UNIVERSITY OF SUSSEX                         	              1	     0.183
+UNIVERSITY OF SUSSEX BUSINESS SCHOOL BRIGHTON	              1	     0.183
+UK                                           	               	          
+UNIVERSITY OF SZEGED OPEN ACCESS FUND        	              1	     0.183
+UNIVERSITY OF WASHINGTON ESCIENCE INSTITUTE  	              1	     0.183
+UNMDP                                        	              1	     0.183
+UPPSALA UNIVERSITY                           	              1	     0.183
+URJC GRANT                                   	              1	     0.183
+US ARMY RESEARCH LABORATORY ARL              	              6	     1.097
+US ARMY RESEARCH OFFICE                      	              1	     0.183
+UTI CHAIR IN MACROECONOMICS AT IIMA          	              1	     0.183
+VEDECKA GRANTOVA AGENTURA MSVVAS SR A SAV VEG	              1	     0.183
+A                                            	               	          
+VIEP BUAP                                    	              1	     0.183
+VINNOVA                                      	              2	     0.366
+VISITORS PROGRAM OF THE MAX PLANCK INSTITUTE 	              1	     0.183
+FOR THE PHYSICS OF COMPLEX SYSTEMS           	               	          
+VOLKSWAGEN                                   	              1	     0.183
+WALLACE RESEARCH FOUNDATION                  	              1	     0.183
+WALLENBERG AI AUTONOMOUS SYSTEMS AND SOFTWARE	              1	     0.183
+PROGRAM WASP                                 	               	          
+WARREN CENTER FOR NETWORK AND DATA SCIENCES  	              1	     0.183
+WASHINGTON RESEARCH FOUNDATION               	              1	     0.183
+WELLCOME TRUST                               	              4	     0.731
+WINSTON CHURCHILL FOUNDATION OF THE UNITED ST	              1	     0.183
+ATES                                         	               	          
+YILDIZ TECHNICAL UNIVERSITY                  	              1	     0.183
+YOUTH INNOVATION PROMOTION ASSOCIATION OF CAS	              1	     0.183
+YOUTH NATURAL SCIENCE FOUNDATION OF SHANXI PR	              1	     0.183
+OVINCE                                       	               	          
+
+165 record(s) (30.165%) do not contain data in the field being analyzed

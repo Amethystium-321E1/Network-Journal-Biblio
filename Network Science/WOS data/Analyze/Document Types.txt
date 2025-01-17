@@ -1,0 +1,8 @@
+Document Types                               	   Record Count	         % of 301
+
+Article                                      	            274	    91.030
+Book Chapters                                	             13	     4.319
+Correction                                   	              4	     1.329
+Early Access                                 	             10	     3.322
+Editorial Material                           	             22	     7.309
+Review Article                               	              1	     0.332

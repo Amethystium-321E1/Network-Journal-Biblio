@@ -1,0 +1,641 @@
+Funding Agencies                             	   Record Count	       % of 1,557
+
+UNITED STATES DEPARTMENT OF HEALTH HUMAN SERV	             82	     5.267
+ICES                                         	               	          
+NATIONAL INSTITUTES OF HEALTH NIH USA        	             81	     5.202
+NATIONAL SCIENCE FOUNDATION NSF              	             63	     4.046
+GERMAN RESEARCH FOUNDATION DFG               	             32	     2.055
+NIH EUNICE KENNEDY SHRIVER NATIONAL INSTITUTE	             25	     1.606
+OF CHILD HEALTH HUMAN DEVELOPMENT NICHD      	               	          
+NSF DIRECTORATE FOR SOCIAL BEHAVIORAL ECONOMI	             22	     1.413
+C SCIENCES SBE                               	               	          
+SWISS NATIONAL SCIENCE FOUNDATION SNSF       	             21	     1.349
+NIH NATIONAL INSTITUTE ON DRUG ABUSE NIDA    	             20	     1.285
+EUROPEAN RESEARCH COUNCIL ERC                	             19	     1.220
+UK RESEARCH INNOVATION UKRI                  	             17	     1.092
+EUROPEAN UNION EU                            	             15	     0.963
+NETHERLANDS ORGANIZATION FOR SCIENTIFIC RESEA	             15	     0.963
+RCH NWO                                      	               	          
+LEVERHULME TRUST                             	             11	     0.706
+SPANISH GOVERNMENT                           	             11	     0.706
+ECONOMIC SOCIAL RESEARCH COUNCIL ESRC        	             10	     0.642
+NATIONAL NATURAL SCIENCE FOUNDATION OF CHINA 	              9	     0.578
+NSFC                                         	               	          
+NIH NATIONAL INSTITUTE ON AGING NIA          	              9	     0.578
+NSF DIRECTORATE FOR COMPUTER INFORMATION SCIE	              9	     0.578
+NCE ENGINEERING CISE                         	               	          
+UNITED STATES DEPARTMENT OF DEFENSE          	              9	     0.578
+JAPAN SOCIETY FOR THE PROMOTION OF SCIENCE   	              8	     0.514
+MINISTRY OF EDUCATION CULTURE SPORTS SCIENCE 	              8	     0.514
+AND TECHNOLOGY JAPAN MEXT                    	               	          
+NIH NATIONAL INSTITUTE OF MENTAL HEALTH NIMH 	              8	     0.514
+AGENCE NATIONALE DE LA RECHERCHE ANR         	              7	     0.450
+GRANTS IN AID FOR SCIENTIFIC RESEARCH KAKENHI	              7	     0.450
+MINISTRY OF SCIENCE AND TECHNOLOGY TAIWAN    	              7	     0.450
+NSF DIVISION OF INFORMATION INTELLIGENT SYSTE	              7	     0.450
+MS IIS                                       	               	          
+UNIVERSITY OF CHICAGO                        	              7	     0.450
+W T GRANT FOUNDATION                         	              7	     0.450
+ENGINEERING PHYSICAL SCIENCES RESEARCH COUNCI	              6	     0.385
+L EPSRC                                      	               	          
+EUROPEAN COMMISSION JOINT RESEARCH CENTRE    	              6	     0.385
+ACADEMIA SINICA TAIWAN                       	              5	     0.321
+FEDERAL MINISTRY OF EDUCATION RESEARCH BMBF  	              5	     0.321
+NIH NATIONAL INSTITUTE ON ALCOHOL ABUSE ALCOH	              5	     0.321
+OLISM NIAAA                                  	               	          
+SLOVENIAN RESEARCH AGENCY SLOVENIA           	              5	     0.321
+SOCIAL SCIENCES HUMANITIES RESEARCH COUNCIL O	              5	     0.321
+F CANADA SSHRC                               	               	          
+MINISTRY OF SCIENCE AND INNOVATION SPAIN MICI	              4	     0.257
+NN                                           	               	          
+NIH NATIONAL INSTITUTE OF GENERAL MEDICAL SCI	              4	     0.257
+ENCES NIGMS                                  	               	          
+ORSZAGOS TUDOMANYOS KUTATASI ALAPPROGRAMOK OT	              4	     0.257
+KA                                           	               	          
+US ARMY RESEARCH LABORATORY ARL              	              4	     0.257
+BRITISH ACADEMY                              	              3	     0.193
+CGIAR                                        	              3	     0.193
+ICREA                                        	              3	     0.193
+INSTITUTE FOR QUANTITATIVE SOCIAL SCIENCE AT 	              3	     0.193
+HARVARD UNIVERSITY                           	               	          
+JAN WALLANDERS AND TOM HEDELIUS FOUNDATION   	              3	     0.193
+MEDICAL RESEARCH COUNCIL UK MRC              	              3	     0.193
+NETHERLANDS ORGANISATION FOR SCIENTIFIC RESEA	              3	     0.193
+RCH VENI GRANT                               	               	          
+NIH NATIONAL CENTER FOR ADVANCING TRANSLATION	              3	     0.193
+AL SCIENCES NCATS                            	               	          
+NIH NATIONAL INSTITUTE OF ALLERGY INFECTIOUS 	              3	     0.193
+DISEASES NIAID                               	               	          
+OFFICE OF NAVAL RESEARCH                     	              3	     0.193
+RESEARCH COUNCIL OF FINLAND                  	              3	     0.193
+SCIENCE FOUNDATION IRELAND SFI               	              3	     0.193
+UNITED STATES NAVY                           	              3	     0.193
+ALEXANDER VON HUMBOLDT FOUNDATION            	              2	     0.128
+ARO                                          	              2	     0.128
+AUSTRALIAN RESEARCH COUNCIL                  	              2	     0.128
+BILL MELINDA GATES FOUNDATION                	              2	     0.128
+BILL MELINDA GATES FOUNDATION GRAND CHALLENGE	              2	     0.128
+S EXPLORATIONS INITIATIVE                    	               	          
+CANCER PREVENTION RESEARCH INSTITUTE OF TEXAS	              2	     0.128
+CAREER AWARD FROM THE SOCIOLOGY AND LAW AND S	              2	     0.128
+OCIAL SCIENCE PROGRAMS AT THE NATIONAL SCIENCE FOUNDATION	               	          
+CENTRE FOR PUBLIC AUTHORITY AND INTERNATIONAL	              2	     0.128
+DEVELOPMENT AT THE LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE	               	          
+COMPUTATIONAL SYSTEMS AND SOFTWARE ENVIRONMEN	              2	     0.128
+TS SUBPROGRAM OF LANL S ADVANCED SIMULATION AND COMPUTING PROGRAM	               	          
+COORDENACAO DE APERFEICOAMENTO DE PESSOAL DE 	              2	     0.128
+NIVEL SUPERIOR CAPES                         	               	          
+DEUTSCHER AKADEMISCHER AUSTAUSCH DIENST DAAD 	              2	     0.128
+DFID ESRC POVERTY ALLEVIATION PROGRAMME UNIVE	              2	     0.128
+RSITY OF EDINBURGH                           	               	          
+DG EMPLOYMENT SOCIAL AFFAIRS INCLUSION       	              2	     0.128
+ERDF A WAY OF MAKING EUROPE                  	              2	     0.128
+EUROPEAN COOPERATION IN SCIENCE AND TECHNOLOG	              2	     0.128
+Y COST                                       	               	          
+FAIRBANK CENTER FOR CHINESE STUDIES AT HARVAR	              2	     0.128
+D UNIVERSITY                                 	               	          
+FUNDACAO PARA A CIENCIA E A TECNOLOGIA FCT   	              2	     0.128
+FUNDAMENTAL RESEARCH FUNDS FOR THE CENTRAL UN	              2	     0.128
+IVERSITIES                                   	               	          
+GRADUATE SCHOOL OF ARTS AND SCIENCES AT HARVA	              2	     0.128
+RD UNIVERSITY                                	               	          
+INSTITUTE FOR THE SOCIAL SCIENCES AT CORNELL 	              2	     0.128
+UNIVERSITY                                   	               	          
+JAMES S MCDONNELL FOUNDATION                 	              2	     0.128
+MARIANNE AND MARCUS WALLENBERG FOUNDATION    	              2	     0.128
+MAX PLANCK SOCIETY                           	              2	     0.128
+MCIN AEI                                     	              2	     0.128
+MICHIGAN STATE UNIVERSITY                    	              2	     0.128
+MINISTRY OF EDUCATION SINGAPORE              	              2	     0.128
+MULTIDISCIPLINARY PROGRAM IN INEQUALITY AND S	              2	     0.128
+OCIAL POLICY AT HARVARD UNIVERSITY           	               	          
+NATIONAL INSTITUTES OF HEALTH FROM THE NATION	              2	     0.128
+AL INSTITUTE ON AGING                        	               	          
+NATIONAL OCEANIC ATMOSPHERIC ADMIN NOAA USA  	              2	     0.128
+NIH NATIONAL HUMAN GENOME RESEARCH INSTITUTE 	              2	     0.128
+NHGRI                                        	               	          
+NIH NATIONAL INSTITUTE OF NURSING RESEARCH NI	              2	     0.128
+NR                                           	               	          
+NSF DIRECTORATE FOR MATHEMATICAL PHYSICAL SCI	              2	     0.128
+ENCES MPS                                    	               	          
+NSF DIRECTORATE FOR STEM EDUCATION EDU       	              2	     0.128
+NSF HSD                                      	              2	     0.128
+PENNSYLVANIA STATE UNIVERSITY                	              2	     0.128
+POLISH NATIONAL SCIENCE CENTRE               	              2	     0.128
+POLITICAL SETTLEMENTS RESEARCH PROGRAMME UK A	              2	     0.128
+ID FROM THE UK DEPARTMENT FOR INTERNATIONAL DEVELOPMENT DFID	               	          
+POPULATION RESEARCH INSTITUTE                	              2	     0.128
+ROBERT WOOD JOHNSON FOUNDATION RWJF          	              2	     0.128
+RUSSIAN FOUNDATION FOR BASIC RESEARCH RFBR   	              2	     0.128
+RUSSIAN SCIENCE FOUNDATION RSF               	              2	     0.128
+SWEDISH RESEARCH COUNCIL FOR HEALTH WORKING L	              2	     0.128
+IFE WELFARE FORTE                            	               	          
+U S ARMY RESEARCH OFFICE                     	              2	     0.128
+UNIVERSITY OF BREMEN                         	              2	     0.128
+UNIVERSITY OF HAMBURG                        	              2	     0.128
+US DEPARTMENT OF EDUCATION                   	              2	     0.128
+WILLIAM T GRANT FOUNDATION                   	              2	     0.128
+ACADEMIC RESEARCH TIER 1 GRANT               	              1	     0.064
+ACADEMY OF KOREAN STUDIES                    	              1	     0.064
+ADB DFID PROJECT MAKING MARKETS WORK BETTER F	              1	     0.064
+OR THE POOR I                                	               	          
+AFD FRENCH DEVELOPMENT AGENCY                	              1	     0.064
+AGENCE NATIONALE DES PLANTES MEDICINALES ET A	              1	     0.064
+ROMATIQUES ANPMA MOROCCO                     	               	          
+AGENCE NATIONALE POUR LE DEVELOPPEMENT DE LA 	              1	     0.064
+RECHERCHE EN SANTE ANDRS                     	               	          
+AGENCIA ANDALUZA DE COOPERACION INTERNACIONAL	              1	     0.064
+PARA EL DESARROLLO                           	               	          
+AGENTURA UNIVERZITY KARLOVY                  	              1	     0.064
+AIR FORCE OFFICE OF SCIENTIFIC RESEARCH AFOSR	              1	     0.064
+AIR FORCE RESEARCH LABORATORY AFRL MATHEMATIC	              1	     0.064
+AL MODELING AND OPTIMIZATION INSTITUTE       	               	          
+ALFRED P SLOAN FOUNDATION                    	              1	     0.064
+AMERICAN HEART ASSOCIATION                   	              1	     0.064
+AMERICAN NATIONAL SCIENCE FOUNDATION VIA THE 	              1	     0.064
+UNIVERSITY OF MINNESOTA                      	               	          
+AMERICAN SOCIOLOGICAL ASSOCIATION S MATHEMATI	              1	     0.064
+CAL SOCIOLOGY SECTION S OUTSTANDING DISSERTATION IN PROGRESS AWARD	               	          
+ANNIVERSARY FUND OF THE OESTERREICHISCHE NATI	              1	     0.064
+ONALBANK OENB                                	               	          
+ANNUAL RESEARCH PROJECT OF UNIVERSITY OF FOGG	              1	     0.064
+IA ITALY 2017 VALIDATION OF SOCIAL INNOVATION OF EMERGING MODELS FOR COOPERATION IN THE FOOD INDUSTRY OF SOUTHERN ITALY RURAL AREAS	               	          
+ARMY RESEARCH OFFICE                         	              1	     0.064
+ARO AWARD                                    	              1	     0.064
+AROL SHACK DISSERTATION AWARD CASE WESTERN RE	              1	     0.064
+SERVE UNIVERSITY CLEVELAND OH USA            	               	          
+AUSTRALIAN INSTITUTE OF CRIMINOLOGY CRIMINOLO	              1	     0.064
+GY RESEARCH GRANT                            	               	          
+AUSTRIAN ACADEMY OF SCIENCES OAW             	              1	     0.064
+BASSE NORMANDIE REGIONAL DEPARTMENT OF EMPLOY	              1	     0.064
+MENT AND VOCATIONAL TRAINING                 	               	          
+BASSE NORMANDIE REGIONAL DEPARTMENT OF HEALTH	              1	     0.064
+AND SOCIAL AFFAIRS DRASS                     	               	          
+BOCCONI UNIVERSITY                           	              1	     0.064
+BRAIN BE PROGRAMME BELGIAN RESEARCH ACTION TH	              1	     0.064
+ROUGH INTERDISCIPLINARY NETWORKS BELGIAN SCIENCE POLICY OFFICE	               	          
+BREAST CANCER RESEARCH PROGRAM THE UNIVERSITY	              1	     0.064
+OF TEXAS M D ANDERSON CANCER CENTER          	               	          
+BREMEN INTERNATIONAL GRADUATE SCHOOL OF SOCIA	              1	     0.064
+L SCIENCES BIGSSS                            	               	          
+BUDAPESTI KOZEP EUROPAI EGYETEM ALAPITVANY CE	              1	     0.064
+U BPF                                        	               	          
+CALVADOS REGIONAL DEPARTMENT OF HEALTH AND SO	              1	     0.064
+CIAL AFFAIRS                                 	               	          
+CANADIAN INSTITUTE FOR ADVANCED RESEARCH CIFA	              1	     0.064
+R                                            	               	          
+CANCER RESEARCH UK                           	              1	     0.064
+CAROLINA POPULATION CENTER OF THE UNIVERSITY 	              1	     0.064
+OF NORTH CAROLINA AT CHAPEL HILL             	               	          
+CENTER FOR BEHAVIORAL INSTITUTIONAL DESIGN AN	              1	     0.064
+D TAMKEEN                                    	               	          
+CENTER FOR SOCIAL NETWORK RESEARCH TSINGHUA U	              1	     0.064
+NIVERSITY                                    	               	          
+CENTERS FOR DISEASE CONTROL GRANT            	              1	     0.064
+CENTERS FOR DISEASE CONTROL PREVENTION USA   	              1	     0.064
+CENTRE FOR GERMAN AND EUROPEAN STUDIES BIELEF	              1	     0.064
+ELD UNIVERSITY                               	               	          
+CENTRE FOR GERMAN AND EUROPEAN STUDIES GERMAN	              1	     0.064
+FOREIGN OFFICE                               	               	          
+CENTRE FOR GERMAN AND EUROPEAN STUDIES ST PET	              1	     0.064
+ERSBURG STATE UNIVERSITY                     	               	          
+CENTRE FOR SOCIAL CONFLICT AND COHESION STUDI	              1	     0.064
+ES COES                                      	               	          
+CHARLES UNIVERSITY GRANT AGENCY              	              1	     0.064
+CHARLES UNIVERSITY GRANT AGENCY GRANTOVA AGEN	              1	     0.064
+TURA UNIVERZITY KARLOVY                      	               	          
+CHILDREN YOUTH AND FAMILY CONSORTIUM AT THE U	              1	     0.064
+NIVERSITY OF MINNESOTA                       	               	          
+CHILEAN NATIONAL COMMISSION FOR SCIENTIFIC AN	              1	     0.064
+D TECHNOLOGICAL RESEARCH ANID PFCHA DOCTORADO BECAS CHILE	               	          
+CHINESE NATIONAL FUNDING OF SOCIAL SCIENCE   	              1	     0.064
+CHINESE NATIONAL FUNDING OF SOCIAL SCIENCES  	              1	     0.064
+CHINESE NATURAL SCIENCE FOUNDATION PROJECT SO	              1	     0.064
+CIAL NETWORK IN BIG DATA ANALYSIS A CASE IN INVESTMENT NETWORK	               	          
+CILS4EU RESEARCH PROJECT                     	              1	     0.064
+CNRS MOMENTUM GRANT INSTITUT HOSPITALO UNIVER	              1	     0.064
+SITAIRE IHU MEDITERRANEE INFECTION           	               	          
+COLFUTURO COLOMBIA                           	              1	     0.064
+COMMONWEALTH AUSTRALIAN GOVERNMENT           	              1	     0.064
+CONICYT NATIONAL MASTER S GRANT 2017         	              1	     0.064
+CONICYT PFCHA DOCTORADO BECAS CHILE 2017     	              1	     0.064
+CRISIS AND INNOVATION PROGRAM OF THE HAS ELTE	              1	     0.064
+PERIPATO RESEARCH GROUP                      	               	          
+CROATIAN SCIENCE FOUNDATION                  	              1	     0.064
+DANISH INTERNATIONAL DEVELOPMENT AGENCY S CON	              1	     0.064
+SULTATIVE RESEARCH COMMITTEE FOR DEVELOPMENT RESEARCH FFU	               	          
+DEAKIN UNIVERSITY                            	              1	     0.064
+DEAN OF SOCIAL SCIENCE ZHEIJIANG UNIVERSITY  	              1	     0.064
+DEANS RESEARCH INITIATIVE AT THE UNIVERSITY O	              1	     0.064
+F MARYLAND USA                               	               	          
+DEANSHIP OF SCIENTIFIC RESEARCH DSR KING ABDU	              1	     0.064
+LAZIZ UNIVERSITY JEDDAH                      	               	          
+DEPARTMENT OF CALVADOS                       	              1	     0.064
+DEPARTMENT OF SOCIOLOGY AT THE UNIVERSITY OF 	              1	     0.064
+MINNESOTA                                    	               	          
+DEPARTMENT OF SOCIOLOGY SOCIAL RESEARCH OF TH	              1	     0.064
+E UNIVERSITY OF TRENTO                       	               	          
+DEVELOPMENTAL PROGRAM ASTRA OF TALLINN UNIVER	              1	     0.064
+SITY OF TECHNOLOGY FOR YEARS 2016 2022       	               	          
+DIFC DEPARTMENT OF THE UNIVERSITY OF PALERMO 	              1	     0.064
+DSEAS DEPARTMENT OF THE UNIVERSITY OF PALERMO	              1	     0.064
+DSR                                          	              1	     0.064
+DUKE AGING CENTER POSTDOCTORAL RESEARCH TRAIN	              1	     0.064
+ING GRANT                                    	               	          
+DUNHE FOUNDATION                             	              1	     0.064
+DUTCH MINISTRY OF EDUCATION CULTURE AND SCIEN	              1	     0.064
+CE OCW                                       	               	          
+DUTCH MINISTRY OF EDUCATION ONDERWIJS BEWIJS 	              1	     0.064
+DUTCH NATIONAL COORDINATOR FOR SECURITY AND C	              1	     0.064
+OUNTERTERRORISM                              	               	          
+EDMOND J SAFRA CENTER FOR ETHICS AT HARVARD U	              1	     0.064
+NIVERSITY                                    	               	          
+ERASMUS UNIVERSITY ROTTERDAM AS PART OF THE 2	              1	     0.064
+5 25 INITIATIVE                              	               	          
+ESTONIAN RESEARCH COUNCIL                    	              1	     0.064
+ESTONIAN SCIENCE INFRASTRUCTURE ROAD MAP PROJ	              1	     0.064
+ECT INFOTECHNOLOGICAL MOBILITY OBSERVATORY IMO	               	          
+ETH ZURICH                                   	              1	     0.064
+ETH ZURICH FELLOWSHIP SWITZERLAND            	              1	     0.064
+EUNICE KENNEDY SHRIVER NATIONAL INSTITUTE OF 	              1	     0.064
+CHILD HEALTH AND HUMAN DEVELOPMENT POPULATION RESEARCH INFRASTRUCTURE UNITED STATES	               	          
+EUROCORES PROGRAMME EUROGIGA PROJECT GREGAS O	              1	     0.064
+F THE EUROPEAN SCIENCE FOUNDATION            	               	          
+EUROPEAN COMMISSION DIRECTORATE GENERAL FOR R	              1	     0.064
+ESEARCH AND INNOVATION UNDER FP7 HEALTH 2011 PROGRAMME	               	          
+EUROPEAN COMMISSION FP7 PEOPLE IOF           	              1	     0.064
+EUROPEAN COMMISSION THROUGH THE ERC          	              1	     0.064
+EUROPEAN FUNDING FEDER PRIMI                 	              1	     0.064
+EUROPEAN SCIENCE FOUNDATION ESF              	              1	     0.064
+EUROPEAN SOCIAL FUND ESF                     	              1	     0.064
+EUROPEAN UNION S HORIZON 2020 RESEARCH AND IN	              1	     0.064
+NOVATION PROGRAM                             	               	          
+EXCELLENCE LABORATORY STRUCTURING OF SOCIAL W	              1	     0.064
+ORLDS SMS PROGRAM OF THE FRENCH STATE        	               	          
+FACULTY OF PHYSICS MATHEMATICS AND OPTOMETRY 	              1	     0.064
+THE UNIVERSITY OF LATVIA                     	               	          
+FAIRBANK CENTER FOR CHINESE STUDIES          	              1	     0.064
+FEDERAL MINISTRY OF ECONOMIC COOPERATION GIZ 	              1	     0.064
+PROJECT                                      	               	          
+FLEMISH GOVERNMENT DEPARTMENT EWI            	              1	     0.064
+FLEMISH MINISTRY OF EDUCATION BELGIUM        	              1	     0.064
+FLORIDA INSTITUTE FOR BUILT ENVIRONMENT RESIL	              1	     0.064
+IENCE                                        	               	          
+FMJH PROGRAM PGMO                            	              1	     0.064
+FONDAZIONE CARIPLO                           	              1	     0.064
+FONDAZIONE CARITRO                           	              1	     0.064
+FONDO TERRITORI LAVORO E CONOSCENZA CGIL CSIL	              1	     0.064
+AND UIL                                      	               	          
+FONDS DE LA RECHERCHE SCIENTIFIQUE FNRS      	              1	     0.064
+FORDHAM UNIVERSITY HIV AND DRUG ABUSE PREVENT	              1	     0.064
+ION RESEARCH ETHICS TRAINING INSTITUTE       	               	          
+FOUNDATION FOR INFORMED MEDICAL DECISION MAKI	              1	     0.064
+NG                                           	               	          
+FPU PROGRAM FROM THE SPANISH MINISTRY OF UNIV	              1	     0.064
+ERSITIES                                     	               	          
+FULBRIGHT COMMISSION                         	              1	     0.064
+FUND OF THE STATE KEY LAB OF SOFTWARE DEVELOP	              1	     0.064
+MENT ENVIRONMENT                             	               	          
+FUNDACAO CARLOS CHAGAS FILHO DE AMPARO A PESQ	              1	     0.064
+UISA DO ESTADO DO RIO DE JANEIRO FAPERJ      	               	          
+FUNDAMENTAL RESEARCH FUND FOR THE CENTRAL UNI	              1	     0.064
+VERSITIES                                    	               	          
+FWO                                          	              1	     0.064
+GENERALITAT DE CATALUNYA                     	              1	     0.064
+GIPS SCHULE STIFTUNG GERMANY                 	              1	     0.064
+GOBIERNO DE ARAGON                           	              1	     0.064
+GRADUATE SCHOOL OF ARTS AND SCIENCES         	              1	     0.064
+GRADUATE SCHOOL OF DECISION SCIENCES AT THE U	              1	     0.064
+NIVERSITY OF KONSTANZ                        	               	          
+GRADUATE SCHOOL OF DECISION SCIENCES AT THE U	              1	     0.064
+NIVERSITY OF KONSTANZ GERMANY                	               	          
+GRADUATE SCHOOL THESIS RESEARCH GRANT AT THE 	              1	     0.064
+UNIVERSITY OF MINNESOTA                      	               	          
+GRANT AGENCY OF MASARYK UNIVERSITY PERSPECTIV	              1	     0.064
+ES OF EUROPEAN INTEGRATION IN THE CONTEXT OF GLOBAL POLITICS III	               	          
+GRANT AGENCY OF THE CZECH REPUBLIC           	              1	     0.064
+GREAT CITIES INSTITUTE                       	              1	     0.064
+HANS BOCKLER STIFTUNG                        	              1	     0.064
+HANS BUCKLER FOUNDATION HANS BOCKLER STIFTUNG	              1	     0.064
+HARVARD UNIVERSITY                           	              1	     0.064
+HERCULES FOUNDATION                          	              1	     0.064
+HERTIE SCHOOL OF GOVERNANCE                  	              1	     0.064
+HONG KONG RESEARCH GRANTS COUNCIL            	              1	     0.064
+HORIZON 2020                                 	              1	     0.064
+HSC RESEARCH AND DEVELOPMENT DIVISION UNITED 	              1	     0.064
+KINGDOM                                      	               	          
+HSE UNIVERSITY BASIC RESEARCH PROGRAM        	              1	     0.064
+HUMANITIES AND SOCIAL SCIENCE FUND OF MINISTR	              1	     0.064
+Y OF EDUCATION OF THE PEOPLE S REPUBLIC OF CHINA	               	          
+HUNAN PROVINCE OF CHINA                      	              1	     0.064
+HUNAN SCIENCE AND TECHNOLOGY PLAN PROJECT    	              1	     0.064
+HUNGARIAN ACADEMY OF SCIENCES                	              1	     0.064
+HUNGARIAN ACADEMY OF SCIENCES UNDER COMPETITI	              1	     0.064
+ON AND NEGATIVE NETWORKS LENDIILET PROGRAM   	               	          
+IAP RESEARCH NETWORK OF THE BELGIAN SCIENCE P	              1	     0.064
+OLICY                                        	               	          
+IAST                                         	              1	     0.064
+IEA DE PARIS                                 	              1	     0.064
+IMAGING CENTER FOR INTEGRATED BODY MIND AND C	              1	     0.064
+ULTURE RESEARCH AT NATIONAL TAIWAN UNIVERSITY	               	          
+INDIANA CLINICAL AND TRANSLATIONAL SCIENCES I	              1	     0.064
+NSTITUTE NATIONAL INSTITUTES OF HEALTH NATIONAL CENTER FOR ADVANCING TRANSLATIONAL SCIENCES CLINICAL AND TRANSLATIONAL SCIENCES AWARD	               	          
+INDIANA UNIVERSITY COLLABORATIVE RESEARCH AWA	              1	     0.064
+RD                                           	               	          
+INDIANA UNIVERSITY COLLABORATIVE RESEARCH GRA	              1	     0.064
+NT                                           	               	          
+INDIANA UNIVERSITY COLLABORATIVE RESEARCH GRA	              1	     0.064
+NT THROUGH THE VICE PRESIDENT OF RESEARCH    	               	          
+INSTITUTE FOR CYBERSCIENCE OF THE PENNSYLVANI	              1	     0.064
+A STATE UNIVERSITY                           	               	          
+INSTITUTE FOR POLICY COMMUNITY ENGAGEMENT    	              1	     0.064
+INSTITUTE FOR RESEARCH ON RACE PUBLIC POLICY 	              1	     0.064
+INSTITUTE OF PROSPECTIVE TECHNOLOGICAL STUDIE	              1	     0.064
+S IPTS JOINT RESEARCH CENTER EUROPEAN COMMISSION	               	          
+INTERDISCIPLINARY CENTRE FOR MATHEMATICAL AND	              1	     0.064
+COMPUTATIONAL MODELLING AT THE UNIVERSITY OF WARSAW	               	          
+INTERMINISTERIAL COMMISSION ON THE INTEGRATIO	              1	     0.064
+N OF YOUNG PEOPLE FRANCE TELECOM RD          	               	          
+INTERREG EUROPE                              	              1	     0.064
+INTRA EUROPEAN FELLOWSHIP PROGRAM OF THE EURO	              1	     0.064
+PEAN UNION                                   	               	          
+INTRAMURAL RESEARCH PROGRAM OF THE NATIONAL H	              1	     0.064
+UMAN GENOME RESEARCH INSTITUTE AT THE NATIONAL INSTITUTES OF HEALTH	               	          
+IRD RESEARCH INSTITUTE FOR DEVELOPMENT       	              1	     0.064
+IRISH RESEARCH COUNCIL FOR SCIENCE ENGINEERIN	              1	     0.064
+G AND TECHNOLOGY                             	               	          
+ISRAEL SCIENCE FOUNDATION                    	              1	     0.064
+ITALIAN MINISTRY OF EDUCATION                	              1	     0.064
+JIANGSU UNIVERSITY OVERSEAS TRAINING PROGRAM 	              1	     0.064
+JOHN D AND KATHERINE T MACARTHUR FOUNDATION  	              1	     0.064
+JOHN TEMPLETON FOUNDATION                    	              1	     0.064
+JOINT INSTITUTE FOR MARINE AND ATMOSPHERIC RE	              1	     0.064
+SEARCH                                       	               	          
+KONE FOUNDATION                              	              1	     0.064
+KU LEUVEN GRANT                              	              1	     0.064
+LA CAIXA FOUNDATION                          	              1	     0.064
+LABEX SMS TOULOUSE                           	              1	     0.064
+LEIBNIZ ASSOCIATION LEIBNIZ COMPETITION      	              1	     0.064
+LEIDEN UNIVERSITY                            	              1	     0.064
+LENDULET GRANT OF THE HUNGARIAN ACADEMY OF SC	              1	     0.064
+IENCES                                       	               	          
+LINKS CENTER FOR SOCIAL NETWORK ANALYSIS GATT	              1	     0.064
+ON COLLEGE OF BUSINESS UNIVERSITY OF KENTUCKY LEXINGTON KY USA	               	          
+LINKS CENTER FOR SOCIAL NETWORK ANALYSIS UNIV	              1	     0.064
+ERSITY OF KENTUCKY                           	               	          
+MACQUARIE UNIVERSITY                         	              1	     0.064
+MAISON DES SCIENCES DE L HOMME PARIS SACLAY  	              1	     0.064
+MAJOR PROGRAM OF NATIONAL SOCIAL SCIENCE FUND	              1	     0.064
+OF CHINA                                     	               	          
+MARYLAND SEA GRANT                           	              1	     0.064
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY        	              1	     0.064
+MAXPO RESEARCH INSTITUTE IN PARIS            	              1	     0.064
+MERSHON CENTER FOR STUDENT RESEARCHGRANT     	              1	     0.064
+MINERVA STIFTUNG                             	              1	     0.064
+MINISTRY OF EDUCATION CHINA                  	              1	     0.064
+MINISTRY OF EDUCATION MOE REPUBLIC OF KOREA  	              1	     0.064
+MINISTRY OF EDUCATION UNIVERSITIES AND RESEAR	              1	     0.064
+CH MIUR                                      	               	          
+MINISTRY OF EDUCATION YOUTH SPORTS CZECH REPU	              1	     0.064
+BLIC                                         	               	          
+MINISTRY OF SCIENCE AND TECHNOLOGY IN TAIWAN 	              1	     0.064
+ROC                                          	               	          
+MINISTRY OF SCIENCE ICT MSIT REPUBLIC OF KORE	              1	     0.064
+A                                            	               	          
+MINISTRY OF SCIENCE RESEARCH AND THE ARTS BAD	              1	     0.064
+EN WURTTEMBERG                               	               	          
+MSH PARIS SACLAY                             	              1	     0.064
+MULTIDISCIPLINARY PROGRAM IN INEQUALITY AND S	              1	     0.064
+OCIAL POLICY                                 	               	          
+NATIONAL ACADEMIES OF SCIENCE ENGINEERING AND	              1	     0.064
+MEDICINE FORD FOUNDATION                     	               	          
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION	              1	     0.064
+THROUGH A GRANT UNDER THE CARBON MONITORING SYSTEM SCIENCE AREA EARTH SCIENCE DIRECTORATE	               	          
+NATIONAL AUSTRALIAN UNIVERSITY IN CANBERRA   	              1	     0.064
+NATIONAL DRUG LAW ENFORCEMENT RESEARCH FUND  	              1	     0.064
+NATIONAL FAMILY ALLOWANCE OFFICE CNAF        	              1	     0.064
+NATIONAL INSTITUTE ALLERGY AND INFECTIOUS DIS	              1	     0.064
+EASES OF THE NATIONAL INSTITUTES OF HEALTH   	               	          
+NATIONAL INSTITUTE ON AGING AT THE UNIVERSITY	              1	     0.064
+OF NORTH CAROLINA AT CHAPEL HILL             	               	          
+NATIONAL INSTITUTE ON AGING UNITED STATE     	              1	     0.064
+NATIONAL INSTITUTE ON MINORITY HEALTH AND HEA	              1	     0.064
+LTH DISPARITIES UNITED STATES                	               	          
+NATIONAL INSTITUTES OF HEALTH NATIONAL CENTER	              1	     0.064
+FOR ADVANCING TRANSLATIONAL SCIENCES CLINICAL AND TRANSLATIONAL SCI ENCES AWARD	               	          
+NATIONAL INSTITUTES OF HEALTH RESEARCH NIHR  	              1	     0.064
+NATIONAL INSTITUTES ON DRUG ADDICTION USA    	              1	     0.064
+NATIONAL INSTITUTIE ON AGING UNITED STATES   	              1	     0.064
+NATIONAL NATURAL SCIENCE FOUNDATION OF GUANGD	              1	     0.064
+ONG PROVINCE                                 	               	          
+NATIONAL NUCLEAR SECURITY ADMINISTRATION NNSA	              1	     0.064
+OF THE UNITED STATES DEPARTMENT OF ENERGY DOE	               	          
+NATIONAL PROGRAM FOR SUPPORT OF TOP NOTCH YOU	              1	     0.064
+NG PROFESSIONALS OF CHINA                    	               	          
+NATIONAL RESEARCH COUNCIL RESEARCH ASSOCIATES	              1	     0.064
+HIP AWARD AT AFRL MUNITIONS DIRECTORATE      	               	          
+NATIONAL RESEARCH DEVELOPMENT AND INNOVATION 	              1	     0.064
+FUND OF HUNGARY                              	               	          
+NATIONAL RESEARCH FOUNDATION OF KOREA        	              1	     0.064
+NATIONAL SCIENCE AND TECHNOLOGY COUNCIL      	              1	     0.064
+NATIONAL SCIENCE FOUNDATION UNDER AN IGERT AW	              1	     0.064
+ARD                                          	               	          
+NATIONAL SCIENCE FOUNDATION UNDER AN IGERT AW	              1	     0.064
+ARD BIG DATA SOCIAL SCIENCE                  	               	          
+NATIONAL SOCIAL SCIENCE FUND OF CHINA        	              1	     0.064
+NATIONAL SOCIAL SCIENCE RESEARCH FUNDS       	              1	     0.064
+NATURAL ENVIRONMENT RESEARCH COUNCIL NERC    	              1	     0.064
+NATURAL SCIENCE FOUNDATION OF HEBEI PROVINCE 	              1	     0.064
+NETHERLANDS INITIATIVE FOR EDUCATION RESEARCH	              1	     0.064
+NRO                                          	               	          
+NETHERLANDS MINISTRY OF FOREIGN AFFAIRS THROU	              1	     0.064
+GH NWO WOTRO                                 	               	          
+NIH NATIONAL CANCER INSTITUTE NCI            	              1	     0.064
+NIH NATIONAL CENTER FOR ADVANCING TRANSLATION	              1	     0.064
+AL SCIENCES                                  	               	          
+NIH NATIONAL CENTER FOR RESEARCH RESOURCES NC	              1	     0.064
+RR                                           	               	          
+NIH NATIONAL INSTITUTE OF ENVIRONMENTAL HEALT	              1	     0.064
+H SCIENCES NIEHS                             	               	          
+NIHR UNITED KINGDOM CAREER DEVELOPMENT FELLOW	              1	     0.064
+SHIP                                         	               	          
+NOAA S RISA PROGRAM                          	              1	     0.064
+NORDFORSK                                    	              1	     0.064
+NORFACE RESEARCH PROGRAM ON MIGRATION IN EURO	              1	     0.064
+PE SOCIAL ECONOMIC CULTURAL AND POLICY DYNAMICS	               	          
+NORTHEASTERN UNIVERSITY                      	              1	     0.064
+NORTHWESTERN UNIVERSITY                      	              1	     0.064
+NORWEGIAN AGENCY FOR DEVELOPMENT COOPERATION 	              1	     0.064
+NORAD                                        	               	          
+NOUVELLE AQUITAINE REGION                    	              1	     0.064
+NPO SYSTEMIC RISK INSTITUTE EUROPEAN UNION NE	              1	     0.064
+XT GENERATION EU MINISTRY OF EDUCATION YOUTH AND SPORTS NPO EXCELES	               	          
+NSF DIRECTORATE FOR BIOLOGICAL SCIENCES BIO  	              1	     0.064
+NSF SBE DOCTORAL DISSERTATION RESEARCH IMPROV	              1	     0.064
+EMENT GRANT FROM THE NATIONAL CENTER FOR SCIENCE AND ENGINEERING STATISTICS	               	          
+NUFFIELD COLLEGE UNIVERSITY OF OXFORD NEW ROA	              1	     0.064
+D UNITED KINGDOM                             	               	          
+NWO ORA GRANT                                	              1	     0.064
+NWO RESEARCH TALENT PROGRAM THE NETHERLANDS  	              1	     0.064
+OESCHGER CENTRE FOR CLIMATE CHANGE RESEARCH  	              1	     0.064
+OFFICE OF SOCIAL SCIENCE RESEARCH            	              1	     0.064
+OHIO STATE UNIVERSITY                        	              1	     0.064
+OHIO STATE UNIVERSITY INSTITUTE FOR POPULATIO	              1	     0.064
+N RESEARCH                                   	               	          
+OPEN RESEARCH AREA IN EUROPE FOR THE SOCIAL S	              1	     0.064
+CIENCES ORA JOINT FUNDING SCHEME             	               	          
+OTKA PROJECT ROLE OF CLEAVAGES VALUES AND IDE	              1	     0.064
+NTITY IN THE DEVELOPMENT OF HUNGARIAN PARTY SYSTEM 2000 2014	               	          
+OXFORD MARTIN SCHOOL UNIVERSITY OF OXFORD    	              1	     0.064
+OXFORD UNIVERSITY CENTRE FOR CORPORATE REPUTA	              1	     0.064
+TION                                         	               	          
+PENN STATE S SOCIAL SCIENCE RESEARCH INSTITUT	              1	     0.064
+E                                            	               	          
+PENNSYLVANIA STATE UNIVERSITY CRIMINAL JUSTIC	              1	     0.064
+E RESEARCH CENTER                            	               	          
+PGR MOBILITY GRANT SCHEME OF THE HUMANITIES S	              1	     0.064
+TRATEGIC INVESTMENT FUND HSIF OF THE UNIVERSITY OF MANCHESTER	               	          
+PHD FELLOWSHIP ASPIRANT OF RESEARCH FOUNDATIO	              1	     0.064
+N FLANDERS FWO                               	               	          
+PLATFORM DIGITALE INFRASTRUCTUUR SOCIAL SCIEN	              1	     0.064
+CES AND HUMANITIES PDI SSH                   	               	          
+POLISH NATIONAL SCIENCE CENTER NARODOWE CENTR	              1	     0.064
+UM NAUKI UNDER THE GRANT OPUS 6              	               	          
+PRIN MUR PROGETTI DI RILEVANTE INTERESSE NAZI	              1	     0.064
+ONALE ITALIAN MINISTRY OF UNIVERSITY AND RESEARCH GRANT	               	          
+PRIN MUR PROGETTI DI RILEVANTEINTERESSE NAZIO	              1	     0.064
+NALE ITALIAN MINISTRY OF UNIVERSITY AND RESEARCH GRANT	               	          
+PROPOSAL DEVELOPMENT GRANT THROUGH INDIANA CL	              1	     0.064
+INICAL AND TRANSLATIONAL SCIENCES INSTITUTE  	               	          
+PROVIDENCE HEALTHCARE VANCOUVER CA           	              1	     0.064
+PUBLIC PROSECUTOR S OFFICE OF PALERMO        	              1	     0.064
+R21 RESEARCH GRANT FROM THE NATIONAL INSTITUT	              1	     0.064
+E OF MENTAL HEALTH                           	               	          
+REGION PROVENCE ALPES COTE D AZUR            	              1	     0.064
+RESEARCH CENTER FOR HUMANITIES AND SOCIAL SCI	              1	     0.064
+ENCES ACADEMIA SINICA                        	               	          
+RESEARCH FUND FOR THE DOCTORAL PROGRAM OF HIG	              1	     0.064
+HER EDUCATION OF CHINA RFDP                  	               	          
+RESEARCH FUND OF THE SCHOOL OF SOCIAL DEVELOP	              1	     0.064
+MENT AND PUBLIC POLICY AT FUDAN UNIVERSITY   	               	          
+RESEARCH GRANT COLLABORATION AND PUBLICATIONS	              1	     0.064
+IN TOP JOURNALS DETERMINANTS OF POLISH SCIENTISTS PRODUCTIVITY IN DISCIPLINE OF ECONOMICS AT FACULTY OF ECONOMIC SCIENCES UNIVERSITY OF WARSAW	               	          
+RESEARCH PROJECT SOCIAL CAPITAL ITS ORIGINS A	              1	     0.064
+ND CONSEQUENCES                              	               	          
+RESEARCH TECHNOLOGY SERVICES AT UNSW SYDNEY  	              1	     0.064
+RESPONDING TO RAPID ENVIRONMENTAL CHANGE REAC	              1	     0.064
+H IGERT                                      	               	          
+RIKEN ADVANCED INSTITUTE FOR COMPUTATIONAL SC	              1	     0.064
+IENCE THROUGH THE HPCI SYSTEM RESEARCH PROJECT	               	          
+RIKSBANKENS JUBILEUMSFOND                    	              1	     0.064
+RURAL DRUG ADDICTION RESEARCH CENTER AT THE U	              1	     0.064
+NIVERSITY OF NEBRASKA LINCOLN                	               	          
+RUSSELL SAGE FOUNDATION                      	              1	     0.064
+RUSSIAN FOUNDATION FOR HUMANITIES            	              1	     0.064
+RUTGERS SCHOOL OF COMMUNICATION AND INFORMATI	              1	     0.064
+ON FACULTY                                   	               	          
+SAMSUNG                                      	              1	     0.064
+SCHOOL OF SOCIAL DEVELOPMENT AND PUBLIC POLIC	              1	     0.064
+Y AT FUDAN UNIVERSITY                        	               	          
+SCHOOL OF SOCIAL SCIENCES OF SINGAPORE MANAGE	              1	     0.064
+MENT UNIVERSITY                              	               	          
+SCHWEIZERISCHER NATIONALFONDS ZUR FO SPACING 	              1	     0.064
+DIAERESIS RDERUNG DER WISSENSCHAFTLICHEN FORSCHUNG	               	          
+SCIENCE FOUNDATION OF HEBEI NORMAL UNIVERSITY	              1	     0.064
+SCIENCES PO DYREM PROJECT                    	              1	     0.064
+SECURITY ADMINISTRATION NNSA OF THE UNITED ST	              1	     0.064
+ATES DEPARTMENT OF ENERGY DOE                	               	          
+SHAANXI PROVINCIAL SOCIAL SCIENCE FOUNDATION 	              1	     0.064
+SHAANXI PROVINCIAL SOFT SCIENCE PROJECT      	              1	     0.064
+SHANDONG PROVINCE NATURAL SCIENCE FOUNDATION 	              1	     0.064
+OF CHINA                                     	               	          
+SICHUAN SCIENCE AND TECHNOLOGY PLAN PROJECT  	              1	     0.064
+SMU S CENTRE FOR MARKETING EXCELLENCE        	              1	     0.064
+SOCIAL BEHAVIORAL SCIENCE FUND AT WAKE FOREST	              1	     0.064
+UNIVERSITY                                   	               	          
+SOCIAL NETWORKS LAB OF ETH ZURICH            	              1	     0.064
+SOCIAL SCIECNES AND HUMANITIES RESEARCH COUNC	              1	     0.064
+IL OF CANADA SSHRC                           	               	          
+SOCSEMICS ERC CONSOLIDATOR GRANT             	              1	     0.064
+SPANISH CENTER FOR SOCIOLOGICAL RESEARCH CENT	              1	     0.064
+RO DE INVESTIGACIONES SOCIOLEGICAS CIS MADRID	               	          
+SPANISH COUNCIL FOR SCIENTIFIC RESEARCH CSIC 	              1	     0.064
+SSHRC CANADA 150 RESEARCH CHAIRS PROGRAM     	              1	     0.064
+STANTEC INC                                  	              1	     0.064
+STARTUP FUNDING OF NWPU                      	              1	     0.064
+SUMITOMO FOUNDATION                          	              1	     0.064
+SWEDISH RESEARCH COUNCIL FOR HEALTH WORKING L	              1	     0.064
+IFE AND WELFARE FORTE                        	               	          
+SWEDISH RESEARCH COUNCIL FORMAS              	              1	     0.064
+SWISS NATIONAL CENTRE OF COMPETENCE IN RESEAR	              1	     0.064
+CH LIVES OVERCOMING VULNERABILITY LIFE COURSE PERSPECTIVES SWISS NATIONAL FOUNDATION	               	          
+SWISS NATIONAL SCIENCE FOUNDATION GRANT SWITZ	              1	     0.064
+ERLAND                                       	               	          
+TADEUSZ MANTEUFFEL INSTITUTE OF HISTORY OF PO	              1	     0.064
+LISH ACADEMY OF SCIENCES                     	               	          
+TAIWAN S MINISTRY OF SCIENCE AND TECHNOLOGY  	              1	     0.064
+TOWN COUNCIL OF CAEN                         	              1	     0.064
+TSINGHUA S RESEARCH PROJECT MINING TIE STRENG	              1	     0.064
+TH AND SOCIAL CAPITAL BY USING TELECOM BIG DATA	               	          
+U S NATIONAL SCIENCE FOUNDATION S SCIENCE OF 	              1	     0.064
+ORGANIZATIONS PROGRAM                        	               	          
+UC DAVIS                                     	              1	     0.064
+UIC S OFFICE OF SOCIAL SCIENCE RESEARCH      	              1	     0.064
+UKCRC CENTRE OF EXCELLENCE FOR PUBLIC HEALTH 	              1	     0.064
+RESEARCH NORTHERN IRELAND BRITISH HEART FOUNDATION UNITED KINGDOM	               	          
+UNICEF NIGER                                 	              1	     0.064
+UNIDAD ASOCIADA ESTUDIOS DEMOGRAFICOS Y SOCIA	              1	     0.064
+LES                                          	               	          
+UNITED STATES DEPARTMENT OF ENERGY DOE       	              1	     0.064
+UNIVERSIDAD DE MALAGA SPAIN CBUA             	              1	     0.064
+UNIVERSITIES OF THE STATE OF BADEN WURTTEMBER	              1	     0.064
+G GERMANY                                    	               	          
+UNIVERSITY COLLEGE DUBLIN AND CHINA SCHOLARSH	              1	     0.064
+IP COUNCIL UCD CSC                           	               	          
+UNIVERSITY COLLEGE LONDON UNITED KINGDOM THRO	              1	     0.064
+UGH THE UCL OVERSEAS RESEARCH SCHOLARSHIP    	               	          
+UNIVERSITY GRANTS COMMISSION INDIA           	              1	     0.064
+UNIVERSITY OF BAMBERG                        	              1	     0.064
+UNIVERSITY OF CALIFORNIA DIVISION OF AGRICULT	              1	     0.064
+URE AND NATURAL RESOURCES                    	               	          
+UNIVERSITY OF FLORIDA CLINICAL AND TRANSLATIO	              1	     0.064
+NAL SCIENCE INSTITUTE                        	               	          
+UNIVERSITY OF GRONINGEN                      	              1	     0.064
+UNIVERSITY OF HAWAII GRADUATE STUDENT ORGANIZ	              1	     0.064
+ATION                                        	               	          
+UNIVERSITY OF KENTUCKY CENTER FOR COMPUTATION	              1	     0.064
+AL SCIENCES AND INFORMATION TECHNOLOGY SERVICES RESEARCH COMPUTING	               	          
+UNIVERSITY OF MARYLAND                       	              1	     0.064
+UNIVERSITY OF OXFORD                         	              1	     0.064
+UNIVERSITY OF PADOVA UNIVERSITY OF SOCIAL SCI	              1	     0.064
+ENCES OPUS 19 GRANT OF THE POLISH NATIONAL SCIENCE CENTER	               	          
+UNIVERSITY OF PARIS DAUPHINE                 	              1	     0.064
+UNIVERSITY OF PERUGIA                        	              1	     0.064
+UNIVERSITY OF QUEENSLAND                     	              1	     0.064
+UNIVERSITY OF SOUTHERN CALIFORNIA S CENTER FO	              1	     0.064
+R HIGH PERFORMANCE COMPUTING                 	               	          
+UNIVERSITY OF TARTU ASTRA PROJECT PER ASPERA 	              1	     0.064
+UNIVERSITY OF VICTORIA                       	              1	     0.064
+UNIVERSITY RESEARCH THEME DYNAMICS OF YOUTH  	              1	     0.064
+UNIVERSITY SCHOOL OF COMMUNICATION DISSERTATI	              1	     0.064
+ON GRANT                                     	               	          
+UPTAKE TECHNOLOGIES INC                      	              1	     0.064
+US ARMY RESEARCH INSTITUTE FOR THE BEHAVIORAL	              1	     0.064
+AND SOCIAL SCIENCES                          	               	          
+US GOVERNMENT S PRESIDENT S EMERGENCY PLAN FO	              1	     0.064
+R AIDS RELIEF PEPFAR                         	               	          
+US NATIONAL INSTITUTE OF JUSTICE             	              1	     0.064
+VERNIEUWINGSIMPULS VENI                      	              1	     0.064
+VICTORIAN LIFE SCIENCES COMPUTATION INITIATIV	              1	     0.064
+E VLSCI GRANT ON ITS PEAK COMPUTING FACILITY AT THE UNIVERSITY OF MELBOURNE AN INITIATIVE OF THE VICTORIAN GOVERNMENT AUSTRALIA	               	          
+VOLKSWAGEN FOUNDATION GRANT GERMANY          	              1	     0.064
+WASEDA UNIVERSITY GRANT                      	              1	     0.064
+WELLCOME TRUST                               	              1	     0.064
+WOMEN IN SCIENCE AND ENGINEERING NETWORK ACCE	              1	     0.064
+SS PARTICIPATION AND CAREER OUTCOMES NETWISE PROJECT NATIONAL SCIENCE FOUNDATION	               	          
+YOUTH TOP TALENT PROJECT OF HEBEI EDUCATION D	              1	     0.064
+EPARTMENT                                    	               	          
+ZUKUNFTSKOLLEG OF THE UNIVERSITY OF KONSTANZ 	              1	     0.064
+GERMANY                                      	               	          
+
+1,118 record(s) (71.805%) do not contain data in the field being analyzed

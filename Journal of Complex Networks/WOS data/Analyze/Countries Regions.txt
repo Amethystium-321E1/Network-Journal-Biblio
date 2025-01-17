@@ -1,0 +1,62 @@
+Countries/Regions                            	   Record Count	         % of 547
+
+ALGERIA                                      	              1	     0.183
+ARGENTINA                                    	              7	     1.280
+AUSTRALIA                                    	             15	     2.742
+AUSTRIA                                      	             15	     2.742
+BAHRAIN                                      	              2	     0.366
+BELGIUM                                      	             17	     3.108
+BRAZIL                                       	             29	     5.302
+CANADA                                       	             23	     4.205
+CHILE                                        	              1	     0.183
+COLOMBIA                                     	              6	     1.097
+CZECH REPUBLIC                               	              1	     0.183
+DENMARK                                      	              3	     0.548
+ENGLAND                                      	             95	    17.367
+FINLAND                                      	              8	     1.463
+FRANCE                                       	             26	     4.753
+GERMANY                                      	             31	     5.667
+GHANA                                        	              1	     0.183
+GREECE                                       	              6	     1.097
+HUNGARY                                      	             14	     2.559
+INDIA                                        	             26	     4.753
+IRAN                                         	             14	     2.559
+IRELAND                                      	             10	     1.828
+ISRAEL                                       	             15	     2.742
+ITALY                                        	             53	     9.689
+JAPAN                                        	             22	     4.022
+LITHUANIA                                    	              1	     0.183
+MALAYSIA                                     	              1	     0.183
+MEXICO                                       	             12	     2.194
+MOROCCO                                      	              2	     0.366
+NETHERLANDS                                  	             23	     4.205
+NEW ZEALAND                                  	              4	     0.731
+NORWAY                                       	              1	     0.183
+PAKISTAN                                     	              3	     0.548
+PEOPLES R CHINA                              	             50	     9.141
+PERU                                         	              1	     0.183
+POLAND                                       	             12	     2.194
+PORTUGAL                                     	              4	     0.731
+ROMANIA                                      	              3	     0.548
+RUSSIA                                       	             12	     2.194
+SAUDI ARABIA                                 	              1	     0.183
+SCOTLAND                                     	              9	     1.645
+SERBIA                                       	              2	     0.366
+SINGAPORE                                    	              3	     0.548
+SLOVAKIA                                     	              1	     0.183
+SLOVENIA                                     	              6	     1.097
+SOUTH AFRICA                                 	              1	     0.183
+SOUTH KOREA                                  	              8	     1.463
+SPAIN                                        	             13	     2.377
+SWEDEN                                       	              9	     1.645
+SWITZERLAND                                  	             14	     2.559
+TAIWAN                                       	              3	     0.548
+TANZANIA                                     	              1	     0.183
+TURKEY                                       	              4	     0.731
+TURKIYE                                      	              1	     0.183
+U ARAB EMIRATES                              	              2	     0.366
+URUGUAY                                      	              1	     0.183
+USA                                          	            173	    31.627
+WALES                                        	              1	     0.183
+
+8 record(s) (1.463%) do not contain data in the field being analyzed

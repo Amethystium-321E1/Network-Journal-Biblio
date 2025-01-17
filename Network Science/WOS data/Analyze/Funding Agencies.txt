@@ -1,0 +1,424 @@
+Funding Agencies                             	   Record Count	         % of 301
+
+2015 BEST CONFERENCE PAPER AWARD BY THE AMERI	              1	     0.332
+CAN POLITICAL SCIENCE ASSOCIATION ORGANIZED SECTION ON POLITICAL NETWORKS	               	          
+ABBVIE                                       	              1	     0.332
+ACADEMIA SINICA TAIWAN                       	              1	     0.332
+ACADEMY OF MEDICAL SCIENCES NEWTON FUND      	              1	     0.332
+ACHESON J DUNCAN FUND FOR THE ADVANCEMENT OF 	              1	     0.332
+RESEARCH IN STATISTICS AT JOHNS HOPKINS UNIVERSITY	               	          
+ADOBE INC                                    	              1	     0.332
+AGENCE NATIONALE DE LA RECHERCHE ANR         	              6	     1.993
+AGENCY FOR HEALTHCARE RESEARCH QUALITY       	              1	     0.332
+AIR FORCE OFFICE OF SCIENTIFIC RESEARCH AFOSR	              4	     1.329
+ALEXANDER VON HUMBOLDT FOUNDATION            	              2	     0.664
+ALFRED P SLOAN FOUNDATION                    	              2	     0.664
+ALLYES                                       	              1	     0.332
+ALZHEIMER S ASSOCIATION                      	              1	     0.332
+ALZHEIMER S DRUG DISCOVERY FOUNDATION        	              1	     0.332
+AMERICAN HEART ASSOCIATION                   	              1	     0.332
+AMERICAN SOCIOLOGICAL ASSOCIATION FUND FOR TH	              1	     0.332
+E ADVANCEMENT OF THE DISCIPLINE              	               	          
+AMERICAN SOCIOLOGICAL ASSOCIATION S MATHEMATI	              1	     0.332
+CAL SOCIOLOGY SECTION S OUTSTANDING DISSERTATION IN PROGRESS AWARD	               	          
+ANR MN MONUMOVI                              	              1	     0.332
+ARACLON BIOTECH                              	              1	     0.332
+ARC VIA AUSTRALIAN LAUREATE FELLOWSHIP       	              1	     0.332
+ARIEL CYBER INNOVATION CENTER                	              1	     0.332
+ARIEL UNIVERSITY                             	              1	     0.332
+ARL SENIOR FELLOWSHIP PROGRAM                	              1	     0.332
+ARMY RESEARCH INSTITUTE FOR THE SOCIAL AND BE	              1	     0.332
+HAVIORAL SCIENCES                            	               	          
+ARMY RESEARCH OFFICE                         	              4	     1.329
+ARO                                          	              2	     0.664
+ARO MURI ARO AWARD                           	              1	     0.332
+ARO YOUNG INVESTIGATOR AWARD                 	              1	     0.332
+BARRIE DE LA MAZA GRADUATE FELLOWSHIP        	              1	     0.332
+BASQUE GOVERNMENT                            	              1	     0.332
+BELGIAN FRENCH SPEAKING COMMUNITY ARC PROJECT	              1	     0.332
+OF SAINT LOUIS UNIVERSITY BRUSSELS           	               	          
+BIOCLINICA INC                               	              1	     0.332
+BIOGEN                                       	              1	     0.332
+BIOTECHNOLOGY AND BIOLOGICAL SCIENCES RESEARC	              1	     0.332
+H COUNCIL BBSRC                              	               	          
+BOCCONI UNIVERSITY                           	              1	     0.332
+BOEING                                       	              1	     0.332
+BRISTOL MYERS SQUIBB                         	              1	     0.332
+BUDAPEST KOZEP EUROPAI EGYETEM ALAPITVANY CEU	              1	     0.332
+BPF                                          	               	          
+BUSINESSFINLAND REALTIME AI SUPPORTED ORE GRA	              1	     0.332
+DE EVALUATION                                	               	          
+CALIFORNIA ENDOWMENT GRANT                   	              1	     0.332
+CANADIAN INSTITUTES OF HEALTH RESEARCH CIHR  	              1	     0.332
+CANADIAN SOCIAL SCIENCES AND HUMANITIES RESEA	              1	     0.332
+RCH COUNCIL INSIGHT DEVELOPMENT GRANT        	               	          
+CANCER RESEARCH UK                           	              1	     0.332
+CAREER DEVELOPMENT AWARD OF ACADEMIA SINICA T	              1	     0.332
+AIWAN                                        	               	          
+CAREFIN BOCCONI CENTRE FOR APPLIED RESEARCH  	              1	     0.332
+CARLSBERG FOUNDATION                         	              1	     0.332
+CDC INTRAMURAL CENTERS FOR DISEASE CONTROL AN	              1	     0.332
+D PREVENTION                                 	               	          
+CENTER FOR DEMOGRAPHY AND ECOLOGY AT THE UNIV	              1	     0.332
+ERSITY OF WISCONSIN MADISON                  	               	          
+CENTER FOR DEMOGRAPHY OF HEALTH AND AGING AT 	              1	     0.332
+THE UNIVERSITY OF WISCONSINMADISON           	               	          
+CENTER ON AGING LIFE COURSE AT PURDUE        	              1	     0.332
+CENTERS FOR DISEASE CONTROL PREVENTION USA   	              2	     0.664
+CENTRO STUDI LUCA D AGLIANO ITALIAN DATA     	              1	     0.332
+CERESPIR INC                                 	              1	     0.332
+CGIAR                                        	              2	     0.664
+CHARLES A KING TRUST PROGRAM                 	              1	     0.332
+CIBER                                        	              1	     0.332
+CNPQ BRAZIL PDE FELLOWSHIP                   	              1	     0.332
+CNRS PIRVE PROGRAMME INTERDISCIPLINAIRE DE RE	              1	     0.332
+CHERCHES VILLE ENVIRONMENT                   	               	          
+COLORADO STATE UNIVERSITY                    	              1	     0.332
+CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFI	              2	     0.664
+CO E TECNOLOGICO CNPQ                        	               	          
+CONSILIUL NATIONAL AL CERCETARII STIINTIFICE 	              1	     0.332
+CNCS                                         	               	          
+COORDENACAO DE APERFEICOAMENTO DE PESSOAL DE 	              2	     0.664
+NIVEL SUPERIOR CAPES                         	               	          
+COUNCIL OF SCIENTIFIC INDUSTRIAL RESEARCH CSI	              1	     0.332
+R INDIA                                      	               	          
+DEFENSE ADVANCED RESEARCH PROJECTS AGENCY DAR	              2	     0.664
+PA                                           	               	          
+DEFENSE THREAT REDUCTION AGENCY              	              2	     0.664
+DEPARTMENT OF ATOMIC ENERGY DAE              	              1	     0.332
+DEPARTMENT OF ECONOMIC HISTORY LUND UNIVERSIT	              1	     0.332
+Y                                            	               	          
+DEPARTMENT OF SCIENCE TECHNOLOGY INDIA       	              1	     0.332
+DET FRIE FORSKNINGSRAD DFF                   	              1	     0.332
+DEUTSCHER AKADEMISCHER AUSTAUSCH DIENST DAAD 	              3	     0.997
+DOCOMO                                       	              1	     0.332
+DOCTORAL PROGRAM EDE EM EUROPEAN DOCTORATE IN	              1	     0.332
+ECONOMICS ERASMUS MUNDUS OF THE EUROPEAN COMMISSION	               	          
+DR BERNARD W GAMSON COMPUTATIONAL SCIENCE CEN	              1	     0.332
+TER AT YESHIVA COLLEGE                       	               	          
+DST GOVERNMENT OF INDIA UNDER FIST SCHEME    	              1	     0.332
+EAGER                                        	              1	     0.332
+ECONOMIC SOCIAL RESEARCH COUNCIL ESRC        	              2	     0.664
+EISAI CO LTD                                 	              1	     0.332
+ELAN PHARMACEUTICALS INC                     	              1	     0.332
+ELI LILLY                                    	              1	     0.332
+EMIL AALTONEN FOUNDATION FINLAND             	              1	     0.332
+ENGINEERING PHYSICAL SCIENCES RESEARCH COUNCI	              6	     1.993
+L EPSRC                                      	               	          
+EPSCR GRANT                                  	              1	     0.332
+EU FET PROJECT                               	              1	     0.332
+EUNICE KENNEDY SHRIVER NATIONAL INSTITUTE OF 	              1	     0.332
+CHILD HEALTH AND DEVELOPMENT THROUGH NIH     	               	          
+EUNICE KENNEDY SHRIVER NATIONAL INSTITUTE OF 	              1	     0.332
+CHILD HEALTH HUMAN DEVELOPMENT OF THE NATIONAL INSTITUTES OF HEALTH	               	          
+EUROIMMUN                                    	              1	     0.332
+EUROPEAN COMMISSION FET PROACTIVE PROJECT MUL	              1	     0.332
+TIPLEX                                       	               	          
+EUROPEAN COMMISSION JOINT RESEARCH CENTRE    	              1	     0.332
+EUROPEAN COOPERATION IN SCIENCE AND TECHNOLOG	              1	     0.332
+Y COST                                       	               	          
+EUROPEAN COOPERATION IN SCIENCE AND TECHNOLOG	              1	     0.332
+Y COST ACTION COSTNET                        	               	          
+EUROPEAN RESEARCH COUNCIL ERC                	              8	     2.658
+EUROPEAN UNION EU                            	              5	     1.661
+F HOFFMANN LA ROCHE LTD AND ITS AFFILIATED CO	              1	     0.332
+MPANY GENENTECH INC                          	               	          
+FAIRBANK CENTER FOR CHINESE STUDIES          	              1	     0.332
+FEDERAL MINISTRY OF EDUCATION RESEARCH BMBF  	              3	     0.997
+FET PROACTIVE PROJECT PLEXMATH EUROPEAN COMMI	              1	     0.332
+SSION                                        	               	          
+FONDS DE LA RECHERCHE SCIENTIFIQUE FNRS      	              1	     0.332
+FORD FOUNDATION PRE DOCTORAL FELLOWSHIP      	              1	     0.332
+FOUNDATION BANREP COLOMBIA RESEARCH OFFICE AT	              1	     0.332
+THE UNIVERSIDAD DE LOS ANDES GHES PROGRAM NIH	               	          
+FRENCH NATIONAL CENTRE FOR SPACE STUDIES CNES	              1	     0.332
+AS PART OF THE AMORIS ANALYSE ET MODELISATION DES RESEAUX COMPLEXES ISSUS DE L IMAGERIE SATELLITAIRE PROJECT APR TOSCA 2019	               	          
+FUJIREBIO                                    	              1	     0.332
+FUNDACAO CARLOS CHAGAS FILHO DE AMPARO A PESQ	              1	     0.332
+UISA DO ESTADO DO RIO DE JANEIRO FAPERJ      	               	          
+FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE SA	              1	     0.332
+O PAULO FAPESP                               	               	          
+FUNDACAO PARA A CIENCIA E A TECNOLOGIA FCT   	              1	     0.332
+GAUSS CENTRE FOR SUPERCOMPUTING E V          	              1	     0.332
+GE HEALTHCARE                                	              1	     0.332
+GENERAL ELECTRIC                             	              1	     0.332
+GERMAN FEDERAL MINISTRY OF EDUCATION AND RESE	              1	     0.332
+ARCH WITHIN THE PROJECT COMPETENCE CENTER FOR SCALABLE DATA SERVICES AND SOLUTIONS SCADS DRESDEN LEIPZIG	               	          
+GERMAN ISRAELI FOUNDATION FOR SCIENTIFIC RESE	              1	     0.332
+ARCH AND DEVELOPMENT                         	               	          
+GERMAN RESEARCH FOUNDATION DFG               	             10	     3.322
+GOOGLE FACULTY RESEARCH AWARD ENTITY DISAMBIG	              1	     0.332
+UATION BY GEOMETRIC CENTRALITIES             	               	          
+GOOGLE INCORPORATED                          	              1	     0.332
+GRADUATE SCHOOL OF ARTS AND SCIENCES         	              1	     0.332
+GRANT AGENCY OF THE CZECH REPUBLIC           	              1	     0.332
+GRANT SNIF IDEX FUNDING                      	              1	     0.332
+GRANT SNIF SCIENTIFIC NETWORKS               	              1	     0.332
+GRANTS IN AID FOR SCIENTIFIC RESEARCH KAKENHI	              6	     1.993
+HONG KONG POLYTECHNIC UNIVERSITY             	              1	     0.332
+HUNGARIAN ACADEMY OF SCIENCES                	              1	     0.332
+ICREA                                        	              1	     0.332
+IES US DEPT OF ED                            	              1	     0.332
+IMMEDIATE AND THE BRUFENCE PROJECTS INNOVIRIS	              1	     0.332
+BRUSSELS REGION                              	               	          
+IMPERIAL COLLEGE LONDON JUNIOR RESEARCH FELLO	              1	     0.332
+WSHIP                                        	               	          
+INDIANA CONSORTIUM FOR MENTAL HEALTH SERVICES	              1	     0.332
+RESEARCH                                     	               	          
+INDIANA UNIVERSITY NETWORK SCIENCE INSTITUTE 	              1	     0.332
+INSTITUTE FOR ANALYTICAL SOCIOLOGY LINKOPING 	              1	     0.332
+UNIVERSITY                                   	               	          
+INSTITUTE FOR QUANTITATIVESOCIAL SCIENCE     	              1	     0.332
+INTEL CORPORATION                            	              1	     0.332
+INTEL STC VISUAL COMPUTING GRANT             	              1	     0.332
+INTERDISCIPLINARY CENTER FOR INNOVATIVE THEOR	              1	     0.332
+Y AND EMPIRICS INCITE AT COLUMBIA UNIVERSITY 	               	          
+INTERGOVERNMENTAL PERSONNEL ACT ASSIGNMENT AG	              1	     0.332
+REEMENT                                      	               	          
+ISRAEL NATIONAL CYBER DIRECTORATE IN THE PRIM	              1	     0.332
+E MINISTER S OFFICE                          	               	          
+ISRAEL SCIENCE FOUNDATION                    	              2	     0.664
+IXICO LTD                                    	              1	     0.332
+JAMES S MCDONNELL FOUNDATION                 	              2	     0.664
+JAMES S MCDONNELL FOUNDATION 21ST CENTURY SCI	              2	     0.664
+ENCE INITIATIVE COMPLEX SYSTEMS SCHOLAR AWARD	               	          
+JANSSEN ALZHEIMER IMMUNOTHERAPY RESEARCH DEVE	              1	     0.332
+LOPMENT LLC                                  	               	          
+JAPAN SOCIETY FOR THE PROMOTION OF SCIENCE   	              6	     1.993
+JOACHIM HERZ STIFTUNG                        	              1	     0.332
+JOHNSON JOHNSON                              	              1	     0.332
+JOHNSON JOHNSON USA                          	              1	     0.332
+KNIGHT HENNESSY SCHOLARS FELLOWSHIP          	              1	     0.332
+LASIGE RESEARCH UNIT                         	              1	     0.332
+LEIBNIZ SCIENCECAMPUS TUEBINGEN INFORMATIONAL	              1	     0.332
+ENVIRONMENTS                                 	               	          
+LEVERHULME CENTRE FOR DEMOGRAPHIC SCIENCE THE	              1	     0.332
+LEVERHULME TRUST                             	               	          
+LEVERHULME TRUST                             	              1	     0.332
+LUMOSITY                                     	              1	     0.332
+LUNDBECK CORPORATION                         	              1	     0.332
+MARIE CURIE ACTIONS                          	              2	     0.664
+MAX PLANCK SOCIETY                           	              2	     0.664
+MAXPO RESEARCH CENTER IN PARIS               	              1	     0.332
+MEDICAL RESEARCH COUNCIL UK MRC              	              3	     0.997
+MERCK COMPANY                                	              1	     0.332
+MESOSCALE DIAGNOSTICS LLC                    	              1	     0.332
+MEXICAN SECRETARIAT OF EDUCATION             	              1	     0.332
+MICROSOFT                                    	              1	     0.332
+MINISTRY OF EDUCATION AND SCIENCE RUSSIAN FED	              1	     0.332
+ERATION                                      	               	          
+MINISTRY OF EDUCATION CULTURE SPORTS SCIENCE 	              6	     1.993
+AND TECHNOLOGY JAPAN MEXT                    	               	          
+MINISTRY OF EDUCATION SINGAPORE              	              1	     0.332
+MINISTRY OF EDUCATION UNIVERSITIES AND RESEAR	              3	     0.997
+CH MIUR                                      	               	          
+MINISTRY OF INNOVATION AND TECHNOLOGY OF HUNG	              1	     0.332
+ARY FROM THE NATIONAL RESEARCH DEVELOPMENT AND INNOVATION FUND	               	          
+MINISTRY OF RESEARCH AND INNOVATION ONTARIO  	              1	     0.332
+MINISTRY OF SCIENCE AND INNOVATION SPAIN MICI	              1	     0.332
+NN                                           	               	          
+MINISTRY OF SCIENCE AND TECHNOLOGY TAIWAN    	              1	     0.332
+MINISTRY OF SCIENCE ICT FUTURE PLANNING REPUB	              1	     0.332
+LIC OF KOREA                                 	               	          
+MULTIDISCIPLINARY PROGRAM IN INEQUALITY AND S	              1	     0.332
+OCIAL POLICY                                 	               	          
+MURI                                         	              1	     0.332
+NAKAJIMA FOUNDATION FOR PEACE                	              1	     0.332
+NATIONAL ACADEMY OF SCIENCES                 	              1	     0.332
+NATIONAL CANCER INSTITUTE SPECIALIZED PROGRAM	              1	     0.332
+S OF RESEARCH EXCELLENCE                     	               	          
+NATIONAL CENTER FOR INJURY PREVENTION AND CON	              1	     0.332
+TROL NCIPC                                   	               	          
+NATIONAL FUNDS THROUGH THE PORTUGUESE FUNDING	              1	     0.332
+AGENCY FCT FUNDACAO PARA A CIENCIA E A TECNOLOGIA	               	          
+NATIONAL INSTITUTE OF GENERAL MEDICAL NIGMS I	              1	     0.332
+NTERDISCIPLINARY TRAINING GRANT FOR BIOSTATISTICIANS	               	          
+NATIONAL INSTITUTES OF HEALTH NIH USA        	             29	     9.635
+NATIONAL INSTITUTES OF HEALTH RESEARCH NIHR  	              1	     0.332
+NATIONAL NATURAL SCIENCE FOUNDATION OF CHINA 	              1	     0.332
+NSFC                                         	               	          
+NATIONAL RESEARCH DEVELOPMENT INNOVATION OFFI	              2	     0.664
+CE NRDIO HUNGARY                             	               	          
+NATIONAL RESEARCH FOUNDATION OF KOREA        	              1	     0.332
+NATIONAL SCIENCE CENTRE POLAND               	              2	     0.664
+NATIONAL SCIENCE FOUNDATION NSF              	             35	    11.628
+NATURAL ENVIRONMENT RESEARCH COUNCIL NERC    	              1	     0.332
+NATURAL SCIENCES AND ENGINEERING RESEARCH COU	              4	     1.329
+NCIL OF CANADA NSERC                         	               	          
+NETHERLANDS ORGANIZATION FOR SCIENTIFIC RESEA	              2	     0.664
+RCH NWO                                      	               	          
+NEURORX RESEARCH                             	              1	     0.332
+NEUROTRACK TECHNOLOGIES                      	              1	     0.332
+NIA TRAINING GRANT TO THE CENTER FOR POPULATI	              1	     0.332
+ON HEALTH AND AGING AT DUKE UNIVERSITY       	               	          
+NIH EUNICE KENNEDY SHRIVER NATIONAL INSTITUTE	              7	     2.326
+OF CHILD HEALTH HUMAN DEVELOPMENT NICHD      	               	          
+NIH FROM THE NATIONAL CANCER INSTITUTE       	              1	     0.332
+NIH NATIONAL CANCER INSTITUTE NCI            	              2	     0.664
+NIH NATIONAL CENTER FOR ADVANCING TRANSLATION	              1	     0.332
+AL SCIENCES                                  	               	          
+NIH NATIONAL CENTER FOR ADVANCING TRANSLATION	              1	     0.332
+AL SCIENCES NCATS                            	               	          
+NIH NATIONAL HUMAN GENOME RESEARCH INSTITUTE 	              1	     0.332
+NHGRI                                        	               	          
+NIH NATIONAL INSTITUTE OF ALLERGY INFECTIOUS 	              1	     0.332
+DISEASES NIAID                               	               	          
+NIH NATIONAL INSTITUTE OF BIOMEDICAL IMAGING 	              1	     0.332
+BIOENGINEERING NIBIB                         	               	          
+NIH NATIONAL INSTITUTE OF GENERAL MEDICAL SCI	              2	     0.664
+ENCES NIGMS                                  	               	          
+NIH NATIONAL INSTITUTE OF MENTAL HEALTH NIMH 	              2	     0.664
+NIH NATIONAL INSTITUTE ON AGING NIA          	              3	     0.997
+NIH NATIONAL INSTITUTE ON ALCOHOL ABUSE ALCOH	              1	     0.332
+OLISM NIAAA                                  	               	          
+NIH NATIONAL INSTITUTE ON DRUG ABUSE NIDA    	              4	     1.329
+NIHR CAREER DEVELOPMENT FELLOWSHIP           	              1	     0.332
+NORWEGIAN AGENCY FOR DEVELOPMENT COOPERATION 	              3	     0.997
+NORAD                                        	               	          
+NOVARTIS                                     	              1	     0.332
+NREL                                         	              1	     0.332
+NSF DIRECTORATE FOR BIOLOGICAL SCIENCES BIO  	              1	     0.332
+NSF DIRECTORATE FOR COMPUTER INFORMATION SCIE	              1	     0.332
+NCE ENGINEERING CISE                         	               	          
+NSF DIRECTORATE FOR ENGINEERING ENG          	              3	     0.997
+NSF DIRECTORATE FOR MATHEMATICAL PHYSICAL SCI	              1	     0.332
+ENCES MPS                                    	               	          
+NSF DIRECTORATE FOR SOCIAL BEHAVIORAL ECONOMI	              3	     0.997
+C SCIENCES SBE                               	               	          
+NSF DIVISION OF INFORMATION INTELLIGENT SYSTE	              1	     0.332
+MS IIS                                       	               	          
+NSF DMS EPSRC AWARD                          	              1	     0.332
+NSF OFFICE OF THE DIRECTOR OD                	              2	     0.664
+NSF TRIPODS X                                	              1	     0.332
+NWO GRAVITATION PROJECT NETWORKS             	              1	     0.332
+NWO M2 GRANT                                 	              1	     0.332
+NWO VENI GRANT                               	              1	     0.332
+NYUAD CENTER FOR INTERACTING URBAN NETWORKS C	              1	     0.332
+ITIES                                        	               	          
+NYUAD RESEARCH INSTITUTE AWARD               	              1	     0.332
+OFFICE OF NAVAL RESEARCH                     	              2	     0.664
+OFFICE OF THE EXECUTIVE VICE PRESIDENT FOR RE	              1	     0.332
+SEARCH AND PARTNERSHIPS                      	               	          
+OFFICE OF THE PROVOST PURDUE UNIVERSITY      	              1	     0.332
+OFFICE OF THE SECRETARY OF DEFENSE MINERVA IN	              1	     0.332
+ITIATIVE                                     	               	          
+OKAWA FOUNDATION                             	              1	     0.332
+OMINO PROJECT FROM THE EUROPEAN UNION        	              1	     0.332
+OXFORD EMIRATES DATA SCIENCE LAB             	              1	     0.332
+OXFORD MARTIN SCHOOL UNIVERSITY OF OXFORD    	              1	     0.332
+OXFORD UNIVERSITY CENTRE FOR CORPORATE REPUTA	              1	     0.332
+TION                                         	               	          
+PFIZER                                       	              1	     0.332
+PHC PROTEUS                                  	              1	     0.332
+PHD FUND OF THE FACULTY OF BEHAVIORAL AND SOC	              1	     0.332
+IAL SCIENCES OF THE UNIVERSITY OF GRONINGEN  	               	          
+PIRAMAL IMAGING                              	              1	     0.332
+PNR PROJECT CRISIS LAB                       	              1	     0.332
+POLISH NATIONAL AGENCY FOR ACADEMIC EXCHANGE 	              1	     0.332
+NAWA                                         	               	          
+POLISH NATIONAL SCIENCE CENTER               	              1	     0.332
+PROJECT COLLABORATIVE PROPOSAL SOCIAL NETWORK	              1	     0.332
+S IN CHRONIC DISASTERS EXPOSURE EVACUATION AND RESETTLEMENT NATIONAL SCIENCE FOUNDATION	               	          
+PROJECT DEVELOPMENT OF A SOCIAL NETWORK MEASU	              1	     0.332
+RE OF ACCULTURATION AND ITS APPLICATION TO IMMIGRANT POPULATIONS IN SOUTH FLORIDA AND NORTHEASTERN SPAIN NATIONAL SCIENCE FOUNDATION	               	          
+PROJECT PARALLEL ANALYSIS OF DYNAMIC NETWORKS	              1	     0.332
+ALGORITHM ENGINEERING OF EFFICIENT COMBINATORIAL AND NUMERICAL METHODS MINISTRY OF SCIENCE RESEARCH AND THE ARTS BADEN WURTTEMBERG	               	          
+PROJECT SOCIAL AND CULTURAL CONTEXT OF RACIAL	              1	     0.332
+INEQUALITIES IN HEALTH NATIONAL SCIENCE FOUNDATION	               	          
+PROJECT THE MIGRANT ROMA FROM EXCLUSIONARY PR	              1	     0.332
+OCESSES TO RESOURCES FOR SOCIAL INTEGRATION PARIS INSTITUTE OF POLITICAL STUDIES	               	          
+PROJECT THE ROLE OF SOCIAL RESOURCES IN RESIL	              1	     0.332
+IENCE AND MENTAL HEALTH RECOVERY IN GULF COAST COMMUNITIES AFTER OIL SPILL US NATIONAL INSTITUTE OF ENVIRONMENTAL HEALTH SCIENCES	               	          
+PROJECT UNDERSTANDING HOW PERSONAL NETWORKS C	              1	     0.332
+HANGE NIH NATIONAL INSTITUTE ON AGING        	               	          
+PUBLIC HEALTH ENGLAND PHE                    	              1	     0.332
+REPOS PROJECT NETWORKS PUBLIC POLICIES AND DE	              1	     0.332
+VELOPMENT FSE POR CAMPANIA                   	               	          
+RESEARCH COUNCIL OF FINLAND                  	              1	     0.332
+RESEARCH COUNCIL OF NORWAY                   	              1	     0.332
+RESEARCH GRANTS COUNCIL OF HONG KONG THROUGH 	              1	     0.332
+A HONG KONG PHD FELLOWSHIP                   	               	          
+RESEARCH PROJECTS OF NATIONAL RELEVANCE PRIN 	              1	     0.332
+RIKSBANKENS JUBILEUMSFOND                    	              1	     0.332
+ROYAL SOCIETY                                	              1	     0.332
+ROYBAL CENTER FOR THE STUDY OF NETWORKS AND W	              1	     0.332
+ELL BEING AT YALE UNIVERSITY NATIONAL INSTITUTE ON AGING	               	          
+RYERSON UNIVERSITY                           	              1	     0.332
+SCHWEIZERISCHE NATIONALFONDS ZUR FORDERUNG DE	              1	     0.332
+R WISSENSCHAFTLICHEN FORSCHUNG SWISS NATIONAL SCIENCE FOUNDATION	               	          
+SCIENCE FOUNDATION IRELAND SFI               	              5	     1.661
+SERVIER                                      	              1	     0.332
+SIMONS COLLABORATION GRANT                   	              1	     0.332
+SIMONS FOUNDATION                            	              1	     0.332
+SINGAPORE UNIVERSITY OF TECHNOLOGY DESIGN    	              2	     0.664
+SLOVENIAN ARRS BILATERAL                     	              1	     0.332
+SLOVENIAN RESEARCH AGENCY SLOVENIA           	              2	     0.664
+SOCIAL NETWORK ANALYSIS OF PEERS AND SMOKING 	              1	     0.332
+IN ADOLESCENCE SNAPS MEDICAL RESEARCH COUNCIL OF THE UK	               	          
+SOCIAL SCIENCES HUMANITIES RESEARCH COUNCIL O	              3	     0.997
+F CANADA SSHRC                               	               	          
+SPANISH GOVERNMENT                           	              3	     0.997
+SPANISH MINISTRY OF ECONOMY AND ENTERPRISE MI	              1	     0.332
+NECO                                         	               	          
+SPANISH PROGRAM JUAN DE LA CIERVA            	              1	     0.332
+SWEDISH FOUNDATION FOR HUMANITIES AND SOCIAL 	              1	     0.332
+SCIENCES                                     	               	          
+SWEDISH RESEARCH COUNCIL                     	              1	     0.332
+SWISS NATIONAL SCIENCE FOUNDATION SNF        	              1	     0.332
+SWISS NATIONAL SCIENCE FOUNDATION SNSF       	              6	     1.993
+TAKEDA PHARMACEUTICAL COMPANY LTD            	              1	     0.332
+TEMASEK LAB TL SUTD UNDER THE STARSPROJECT   	              1	     0.332
+THE BRITISH COUNCIL IN INDIA                 	              1	     0.332
+THIS RESEARCH WAS SUPPORTED BY ARO MURI ARO A	              1	     0.332
+WARD W911NF19 1 0057 NSF CAREER AWARD IIS 2045555 AND NSF DMS EPSRC AWARD 2146079 WE THANK MARIOS PAPACHRISTOU FOR HELPFUL DISCUSSIONS	               	          
+TRANSITION THERAPEUTICS                      	              1	     0.332
+U S ARMY RESEARCH OFFICE                     	              2	     0.664
+U S NATIONAL MEMBER ORGANIZATION FOR THE INTE	              1	     0.332
+RNATIONAL INSTITUTE FOR APPLIED SYSTEMS ANALYSIS IIASA	               	          
+UC OFFICE OF THE PRESIDENT THROUGH ITS UC NAT	              1	     0.332
+IONAL LABORATORY FEES RESEARCH PROGRAM       	               	          
+UK NATIONAL INSTITUTE FOR HEALTH RESEARCH HEA	              1	     0.332
+LTH PROTECTION RESEARCH UNIT NIHR HPRU IN MODELLING METHODOLOGY AT IMPERIAL COLLEGE LONDON	               	          
+UK RESEARCH INNOVATION UKRI                  	              8	     2.658
+UKCRC CENTRE OF EXCELLENCE FOR PUBLIC HEALTH 	              1	     0.332
+NORTHERN IRELAND                             	               	          
+UKCRC CENTRE OF EXCELLENCE FOR PUBLIC HEALTH 	              1	     0.332
+RESEARCH NORTHERN IRELAND BRITISH HEART FOUNDATION	               	          
+UNITATEA EXECUTIVA PENTRU FINANTAREA INVATAMA	              1	     0.332
+NTULUI SUPERIOR A CERCETARII DEZVOLTARII SI INOVARII UEFISCDI	               	          
+UNITED STATES DEPARTMENT OF DEFENSE          	             18	     5.980
+UNITED STATES DEPARTMENT OF ENERGY DOE       	              1	     0.332
+UNITED STATES DEPARTMENT OF HEALTH HUMAN SERV	             31	    10.299
+ICES                                         	               	          
+UNITED STATES NAVY                           	              2	     0.664
+UNIVERSITY OF ARIZONA S INSTITUTE OF THE ENVI	              1	     0.332
+RONMENT                                      	               	          
+UNIVERSITY OF BREMEN                         	              1	     0.332
+UNIVERSITY OF CHICAGO                        	              1	     0.332
+UNIVERSITY OF COLORADO BOULDER               	              1	     0.332
+UNIVERSITY OF FLORIDA CLINICAL AND TRANSLATIO	              1	     0.332
+NAL SCIENCE INSTITUTE                        	               	          
+UNIVERSITY OF HAMBURG                        	              1	     0.332
+UNIVERSITY OF MILAN BICOCCA CENTER FOR INTERD	              1	     0.332
+ISCIPLINARY STUDIES IN ECONOMICS PSYCHOLOGY AND SOCIAL SCIENCES	               	          
+UNIVERSITY OF VIRGINIA STRATEGIC INVESTMENT F	              1	     0.332
+UND                                          	               	          
+UNIVERSITY RESEARCH PRIORITY PROGRAM ON SOCIA	              1	     0.332
+L NETWORKS OF THE UNIVERSITY OF ZURICH       	               	          
+US ARMY RESEARCH LABORATORY ARL              	              4	     1.329
+US DEPARTMENT OF EDUCATION                   	              2	     0.664
+VANDERBILT INSTITUTE FOR OBESITY AND METABOLI	              1	     0.332
+SM                                           	               	          
+VIENNA SCIENCE AND TECHNOLOGY FUND WWTF PROJE	              1	     0.332
+CT                                           	               	          
+VIRGINIA DEPARTMENT OF HEALTH VDH            	              1	     0.332
+VOLKSWAGEN                                   	              1	     0.332
+W T GRANT FOUNDATION                         	              2	     0.664
+WALLOON REGION BELGIUM                       	              1	     0.332
+WE APPRECIATE THE COMMENTS AND SUGGESTIONS BY	              1	     0.332
+TOM BROEKEL AND THE PARTICIPANTS OF THE GCEG CONFERENCE IN DUBLIN 2022	               	          
+WELLCOME TRUST                               	              1	     0.332
+YALE UNIVERSITY                              	              1	     0.332
+ZUKUNFTSKOLLEG AT THE UNIVERSITY OF KONSTANZ 	              1	     0.332
+
+121 record(s) (40.199%) do not contain data in the field being analyzed

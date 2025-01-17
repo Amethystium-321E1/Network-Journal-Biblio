@@ -1,0 +1,49 @@
+Countries/Regions                            	   Record Count	         % of 301
+
+AUSTRALIA                                    	              4	     1.329
+AUSTRIA                                      	              6	     1.993
+BELGIUM                                      	              7	     2.326
+BRAZIL                                       	              3	     0.997
+CANADA                                       	             10	     3.322
+COLOMBIA                                     	              2	     0.664
+CZECH REPUBLIC                               	              1	     0.332
+DENMARK                                      	              5	     1.661
+ENGLAND                                      	             36	    11.960
+FINLAND                                      	              3	     0.997
+FRANCE                                       	             27	     8.970
+GERMANY                                      	             29	     9.635
+GREECE                                       	              1	     0.332
+HUNGARY                                      	             18	     5.980
+INDIA                                        	              5	     1.661
+IRAN                                         	              1	     0.332
+IRELAND                                      	              7	     2.326
+ISRAEL                                       	              9	     2.990
+ITALY                                        	             22	     7.309
+JAPAN                                        	              7	     2.326
+MEXICO                                       	              1	     0.332
+NETHERLANDS                                  	             24	     7.973
+NORTH IRELAND                                	              4	     1.329
+NORWAY                                       	              1	     0.332
+PEOPLES R CHINA                              	              6	     1.993
+PERU                                         	              1	     0.332
+POLAND                                       	              8	     2.658
+PORTUGAL                                     	              4	     1.329
+QATAR                                        	              1	     0.332
+ROMANIA                                      	              1	     0.332
+RUSSIA                                       	              4	     1.329
+SAUDI ARABIA                                 	              1	     0.332
+SCOTLAND                                     	              4	     1.329
+SINGAPORE                                    	              2	     0.664
+SLOVENIA                                     	              3	     0.997
+SOUTH AFRICA                                 	              1	     0.332
+SOUTH KOREA                                  	              2	     0.664
+SPAIN                                        	              5	     1.661
+SWEDEN                                       	              9	     2.990
+SWITZERLAND                                  	             17	     5.648
+TAIWAN                                       	              2	     0.664
+TURKEY                                       	              1	     0.332
+U ARAB EMIRATES                              	              2	     0.664
+USA                                          	            164	    54.485
+VIETNAM                                      	              1	     0.332
+
+4 record(s) (1.329%) do not contain data in the field being analyzed

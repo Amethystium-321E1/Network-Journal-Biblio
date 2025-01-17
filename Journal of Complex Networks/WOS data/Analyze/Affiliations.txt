@@ -1,0 +1,830 @@
+Affiliations                                 	   Record Count	         % of 547
+
+AALTO UNIVERSITY                             	              6	     1.097
+ACADEMY OF MATHEMATICS SYSTEM SCIENCES CAS   	              1	     0.183
+ACUMEN PHARMCEUT                             	              1	     0.183
+AD DRUG DISCOVERY FDN                        	              1	     0.183
+AFYON KOCATEPE UNIVERSITY                    	              1	     0.183
+AHLIA UNIVERSITY BAHRAIN                     	              2	     0.366
+AIR FORCE INSTITUTE OF TECHNOLOGY AFIT       	              2	     0.366
+AIX MARSEILLE UNIVERSITE                     	              1	     0.183
+ALAN TURING INST                             	              5	     0.914
+ALBANY MEDICAL COLLEGE                       	              1	     0.183
+ALCATEL LUCENT                               	              1	     0.183
+ALFRED RENY INST MATH HUN REN                	              1	     0.183
+ALLIANCE MANCHESTER BUSINESS SCHOOL          	              1	     0.183
+ALMA MATER EUROPAEA                          	              1	     0.183
+ALZHEIMER S ASSOCIATION                      	              1	     0.183
+ANHUI JIANZHU UNIVERSITY                     	              2	     0.366
+ANQING NORMAL UNIVERSITY                     	              1	     0.183
+ARC CTR EXCELLENCE MATH STAT FRONTIERS ACEMS 	              1	     0.183
+ARGONNE NATIONAL LABORATORY                  	              1	     0.183
+ARISTOTLE UNIV THESSALONIKI1                 	              1	     0.183
+ARISTOTLE UNIVERSITY OF THESSALONIKI         	              2	     0.366
+ARIZONA STATE UNIVERSITY                     	              6	     1.097
+ARIZONA STATE UNIVERSITY TEMPE               	              2	     0.366
+ASCHAFFENBURG UNIV APPL SCI                  	              1	     0.183
+ASTON UNIVERSITY                             	              1	     0.183
+AT T                                         	              1	     0.183
+AVIGNON UNIVERSITE                           	              3	     0.548
+BABES BOLYAI UNIVERSITY FROM CLUJ            	              1	     0.183
+BAIDU                                        	              1	     0.183
+BANNER ALZHEIMER S INSTITUTE                 	              1	     0.183
+BANNER HEALTH                                	              1	     0.183
+BANNER RESEARCH                              	              1	     0.183
+BANNER SUN HEALTH RESEARCH INSTITUTE         	              1	     0.183
+BAR ILAN UNIVERSITY                          	              8	     1.463
+BAYLOR COLLEGE OF MEDICINE                   	              1	     0.183
+BBVA BANK                                    	              1	     0.183
+BEIHANG UNIVERSITY                           	              2	     0.366
+BEIJING JIAOTONG UNIVERSITY                  	              2	     0.366
+BEIJING UNIVERSITY OF POSTS TELECOMMUNICATION	              1	     0.183
+S                                            	               	          
+BEN GURION UNIVERSITY                        	              2	     0.366
+BENEMERITA UNIVERSIDAD AUTONOMA DE PUEBLA    	              1	     0.183
+BENNETT UNIV                                 	              1	     0.183
+BINGHAMTON UNIVERSITY SUNY                   	              3	     0.548
+BOGAZICI UNIVERSITY                          	              1	     0.183
+BOISE STATE UNIVERSITY                       	              1	     0.183
+BOSTON UNIVERSITY                            	              7	     1.280
+BOURNEMOUTH UNIVERSITY                       	              1	     0.183
+BRANDEIS UNIVERSITY                          	              1	     0.183
+BRAUDE ACADEMIC COLLEGE OF ENGINEERING       	              1	     0.183
+BRIGHAM WOMEN S HOSPITAL                     	              2	     0.366
+BRIGHAM YOUNG UNIVERSITY                     	              2	     0.366
+BRITISH LIB                                  	              2	     0.366
+BROWN UNIVERSITY                             	              1	     0.183
+BUDAPEST UNIVERSITY OF TECHNOLOGY ECONOMICS  	              2	     0.366
+BUTLER HOSPITAL RHODE ISLAND                 	              1	     0.183
+CALIFORNIA INSTITUTE OF TECHNOLOGY           	              1	     0.183
+CAPITAL UNIVERSITY OF ECONOMICS BUSINESS     	              1	     0.183
+CARNEGIE MELLON UNIVERSITY                   	              5	     0.914
+CASE WESTERN RESERVE UNIVERSITY              	              1	     0.183
+CEA                                          	              1	     0.183
+CENT EUROPEAN UNIV                           	              3	     0.548
+CENTRAL BANK OF BRAZIL                       	              2	     0.366
+CENTRAL EUROPEAN UNIVERSITY                  	              2	     0.366
+CENTRAL SOUTH UNIVERSITY                     	              1	     0.183
+CENTRAL UNIVERSITY OF FINANCE ECONOMICS      	              1	     0.183
+CENTRAL UNIVERSITY OF HIMACHAL PRADESH       	              1	     0.183
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE 	             18	     3.291
+CNRS                                         	               	          
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE 	              1	     0.183
+TECHNOLOGIQUE CNRST                          	               	          
+CENTRO ATOMICO BARILOCHE                     	              2	     0.366
+CHENGDU COLL ARTS SCI                        	              1	     0.183
+CHILDRENS HOSPITAL OF PHILADELPHIA           	              1	     0.183
+CHINA MEDICAL UNIVERSITY HOSPITAL TAIWAN     	              2	     0.366
+CHINA MEDICAL UNIVERSITY TAIWAN              	              2	     0.366
+CHINA THREE GORGES UNIVERSITY                	              1	     0.183
+CHINESE ACADEMY OF SCIENCES                  	              2	     0.366
+CHINESE UNIVERSITY OF HONG KONG              	              1	     0.183
+CHUEPE LABS                                  	              1	     0.183
+CITY COLLEGE OF NEW YORK CUNY                	              1	     0.183
+CITY UNIVERSITY OF HONG KONG                 	              1	     0.183
+CITY UNIVERSITY OF NEW YORK CUNY SYSTEM      	              1	     0.183
+CLAREMONT COLLEGES                           	              1	     0.183
+CLARKSON UNIVERSITY                          	              2	     0.366
+CLEMSON UNIVERSITY                           	              2	     0.366
+CLEVELAND CLINIC FOUNDATION                  	              2	     0.366
+CNRS INSTITUTE FOR HUMANITIES SOCIAL SCIENCES	              2	     0.366
+INSHS                                        	               	          
+CNRS INSTITUTE OF PHYSICS INP                	              1	     0.183
+COCHIN UNIVERSITY SCIENCE TECHNOLOGY         	              1	     0.183
+COGNIT NEUROL ST JOSEPHS                     	              1	     0.183
+COLEGIO FRONTERA NORTE                       	              1	     0.183
+COLLEGE OF CHARLESTON                        	              1	     0.183
+COLUMBIA UNIVERSITY                          	              3	     0.548
+COMENIUS UNIVERSITY BRATISLAVA               	              1	     0.183
+COMISION NACIONAL DE ENERGIA ATOMICA CNEA    	              2	     0.366
+COMMONWEALTH SCIENTIFIC INDUSTRIAL RESEARCH O	              1	     0.183
+RGANISATION CSIRO                            	               	          
+COMMUNICATION UNIVERSITY OF CHINA            	              2	     0.366
+COMPETENCE CTR SCALABLE DATA SERV SOLUT DRESD	              1	     0.183
+EN                                           	               	          
+COMPLEX SCI CONSULTING                       	              1	     0.183
+COMPLEX SCI HUB                              	              3	     0.548
+COMPLEX SCI HUB VIENNA                       	              6	     1.097
+CONACYT CTR GEO                              	              1	     0.183
+CONACYT CTR MET                              	              1	     0.183
+CONSEJO NACIONAL DE INVESTIGACIONES CIENTIFIC	              6	     1.097
+AS Y TECNICAS CONICET                        	               	          
+CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFIC	              3	     0.548
+AS CSIC                                      	               	          
+CONSIGLIO NAZIONALE DELLE RICERCHE CNR       	              7	     1.280
+COORDENACAO DE APERFEICOAMENTO DE PESSOAL DE 	              1	     0.183
+NIVEL SUPERIOR CAPES                         	               	          
+CORNELL UNIVERSITY                           	              5	     0.914
+COVENTRY UNIVERSITY                          	              1	     0.183
+CRACOW UNIVERSITY OF TECHNOLOGY              	              1	     0.183
+CRANFIELD UNIVERSITY                         	              1	     0.183
+CSIC UAM INSTITUT DE FISICA TEORICA IFT      	              2	     0.366
+CSIC UIB INSTITUTO DE FISICA INTERDISCIPLINAR	              1	     0.183
+Y SISTEMAS COMPLEJOS IFISC                   	               	          
+CTR CIENCIAS COMPLEJ C3 UNAM                 	              1	     0.183
+CTR COMPLEX SYST STUDIES                     	              1	     0.183
+CTR INVEST MATEMAT AC                        	              1	     0.183
+CWI                                          	              1	     0.183
+CZECH TECHNICAL UNIVERSITY PRAGUE            	              1	     0.183
+DARTMOUTH COLLEGE                            	              4	     0.731
+DAVID GEFFEN SCHOOL OF MEDICINE AT UCLA      	              1	     0.183
+DAVIDSON COLLEGE                             	              1	     0.183
+DEAKIN UNIVERSITY                            	              1	     0.183
+DELFT UNIVERSITY OF TECHNOLOGY               	              9	     1.645
+DENT NEUROL INST                             	              1	     0.183
+DEPT MATH                                    	              1	     0.183
+DEPT PHYS ASTRON                             	              1	     0.183
+DEVCOM ARMY RES LAB                          	              2	     0.366
+DEVI AHILYA UNIVERSITY                       	              1	     0.183
+DREXEL UNIVERSITY                            	              2	     0.366
+DUKE UNIVERSITY                              	              3	     0.548
+DUZCE UNIVERSITY                             	              1	     0.183
+EAST CHINA UNIVERSITY OF SCIENCE TECHNOLOGY  	              2	     0.366
+EAST TENNESSEE STATE UNIVERSITY              	              1	     0.183
+ECOLE DES HAUTES ETUDES EN SCIENCES SOCIALES 	              1	     0.183
+EHESS                                        	               	          
+ECOLE NATIONALE DE L AVIATION CIVILE ENAC    	              1	     0.183
+ECOLE NORMALE SUPERIEURE DE LYON ENS DE LYON 	              3	     0.548
+ECOLE NORMALE SUPERIEURE ENS                 	              1	     0.183
+ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE     	              1	     0.183
+EDWARD S ROGERS SR DEPT ELECT COMP ENGN      	              1	     0.183
+EGE UNIVERSITY                               	              1	     0.183
+EHESS                                        	              2	     0.366
+EINDHOVEN ARTIFICIAL INTELLIGENCE SYST INST E	              1	     0.183
+AISI                                         	               	          
+EINDHOVEN UNIVERSITY OF TECHNOLOGY           	              3	     0.548
+ELECTRICITE DE FRANCE EDF                    	              1	     0.183
+EMORY UNIVERSITY                             	              3	     0.548
+EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA E	              1	     0.183
+MBRAPA                                       	               	          
+ENERGY BUSINESS INTELLIGENCE SYST            	              1	     0.183
+EOTVOS LORAND UNIVERSITY                     	              4	     0.731
+EOTVOS LORDED UNIV BUDAPEST                  	              1	     0.183
+ERDC RISK MODELING                           	              1	     0.183
+ERICSSON TELECOMMUN                          	              1	     0.183
+ERTIM                                        	              1	     0.183
+ESCOLA DE POS GRADUACAO EM ECONOMIA EPGE     	              1	     0.183
+ETH ZURICH                                   	              5	     0.914
+EUROPEAN BIOINFORMATICS INSTITUTE            	              1	     0.183
+EUROPEAN MOLECULAR BIOLOGY LABORATORY EMBL   	              1	     0.183
+EUROPEAN UNIVERSITY INSTITUTE                	              1	     0.183
+FED UNIV ABC                                 	              1	     0.183
+FED UNIV BAHIA UFBA                          	              1	     0.183
+FED UNIV RIO DE JANEIRO UFRJ                 	              3	     0.548
+FEINBERG SCHOOL OF MEDICINE                  	              1	     0.183
+FLAME UNIV                                   	              1	     0.183
+FONDAZIONE BRUNO KESSLER                     	              4	     0.731
+FOSHAN UNIVERSITY                            	              1	     0.183
+FUDAN UNIVERSITY                             	              1	     0.183
+FUNDACAO OSWALDO CRUZ                        	              2	     0.366
+FURMAN UNIV                                  	              1	     0.183
+GEORGE MASON UNIVERSITY                      	              2	     0.366
+GEORGETOWN UNIVERSITY                        	              1	     0.183
+GEORGIA INSTITUTE OF TECHNOLOGY              	              5	     0.914
+GEORGIA STATE UNIVERSITY                     	              1	     0.183
+GERMAN CTR INTEGRAT BIODIVERS RES IDIV       	              1	     0.183
+GETULIO VARGAS FOUNDATION                    	              1	     0.183
+GGS INDRAPRASTHA UNIVERSITY                  	              1	     0.183
+GHENT UNIVERSITY                             	              2	     0.366
+GRAN SASSO SCIENCE INSTITUTE GSSI            	              1	     0.183
+GRINNELL COLL                                	              1	     0.183
+GWANGJU INSTITUTE OF SCIENCE TECHNOLOGY GIST 	              1	     0.183
+GYEONGNAM NATIONAL UNIVERSITY OF SCIENCE AND 	              1	     0.183
+TECHNOLOGY                                   	               	          
+HANGZHOU DIANZI UNIVERSITY                   	              1	     0.183
+HANGZHOU NORMAL UNIVERSITY                   	              1	     0.183
+HARTFORD HOSPITAL                            	              1	     0.183
+HARVARD MEDICAL SCHOOL                       	              2	     0.366
+HARVARD T H CHAN SCHOOL OF PUBLIC HEALTH     	              4	     0.731
+HARVARD UNIVERSITY                           	              7	     1.280
+HEBREW UNIVERSITY OF JERUSALEM               	              1	     0.183
+HEC MONTREAL                                 	              1	     0.183
+HENAN LIGHT IND VOCAT COLL                   	              1	     0.183
+HOKKAIDO UNIVERSITY                          	              1	     0.183
+HOMI BHABHA NATIONAL INSTITUTE               	              1	     0.183
+HONG KONG POLYTECHNIC UNIVERSITY             	              1	     0.183
+HOWARD UNIVERSITY                            	              1	     0.183
+HSE UNIVERSITY NATIONAL RESEARCH UNIVERSITY H	              5	     0.914
+IGHER SCHOOL OF ECONOMICS                    	               	          
+HUBEI UNIVERSITY OF EDUCATION                	              1	     0.183
+HUMBOLDT UNIVERSITY OF BERLIN                	              2	     0.366
+HUN REN ALFRED RENYI INSTITUTE OF MATHEMATICS	              1	     0.183
+HUN REN BALATON LIMNOLOGICAL RESEARCH INSTITU	              1	     0.183
+TE                                           	               	          
+HUN REN CENTRE FOR ECOLOGICAL RESEARCH       	              1	     0.183
+HUNAN RAILWAY PROFESS TECHNOL COLL           	              1	     0.183
+HUNGARIAN ACADEMY OF SCIENCES                	              3	     0.548
+HUNGARIAN RESEARCH NETWORK                   	              2	     0.366
+ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI      	              1	     0.183
+IMPERIAL COLLEGE LONDON                      	              7	     1.280
+IMSCIENCES                                   	              1	     0.183
+IMT SCHOOL FOR ADVANCED STUDIES LUCCA        	              5	     0.914
+INCT INTREE NATL INST SCI TECHNOL INTERDISCIP	              1	     0.183
+LI                                           	               	          
+INDIAN INSTITUTE OF INFORMATION TECHNOLOGY DE	              1	     0.183
+SIGN MANUFACTURING JABALPUR                  	               	          
+INDIAN INSTITUTE OF MANAGEMENT AHMEDABAD     	              3	     0.548
+INDIAN INSTITUTE OF MANAGEMENT IIM SYSTEM    	              3	     0.548
+INDIAN INSTITUTE OF MANAGEMENT KOZHIKODE     	              1	     0.183
+INDIAN INSTITUTE OF SCIENCE EDUCATION RESEARC	              1	     0.183
+H IISER PUNE                                 	               	          
+INDIAN INSTITUTE OF SCIENCE IISC BANGALORE   	              2	     0.366
+INDIAN INSTITUTE OF TECHNOLOGY IIT BOMBAY    	              1	     0.183
+INDIAN INSTITUTE OF TECHNOLOGY IIT DELHI     	              1	     0.183
+INDIAN INSTITUTE OF TECHNOLOGY IIT JAMMU     	              1	     0.183
+INDIAN INSTITUTE OF TECHNOLOGY IIT KANPUR    	              1	     0.183
+INDIAN INSTITUTE OF TECHNOLOGY IIT KHARAGPUR 	              1	     0.183
+INDIAN INSTITUTE OF TECHNOLOGY IIT MADRAS    	              1	     0.183
+INDIAN INSTITUTE OF TECHNOLOGY SYSTEM IIT SYS	              5	     0.914
+TEM                                          	               	          
+INDIANA UNIVERSITY BLOOMINGTON               	              3	     0.548
+INDIANA UNIVERSITY SYSTEM                    	              3	     0.548
+INESC TEC                                    	              2	     0.366
+INNOPOLIS UNIVERSITY                         	              1	     0.183
+INRAE                                        	              1	     0.183
+INRIA                                        	              1	     0.183
+INRIA SOPHIA ANTIPOLIS                       	              1	     0.183
+INST COGNIT SCI STUDIES                      	              1	     0.183
+INST DIS MODELING                            	              1	     0.183
+INST INFORMAT TECHNOL                        	              1	     0.183
+INST MANAGEMENT SCI                          	              1	     0.183
+INST RES FUNDAMENTAL SCI IPM                 	              2	     0.366
+INST SCI INTERCHANGE                         	              1	     0.183
+INST SUPER SERV SOCIAL PORTO                 	              1	     0.183
+INST SYST ENGN                               	              1	     0.183
+INST TECNOL BUENOS AIRES ITBA                	              1	     0.183
+INST TECNOL ESTUDIOS SUPER OCCIDENTE         	              1	     0.183
+INSTITUT D ETUDES POLITIQUES PARIS SCIENCES P	              1	     0.183
+O                                            	               	          
+INSTITUT NATIONAL DE LA SANTE ET DE LA RECHER	              2	     0.366
+CHE MEDICALE INSERM                          	               	          
+INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE 	              4	     0.731
+LYON INSA LYON                               	               	          
+INSTITUTE OF APPLIED PHYSICS OF THE RUSSIAN A	              1	     0.183
+CADEMY OF SCIENCES                           	               	          
+INSTITUTE OF MATHEMATICAL SCIENCES IMSC INDIA	              1	     0.183
+INSTITUTE OF NUCLEAR PHYSICS POLISH ACADEMY O	              1	     0.183
+F SCIENCES                                   	               	          
+INSTITUTE OF SCIENCE TOKYO                   	              2	     0.366
+INSTITUTO BALSEIRO                           	              2	     0.366
+INSTITUTO FEDERAL DO SUDESTE DE MINAS GERAIS 	              1	     0.183
+INSTITUTO GULBENKIAN DE CIENCIA              	              1	     0.183
+INSTITUTO POLITECNICO NACIONAL MEXICO        	              1	     0.183
+INSTITUTO POTOSINO INVESTIGACION CIENTIFICA Y	              1	     0.183
+TECNOLOGICA                                  	               	          
+INSTITUTO UNIVERSITARIO DE LISBOA            	              1	     0.183
+INTERDISCIPLINARY CTR BIOINFORMAT            	              1	     0.183
+INTERDISCIPLINARY SCI CTR PONCELET           	              1	     0.183
+INTERNATIONAL BUSINESS MACHINES IBM          	              1	     0.183
+INTERNATIONAL SCHOOL FOR ADVANCED STUDIES SIS	              1	     0.183
+SA                                           	               	          
+IRCCS OSPED POLICLIN SAN MARTINO             	              1	     0.183
+ISFAHAN UNIVERSITY OF TECHNOLOGY             	              1	     0.183
+ISI FDN                                      	              3	     0.548
+ISLAMIC AZAD UNIVERSITY                      	              3	     0.548
+ISTITUTO DEI SISTEMI COMPLESSI ISC CNR       	              1	     0.183
+ISTITUTO DI FISIOLOGIA CLINICA IFC CNR       	              2	     0.366
+ISTITUTO DI RICERCHE FARMACOLOGICHE MARIO NEG	              1	     0.183
+RI IRCCS                                     	               	          
+ISTITUTO DI SCIENZA E TECNOLOGIE DELL INFORMA	              1	     0.183
+ZIONE ALESSANDRO FAEDO ISTI CNR              	               	          
+ISTITUTO ITALIANO DI TECNOLOGIA IIT          	              1	     0.183
+ISTITUTO NANOSCIENZE NANO CNR                	              2	     0.366
+ISTITUTO NAZIONALE DI FISICA NUCLEARE INFN   	              4	     0.731
+IT UNIVERSITY COPENHAGEN                     	              1	     0.183
+ITALIAN NATIONAL AGENCY NEW TECHNICAL ENERGY 	              1	     0.183
+SUSTAINABLE ECONOMICS DEVELOPMENT            	               	          
+ITALIAN NATL RES COUNCIL PISA                	              1	     0.183
+JAPAN ADVANCED INSTITUTE OF SCIENCE TECHNOLOG	              1	     0.183
+Y JAIST                                      	               	          
+JAPAN SCIENCE TECHNOLOGY AGENCY JST          	              2	     0.366
+JAWAHARLAL NEHRU UNIVERSITY NEW DELHI        	              1	     0.183
+JIANGSU UNIVERSITY OF TECHNOLOGY             	              1	     0.183
+JIANGSU VOCATIONAL COLLEGE OF MEDICINE       	              1	     0.183
+JILIN NORMAL UNIVERSITY                      	              1	     0.183
+JINING UNIVERSITY                            	              1	     0.183
+JOHNS HOPKINS UNIVERSITY                     	              1	     0.183
+KARABUK UNIVERSITY                           	              1	     0.183
+KARACHI INST ECON TECHNOL                    	              1	     0.183
+KAROLINSKA INSTITUTET                        	              2	     0.366
+KEIMYUNG UNIVERSITY                          	              1	     0.183
+KEY LAB CLOUD COMP INTELLIGENT INFORMAT PROC 	              1	     0.183
+CH                                           	               	          
+KHALSA COLL ENGN TECHNOL                     	              1	     0.183
+KHARAZMI UNIVERSITY                          	              1	     0.183
+KHARKEVICH INSTITUTE FOR INFORMATION TRANSMIS	              4	     0.731
+SION PROBLEMS OF THE RAS                     	               	          
+KING S COLLEGE LONDON                        	              3	     0.548
+KOREA ADVANCED INSTITUTE OF SCIENCE TECHNOLOG	              1	     0.183
+Y KAIST                                      	               	          
+KOREA INSTITUTE FOR ADVANCED STUDY KIAS      	              2	     0.366
+KU LEUVEN                                    	              3	     0.548
+KUMASI TECH UNIV                             	              1	     0.183
+KYOTO UNIVERSITY                             	              4	     0.731
+KYUNGPOOK NATIONAL UNIVERSITY KNU            	              2	     0.366
+LABORATORIO NACIONAL DE COMPUTACAO CIENTIFICA	              2	     0.366
+LNCC                                         	               	          
+LAWRENCE LIVERMORE NATIONAL LABORATORY       	              3	     0.548
+LE MANS UNIVERSITE                           	              1	     0.183
+LEIBNIZ INST EUROPAISHE GESCHICHTE           	              1	     0.183
+LEIDEN UNIVERSITY                            	              1	     0.183
+LEIDEN UNIVERSITY EXCL LUMC                  	              1	     0.183
+LEIPZIG UNIVERSITY                           	              4	     0.731
+LIFESPAN HEALTH RHODE ISLAND                 	              1	     0.183
+LONDON SCHOOL ECONOMICS POLITICAL SCIENCE    	              1	     0.183
+LUSOFONA UNIVERSITY                          	              1	     0.183
+MACHINE INTELLIGENCE RES DEPT                	              1	     0.183
+MALUUBA RES                                  	              1	     0.183
+MARTIN LUTHER UNIVERSITY HALLE WITTENBERG    	              1	     0.183
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY MIT    	             10	     1.828
+MASSEY UNIVERSITY                            	              1	     0.183
+MATH COMP SCI                                	              1	     0.183
+MAX PLANCK SOCIETY                           	             11	     2.011
+MAYO CLINIC                                  	              1	     0.183
+MCGILL UNIVERSITY                            	              1	     0.183
+MCMASTER UNIVERSITY                          	              2	     0.366
+MEDICAL UNIVERSITY OF SOUTH CAROLINA         	              1	     0.183
+MEMORIAL UNIVERSITY NEWFOUNDLAND             	              2	     0.366
+METHACTON HIGH SCH                           	              1	     0.183
+MICHIGAN STATE UNIVERSITY                    	              1	     0.183
+MINERAL RESOURCES                            	              1	     0.183
+MINIST EDUC                                  	              1	     0.183
+MINNESOTA STATE COLLEGES UNIVERSITIES        	              1	     0.183
+MLG                                          	              1	     0.183
+MOHAMMED V UNIVERSITY IN RABAT               	              2	     0.366
+MONASH ACAD CROSS INTERDISCIPLINARY MATH     	              1	     0.183
+MONASH UNIVERSITY                            	              2	     0.366
+MOSCOW INSTITUTE OF PHYSICS TECHNOLOGY       	              5	     0.914
+MTA BME STOCHASTICS RESEARCH GROUP           	              1	     0.183
+MTA SZTE RES GRP ARTIFICIAL INTELLIGENCE     	              1	     0.183
+N N SEMENOV FEDERAL RESEARCH CENTRE FOR CHEMI	              1	     0.183
+CAL PHYSICS RUSSIAN ACADEMY OF SCIENCES      	               	          
+NACL INST SCI TECHNOL COMPLEX SYST INCT SC   	              1	     0.183
+NANJING MEDICAL UNIVERSITY                   	              2	     0.366
+NANJING NORMAL UNIVERSITY                    	              1	     0.183
+NANJING UNIVERSITY OF INFORMATION SCIENCE TEC	              1	     0.183
+HNOLOGY                                      	               	          
+NANTES UNIVERSITE                            	              1	     0.183
+NANYANG TECHNOLOGICAL UNIVERSITY             	              1	     0.183
+NATHAN KLINE INSTITUTE FOR PSYCHIATRIC RESEAR	              1	     0.183
+CH                                           	               	          
+NATIONAL INSTITUTE OF INFORMATICS NII JAPAN  	              2	     0.366
+NATIONAL INSTITUTE OF INFORMATION COMMUNICATI	              1	     0.183
+ONS TECHNOLOGY NICT JAPAN                    	               	          
+NATIONAL INSTITUTE OF TECHNOLOGY DELHI       	              4	     0.731
+NATIONAL INSTITUTE OF TECHNOLOGY NIT SYSTEM  	              4	     0.731
+NATIONAL INSTITUTES OF HEALTH NIH USA        	              2	     0.366
+NATIONAL TAIWAN NORMAL UNIVERSITY            	              1	     0.183
+NATIONAL TECHNICAL UNIVERSITY OF ATHENS      	              2	     0.366
+NATIONAL UNIVERSITY OF DEFENSE TECHNOLOGY CHI	              2	     0.366
+NA                                           	               	          
+NATIONAL UNIVERSITY OF MAR DEL PLATA         	              3	     0.548
+NATIONAL UNIVERSITY OF SINGAPORE             	              1	     0.183
+NATL HEALTHCARE SERV CTR                     	              1	     0.183
+NAVAL POSTGRADUATE SCHOOL                    	              1	     0.183
+NENCKI INSTITUTE OF EXPERIMENTAL BIOLOGY OF T	              1	     0.183
+HE POLISH ACADEMY OF SCIENCES                	               	          
+NETHERLANDS ORGANIZATION APPLIED SCIENCE RESE	              1	     0.183
+ARCH                                         	               	          
+NEUROL CARE CNY                              	              1	     0.183
+NEW YORK HALL SCI                            	              2	     0.366
+NEW YORK UNIVERSITY                          	              5	     0.914
+NEW YORK UNIVERSITY TANDON SCHOOL OF ENGINEER	              1	     0.183
+ING                                          	               	          
+NEWCASTLE UNIVERSITY UK                      	              2	     0.366
+NEXT GAMES                                   	              1	     0.183
+NIH CENTER FOR INFORMATION TECHNOLOGY CIT    	              1	     0.183
+NIH NATIONAL INSTITUTE OF MENTAL HEALTH NIMH 	              2	     0.366
+NIH NATIONAL INSTITUTE ON AGING NIA          	              1	     0.183
+NINGXIA POLYTECHNIC                          	              1	     0.183
+NINGXIA UNIVERSITY                           	              1	     0.183
+NODES LINKS LTD                              	              1	     0.183
+NORTH CAROLINA STATE UNIVERSITY              	              2	     0.366
+NORTH DAKOTA STATE UNIVERSITY FARGO          	              1	     0.183
+NORTHEASTERN UNIV LONDON                     	              2	     0.366
+NORTHEASTERN UNIVERSITY                      	             10	     1.828
+NORTHEASTERN UNIVERSITY CHINA                	              1	     0.183
+NORTHUMBRIA UNIVERSITY                       	              1	     0.183
+NORTHWESTERN UNIVERSITY                      	              6	     1.097
+NORWEGIAN INSTITUTE NATURE RESEARCH          	              1	     0.183
+NOTTINGHAM TRENT UNIVERSITY                  	              1	     0.183
+OFCE DRIC                                    	              1	     0.183
+OFF NATL STAT                                	              1	     0.183
+OHIO STATE UNIVERSITY                        	              3	     0.548
+OHIO WESLEYAN UNIVERSITY                     	              1	     0.183
+OKAYAMA UNIVERSITY                           	              1	     0.183
+OKINAWA INSTITUTE OF SCIENCE TECHNOLOGY GRADU	              1	     0.183
+ATE UNIVERSITY                               	               	          
+OREGON HEALTH SCIENCE UNIVERSITY             	              1	     0.183
+OREGON STATE UNIVERSITY                      	              1	     0.183
+OSAKA UNIVERSITY                             	              1	     0.183
+PACIFIC NORTHWEST NATIONAL LABORATORY        	              2	     0.366
+PARKWOOD INST                                	              1	     0.183
+PATAGONA TECHNOL                             	              1	     0.183
+PEKING UNIVERSITY                            	              1	     0.183
+PENNSYLVANIA COMMONWEALTH SYSTEM OF HIGHER ED	              4	     0.731
+UCATION PCSHE                                	               	          
+PENNSYLVANIA MEDICINE                        	              1	     0.183
+PENNSYLVANIA STATE UNIVERSITY                	              2	     0.366
+PENNSYLVANIA STATE UNIVERSITY UNIVERSITY PARK	              2	     0.366
+PERSIAN GULF UNIVERSITY                      	              2	     0.366
+PITZER COLLEGE                               	              1	     0.183
+POLISH ACADEMY OF SCIENCES                   	              2	     0.366
+POLYTECHNIC UNIVERSITY OF MILAN              	              4	     0.731
+POLYTECHNIC UNIVERSITY OF TURIN              	              1	     0.183
+POMPEU FABRA UNIVERSITY                      	              1	     0.183
+PONTIFICIA UNIV CATOLICA RIO DE JANEIRO      	              1	     0.183
+PONTIFICIA UNIVERSIDAD CATOLICA DEL PERU     	              1	     0.183
+PONTIFICIA UNIVERSIDAD JAVERIANA             	              2	     0.366
+PORTLAND STATE UNIVERSITY                    	              2	     0.366
+POZNA UNIV TECHNOL                           	              1	     0.183
+PREMIERE RES INST                            	              1	     0.183
+PRESBYTERIAN COLL                            	              1	     0.183
+PREVENT ALZHEIMERS DIS 2020                  	              1	     0.183
+PRINCETON UNIVERSITY                         	              1	     0.183
+PUKYONG NATIONAL UNIVERSITY                  	              1	     0.183
+PURDUE UNIVERSITY                            	              5	     0.914
+PURDUE UNIVERSITY SYSTEM                     	              5	     0.914
+PURPLE MT LABS                               	              1	     0.183
+QUEEN MARY UNIVERSITY LONDON                 	              7	     1.280
+QUSOFT                                       	              1	     0.183
+RAND CORPORATION                             	              1	     0.183
+RENSSELAER POLYTECHNIC INSTITUTE             	              1	     0.183
+RESEARCH ORGANIZATION OF INFORMATION SYSTEMS 	              2	     0.366
+ROIS                                         	               	          
+RHODE ISLAND HOSPITAL                        	              1	     0.183
+RICE UNIVERSITY                              	              2	     0.366
+RICHARD FRANK CONSULTING                     	              1	     0.183
+RIKEN                                        	              3	     0.548
+ROBERT KOCH INSTITUTE                        	              2	     0.366
+ROCHESTER INSTITUTE OF TECHNOLOGY            	              1	     0.183
+ROLLINS SCHOOL PUBLIC HEALTH                 	              1	     0.183
+ROYAL HOLLOWAY UNIVERSITY LONDON             	              2	     0.366
+ROYAL MELBOURNE INSTITUTE OF TECHNOLOGY RMIT 	              5	     0.914
+RUSH UNIVERSITY                              	              1	     0.183
+RUSSIAN ACADEMY OF SCIENCE LEBEDEV PHYSICAL I	              1	     0.183
+NSTITUTE                                     	               	          
+RUSSIAN ACADEMY OF SCIENCES                  	              7	     1.280
+SABANCI UNIVERSITY                           	              1	     0.183
+SAINT JOSEPH S HEALTH CENTRE TORONTO         	              1	     0.183
+SAINT PETERSBURG STATE UNIVERSITY            	              1	     0.183
+SANDIA NATIONAL LABORATORIES                 	              4	     0.731
+SAPIENZA UNIVERSITY ROME                     	              1	     0.183
+SAUDI ELECTRONIC UNIVERSITY                  	              1	     0.183
+SAVITRIBAI PHULE PUNE UNIVERSITY             	              1	     0.183
+SCH INFORMAT TECHNOL                         	              1	     0.183
+SCH PSYCHOL                                  	              1	     0.183
+SCILIFELAB                                   	              1	     0.183
+SCRIPPS COLLEGE                              	              1	     0.183
+SCUOLA NORMALE SUPERIORE DI PISA             	              2	     0.366
+SEMMELWEIS UNIVERSITY                        	              3	     0.548
+SEMNAN UNIVERSITY                            	              1	     0.183
+SEOUL NATIONAL UNIVERSITY SNU                	              3	     0.548
+SEVEN BRIDGES GENOM                          	              1	     0.183
+SHAANXI NORMAL UNIVERSITY                    	              1	     0.183
+SHAHID BEHESHTI UNIVERSITY                   	              1	     0.183
+SHANDONG UNIVERSITY OF SCIENCE TECHNOLOGY    	              1	     0.183
+SHANGHAI JIAO TONG UNIVERSITY                	              1	     0.183
+SHANGHAI MARITIME UNIVERSITY                 	              2	     0.366
+SHANXI UNIVERSITY                            	              1	     0.183
+SHENZHEN ZHONGFU HENGSHENG TECHNOL CO LTD    	              1	     0.183
+SHIRAZ UNIVERSITY                            	              1	     0.183
+SHIRLEY RYAN ABILITYLAB                      	              1	     0.183
+SHIV NADAR INST EMINENCE                     	              1	     0.183
+SIEMENS AG                                   	              1	     0.183
+SIEMENS GERMANY                              	              1	     0.183
+SINGAPORE UNIVERSITY OF TECHNOLOGY DESIGN    	              1	     0.183
+SINO OCEAN CAPITAL LTD                       	              1	     0.183
+SISECAM TURKEY                               	              1	     0.183
+SKOLKOVO INSTITUTE OF SCIENCE TECHNOLOGY     	              1	     0.183
+SLOVAK UNIVERSITY OF TECHNOLOGY BRATISLAVA   	              1	     0.183
+SOKA UNIVERSITY                              	              1	     0.183
+SOOCHOW UNIVERSITY CHINA                     	              1	     0.183
+SOOKMYUNG WOMEN S UNIVERSITY                 	              1	     0.183
+SORBONNE UNIVERSITE                          	              5	     0.914
+SOUTHEAST UNIVERSITY CHINA                   	              2	     0.366
+SOUTHERN UNIVERSITY OF SCIENCE TECHNOLOGY    	              1	     0.183
+STANFORD UNIVERSITY                          	              2	     0.366
+STATE UNIVERSITY OF NEW YORK SUNY SYSTEM     	              6	     1.097
+STATE UNIVERSITY SYSTEM OF FLORIDA           	              3	     0.548
+STOCKHOLM UNIVERSITY                         	              1	     0.183
+SUNGKYUNKWAN UNIVERSITY SKKU                 	              2	     0.366
+SUNNYBROOK HEALTH SCIENCE CENTER             	              1	     0.183
+SUNNYBROOK RESEARCH INSTITUTE                	              1	     0.183
+SUNY MARITIME COLLEGE                        	              1	     0.183
+SUNY NEW PALTZ                               	              1	     0.183
+SUPERSTRIPES RICMASS                         	              1	     0.183
+SWISS FEDERAL INSTITUTES OF TECHNOLOGY DOMAIN	              6	     1.097
+SZEGED UNIVERSITY                            	              2	     0.366
+TAIYUAN UNIVERSITY OF SCIENCE TECHNOLOGY     	              1	     0.183
+TAIYUAN UNIVERSITY OF TECHNOLOGY             	              1	     0.183
+TARBIAT MODARES UNIVERSITY                   	              1	     0.183
+TECH VOCAT UNIV TVU                          	              1	     0.183
+TECHNICAL UNIVERSITY OF DARMSTADT            	              1	     0.183
+TECHNICAL UNIVERSITY OF DENMARK              	              1	     0.183
+TECHNICAL UNIVERSITY OF MUNICH               	              2	     0.366
+TECHNION ISRAEL INSTITUTE OF TECHNOLOGY      	              3	     0.548
+TECHNISCHE UNIVERSITAT DRESDEN               	              2	     0.366
+TECHNISCHE UNIVERSITAT WIEN                  	              1	     0.183
+TELAVERGE COMMUN INDIA PVT LTD               	              1	     0.183
+TEXAS A M UNIVERSITY COLLEGE STATION         	              1	     0.183
+TEXAS A M UNIVERSITY SYSTEM                  	              1	     0.183
+TEXAS STATE UNIVERSITY SAN MARCOS            	              1	     0.183
+TEXAS STATE UNIVERSITY SYSTEM                	              1	     0.183
+THE KIDS RESEARCH INSTITUTE AUSTRALIA        	              1	     0.183
+THE SANTA FE INSTITUTE                       	             13	     2.377
+TIANJIN CHENGJIAN UNIVERSITY                 	              1	     0.183
+TOHO UNIVERSITY                              	              1	     0.183
+TOHOKU UNIVERSITY                            	              1	     0.183
+TOKIO MARINE NICHIDO RISK CONSULTING CO LTD  	              2	     0.366
+TOKYO INSTITUTE OF TECHNOLOGY                	              2	     0.366
+TOKYO WOMANS CHRISTIAN UNIV                  	              1	     0.183
+TORONTO METROPOLITAN UNIVERSITY              	              8	     1.463
+TRINITY COLLEGE DUBLIN                       	              1	     0.183
+TSINGHUA UNIVERSITY                          	              1	     0.183
+TUFTS UNIVERSITY                             	              1	     0.183
+TULANE UNIVERSITY                            	              1	     0.183
+TUPAC BIO INC                                	              1	     0.183
+TUTTE INST MATH COMP                         	              5	     0.914
+U S ARMY CORPS OF ENGINEERS                  	              1	     0.183
+U S ARMY ENGINEER RESEARCH DEVELOPMENT CENTER	              1	     0.183
+ERDC                                         	               	          
+UMEA UNIVERSITY                              	              3	     0.548
+UNITED ARAB EMIRATES UNIVERSITY              	              1	     0.183
+UNITED STATES AIR FORCE                      	              1	     0.183
+UNITED STATES ARMY                           	              2	     0.366
+UNITED STATES DEPARTMENT OF DEFENSE          	              7	     1.280
+UNITED STATES DEPARTMENT OF ENERGY DOE       	             10	     1.828
+UNITED STATES MILITARY ACADEMY               	              1	     0.183
+UNITED STATES NAVAL ACADEMY                  	              1	     0.183
+UNITED STATES NAVY                           	              2	     0.366
+UNIV ART                                     	              1	     0.183
+UNIV AUTONOMA CIUDAD MEXICO UACM             	              1	     0.183
+UNIV MARIANA                                 	              1	     0.183
+UNIV MOHAMED SEDDIK BENYAHIA JIJEL           	              1	     0.183
+UNIV PARIS EST                               	              1	     0.183
+UNIV SOUTHERN INDIANA                        	              2	     0.366
+UNIV TEXAS SOUTHWESTERN MED SCH              	              1	     0.183
+UNIV THESSALY                                	              1	     0.183
+UNIVERSIDAD AUTONOMA DE NUEVO LEON           	              1	     0.183
+UNIVERSIDAD CARLOS III DE MADRID             	              1	     0.183
+UNIVERSIDAD DE ANTIOQUIA                     	              1	     0.183
+UNIVERSIDAD DE CHILE                         	              1	     0.183
+UNIVERSIDAD DE LA REPUBLICA URUGUAY          	              1	     0.183
+UNIVERSIDAD DE LOS ANDES COLOMBIA            	              1	     0.183
+UNIVERSIDAD DEL VALLE                        	              1	     0.183
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO      	              5	     0.914
+UNIVERSIDAD NACIONAL DE COLOMBIA             	              1	     0.183
+UNIVERSIDAD NACIONAL DEL COMAHUE             	              1	     0.183
+UNIVERSIDAD POLITECNICA DE MADRID            	              1	     0.183
+UNIVERSIDAD REY JUAN CARLOS                  	              2	     0.366
+UNIVERSIDADE CATOLICA DE BRASILIA            	              1	     0.183
+UNIVERSIDADE DE BRASILIA                     	              1	     0.183
+UNIVERSIDADE DE SAO PAULO                    	             14	     2.559
+UNIVERSIDADE DO PORTO                        	              2	     0.366
+UNIVERSIDADE ESTADUAL DE MARINGA             	              1	     0.183
+UNIVERSIDADE ESTADUAL DE PONTA GROSSA        	              1	     0.183
+UNIVERSIDADE ESTADUAL PAULISTA               	              1	     0.183
+UNIVERSIDADE FEDERAL DA BAHIA                	              2	     0.366
+UNIVERSIDADE FEDERAL DE JUIZ DE FORA         	              2	     0.366
+UNIVERSIDADE FEDERAL DE LAVRAS               	              1	     0.183
+UNIVERSIDADE FEDERAL DE MINAS GERAIS         	              1	     0.183
+UNIVERSIDADE FEDERAL DE PERNAMBUCO           	              1	     0.183
+UNIVERSIDADE FEDERAL DE SAO JOAO DEL REI     	              1	     0.183
+UNIVERSIDADE FEDERAL DO CEARA                	              2	     0.366
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE  	              1	     0.183
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL    	              1	     0.183
+UNIVERSITA CA FOSCARI VENEZIA                	              2	     0.366
+UNIVERSITA DEGLI STUDI DI BARI ALDO MORO     	              1	     0.183
+UNIVERSITA DELLA SVIZZERA ITALIANA           	              2	     0.366
+UNIVERSITA DI MODENA E REGGIO EMILIA         	              1	     0.183
+UNIVERSITAT DE LES ILLES BALEARS             	              1	     0.183
+UNIVERSITAT ROVIRA I VIRGILI                 	              4	     0.731
+UNIVERSITE CATHOLIQUE LOUVAIN                	              9	     1.645
+UNIVERSITE CLAUDE BERNARD LYON 1             	              4	     0.731
+UNIVERSITE COTE D AZUR                       	              1	     0.183
+UNIVERSITE DE BOURGOGNE                      	              1	     0.183
+UNIVERSITE DE MONTREAL                       	              1	     0.183
+UNIVERSITE DE TOULON                         	              1	     0.183
+UNIVERSITE DE TOULOUSE                       	              2	     0.366
+UNIVERSITE DE TOULOUSE JEAN JAURES           	              1	     0.183
+UNIVERSITE FEDERALE TOULOUSE MIDI PYRENEES CO	              1	     0.183
+MUE                                          	               	          
+UNIVERSITE JEAN MONNET                       	              1	     0.183
+UNIVERSITE JEAN MOULIN LYON 3                	              1	     0.183
+UNIVERSITE LIBRE DE BRUXELLES                	              1	     0.183
+UNIVERSITE LYON 2                            	              2	     0.366
+UNIVERSITE PARIS CITE                        	              4	     0.731
+UNIVERSITE PARIS EST CRETEIL VAL DE MARNE UPE	              1	     0.183
+C                                            	               	          
+UNIVERSITE PARIS SACLAY                      	              4	     0.731
+UNIVERSITE PSL                               	              2	     0.366
+UNIVERSITE TOULOUSE 1 CAPITOLE               	              1	     0.183
+UNIVERSITE TOULOUSE III PAUL SABATIER        	              1	     0.183
+UNIVERSITI UTARA MALAYSIA                    	              1	     0.183
+UNIVERSITY AT BUFFALO SUNY                   	              2	     0.366
+UNIVERSITY COLLEGE CORK                      	              1	     0.183
+UNIVERSITY COLLEGE DUBLIN                    	              1	     0.183
+UNIVERSITY COLLEGE LONDON                    	              6	     1.097
+UNIVERSITY HOSPITAL OF PARMA                 	              1	     0.183
+UNIVERSITY KASHAN                            	              1	     0.183
+UNIVERSITY NACIONAL CUYO MENDOZA             	              2	     0.366
+UNIVERSITY OF ADELAIDE                       	              2	     0.366
+UNIVERSITY OF ALABAMA BIRMINGHAM             	              1	     0.183
+UNIVERSITY OF ALABAMA SYSTEM                 	              1	     0.183
+UNIVERSITY OF AMSTERDAM                      	              3	     0.548
+UNIVERSITY OF AUCKLAND                       	              3	     0.548
+UNIVERSITY OF BARCELONA                      	              1	     0.183
+UNIVERSITY OF BASEL                          	              1	     0.183
+UNIVERSITY OF BATH                           	              2	     0.366
+UNIVERSITY OF BELGRADE                       	              2	     0.366
+UNIVERSITY OF BIRMINGHAM                     	              3	     0.548
+UNIVERSITY OF BRISTOL                        	              5	     0.914
+UNIVERSITY OF BRITISH COLUMBIA               	              2	     0.366
+UNIVERSITY OF BUCHAREST                      	              2	     0.366
+UNIVERSITY OF BUENOS AIRES                   	              1	     0.183
+UNIVERSITY OF CALCUTTA                       	              2	     0.366
+UNIVERSITY OF CALGARY                        	              1	     0.183
+UNIVERSITY OF CALIFORNIA BERKELEY            	              2	     0.366
+UNIVERSITY OF CALIFORNIA DAVIS               	              3	     0.548
+UNIVERSITY OF CALIFORNIA IRVINE              	              2	     0.366
+UNIVERSITY OF CALIFORNIA LOS ANGELES         	             11	     2.011
+UNIVERSITY OF CALIFORNIA LOS ANGELES MEDICAL 	              1	     0.183
+CENTER                                       	               	          
+UNIVERSITY OF CALIFORNIA RIVERSIDE           	              2	     0.366
+UNIVERSITY OF CALIFORNIA SAN DIEGO           	              4	     0.731
+UNIVERSITY OF CALIFORNIA SAN FRANCISCO       	              2	     0.366
+UNIVERSITY OF CALIFORNIA SANTA BARBARA       	              1	     0.183
+UNIVERSITY OF CALIFORNIA SANTA CRUZ          	              1	     0.183
+UNIVERSITY OF CALIFORNIA SYSTEM              	             21	     3.839
+UNIVERSITY OF CAMBRIDGE                      	              9	     1.645
+UNIVERSITY OF CAPE TOWN                      	              1	     0.183
+UNIVERSITY OF CATANIA                        	              5	     0.914
+UNIVERSITY OF CHICAGO                        	              1	     0.183
+UNIVERSITY OF COLORADO BOULDER               	              2	     0.366
+UNIVERSITY OF COLORADO SYSTEM                	              2	     0.366
+UNIVERSITY OF CONNECTICUT                    	              1	     0.183
+UNIVERSITY OF COPENHAGEN                     	              1	     0.183
+UNIVERSITY OF DAR ES SALAAM                  	              1	     0.183
+UNIVERSITY OF DENVER                         	              1	     0.183
+UNIVERSITY OF EAST ANGLIA                    	              1	     0.183
+UNIVERSITY OF EASTERN FINLAND                	              1	     0.183
+UNIVERSITY OF EASTERN PIEDMONT AMEDEO AVOGADR	              1	     0.183
+O                                            	               	          
+UNIVERSITY OF EDINBURGH                      	              1	     0.183
+UNIVERSITY OF ESSEX                          	              1	     0.183
+UNIVERSITY OF EXETER                         	              4	     0.731
+UNIVERSITY OF FLORENCE                       	              1	     0.183
+UNIVERSITY OF FLORIDA                        	              2	     0.366
+UNIVERSITY OF GENOA                          	              2	     0.366
+UNIVERSITY OF GEORGIA                        	              1	     0.183
+UNIVERSITY OF GOTHENBURG                     	              2	     0.366
+UNIVERSITY OF GOTTINGEN                      	              1	     0.183
+UNIVERSITY OF GRAZ                           	              1	     0.183
+UNIVERSITY OF HAWAII MANOA                   	              1	     0.183
+UNIVERSITY OF HAWAII SYSTEM                  	              1	     0.183
+UNIVERSITY OF HELSINKI                       	              1	     0.183
+UNIVERSITY OF HOUSTON                        	              2	     0.366
+UNIVERSITY OF HOUSTON SYSTEM                 	              2	     0.366
+UNIVERSITY OF ILLINOIS CHICAGO               	              7	     1.280
+UNIVERSITY OF ILLINOIS CHICAGO HOSPITAL      	              7	     1.280
+UNIVERSITY OF ILLINOIS SYSTEM                	              7	     1.280
+UNIVERSITY OF INFORMATION TECHNOLOGY MANAGEME	              1	     0.183
+NT RZESZOW                                   	               	          
+UNIVERSITY OF INSUBRIA                       	              1	     0.183
+UNIVERSITY OF IOWA                           	              2	     0.366
+UNIVERSITY OF KANSAS                         	              1	     0.183
+UNIVERSITY OF KANSAS MEDICAL CENTER          	              1	     0.183
+UNIVERSITY OF KENT                           	              1	     0.183
+UNIVERSITY OF KENTUCKY                       	              1	     0.183
+UNIVERSITY OF KERALA                         	              2	     0.366
+UNIVERSITY OF KONSTANZ                       	              4	     0.731
+UNIVERSITY OF L AQUILA                       	              1	     0.183
+UNIVERSITY OF LAUSANNE                       	              4	     0.731
+UNIVERSITY OF LEEDS                          	              1	     0.183
+UNIVERSITY OF LIMERICK                       	              7	     1.280
+UNIVERSITY OF LONDON                         	             16	     2.925
+UNIVERSITY OF MANCHESTER                     	              3	     0.548
+UNIVERSITY OF MANITOBA                       	              1	     0.183
+UNIVERSITY OF MARIBOR                        	              6	     1.097
+UNIVERSITY OF MARYLAND COLLEGE PARK          	              2	     0.366
+UNIVERSITY OF MELBOURNE                      	              1	     0.183
+UNIVERSITY OF MIAMI                          	              3	     0.548
+UNIVERSITY OF MICHIGAN                       	              8	     1.463
+UNIVERSITY OF MICHIGAN SYSTEM                	              8	     1.463
+UNIVERSITY OF NAMUR                          	              4	     0.731
+UNIVERSITY OF NEBRASKA LINCOLN               	              2	     0.366
+UNIVERSITY OF NEBRASKA SYSTEM                	              3	     0.548
+UNIVERSITY OF NEW MEXICO                     	              1	     0.183
+UNIVERSITY OF NORTH CAROLINA                 	              7	     1.280
+UNIVERSITY OF NORTH CAROLINA CHAPEL HILL     	              3	     0.548
+UNIVERSITY OF NORTH CAROLINA CHARLOTTE       	              3	     0.548
+UNIVERSITY OF NORTH CAROLINA SCHOOL OF MEDICI	              2	     0.366
+NE                                           	               	          
+UNIVERSITY OF NORTH CAROLINA WILMINGTON      	              1	     0.183
+UNIVERSITY OF NOTRE DAME                     	              2	     0.366
+UNIVERSITY OF OTTAWA                         	              1	     0.183
+UNIVERSITY OF OXFORD                         	             30	     5.484
+UNIVERSITY OF PADERBORN                      	              1	     0.183
+UNIVERSITY OF PADUA                          	              2	     0.366
+UNIVERSITY OF PALERMO                        	              3	     0.548
+UNIVERSITY OF PANNONIA                       	              1	     0.183
+UNIVERSITY OF PARMA                          	              2	     0.366
+UNIVERSITY OF PENNSYLVANIA                   	              9	     1.645
+UNIVERSITY OF PISA                           	              2	     0.366
+UNIVERSITY OF PITTSBURGH                     	              2	     0.366
+UNIVERSITY OF POTSDAM                        	              2	     0.366
+UNIVERSITY OF QUEENSLAND                     	              1	     0.183
+UNIVERSITY OF READING                        	              1	     0.183
+UNIVERSITY OF ROCHESTER                      	              1	     0.183
+UNIVERSITY OF ROME TOR VERGATA               	              4	     0.731
+UNIVERSITY OF RZESZOW                        	              1	     0.183
+UNIVERSITY OF SHANGHAI FOR SCIENCE TECHNOLOGY	              1	     0.183
+UNIVERSITY OF SOUTH FLORIDA                  	              1	     0.183
+UNIVERSITY OF SOUTHAMPTON                    	              6	     1.097
+UNIVERSITY OF SOUTHERN CALIFORNIA            	              5	     0.914
+UNIVERSITY OF STRATHCLYDE                    	              8	     1.463
+UNIVERSITY OF SUSSEX                         	              4	     0.731
+UNIVERSITY OF SYDNEY                         	              1	     0.183
+UNIVERSITY OF TEHRAN                         	              2	     0.366
+UNIVERSITY OF TENNESSEE KNOXVILLE            	              1	     0.183
+UNIVERSITY OF TENNESSEE SYSTEM               	              1	     0.183
+UNIVERSITY OF TEXAS AT SAN ANTONIO UTSA      	              1	     0.183
+UNIVERSITY OF TEXAS DALLAS                   	              1	     0.183
+UNIVERSITY OF TEXAS SYSTEM                   	              2	     0.366
+UNIVERSITY OF THESSALY                       	              1	     0.183
+UNIVERSITY OF TOKYO                          	              3	     0.548
+UNIVERSITY OF TORONTO                        	              5	     0.914
+UNIVERSITY OF TRENTO                         	             11	     2.011
+UNIVERSITY OF TRIESTE                        	              1	     0.183
+UNIVERSITY OF TURIN                          	              4	     0.731
+UNIVERSITY OF TWENTE                         	              3	     0.548
+UNIVERSITY OF UTAH                           	              1	     0.183
+UNIVERSITY OF VERMONT                        	              2	     0.366
+UNIVERSITY OF VERONA                         	              1	     0.183
+UNIVERSITY OF VIENNA                         	              1	     0.183
+UNIVERSITY OF WARWICK                        	              1	     0.183
+UNIVERSITY OF WASHINGTON                     	              2	     0.366
+UNIVERSITY OF WASHINGTON SEATTLE             	              2	     0.366
+UNIVERSITY OF WATERLOO                       	              1	     0.183
+UNIVERSITY OF WESTERN AUSTRALIA              	              2	     0.366
+UNIVERSITY OF WISCONSIN MADISON              	              1	     0.183
+UNIVERSITY OF WISCONSIN SYSTEM               	              1	     0.183
+UNIVERSITY OF WURZBURG                       	              1	     0.183
+UNIVERSITY OF YORK UK                        	              7	     1.280
+UNIVERSITY OF ZARAGOZA                       	              6	     1.097
+UNIVERSITY OF ZURICH                         	              2	     0.366
+UNIVERSITY SYSTEM OF GEORGIA                 	              6	     1.097
+UNIVERSITY SYSTEM OF MARYLAND                	              2	     0.366
+UNIVERSITY SYSTEM OF OHIO                    	              4	     0.731
+UPENN SCH MED                                	              1	     0.183
+UPPSALA UNIVERSITY                           	              3	     0.548
+URSINUS COLL                                 	              1	     0.183
+US AIR FORCE RESEARCH LABORATORY             	              1	     0.183
+US ARMY RESEARCH DEVELOPMENT ENGINEERING COMM	              1	     0.183
+AND RDECOM                                   	               	          
+US ARMY RESEARCH LABORATORY ARL              	              1	     0.183
+US CCDC ARMY RES LAB                         	              1	     0.183
+UTAH SYSTEM OF HIGHER EDUCATION              	              1	     0.183
+UTRECHT UNIVERSITY                           	              2	     0.366
+V A TRAPEZNIKOV INSTITUTE OF CONTROL SCIENCES	              1	     0.183
+RUSSIAN ACADEMY OF SCIENCES                  	               	          
+VILLE AVIGNON                                	              1	     0.183
+VILNIUS UNIVERSITY                           	              1	     0.183
+VIRGINIA MIL INST                            	              1	     0.183
+VIRGINIA POLYTECHNIC INSTITUTE STATE UNIVERSI	              1	     0.183
+TY                                           	               	          
+VISHWAMITRA RES INST                         	              1	     0.183
+VRIJE UNIVERSITEIT AMSTERDAM                 	              1	     0.183
+VRIJE UNIVERSITEIT BRUSSEL                   	              1	     0.183
+WAKE FOREST UNIVERSITY                       	              1	     0.183
+WAKE FOREST UNIVERSITY SCHOOL OF MEDICINE    	              1	     0.183
+WARSAW SCHOOL OF ECONOMICS                   	              8	     1.463
+WASEDA UNIVERSITY                            	              3	     0.548
+WASHINGTON UNIVERSITY WUSTL                  	              2	     0.366
+WEST POINT ACAD                              	              1	     0.183
+WICHITA STATE UNIVERSITY                     	              1	     0.183
+WIEN CTR                                     	              1	     0.183
+WINONA STATE UNIVERSITY                      	              1	     0.183
+WOLFRAM RESEARCH INC                         	              1	     0.183
+WOODS HOLE INST                              	              1	     0.183
+WROCLAW UNIVERSITY OF SCIENCE TECHNOLOGY     	              1	     0.183
+WUHAN UNIVERSITY OF SCIENCE TECHNOLOGY       	              1	     0.183
+WUHAN UNIVERSITY OF TECHNOLOGY               	              1	     0.183
+WUXI INSTITUTE OF TECHNOLOGY                 	              1	     0.183
+XI AN JIAOTONG LIVERPOOL UNIVERSITY          	              2	     0.366
+XI AN UNIVERSITY OF SCIENCE TECHNOLOGY       	              1	     0.183
+XLRI XAVIER SCHOOL OF MANAGEMENT             	              1	     0.183
+YALE UNIVERSITY                              	              1	     0.183
+YANDEX                                       	              1	     0.183
+YANSHAN UNIVERSITY                           	              1	     0.183
+YANTAI INSTITUTE OF COASTAL ZONE RESEARCH CAS	              1	     0.183
+YANTAI UNIVERSITY                            	              1	     0.183
+YESHIVA UNIVERSITY                           	              3	     0.548
+ZAYED UNIVERSITY                             	              1	     0.183
+ZHEJIANG GONGSHANG UNIVERSITY                	              1	     0.183
+ZHEJIANG YUYING COLL VOCAT TECHNOL           	              1	     0.183
+ZHENGZHOU UNIVERSITY                         	              1	     0.183
+ZHENGZHOU UNIVERSITY OF TECHNOLOGY           	              1	     0.183
+
+8 record(s) (1.463%) do not contain data in the field being analyzed
