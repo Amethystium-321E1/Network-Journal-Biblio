@@ -17,5 +17,3 @@ Sustainable Development Goals                	   Record Count	       % of 1,557
 04 Quality Education                         	              6	     0.385
 07 Affordable And Clean Energy               	              5	     0.321
 17 Partnerships For The Goals                	              3	     0.193
-
-1,074 record(s) (68.979%) do not contain data in the field being analyzed

@@ -993,5 +993,3 @@ XIAMEN UNIVERSITY                            	              1	     0.064
 XIDIAN UNIVERSITY                            	              1	     0.064
 YESHIVA UNIVERSITY                           	              1	     0.064
 YOKOHAMA NATIONAL UNIVERSITY                 	              1	     0.064
-
-14 record(s) (0.899%) do not contain data in the field being analyzed

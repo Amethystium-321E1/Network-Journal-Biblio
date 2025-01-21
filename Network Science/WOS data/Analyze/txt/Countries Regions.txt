@@ -45,5 +45,3 @@ TURKEY                                       	              1	     0.332
 U ARAB EMIRATES                              	              2	     0.664
 USA                                          	            164	    54.485
 VIETNAM                                      	              1	     0.332
-
-4 record(s) (1.329%) do not contain data in the field being analyzed

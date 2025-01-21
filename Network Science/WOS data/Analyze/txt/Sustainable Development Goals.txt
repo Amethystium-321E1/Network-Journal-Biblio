@@ -17,5 +17,3 @@ Sustainable Development Goals                	   Record Count	         % of 301
 15 Life On Land                              	              3	     0.997
 16 Peace And Justice Strong Institutions     	              3	     0.997
 17 Partnerships For The Goals                	              3	     0.997
-
-235 record(s) (78.073%) do not contain data in the field being analyzed

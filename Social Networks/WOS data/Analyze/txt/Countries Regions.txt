@@ -67,5 +67,3 @@ THAILAND                                     	              1	     0.064
 U ARAB EMIRATES                              	              1	     0.064
 UGANDA                                       	              1	     0.064
 UKRAINE                                      	              1	     0.064
-
-12 record(s) (0.771%) do not contain data in the field being analyzed

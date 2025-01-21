@@ -420,5 +420,3 @@ TOM BROEKEL AND THE PARTICIPANTS OF THE GCEG CONFERENCE IN DUBLIN 2022
 WELLCOME TRUST                               	              1	     0.332
 YALE UNIVERSITY                              	              1	     0.332
 ZUKUNFTSKOLLEG AT THE UNIVERSITY OF KONSTANZ 	              1	     0.332
-
-121 record(s) (40.199%) do not contain data in the field being analyzed

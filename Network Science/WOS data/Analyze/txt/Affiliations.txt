@@ -448,5 +448,3 @@ RIO
 WROCLAW UNIVERSITY OF SCIENCE TECHNOLOGY     	              1	     0.332
 YALE UNIVERSITY                              	              3	     0.997
 YESHIVA UNIVERSITY                           	              1	     0.332
-
-4 record(s) (1.329%) do not contain data in the field being analyzed

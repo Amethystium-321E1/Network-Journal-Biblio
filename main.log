@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.9)  19 JAN 2025 07:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.9)  21 JAN 2025 00:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -189,32 +189,72 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 \Gin@req@height=\dimen146
 \Gin@req@width=\dimen147
 )
+(D:\MikTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+ (D:\MikTeX\tex/latex/tools\array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen148
+\ar@mcellbox=\box52
+\extrarowheight=\dimen149
+\NC@list=\toks18
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box53
+)
+\TX@col@width=\dimen150
+\TX@old@table=\dimen151
+\TX@old@col=\dimen152
+\TX@target=\dimen153
+\TX@delta=\dimen154
+\TX@cols=\count280
+\TX@ftn=\toks19
+)
+(D:\MikTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen155
+\lightrulewidth=\dimen156
+\cmidrulewidth=\dimen157
+\belowrulesep=\dimen158
+\belowbottomsep=\dimen159
+\aboverulesep=\dimen160
+\abovetopsep=\dimen161
+\cmidrulesep=\dimen162
+\cmidrulekern=\dimen163
+\defaultaddspace=\dimen164
+\@cmidla=\count281
+\@cmidlb=\count282
+\@aboverulesep=\dimen165
+\@belowrulesep=\dimen166
+\@thisruleclass=\count283
+\@lastruleclass=\count284
+\@thisrulewidth=\dimen167
+)
 (D:\MikTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count280
-\l__pdf_internal_box=\box52
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box54
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-Package hyperref Info: Link coloring OFF on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+Package hyperref Info: Link coloring OFF on input line 12.
  (main.out)
 (main.out)
 \@outlinefile=\write3
@@ -222,17 +262,17 @@ Package hyperref Info: Link coloring OFF on input line 9.
 
  (D:\MikTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count281
-\scratchdimen=\dimen148
-\scratchbox=\box53
-\nofMPsegments=\count282
-\nofMParguments=\count283
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count284
-\MPscratchDim=\dimen149
-\MPnumerator=\count285
-\makeMPintoPDFobject=\count286
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count286
+\scratchdimen=\dimen168
+\scratchbox=\box55
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen169
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks21
 ) (D:\MikTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -242,12 +282,15 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 12.
+(Font)              <12> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
+(Font)              <6> on input line 15.
 
+
+
+Underfull \vbox (badness 1466) has occurred while \output is active []
 
 
 
@@ -255,115 +298,132 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ]
-Underfull \hbox (badness 1661) in paragraph at lines 42--43
+Underfull \hbox (badness 1661) in paragraph at lines 45--46
 \OT1/cmr/m/n/10 high-light-ing shifts in dom-i-nant themes and
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 44--45
+Underfull \hbox (badness 1354) in paragraph at lines 47--48
 []\OT1/cmr/m/n/10 Map col-lab-o-ra-tive net-works, ex-am-in-ing how
  []
 
 
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 57.
+(Font)              <7> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 57.
+(Font)              <5> on input line 61.
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 [][]$\OT1/cmtt/m/n/10 https : / / www . webofscience .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 \OT1/cmtt/m/n/10 com / wos / woscc / summary /
  []
 
 
-Overfull \hbox (44.99783pt too wide) in paragraph at lines 57--58
+Overfull \hbox (44.99783pt too wide) in paragraph at lines 61--62
 \OT1/cmtt/m/n/10 8b9cb9e7-[]5920-[]4a8c-[]8957-[]1f45746eb38f-[]01449729f7 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 [][]$\OT1/cmtt/m/n/10 https : / / www . webofscience .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 \OT1/cmtt/m/n/10 com / wos / woscc / summary /
  []
 
 
-Overfull \hbox (44.99783pt too wide) in paragraph at lines 58--59
+Overfull \hbox (44.99783pt too wide) in paragraph at lines 62--63
 \OT1/cmtt/m/n/10 b70d5df8-[]5cd9-[]4064-[]8329-[]390221e5fcc0-[]014497387b /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 [][]$\OT1/cmtt/m/n/10 https : / / www . webofscience .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 \OT1/cmtt/m/n/10 com / wos / woscc / summary /
  []
 
 
-Overfull \hbox (44.99783pt too wide) in paragraph at lines 59--60
+Overfull \hbox (44.99783pt too wide) in paragraph at lines 63--64
 \OT1/cmtt/m/n/10 cfb2985d-[]4457-[]4214-[]85c1-[]4ee6224ffecb-[]014497425b /
  []
 
-<images/Record Count Proportion.pdf, id=41, 2600.71625pt x 1446.40375pt>
-File: images/Record Count Proportion.pdf Graphic file (type pdf)
-<use images/Record Count Proportion.pdf>
-Package pdftex.def Info: images/Record Count Proportion.pdf  used on input line
- 66.
-(pdftex.def)             Requested size: 229.5pt x 127.63263pt.
 
 
 [2]
 
+pdfTeX warning: pdflatex.exe (file ./images/Record Count Proportion.pdf): PDF i
+nclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<images/Record Count Proportion.pdf, id=65, 614.05779pt x 384.09445pt>
+File: images/Record Count Proportion.pdf Graphic file (type pdf)
+<use images/Record Count Proportion.pdf>
+Package pdftex.def Info: images/Record Count Proportion.pdf  used on input line
+ 73.
+(pdftex.def)             Requested size: 229.5pt x 143.55447pt.
 
-Underfull \hbox (badness 4634) in paragraph at lines 78--80
-[]\OT1/cmr/bx/n/10 Growth and Peak Pub-li-ca-tion Years
- []
-
-
-Underfull \hbox (badness 1308) in paragraph at lines 81--83
-[]\OT1/cmr/bx/n/10 Recent De-cline or Sta-bi-liza-tion (Post-
- []
 
 
 
 [3 <./images/Record Count Proportion.pdf>]
-<images/Record Count of Top 100 Authors.pdf, id=165, 2829.54797pt x 1104.87376p
-t>
-File: images/Record Count of Top 100 Authors.pdf Graphic file (type pdf)
-<use images/Record Count of Top 100 Authors.pdf>
-Package pdftex.def Info: images/Record Count of Top 100 Authors.pdf  used on in
-put line 105.
-(pdftex.def)             Requested size: 229.5pt x 89.60555pt.
+<images/Top 30 Authors by Publication Count Across Three Journals.pdf, id=112, 
+1084.05pt x 527.35196pt>
+File: images/Top 30 Authors by Publication Count Across Three Journals.pdf Grap
+hic file (type pdf)
+<use images/Top 30 Authors by Publication Count Across Three Journals.pdf>
+Package pdftex.def Info: images/Top 30 Authors by Publication Count Across Thre
+e Journals.pdf  used on input line 105.
+(pdftex.def)             Requested size: 469.0pt x 228.149pt.
 
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 114--115
-[]\OT1/cmr/m/n/10 Social Net-works re-mains the dom-i-nant
+Underfull \hbox (badness 1173) in paragraph at lines 120--121
+\OT1/cmr/m/n/10 nal's aim to in-flu-ence prac-ti-cal and policy-
  []
 
-(main.bbl
+
+Underfull \hbox (badness 2150) in paragraph at lines 121--122
+[]\OT1/cmr/bx/n/10 Theoretical and Com-pu-ta-tional Fo-cus:
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 121--122
+\OT1/cmr/m/n/10 Con-versely, au-thors like \OT1/cmr/bx/n/10 Porter MA \OT1/cmr/
+m/n/10 and
+ []
+
+
+
+[4]
+
+
+
+[5 <./images/Top 30 Authors by Publication Count Across Three Journals.pdf>]
+
+
+Underfull \vbox (badness 7168) has occurred while \output is active []
+
+
+
+[6] (main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--7
 []\OT1/cmr/m/n/10 Donthu, N., Ku-mar, S.,
  []
 
-
-
-[4 <./images/Record Count of Top 100 Authors.pdf>])
+)
 
 
 
-[5
+[7
 
 ] (main.aux)
  ***********
@@ -371,25 +431,24 @@ LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 404028F789E70254D3D22C688AF66F10;1078.
+(rerunfilecheck)             Checksum: 9B30C128747A89A1876ACE8163FA9025;1650.
  ) 
 Here is how much of TeX's memory you used:
- 8614 strings out of 473899
- 131925 string characters out of 5742897
- 533535 words of memory out of 5000000
- 31387 multiletter control sequences out of 15000+600000
+ 8827 strings out of 473899
+ 135276 string characters out of 5742897
+ 544680 words of memory out of 5000000
+ 31582 multiletter control sequences out of 15000+600000
  563480 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,1000b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,1000b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Amethystium\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm1000.pk><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MikTeX/f
 onts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MikTeX/fonts/type1/public/amsfonts
-/cm/cmr10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MikTeX/fo
-nts/type1/public/amsfonts/cm/cmti10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/
-cm/cmtt10.pfb>
-Output written on main.pdf (5 pages, 218764 bytes).
+/cm/cmr10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/MikTeX/f
+onts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (7 pages, 183648 bytes).
 PDF statistics:
- 323 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 59 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 242 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 75 words of extra memory for PDF output out of 10000 (max. 10000000)
 

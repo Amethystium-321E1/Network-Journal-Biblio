@@ -58,5 +58,3 @@ U ARAB EMIRATES                              	              2	     0.366
 URUGUAY                                      	              1	     0.183
 USA                                          	            173	    31.627
 WALES                                        	              1	     0.183
-
-8 record(s) (1.463%) do not contain data in the field being analyzed

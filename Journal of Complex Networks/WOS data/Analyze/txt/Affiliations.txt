@@ -826,5 +826,3 @@ ZHEJIANG GONGSHANG UNIVERSITY                	              1	     0.183
 ZHEJIANG YUYING COLL VOCAT TECHNOL           	              1	     0.183
 ZHENGZHOU UNIVERSITY                         	              1	     0.183
 ZHENGZHOU UNIVERSITY OF TECHNOLOGY           	              1	     0.183
-
-8 record(s) (1.463%) do not contain data in the field being analyzed

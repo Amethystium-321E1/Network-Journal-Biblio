@@ -637,5 +637,3 @@ YOUTH TOP TALENT PROJECT OF HEBEI EDUCATION D	              1	     0.064
 EPARTMENT                                    	               	          
 ZUKUNFTSKOLLEG OF THE UNIVERSITY OF KONSTANZ 	              1	     0.064
 GERMANY                                      	               	          
-
-1,118 record(s) (71.805%) do not contain data in the field being analyzed

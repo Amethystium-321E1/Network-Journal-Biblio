@@ -692,5 +692,3 @@ YILDIZ TECHNICAL UNIVERSITY                  	              1	     0.183
 YOUTH INNOVATION PROMOTION ASSOCIATION OF CAS	              1	     0.183
 YOUTH NATURAL SCIENCE FOUNDATION OF SHANXI PR	              1	     0.183
 OVINCE                                       	               	          
-
-165 record(s) (30.165%) do not contain data in the field being analyzed
