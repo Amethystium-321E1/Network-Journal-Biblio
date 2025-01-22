@@ -1,69 +1,84 @@
 \documentclass[twocolumn]{article}
 \usepackage{cite}
+\PassOptionsToPackage{hyphens}{url}
 \usepackage{hyperref}
 \usepackage{graphicx}
 \usepackage{tabularx}
 \usepackage{booktabs}
+\usepackage{authblk}
+\usepackage{abstract}
 
 \title{\textbf{Mapping the Intellectual Structure of Social Network Research: A Bibliometric Analysis of Three Journals}}
-\author{\textbf{Pengjia Cui}}
+\author{Pengjia Cui \thanks{Corresponding author: pcui@ucsd.edu}}
+\affil{Computational Social Science \\
+	University of California San Diego}
 \date{}
+
+\makeatletter
+\renewenvironment{abstract}{%
+	\small%
+	\begin{center}%
+		\bfseries \abstractname\vspace{-.5em}\vspace{\z@}%
+	\end{center}%
+	\quotation
+}{\endquotation}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
 	
+	\twocolumn[
 	\maketitle
-	
-	\begin{abstract}
-		This study presents a comprehensive bibliometric analysis of research published in three leading journals in the field of social network studies: \textit{Social Networks}, \textit{Journal of Complex Networks}, and \textit{Network Science}. Using data retrieved from the \textit{Web of Science} (WoS), we employ performance analysis, science mapping, and network analysis to examine the intellectual structure, research trends, and collaboration patterns within the domain. Our findings reveal key thematic clusters, influential publications, and evolving research trajectories. Additionally, we assess the impact of prolific authors and institutions while mapping co-authorship networks to understand patterns of scholarly collaboration. By integrating multiple bibliometric techniques, this study provides a structured overview of the field’s development, offering insights into emerging research areas and future directions in social and complex network studies.
-	\end{abstract}
-	
+	\begin{onecolabstract}
+		Understanding the intellectual landscape of social network research is crucial for tracking its theoretical and methodological evolution. This study conducts a comprehensive bibliometric analysis of research published in three leading journals in the field: \textit{Social Networks}, \textit{Journal of Complex Networks}, and \textit{Network Science}. These journals were selected due to their distinct aims and scopes: \textit{Social Networks} focuses on sociological and empirical studies, \textit{Journal of Complex Networks} emphasizes mathematical and computational approaches, and \textit{Network Science} bridges interdisciplinary perspectives in network theory. This diversity reflects the inherently interdisciplinary nature of network science. Using data retrieved from the \textit{Web of Science} (WoS), we apply \textbf{performance analysis} to evaluate publication and citation trends, \textbf{science mapping} to identify thematic clusters and knowledge structures, and \textbf{network analysis} to examine collaboration patterns among authors and institutions. Our findings reveal key thematic shifts, influential publications, and the evolving structure of scholarly collaboration. Additionally, we highlight the increasing differentiation between empirical and computational approaches to social network research. By integrating multiple bibliometric techniques, this study provides a structured and data-driven overview of the field’s development, offering insights into emerging research areas and future directions.
+	\end{onecolabstract}
+	\vspace{1cm}
+	]
+
 	\section{Introduction}\label{Introduction}
 	
-	Bibliometric analysis provides a systematic approach to understanding the intellectual landscape and research dynamics within a scientific field. By examining publication and citation patterns, scholars can gain insights into key research themes, methodological trends, and the evolution of scholarly discourse. In this study, we conduct a bibliometric analysis of three leading journals in social and complex network research—\textit{Social Networks}, \textit{Journal of Complex Networks}, and \textit{Network Science}—to map the intellectual structure of the field, identify key themes and trends, assess research impact, and analyze collaboration patterns.
+	Bibliometric analysis offers a systematic approach to uncovering the intellectual landscape and research dynamics within a scientific field. It enables scholars to identify key research themes, track methodological trends, and understand the evolution of scholarly discourse. Network science, as an inherently interdisciplinary field bridging sociology, computer science, mathematics, and physics, presents a unique challenge for such analyses due to its diverse methodologies and applications.
 	
-	Specifically, this study aims to: (1) map the intellectual structure of social network research by examining citation networks and scholarly influences, (2) identify key themes and trends by analyzing keyword co-occurrence and thematic clusters across the three journals, (3) assess research impact by evaluating citation counts, influential publications, and contributions from prolific authors and institutions, and (4) analyze collaboration patterns by exploring co-authorship networks and institutional affiliations.
+	In this study, we conduct a bibliometric analysis of three leading journals—\textit{Social Networks}, \textit{Journal of Complex Networks}, and \textit{Network Science}. These journals were chosen for their distinct aims and scopes: \textit{Social Networks} emphasizes sociological and empirical studies, \textit{Journal of Complex Networks} focuses on mathematical and computational approaches, and \textit{Network Science} bridges interdisciplinary perspectives. By examining these journals, we aim to provide a comprehensive overview of the intellectual structure, thematic evolution, and collaboration patterns in social and complex network research.
 	
-	To achieve these objectives, our analysis is structured into three main components. First, we conduct a performance analysis to assess publication trends, citation impact, and the contributions of leading scholars and institutions. Second, we implement science mapping techniques—including co-citation analysis, bibliographic coupling, and keyword co-occurrence analysis—to explore the thematic evolution and intellectual structure of the field. Finally, we perform a network analysis to examine collaboration patterns among researchers, institutions, and countries, uncovering structural properties of co-authorship and citation networks.
+	Specifically, this study aims to: (1) map the intellectual structure of social network research by analyzing citation networks and scholarly influences, (2) identify key themes and trends through keyword co-occurrence and thematic clustering, (3) assess research impact by evaluating citation counts, influential publications, and prolific contributors, and (4) explore collaboration patterns using co-authorship and institutional networks.
 	
-	By integrating these approaches, this study offers a structured overview of the current research landscape in social and complex network studies. While not exhaustive, it provides valuable insights into the development and diffusion of knowledge in the field, highlighting emerging research trajectories and potential future directions.
+	To achieve these objectives, we adopt a three-pronged approach. First, we conduct a performance analysis to evaluate publication trends, citation impact, and the contributions of leading scholars and institutions. Second, we apply science mapping techniques—such as co-citation analysis, bibliographic coupling, and keyword co-occurrence analysis—to uncover thematic clusters and the intellectual structure of the field. Finally, we perform a network analysis to explore patterns of scholarly collaboration across authors, institutions, and countries.
 	
-	Having defined the aims and scope of this study, the next step is to determine the bibliometric techniques that will allow us to systematically analyze the research landscape within \textit{Social Networks}, \textit{Journal of Complex Networks}, and Network Science. Following \cite{donthu_how_2021}, we categorize our approach into three primary analytical components: performance analysis, science mapping, and network analysis. Each technique is selected to directly align with our research objectives.
+	By integrating these methods, this study provides a structured and data-driven overview of the current research landscape in social and complex network studies. While not exhaustive, it offers valuable insights into the field’s development, emerging trajectories, and potential future directions.
 	
 	\section{Bibliometric Techniques}\label{Bibliometric Techniques}
 	
-	To systematically analyze the intellectual structure of social network research, this study employs three interconnected bibliometric approaches: performance analysis, science mapping, and network analysis. Each method offers distinct yet complementary insights into the research landscape of the three selected journals.
+	To systematically analyze the intellectual structure of social network research, this study employs three interconnected bibliometric approaches: \textbf{performance analysis}, \textbf{science mapping}, and \textbf{network analysis}. Each method provides distinct yet complementary insights into the research landscape of the selected journals.
 	
-	\textbf{Performance analysis} provides a quantitative assessment of research productivity and impact by examining publication trends, citation metrics, and the contributions of influential authors, institutions, and countries.
+	\textbf{Performance analysis} quantitatively evaluates research productivity and impact by examining publication trends, citation metrics, and contributions from influential authors, institutions, and countries. This approach highlights the historical growth of the field and identifies its most prolific contributors.
 	
-	\textbf{Science mapping} uncovers the thematic and conceptual structure of the field by identifying research clusters, keyword co-occurrence patterns, and intellectual influences through co-citation and bibliographic coupling analyses.
+	\textbf{Science mapping} explores the thematic and conceptual structure of the field by uncovering research clusters, keyword co-occurrence patterns, and intellectual influences. Using techniques such as co-citation analysis, bibliographic coupling, and topic modeling, science mapping reveals the knowledge base and thematic evolution of social network research.
 	
-	\textbf{Network analysis} explores patterns of collaboration among authors, institutions, and countries, shedding light on the social and structural dynamics of knowledge production in social network research.
+	\textbf{Network analysis} investigates collaboration patterns among authors, institutions, and countries. By analyzing co-authorship networks, institutional collaborations, and international partnerships, this approach sheds light on the social and structural dynamics of knowledge production in the field.
 	
-	By systematically integrating these three analytical components, this study provides a comprehensive and structured overview of social network research across the selected journals. The results will:
-	
+	By systematically integrating these three analytical components, this study provides a comprehensive and structured overview of social network research. The results will:
 	\begin{itemize}
 		\item Reveal historical and emerging research trends, highlighting shifts in dominant themes and methodological approaches.
 		\item Identify key contributors and influential works, offering insights into the most impactful papers, prolific scholars, and leading institutions.
 		\item Map collaborative networks, examining how scholars, institutions, and countries interact and contribute to the field.
 	\end{itemize}
 	
-	Our multi-faceted approach ensures that the study not only quantifies research impact but also contextualizes the development of ideas, theories, and methodologies in social network research. The following sections describe each bibliometric technique in detail, outlining its purpose, methodology, data requirements, and analytical tools.
+	This multi-faceted approach not only quantifies research impact but also contextualizes the development of ideas, theories, and methodologies in social network research. The following sections provide a detailed description of each bibliometric technique, including its purpose, methodology, data requirements, and analytical tools.
+	
+	To ensure a comprehensive and accurate dataset for bibliometric analysis, we retrieved publication records from the Web of Science (WoS), limiting our selection to articles published in \textit{Social Networks}, \textit{Journal of Complex Networks}, and \textit{Network Science}. The search was structured to include only records explicitly affiliated with these journals, avoiding misclassification from unrelated sources. The full query links used for data extraction are provided below:
+	\begin{itemize}
+		\item \url{https://www.webofscience.com/wos/woscc/summary/8b9cb9e7-5920-4a8c-8957-1f45746eb38f-01449729f7/relevance/1}
+		\item 	\url{https://www.webofscience.com/wos/woscc/summary/b70d5df8-5cd9-4064-8329-390221e5fcc0-014497387b/relevance/1}
+		\item 	\url{https://www.webofscience.com/wos/woscc/summary/cfb2985d-4457-4214-85c1-4ee6224ffecb-014497425b/relevance/1}
+	\end{itemize}
+	
+	Following data retrieval, a preprocessing step was conducted to refine the dataset. We verified that each record belonged to one of the three journals and removed any erroneous entries. Records with missing or incomplete metadata—such as missing publication years, authorship details, or incorrectly formatted citations—were excluded. These measures ensured that our analysis accurately reflected the scholarly output in these journals without distortions from irrelevant or unreliable data.
 	
 	\section{Performance Analysis}\label{Performance Analysis}
 	
 	Performance analysis in bibliometrics provides an overview of research productivity, citation impact, and contributions of authors, institutions, and countries. It helps quantify the most influential publications, prolific researchers, and overall research trends in \textit{Social Networks}, \textit{Journal of Complex Networks}, and \textit{Network Science}.
-	
-	\subsection{Data Collection and Preprocessing}
-	
-	To ensure a comprehensive and accurate dataset for bibliometric analysis, we retrieved publication records from the Web of Science (WoS), limiting our selection to articles published in \textit{Social Networks}, \textit{Journal of Complex Networks}, and \textit{Network Science}. The search was structured to include only records explicitly affiliated with these journals, avoiding misclassification from unrelated sources. The full query links used for data extraction are provided below:
-	
-	\begin{itemize}
-		\item \url{https://www.webofscience.com/wos/woscc/summary/8b9cb9e7-5920-4a8c-8957-1f45746eb38f-01449729f7/relevance/1}
-		\item \url{https://www.webofscience.com/wos/woscc/summary/b70d5df8-5cd9-4064-8329-390221e5fcc0-014497387b/relevance/1}
-		\item \url{https://www.webofscience.com/wos/woscc/summary/cfb2985d-4457-4214-85c1-4ee6224ffecb-014497425b/relevance/1}
-	\end{itemize}
-	
-	Following data retrieval, a preprocessing step was conducted to refine the dataset. We verified that each record belonged to one of the three journals and removed any erroneous entries. Records with missing or incomplete metadata—such as missing publication years, authorship details, or incorrectly formatted citations—were excluded. These measures ensured that our analysis accurately reflected the scholarly output in these journals without distortions from irrelevant or unreliable data.
 	
 	\subsection{Publication Trends in Social Network Research}
 	
@@ -157,10 +172,11 @@
 	
 	The institutional landscape of social network research reflects both regional and disciplinary distinctions. \textit{Social Networks} remains closely linked to North American universities with strong traditions in empirical network studies, while European institutions lead contributions to \textit{Journal of Complex Networks} and \textit{Network Science}, reinforcing their prominence in complexity science and theoretical research. The presence of highly specialized institutions such as \textit{The Santa Fe Institute} highlights the growing role of interdisciplinary approaches, while increasing contributions from regions outside North America and Europe—such as \textit{Universidade de São Paulo}—signal a gradual globalization of the field.
 	
-	\begin{table}
+	\begin{table*}[htbp]
+		\centering
 		\caption{Top 10 Affiliations per Journal}
 		\label{table.tab1}
-		\resizebox{\linewidth}{!}{
+		\resizebox{0.75\textwidth}{!}{
 			\begin{tabular}{lcl}
 				\toprule
 				Affiliations & Record Count & Journal \\
@@ -197,7 +213,7 @@
 				MASSACHUSETTS INSTITUTE OF TECHNOLOGY MIT     & 10 & Journal of Complex Networks \\
 				\bottomrule
 		\end{tabular}}
-	\end{table}
+	\end{table*}
 
 	
 	
