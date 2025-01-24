@@ -1,0 +1,1805 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Ikkink, KK
+   van tilburg, T
+TI Broken ties: reciprocity and other factors affecting the termination of older adults' relationships
+SO SOCIAL NETWORKS
+AB Exchange theory assumes that people prefer balanced support exchanges in their relationships. If there is an imbalance and no expectation of change in the future, a relationship might be terminated. The question is: Which relationships are discontinued? The data are from a longitudinal study of 2057 older adults who identify 18,915 relationships at T-1. A relationship is regarded as discontinued if it is not identified by the older adult at the second and third observations. Of the T-1 relationships, 4042 have since been discontinued. The results of a multilevel logistic regression analysis show that the more intensive the support exchanges are at T-1, the more likely it is for relationships to be continued. Relationships where older adults are overbenefited with instrumental support, i.e., receive more than they give, have a higher chance of being continued. However, if older adults are overbenefited with emotional support, this decreases the chance of the relationships continuing. The type of relationship has a significant effect on whether or not it is continued. Close kin relationships are most likely to be continued, and relationships with less close kin, friends, and neighbors have a higher chance of being discontinued. The costs of the relationship are also decisive; the higher the contact frequency and the lower the traveling time to the network member, the higher the chance of the relationship being continued. Furthermore, the larger the network of the older adult, the more likely it is for an unbalanced relationship to be discontinued. (C) 1999 Elsevier Science B.V. All rights reserved.
+C1 Vrije Univ Amsterdam, Dept Sociol & Social Gerontol, NL-1081 HV Amsterdam, Netherlands.
+RP Vrije Univ Amsterdam, Dept Sociol & Social Gerontol, de Boelelaan 1081c, NL-1081 HV Amsterdam, Netherlands.
+FU NIDA NIH HHS [R01 DA013459] Funding Source: Medline
+CR Ikkink KK, 1998, J SOC PERS RELAT, V15, P59, DOI 10.1177/0265407598151004
+   Knipscheer CPM, 1995, LIVING ARRANGEMENTS, V0, P0
+   Morgan DL, 1997, SOC NETWORKS, V19, P9, DOI 10.1016/S0378-8733(96)00288-2
+   NEUFELD A, 1995, QUAL HEALTH RES, V5, P348, DOI 10.1177/104973239500500306
+   Rasbash J, 1995, MLN COMMAND REFERENC, V0, P0
+   UEHARA ES, 1995, J SOC PERS RELAT, V12, P483, DOI 10.1177/0265407595124001
+   VANBUSSCHBACH JT, 1996, THESIS GRONINGEN, V0, P0
+   VANTILBURG TG, 1998, J GERONTOL B-PSYCHOL, V53, P5313
+   van Groenou MIBroese, 1996, ENCYCLOPEDIA OF GERONTOLOGY: AGE, V0, P0
+NR 9
+TC 67
+Z9 0
+U1 1.0
+U2 12.0
+J9 SOCIAL NETWORKS
+PD APR
+PY 1999
+VL 21
+BP 131
+EP 146
+PG 16
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000082481700002
+PM 
+ER
+
+PT J
+AU Everett, MG
+   Borgatti, SP
+TI Peripheries of cohesive subsets
+SO SOCIAL NETWORKS
+AB Network analysts have developed a number of techniques for identifying cohesive subgroups in networks. In general, however, no consideration is given to actors that do not belong to a given group. In this paper, we explore ways of identifying actors that are not members of a given cohesive subgroup, but who are sufficiently well tied to the group to be considered peripheral members. We then use this information to explore the structure of the network as a whole. (C) 1999 Elsevier Science B.V. All rights reserved.
+C1 Univ Greenwich, Sch Comp & Math Sci, London SE10 9LS, England.   
+Boston Coll, Carroll Sch Management, Dept Org Studies, Chestnut Hill, MA 02167 USA.
+RP Everett, MG (corresponding author), Univ Greenwich, Sch Comp & Math Sci, 30 Pk Row, London SE10 9LS, England.
+FU University of Maryland; National Science Foundation (NSF) [DBI-1052875,
+CR BORGATTI SP, 1999, UNPUB SOCIAL NETWORK, V0, P0
+   Borgatti SP, 1999, UCINET 5 WINDOWS SOF, V0, P0
+   Scott J, 2017, SOCIAL NETWORK ANALYSIS, V0, P0
+   Wasserman S, 1994, SOCIAL NETWORK ANAL, V0, P0
+NR 4
+TC 55
+Z9 0
+U1 1.0
+U2 13.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 1999
+VL 21
+BP 397
+EP 407
+PG 11
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000085200300005
+PM 
+ER
+
+PT J
+AU Brewer, DD
+TI Forgetting in the recall-based elicitation of personal and social networks
+SO SOCIAL NETWORKS
+AB Forgetting in the recall-based elicitation of personal and social networks poses a potentially significant problem for the collection of complete network data and unbiased measurement of network characteristics and properties. A comprehensive review of the literature shows that forgetting is a pervasive, non-trivial phenomenon in the recall-based elicitation of personal and social networks pertaining to a broad variety of social relations. There appear to be no good predictors of individuals proportional level of forgetting, although the number of persons an individual recalls is moderately positively correlated with the number of persons he or she forgets. People seem to be more likely to forget weak ties than strong ties, but the evidence is mixed on this point. In any event, people still forget a significant proportion of their close contacts. Non-specific prompting for additional relevant persons, multiple elicitation questions, and re-interviewing enhance recall slightly to moderately and are the only methods currently available to counteract forgetting, albeit only partially. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 Univ Washington, Inst Alcohol & Drug Abuse, Seattle, WA 98105 USA.
+RP Brewer, DD (corresponding author), Univ Washington, Inst Alcohol & Drug Abuse, 3937 15th Ave NE, Seattle, WA 98105 USA.
+CR BREWER DD, 1995, HUM NATURE-INT BIOS, V6, P379, DOI 10.1007/BF02734207
+   BREWER DD, 1997, 17 INT SUNB SOC NETW, V0, P0
+   BREWER DD, 1999, 3 BIENN M SOC APPL R, V0, P0
+   BREWER DD, 1999, FORGETTING FRIENDS I, V21, P361
+   Brewer DD, 1995, JOURNAL OF QUANTITATIVE ANTHROPOLOGY, V5, P255
+   Brewer DD, 1997, SOC NETWORKS, V19, P345, DOI 10.1016/S0378-8733(97)00002-6
+   Brewer DD, 1999, SEX TRANSM DIS, V26, P166, DOI 10.1097/00007435-199903000-00008
+   McCarty C, 1997, SOC NETWORKS, V19, P303, DOI 10.1016/S0378-8733(96)00302-4
+   ROTHENBERG RB, 1999, SEXUALLY TRANSMITTED, V0, P0
+   Suitor JJ, 1997, SOC NETWORKS, V19, P1, DOI 10.1016/S0378-8733(96)00287-0
+NR 10
+TC 219
+Z9 0
+U1 1.0
+U2 16.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2000
+VL 22
+BP 29
+EP 43
+DI 10.1016/S0378-8733(99)00017-9
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000087144500002
+PM 
+ER
+
+PT J
+AU Mandel, M
+TI Measuring tendency towards mutuality in a social network
+SO SOCIAL NETWORKS
+AB When trying to understand the structure of a social network, the number of mutual dyads is often used to describe tendency toward mutuality (TTM), Only few works, however, deal with measures of TTM and only the work of Rao and Bandyopadhyay [Rao, A.R., Bandyopadhyay, S., 1987. Sankhya 49 Ser. A, pp. 141-188] compares between the different measures. This paper presents the different measures for TTM, their interpretation and their advantages and disadvantages. We also explore the distribution of the number of mutual dyads in graphs which are distributed according to a uniform distribution over certain special spaces. The measures are demonstrated and compared on two independent real data sets. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 Hebrew Univ Jerusalem, Dept Stat, IL-91905 Jerusalem, Israel.
+RP Mandel, M (corresponding author), Hebrew Univ Jerusalem, Dept Stat, IL-91905 Jerusalem, Israel.
+FU Budapesti Kozep-Europai Egyetem Alapitvany (CEU BPF)
+CR Anderson CJ, 1999, SOC NETWORKS, V21, P37, DOI 10.1016/S0378-8733(98)00012-4
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+NR 3
+TC 7
+Z9 0
+U1 1.0
+U2 3.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2000
+VL 22
+BP 285
+EP 298
+DI 10.1016/S0378-8733(00)00027-7
+PG 14
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000166703600001
+PM 
+ER
+
+PT J
+AU Lubbers, MJ
+   Luis molina, Jose
+   Lerner, Juergen
+   Brandes, Ulrik
+   Avila, Javier
+   Mccarty, Christopher
+TI Longitudinal analysis of personal networks. The case of Argentinean migrants in Spain
+SO SOCIAL NETWORKS
+DE personal network analysis; social networks; migration; clustered graphs
+AB This paper discusses and illustrates various approaches for the longitudinal analysis of personal networks (multilevel analysis, regression analysis, and SIENA). We combined the different types of analyses in a study of the changing personal networks of immigrants. Data were obtained from 25 Argentineans in Spain, who were interviewed twice in a 2-year interval. Qualitative interviews were used to estimate the amount of measurement error and to isolate important predictors. Quantitative analyses showed that the persistence of ties was explained by tie strength, network density, and alters Country of origin and residence. Furthermore, transitivity appeared to be an important tendency, both for acquiring new contacts and for the relationships among alters. At the network level, immigrants networks were remarkably stable in composition and structure despite the high turnover. Clustered graphs have been used to illustrate the results. The results are discussed in light of adaptation to the host society. (C) 2009 Elsevier B.V. All rights reserved.
+C1 [Lubbers, Miranda J.; Luis Molina, Jose; Avila, Javier] Autonomous Univ Barcelona, Dept Social & Cultural Anthropol, E-08193 Barcelona, Spain.   
+[Lerner, Juergen; Brandes, Ulrik] Univ Konstanz, Dept Comp & Informat Sci, D-7750 Constance, Germany.   
+[McCarty, Christopher] Univ Florida, Bur Econ & Business Res, Gainesville, FL 32611 USA.
+RP Lubbers, MJ (corresponding author), Autonomous Univ Barcelona, Dept Social & Cultural Anthropol, Edifici B, E-08193 Barcelona, Spain.
+CR Costenbader EC, 2006, ADDICTION, V101, P1003, DOI 10.1111/j.1360-0443.2006.01431.x
+   Degenne A, 2005, SOC NETWORKS, V27, P337, DOI 10.1016/j.socnet.2004.11.002
+   Feld SL, 2007, FIELD METHOD, V19, P218, DOI 10.1177/1525822X06299134
+   Guiaux M, 2007, PERS RELATIONSHIP, V14, P457, DOI 10.1111/j.1475-6811.2007.00165.x
+   Kalish Y, 2006, SOC NETWORKS, V28, P56, DOI 10.1016/j.socnet.2005.04.004
+   McCarty C, 2005, CONNECTIONS, V26, P82
+   McCarty C, 2007, SOC NETWORKS, V29, P300, DOI 10.1016/j.socnet.2006.12.005
+   McFarland D, 2005, SOC PSYCHOL QUART, V68, P289, DOI 10.1177/019027250506800401
+   McPherson M, 2006, AM SOCIOL REV, V71, P353, DOI 10.1177/000312240607100301
+   Mok D, 2007, SOC NETWORKS, V29, P430, DOI 10.1016/j.socnet.2007.01.009
+   Snijders TAB, 2008, MANUAL SIENA VERSION, V0, P0
+   Terhell EL, 2007, SOC NETWORKS, V29, P11, DOI 10.1016/j.socnet.2005.11.006
+   Unknown -, 2005, MODELS METHODS SOCIA, V0, P0
+   Unknown -, 2005, NETWORKED NEIGHBOURH, V0, P0
+   Unknown -, 2011, MULTILEVEL ANALYSIS: AN INTRODUCTION TO BASIC AND ADVANCED MULTILEVEL MODELING, V0, P0
+   Walsh S, 2008, INT J INTERCULT REL, V32, P371, DOI 10.1016/j.ijintrel.2008.06.007
+   Wellman B, 2007, FIELD METHOD, V19, P111, DOI 10.1177/1525822X06299133
+NR 17
+TC 168
+Z9 0
+U1 2.0
+U2 59.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2010
+VL 32
+BP 91
+EP 104
+DI 10.1016/j.socnet.2009.05.001
+PG 14
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000274948700009
+PM 
+ER
+
+PT J
+AU White, K
+   Watkins, SC
+TI Accuracy, stability and reciprocity in informal conversational networks in rural Kenya
+SO SOCIAL NETWORKS
+C1 Univ Penn, Ctr Populat Studies, Philadelphia, PA 19104 USA.
+RP Watkins, SC (corresponding author), Univ Penn, Ctr Populat Studies, Philadelphia, PA 19104 USA.
+FU German Science Foundation [DFG/KA 1602/6-2]; Ministry of Science,
+CR ALDERMAN H, 2000, ATTRITION LONGITUDIN, V0, P2447
+   BEHRMAN JR, 2000, DEMOGRAPHIC RES, V0, P1
+   Bongaarts J, 1996, POPUL DEV REV, V22, P639, DOI 10.2307/2137804
+   Brewer DD, 1999, SEX TRANSM DIS, V26, P166, DOI 10.1097/00007435-199903000-00008
+   Brewer DD, 2000, SOC NETWORKS, V22, P29, DOI 10.1016/S0378-8733(99)00017-9
+   CASTERLINE J, 2000, ANN M POP ASS AM LOS, V0, P0
+   ENTWISLE B, 1998, WORKSH SOC PROC UND, V0, P0
+   EZEH A, 2000, UNPUB DIFFERENCES RE, V0, P0
+   Faust K, 1999, SOC NETWORKS, V21, P311
+   KOHLER HP, 2001, DEMOGRAPHIC, V38, P0
+   MILLER KA, 2000, ANN M POP ASS AM LOS, V0, P0
+   MONTGOMERY MR, 1999, SOCIAL VALUES FERTIL, V0, P179
+   Montgomery MR, 1996, POPUL DEV REV, V22, P151, DOI 10.2307/2808010
+   PHILLIPS JF, 1996, ANN M POP ASS AM NEW, V0, P0
+   REYNAR AG, 2000, THESIS U PENNSYLVANI, V0, P0
+   Rutenberg N, 1997, STUD FAMILY PLANN, V28, P290, DOI 10.2307/2137860
+   Suitor J, 1997, SOC NETWORKS, V19, P51, DOI 10.1016/S0378-8733(96)00290-0
+   VALENTE TW, 1996, ANN SUNB NETW C CHAR, V0, P0
+   Valente TW, 1997, SOC SCI MED, V45, P677, DOI 10.1016/S0277-9536(96)00385-1
+   WARRINER I, 1999, THESIS U PENNSYLVANI, V0, P0
+   WATKINS SC, 1998, WORKSH SOC PROC UND, V0, P0
+   WATKINS SC, 1999, UNPUB CAUSAL INFEREN, V0, P0
+   WATKINS SC, 2001, POPULATION DEV REV, V26, P0
+   WEINREB A, 2000, THESIS U PENNSYLVANI, V0, P0
+   Watkins S, 1997, THE CONTINUING DEMOGRAPHIC TRANSITION, V0, P213
+NR 25
+TC 45
+Z9 0
+U1 2.0
+U2 7.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2000
+VL 22
+BP 337
+EP 355
+DI 10.1016/S0378-8733(00)00030-7
+PG 19
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000166703600004
+PM 
+ER
+
+PT J
+AU Newman, MEJ
+TI Ego-centered networks and the ripple effect
+SO SOCIAL NETWORKS
+DE ego-centered networks; personal networks; degree distribution; ripple effect; collaboration networks
+AB Recent work has demonstrated that many networks have broad distributions of vertex degree. Here we show that this has a substantial impact on the shape of ego-centered networks and on concepts and methods based on ego-centered networks, such as snowball sampling and the "ripple effect". In particular, we argue that ones acquaintances, ones immediate neighbors in the acquaintance network, are far from being a random sample of the population, and that this biases the numbers of neighbors two and more steps away. We demonstrate this concept using data on academic collaboration networks. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Santa Fe Inst, Santa Fe, NM 87501 USA.
+RP Santa Fe Inst, 1399 Hyde Pk Rd, Santa Fe, NM 87501 USA.
+CR Albert R, 1999, NATURE, V401, P130, DOI 10.1038/43601
+   Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   Bernard HRussell, 2001, CONNECTIONS, V24, P18
+   De Castro R, 1999, MATH INTELL, V21, P51, DOI 10.1007/BF03025416
+   Faloutsos M, 1999, COMP COMM R, V29, P251, DOI 10.1145/316194.316229
+   Hoffman P, 1998, EMILE, V0, P0
+   Jeong H, 2001, NATURE, V411, P41, DOI 10.1038/35075138
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   Lopez Jose, 2000, SOCIAL STRUCTURE, V0, P0
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Newman MEJ, 2001, PHYS REV E, V64, P0, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Newman MEJ, 2002, PHYS REV E, V66, P0, DOI 10.1103/PhysRevE.66.016128
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 13
+TC 162
+Z9 0
+U1 4.0
+U2 25.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2003
+VL 25
+BP 83
+EP 95
+DI 10.1016/S0378-8733(02)00039-4
+PG 13
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000179789300005
+PM 
+ER
+
+PT J
+AU Butts, CT
+TI Network inference, error, and informant (in)accuracy: a Bayesian approach
+SO SOCIAL NETWORKS
+DE informant accuracy; measurement error; hierarchical bayesian models;network inference; data collection strategies
+AB Much, if not most, social network data is derived from informant reports; past research, however, has indicated that such reports are in fact highly inaccurate representations of social interaction. In this paper, a family of hierarchical Bayesian models is developed which allows for the simultaneous inference of informant accuracy and social structure in the presence of measurement error and missing data. Posterior simulation for these models using Markov Chain Monte Carlo methods is outlined. Robustness of the models to structurally correlated error rates, implications of the Bayesian modeling framework for improved data collection strategies, and the validity of the criterion graph are also discussed. (C) 2003 Elsevier Science B.V. All rights reserved.
+C1 Univ Calif Irvine, Inst Math Behav Sci, Dept Sociol, Irvine, CA 92697 USA.
+RP Butts, CT (corresponding author), Univ Calif Irvine, Inst Math Behav Sci, Dept Sociol, Irvine, CA 92697 USA.
+FU Deutsche Forschungsgemeinschaft (DFG) [Br 2158/6-1]
+CR Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   Anderson CJ, 1999, SOC NETWORKS, V21, P37, DOI 10.1016/S0378-8733(98)00012-4
+   Butts CT, 2001, MULTIVARIATE METHODS FOR INTER-STRUCTURAL ANALYSIS, V0, P0
+   DeVellis RF, 2016, SCALE DEVELOPMENT, V0, P0
+   Gentle JamesE, 1998, RANDOM NUMBER GENERATION AND MONTE CARLO METHODS, V0, P0, DOI DOI 10.1088/0034-4885/76/4/046602
+   Krackhardt D, 1999, J PERS SOC PSYCHOL, V76, P770, DOI 10.1037/0022-3514.76.5.770
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Pattison P, 2000, J MATH PSYCHOL, V44, P536, DOI 10.1006/jmps.1999.1261
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   SCHWARZ N, 1998, HDB SOCIAL PSYCHOL, V1, P0
+   Schwarz N, 1999, AM PSYCHOL, V54, P93, DOI 10.1037/0003-066X.54.2.93
+   THOMPSON SK, 2000, SURV METHODOL, V26, P87
+   Unknown -, 2002, J SOCIAL STRUCTURE, V0, P0
+NR 13
+TC 141
+Z9 0
+U1 1.0
+U2 34.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2003
+VL 25
+BP 103
+EP 140
+DI 10.1016/S0378-8733(02)00038-2
+PG 38
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000181720300001
+PM 
+ER
+
+PT J
+AU Adamic, LA
+   Adar, E
+TI Friends and neighbors on the Web
+SO SOCIAL NETWORKS
+DE homepage analysis; small worlds; web communities
+AB The Internet has become a rich and large repository of information about us as individuals. Anything from the links and text on a users homepage to the mailing lists the user subscribes to are reflections of social interactions a user has in the real world. In this paper we devise techniques and tools to mine this information in order to extract social networks and the exogenous factors underlying the networks structure. In an analysis of two data sets, from Stanford University and the Massachusetts Institute of Technology (MIT), we show that some factors are better indicators of social connections than others, and that these indicators vary between user populations. Our techniques provide potential applications in automatically inferring real world connections and discovering, labeling, and characterizing communities. (C) 2003 Elsevier B.V. All rights reserved.
+C1 HP Labs, Palo Alto, CA 94304 USA.
+RP Adamic, LA (corresponding author), HP Labs, 1501 Page Mill Rd, Palo Alto, CA 94304 USA.
+CR ADAMIC L, 1999, P EUR C DIG LIB, V0, P0
+   ADAMIC LA, 2000, FREQUENCY FRIENDSHIP, V0, P0
+   Albert R, 1999, NATURE, V401, P130, DOI 10.1038/43601
+   Batagelj V, 2000, SOC NETWORKS, V22, P173, DOI 10.1016/S0378-8733(00)00023-X
+   DIAZ S, 2000, CELL PHONE SIGNALS T, V0, P0
+   Flake GW, 2000, PROCEEDINGS. KDD-2000. SIXTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP150, DOI 10.1145/347090.347121
+   GREFENSTETTE G, 1999, ASLIB, V21, P0
+   Newman MEJ, 2001, P NATL ACAD SCI USA, V98, P404, DOI 10.1073/pnas.021544898
+   Unknown -, 1998, RANDOM GRAPHS, V0, P0
+   Wallace P, 1999, PSYCHOL INTERNET, V0, P0
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+NR 11
+TC 1786
+Z9 0
+U1 9.0
+U2 174.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2003
+VL 25
+BP 211
+EP 230
+DI 10.1016/S0378-8733(03)00009-1
+PG 20
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000184386200002
+PM 
+ER
+
+PT J
+AU Buskens, V
+   Raub, Werner
+   van der veer, Joris
+TI Trust in triads: An experimental study
+SO SOCIAL NETWORKS
+DE control; embeddedness; learning; trust
+AB Pairs of trustors play finitely repeated Trust Games with the same trustee in a laboratory experiment. We study trustfulness of the trustor and trustworthiness of the trustee. We distinguish between learning and control effects on behavior. Learning effects are related to the trustors information on past behavior of the trustee. Control effects are related to the trustors opportunities for sanctioning a trustee in future interactions. Hypotheses on learning and control effects are derived from backward-looking learning models and from forward-looking models of strategic behavior. The design of the experiment, with respect to trustfulness, allows for disentangling learning effects from a trustors own experience with the trustee and learning effects through third-party information. Also, the design enables disentangling control effects on trustworthiness and trustfulness through a trustors own sanction opportunities and opportunities for third-party sanctions. We find evidence for learning and control effects. The trustors own experiences, the experiences of the other trustor, as well as the trustors own sanction opportunities affect trustfulness. We find evidence for control effects on trustworthiness, including effects arising from opportunities for third-party sanctions. However, there is no evidence for control effects through opportunities for third-party sanctions on trustfulness. This could indicate limited strategic rationality of trustors. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Buskens, Vincent; Raub, Werner; van der Veer, Joris] Univ Utrecht, Dept Sociol ICS, NL-3584 CS Utrecht, Netherlands.   
+[Buskens, Vincent] Erasmus Univ, Erasmus Sch Law, NL-3000 DR Rotterdam, Netherlands.
+RP Raub, W (corresponding author), Univ Utrecht, Dept Sociol ICS, Heidelberglaan 2, NL-3584 CS Utrecht, Netherlands.
+FU University research theme `Dynamics of Youth [2020/DoY IG 3/1]
+CR BEDNAR J, 2008, BEHAV SPILLOVE UNPUB, V0, P0
+   BUSKENS V, 2008, 200 ISCORE UTR U, V0, P0
+   Barrera D, 2009, ETRUST: FORMING RELATIONSHIPS IN THE ONLINE WORLD, V0, P37
+   Bednar J, 2007, RATION SOC, V19, P65, DOI 10.1177/1043463107075108
+   Bolton GE, 2009, ETRUST, V0, P15
+   Falk A, 2009, SCIENCE, V326, P535, DOI 10.1126/science.1168244
+   Fischbacher U, 2007, EXP ECON, V10, P171, DOI 10.1007/s10683-006-9159-4
+   Jackson MO, 2008, SOCIAL AND ECONOMIC NETWORKS, V0, P1
+   Palacios-Huerta I, 2008, ECONOMETRICA, V76, P71, DOI 10.1111/j.0012-9682.2008.00818.x
+   Palacios-Huerta I, 2009, AM ECON REV, V99, P1619, DOI 10.1257/aer.99.4.1619
+   Rooks G, 2006, J MANAG GOV, V10, P239, DOI 10.1007/s10997-006-9000-7
+   Unknown -, 2007, CONNECTIONS: AN INTRODUCTION TO THE ECONOMICS OF NETWORKS, V0, P0
+   Unknown -, 2011, MULTILEVEL ANALYSIS: AN INTRODUCTION TO BASIC AND ADVANCED MULTILEVEL MODELING, V0, P0
+NR 13
+TC 35
+Z9 0
+U1 2.0
+U2 21.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2010
+VL 32
+BP 301
+EP 312
+DI 10.1016/j.socnet.2010.05.001
+PG 12
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000283402000005
+PM 
+ER
+
+PT J
+AU de, miguel luken V
+   Tranmer, Mark
+TI Personal support networks of immigrants to Spain: A multilevel analysis
+SO SOCIAL NETWORKS
+DE personal network; ego-net; immigration; support network; social integration; spain; multilevel analysis
+AB Immigrant flows to Spain have increased greatly in the last decade, but little is known about the composition and role of their personal support networks. Our research questions are: (1) Which factors are associated with ties between immigrants and Spaniards (the more settled resident Spanish population), compared with immigrants and non-Spaniards (other immigrants)? (2) Do the support roles of Spaniards and non-Spaniards differ? We analyse personal network (ego-net) survey data. Multilevel logistic regression models are applied, in which the unit of analysis is the undirected tie between an immigrant (ego) and an alter and the dependent variable is whether this tie is to a Spaniard alter, as opposed to a non-Spaniard. We determine the characteristics that are most strongly associated with the probability of a tie between an immigrant and a Spaniard, compared with a non-Spaniard, and consider characteristics of the immigrants (ego), the alters, the relative characteristics of ego-alter, support roles, and local geographical factors. We find a tie to a Spaniard alter is more likely if the immigrants country of birth is Portugal or Eastern Europe; if the alter is a work colleague or neighbour; if alter is older than ego. There is geographical variation in the probability of ties to Spaniards, partly explained by the local area presence of co-nationals from the same country of origin as the immigrant. A tie to a Spaniard alter is less likely for immigrants from North Africa (Maghreb); those with no previous contact with Spain; those who are not the first of their peer group/family to immigrate; if ego and alter both work in agriculture. Material help is more likely to be exchanged with a Spaniard alter. Non-Spaniard alters are more likely to exchange help with accommodation and information. Finding a job is equally associated with Spaniard and non-Spaniard alters. A tentative conclusion is that some combinations of these characteristics, where a tie to a Spaniard is less likely, may be associated with higher levels of prejudice. Conversely, those characteristics that are positively associated with a tie to a Spaniard may indicate situations where integration of the immigrant population with Spaniards is successfully taking place, and where prejudices are lower, or non-existent. These findings may therefore be helpful for targeting resources to reduce such prejudices. The different types of support exchanged between immigrants and Spaniards and immigrants and non-Spaniards, may indicate current shortfalls in this process, as well as indicating where this support is successfully being exchanged. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Tranmer, Mark] Univ Manchester, Mitchell Ctr Social Network Anal, Manchester M13 9PL, Lancs, England.   
+[Tranmer, Mark] Univ Manchester, Sch Social Sci, CCSR, Manchester M13 9PL, Lancs, England.   
+[de Miguel Luken, Veronica] Autonomous Univ Barcelona, Migrat Res Grp, E-08193 Barcelona, Spain.
+RP Tranmer, M (corresponding author), Univ Manchester, Mitchell Ctr Social Network Anal, Manchester M13 9PL, Lancs, England.
+FU University of Victoria; Ministry of Education of China; Hunan Province
+CR Aparicio R, 2005, REDES SOCIALES INMIG, V0, P0
+   Browne WJ, 2009, MCMC ESTIMATION MLWI, V0, P0
+   Demirci C, 2007, NEPHROL DIAL TRANSPL, V22, P147
+   Domínguez S, 2008, AM J COMMUN PSYCHOL, V42, P309, DOI 10.1007/s10464-008-9209-5
+   FLAP H, 2006, MEASUREMENT INSTRUME, V0, P0
+   GUALDA CABALLERO E, 2005, CAPITAL SOCIAL ANDAL, V0, P0
+   Lubbers MJ, 2007, INT SOCIOL, V22, P721, DOI 10.1177/0268580907082255
+   Maya-Jariego I, 2007, INT SOCIOL, V22, P743, DOI 10.1177/0268580907082259
+   Molina JL, 2007, SOC NETWORKS, V29, P324, DOI 10.1016/j.socnet.2006.07.003
+   Rasbash J, 2009, A USERS GUIDE TO MLWIN, V0, P0
+   Rinken S, 2007, OPINIONES Y ACTITUDES DE LA POBLACIN ANDALUZA ANTE LA INMIGRACIN, V0, P0
+   Unknown -, 2011, MULTILEVEL ANALYSIS: AN INTRODUCTION TO BASIC AND ADVANCED MULTILEVEL MODELING, V0, P0
+   Vermunt JK, 2006, METHODOLOGY-EUR, V2, P34, DOI [10.1027/1614-2241.2.1.34, DOI 10.1027/1614-2241.2.1.34]
+   de Miguel Luken Vde, 2007, REDES SOCIALES DE APOYO LA INSERCION DE LA POBLACION EXTRANJERA, V0, P0
+NR 14
+TC 64
+Z9 0
+U1 1.0
+U2 54.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2010
+VL 32
+BP 253
+EP 262
+DI 10.1016/j.socnet.2010.03.002
+PG 10
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000283402000001
+PM 
+ER
+
+PT J
+AU Burt, RS
+TI Decay functions
+SO SOCIAL NETWORKS
+AB The tendency for relationships to weaken and disappear I discuss as decay, and functions describing the rate of decay over time I discuss as decay functions. Three conclusions are supported with 4 years of network data on a study population of bankers and their colleagues in a financial organization. (1) Factors known from cross-sectional evidence to be associated with strong relationships are associated with slow decay; decay is slower in relations between colleagues with a strong prior relationship (inertia), working in the same corporate division (homophily), prominent in the social hierarchy of bankers (status), or connected indirectly through many third parties (embedding). (2) Regardless of slower decay in certain relations, decay has a pattern over time similar to the population ecology "liability of newness" attributed to selection and learning, with the added complication of networks and people aging simultaneously. Decay is a power function of time in which the probability of decay decreases with tie age (years for which a relationship has existed) and node age (years for which a banker has been in the study population). (3) Embedding stability is responsible for the greater stability of older relationships. The decay-inhibiting effects of age occur where embedding is disrupted but not where embedding is continuous. The third conclusion is interesting in highlighting the first derivative of social structure as a causal variable: embedding has to be measured for its change, rather than level, to see both of its distinct effects on relationship decay. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 Univ Chicago, Grad Sch Business, Chicago, IL 60637 USA.   
+INSEAD, Chicago, IL 60637 USA.
+RP Burt, RS (corresponding author), Univ Chicago, Grad Sch Business, Chicago, IL 60637 USA.
+CR BERKOWITZ SD, 1995, SOC NETWORKS, V17, P111, DOI 10.1016/0378-8733(94)00250-E
+   BURT RS, 1995, RATION SOC, V7, P255, DOI 10.1177/1043463195007003003
+   Burt RS, 1997, ADMIN SCI QUART, V42, P339, DOI 10.2307/2393923
+   Burt RS, 1998, RATION SOC, V10, P5, DOI 10.1177/104346398010001001
+   Burt RS, 1999, SHARED COGNITION ORG, V0, P213
+   Chung SWA, 1996, SOC NETWORKS, V18, P121, DOI 10.1016/0378-8733(95)00258-8
+   Contractor NS, 1998, SELF ORG COMMUNICATI, V0, P0
+   Doreian P, 1996, SOC NETWORKS, V18, P149, DOI 10.1016/0378-8733(95)00259-6
+   Feld SL, 1997, SOC NETWORKS, V19, P91, DOI 10.1016/S0378-8733(96)00293-6
+   Han SK, 1996, SOC NETWORKS, V18, P47, DOI 10.1016/0378-8733(95)00255-3
+   Hirdes JP, 1998, SOC NETWORKS, V20, P119, DOI 10.1016/S0378-8733(97)00008-7
+   Ibarra H, 1997, SOC PSYCHOL QUART, V60, P91, DOI 10.2307/2787014
+   Kogut B, 1998, THE NETWORK AS KNOWLEDGE, V0, P0
+   Morgan DL, 1997, SOC NETWORKS, V19, P9, DOI 10.1016/S0378-8733(96)00288-2
+   Nahapiet J, 1998, ACAD MANAGE REV, V23, P242, DOI 10.2307/259373
+   Podolny JoelM, 1996, INDUSTRIAL AND CORPORATE CHANGE, V5, P453, DOI [10.1093/icc/5.2.453, DOI 10.1093/ICC/5.2.453]
+   Reagans RE, 1998, ANN M AM SOC ASS, V0, P0
+   Ruan DC, 1997, SOC NETWORKS, V19, P75, DOI 10.1016/S0378-8733(96)00292-4
+   SANIL A, 1995, SOC NETWORKS, V17, P65, DOI 10.1016/0378-8733(94)00249-A
+   Schweizer T, 1996, SOC NETWORKS, V18, P247, DOI 10.1016/0378-8733(95)00276-6
+   Suitor J, 1997, SOC NETWORKS, V19, P51, DOI 10.1016/S0378-8733(96)00290-0
+   Suitor JJ, 1997, SOC NETWORKS, V19, P1, DOI 10.1016/S0378-8733(96)00287-0
+   Tilly C, 1996, SOCIOL FORUM, V11, P589, DOI 10.1007/BF02425305
+   Volker B, 1995, NETH J SOC SCI, V31, P87
+   Wellman B, 1997, SOC NETWORKS, V19, P27, DOI 10.1016/S0378-8733(96)00289-4
+NR 25
+TC 278
+Z9 0
+U1 1.0
+U2 48.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2000
+VL 22
+BP 1
+EP 28
+DI 10.1016/S0378-8733(99)00015-5
+PG 28
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000087144500001
+PM 
+ER
+
+PT J
+AU Roberts, JM
+TI Connections between A.K. Romney's analyses of endogamy and other developments in log-linear models and network analysis
+SO SOCIAL NETWORKS
+DE log-linear models; endogamy; social mobility
+AB This paper examines contributions of A.K. Romney and associates to analyses of endogamy, and discusses the more general themes explored in these endogamy studies. The techniques used in these papers are relevant to many types of analysis of contingency tables, and to other settings such as social mobility. Some of these connections are explored here, all with a view to the importance of the margins of the table for different kinds of analysis. In particular, the paper discusses descriptive and analytical uses of classical iterative proportional fitting (IPF), some specific log-linear models, and the margins of sociomatrices. The paper also includes analyses of example data. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Univ New Mexico, Dept Sociol, Albuquerque, NM 87131 USA.
+RP Roberts, JM (corresponding author), Univ New Mexico, Dept Sociol, Albuquerque, NM 87131 USA.
+FU KU Leuven grant [GOA/12/14]; IAP Research Network of the Belgian Science
+CR Freeman LC, 1997, LANEE SOCIOLOGIQUE, V47, P89
+   ROBERTS JM, 2000, UNPUB SIMPLE APPROAC, V0, P0
+   Roberts JM, 2000, SOC NETWORKS, V22, P273, DOI 10.1016/S0378-8733(00)00026-5
+   Roberts JM, 2000, SOC NETWORKS, V22, P65, DOI 10.1016/S0378-8733(00)00017-4
+   Sobel ME, 1998, AM J SOCIOL, V104, P687, DOI 10.1086/210084
+NR 5
+TC 2
+Z9 0
+U1 1.0
+U2 1.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2002
+VL 24
+BP 185
+EP 199
+DI 10.1016/S0378-8733(02)00003-5
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000176643300002
+PM 
+ER
+
+PT J
+AU Grund, TU
+TI Network structure and team performance: The case of English Premier League soccer teams
+SO SOCIAL NETWORKS
+DE network structure; centralization; team performance; soccer
+AB A defining feature of a work group is how its individual members interact. Building on a dataset of 283,259 passes between professional soccer players, this study applies mixed-effects modeling to 76 repeated observations of the interaction networks and performance of 23 soccer teams. Controlling for unobserved characteristics, such as the quality of the teams, the study confirms previous findings with panel data: networks characterized by high intensity (controlling for interaction opportunities) and low centralization are indeed associated with better team performance. 
+C1 [Grund, Thomas U.] Univ Oxford Nuffield Coll, Oxford OX1 1NF, England.
+RP Grund, TU (corresponding author), ETH, Chair Sociol Modeling & Simulat, Clausiusstr 50, CH-8092 Zurich, Switzerland.
+FU NICHD NIH HHS [R24 HD042828-10, R01 HD038210, R01 HD038210-06, R01
+CR Brown R, 2019, GROUP PROCESSES: DYNAMICS WITHIN AND BETWEEN GROUPS, V0, P0
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Carling C, 2008, SPORTS MED, V38, P839, DOI 10.2165/00007256-200838100-00004
+   Carson JB, 2007, ACAD MANAGE J, V50, P1217, DOI 10.5465/20159921
+   Duch J, 2010, PLOS ONE, V5, P0, DOI 10.1371/journal.pone.0010937
+   Ellwardt L, 2011, THESIS ICS GRONINGEN, V0, P0
+   Gloor PA, 2008, INT J PROD RES, V46, P1357, DOI 10.1080/00207540701224582
+   Henttonen K, 2010, J ENG TECHNOL MANAGE, V27, P74, DOI 10.1016/j.jengtecman.2010.03.005
+   Hox JJ, 2017, MULTILEVEL METHODS: TECHNIQUES AND ANALYSIS, V0, P0
+   Opsahl T, 2009, SOC NETWORKS, V31, P155, DOI 10.1016/j.socnet.2009.02.002
+   Opsahl T, 2010, SOC NETWORKS, V32, P245, DOI 10.1016/j.socnet.2010.03.006
+   RabeHesketh S, 2008, MULTILEVEL LONGITUDI, V0, P0
+   Unknown -, 2010, THE HUMAN PROBLEMS OF AN INDUSTRIAL CIVILIZATION, V0, P0
+   Unknown -, 2011, MULTILEVEL ANALYSIS: AN INTRODUCTION TO BASIC AND ADVANCED MULTILEVEL MODELING, V0, P0
+   Unknown -, 2013, REGRESSION ANALYSIS OF COUNT DATA, V0, P0, DOI DOI 10.1017/CBO9781139013567
+NR 15
+TC 209
+Z9 0
+U1 2.0
+U2 100.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2012
+VL 34
+BP 682
+EP 690
+DI 10.1016/j.socnet.2012.08.004
+PG 9
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000313304100030
+PM 
+ER
+
+PT J
+AU Marin, A
+TI Are respondents more likely to list alters with certain characteristics? Implications for name generator data
+SO SOCIAL NETWORKS
+DE name generator; forgetting; egocentric networks; reliability
+AB Analyses of egocentric networks make the implicit assumption that the list of alters elicited by name generators is a complete list or representative sample of relevant alters. Based on the literature on free recall tasks and the organization of people in memory, I hypothesize that respondents presented with a name generator are more likely to name alters with whom they share stronger ties, alters who are more connected within the network, and alters with whom they interact in more settings. I conduct a survey that presents respondents with the GSS name generator and then prompts them to remember other relevant alters whom they have not yet listed. By comparing the alters elicited before and after prompts I find support for the first two hypotheses. I then go on to compare network-level measures calculated with the alters elicited by the name generator to the same measures calculated with data from all alters. These measures are not well correlated. Furthermore, the degree of underestimation of network size is related to the networks mean closeness, density, and mean duration of relationships. Higher values on these variables result in more accurate estimation of network size. This suggests that measures of egocentric network properties based on data collected using a single name generator may have high levels of measurement error, possibly resulting in misestimation of how these network properties relate to other variables. (C) 2004 Published by Elsevier B.V.
+C1 Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+RP Marin, A (corresponding author), Harvard Univ, Dept Sociol, William James Hall,33 Kirkland St, Cambridge, MA 02138 USA.
+FU NICHD NIH HHS [R01 HD052887] Funding Source: Medline
+CR BEARMAN P, 2003, M AM SOC ASS ATL GA, V0, P0
+   BREWER DD, 1999, SOC APPL RES MEM COG, V0, P0
+   Bailey S, 1999, SOC NETWORKS, V21, P287, DOI 10.1016/S0378-8733(99)00013-1
+   Brewer DD, 1999, SEX TRANSM DIS, V26, P166, DOI 10.1097/00007435-199903000-00008
+   Brewer DD, 1999, SOC NETWORKS, V21, P361, DOI 10.1016/S0378-8733(99)00018-0
+   Brewer DD, 2000, SOC NETWORKS, V22, P29, DOI 10.1016/S0378-8733(99)00017-9
+   SNIJDERS TAB, 1999, MULTLVEL ANAL INTRO, V0, P0
+NR 7
+TC 181
+Z9 0
+U1 2.0
+U2 28.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2004
+VL 26
+BP 289
+EP 307
+DI 10.1016/j.socnet.2004.06.001
+PG 19
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000225137700001
+PM 
+ER
+
+PT J
+AU Ruef, M
+TI A structural event approach to the analysis of group composition
+SO SOCIAL NETWORKS
+DE small groups; statistical methodology; homophily; georg simmel
+AB Since Simmels early work on forms of association, the processes guiding group composition have commanded considerable attention in structural sociology, but have not led to a general methodology for examining compositional properties. By introducing a structural event approach, this study offers a new technique that is not restricted to analysis of dyads or triads nor post hoc analysis of those structural arrangements that are observed in a given sample. The approach is illustrated using data on 745 organizational founding teams. Structural event analysis separates choice behavior guiding team composition (with respect to ascribed and achieved characteristics of members) from structurally-induced behavior based on contact opportunities. Results suggest that the strong impact of ascriptive homophily may be tempered where functional considerations of group composition are addressed. However, many of the other arrangements that ostensibly pass as functional are in fact induced by opportunity structures. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Univ N Carolina, Dept Sociol, Chapel Hill, NC 27599 USA.
+RP Ruef, M (corresponding author), Univ N Carolina, Dept Sociol, Chapel Hill, NC 27599 USA.
+FU Social Sciences and Humanities Research Council of Canada
+CR Aldrich Howard E, 1999, ORGANIZATIONS EVOLVING, V0, P0
+   Frank KA, 1998, AM J SOCIOL, V104, P642, DOI 10.1086/210083
+   Skvoretz J, 1999, SOCIOL METHODOL, V29, P253, DOI 10.1111/0081-1750.00066
+   Unknown -, 1997, THE ENTREPRENEURIAL PROCESS, V0, P0
+   Unknown -, 2000, ECONOMETRIC ANALYSIS, V0, P0
+NR 5
+TC 23
+Z9 0
+U1 1.0
+U2 13.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2002
+VL 24
+BP 135
+EP 160
+DI 10.1016/S0378-8733(01)00054-5
+PG 26
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000175030800003
+PM 
+ER
+
+PT J
+AU Skvoretz, J
+   Fararo, TJ
+   Agneessens, F
+TI Advances in biased net theory: definitions, derivations, and estimations
+SO SOCIAL NETWORKS
+DE biased net theory; pseudo-likelihood method; large-scale networks
+AB Random and biased net theory, introduced by Rapoport and others in the 1950s, is one of the earliest approaches to the formal modeling of social networks. In this theory, intended as a theory of large-scale networks, ties between nodes derive both from random and non-random events of connection. The non-random connections are postulated to arise through "bias" events that incorporate known or suspected systematic tendencies in tie formation, such as, mutuality or reciprocity, transitivity or closure in triads, and homophily-the overrepresentation of ties between persons who share important socio-demographic attributes like race/ethnicity or level of educational attainment. A key problem for biased net theory has been analytical intractability of the models. Formal derivations require approximation assumptions and model parameters have been difficult to estimate. The accuracy of the derived formulas and the estimated parameters has been difficult to assess. In this paper, we attempt to address long-standing issues in biased net models stemming from their analytical intractability. We first reformulate and clarify the definitions of basic biases. Second, we derive from first principles the triad distribution in a biased net, using two different analytical strategies to check our derivations. Third, we set out a pseudo-likelihood method for parameter estimation of key bias parameters and then check the accuracy of this relatively simple but approximate scheme against the results obtained from the triad distribution derivation. (C) 2004 Elsevier B.V. All rights reserved.
+C1 Univ S Carolina, Columbia, SC 29208 USA.   
+Univ Pittsburgh, Pittsburgh, PA USA.   
+State Univ Ghent, B-9000 Ghent, Belgium.
+RP Skvoretz, J (corresponding author), Univ S Carolina, Columbia, SC 29208 USA.
+FU NIMH NIH HHS [R01 MH051187-11, R01 MH051187] Funding Source: Medline
+CR Anderson CJ, 1999, SOC NETWORKS, V21, P37, DOI 10.1016/S0378-8733(98)00012-4
+   Newman MEJ, 2000, J STAT PHYS, V101, P819, DOI 10.1023/A:1026485807148
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   Robins G, 2001, SOC NETWORKS, V23, P1, DOI 10.1016/S0378-8733(01)00029-6
+   Strogatz SH, 2001, NATURE, V410, P268, DOI 10.1038/35065725
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+NR 7
+TC 46
+Z9 0
+U1 1.0
+U2 13.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2004
+VL 26
+BP 113
+EP 139
+DI 10.1016/j.socnet.2004.01.005
+PG 27
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000221286300002
+PM 
+ER
+
+PT J
+AU Batchelder, E
+TI Comparing three simultaneous measurements of a sociocognitive network
+SO SOCIAL NETWORKS
+AB Three data collection strategies are compared in their ability to measure a globally shared cognitive network representation, i.e. a sociocognitive network. Participant performances in data production using each of the three strategies are also assessed. Data were collected from 22 students in a graduate program. Each participant reported k out of 22 "ordinary" ties (Task 1, 0 less than or equal to k less than or equal to 22), in out of k "close" ties (Task 2, 0 less than or equal to m less than or equal to k), and "top three" ties (Task 3) for every actor in the network. Results revealed that each of the three tasks were quite similar to each other in measuring the sociocognitive network. The estimated average shared information among the actors about the networks structure, as revealed by each task, was highest for Task 2 and lowest for Task 1. Individual differences in performance indicate that the amount of shared knowledge as revealed by each task is not consistent across tasks. Overall, three-way data structures are shown to be sufficiently rich in information that any of the tasks are sufficient to capture the main features of a sociocognitive network. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Univ Calif Irvine, Sch Social Sci, Irvine, CA 92697 USA.   
+Univ Calif Irvine, Inst Brain Aging & Dementia, Irvine, CA 92697 USA.
+RP Univ Calif Irvine, Sch Social Sci, Irvine, CA 92697 USA.
+FU NSF [OIA-1028394, IIS-1251267]; Office of Naval Research
+CR Batchelder WH, 1997, J MATH SOCIOL, V22, P29, DOI 10.1080/0022250X.1997.9990193
+   Kameda T, 1997, J PERS SOC PSYCHOL, V73, P296, DOI 10.1037/0022-3514.73.2.296
+   MOORE CC, 1999, AM ANTHROPOL, V101, P530
+   Moore CC, 2000, P NATL ACAD SCI USA, V97, P5007, DOI 10.1073/pnas.97.9.5007
+   Romney AK, 1999, THE MIT ENCYCLOPEDIA OF THE COGNITIVE SCIENCES, V0, P208
+   Romney AK, 2000, P NATL ACAD SCI USA, V97, P518, DOI 10.1073/pnas.97.1.518
+NR 6
+TC 5
+Z9 0
+U1 1.0
+U2 6.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2002
+VL 24
+BP 261
+EP 277
+DI 10.1016/S0378-8733(02)00007-2
+PG 17
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000176643300005
+PM 
+ER
+
+PT J
+AU Costenbader, E
+   Valente, TW
+TI The stability of centrality measures when networks are sampled
+SO SOCIAL NETWORKS
+DE social networks; sampling; centrality; simulation; surveys
+AB The ability to measure centrality in social networks has been a particularly useful development in social network analysis. For researchers trying to decide which centrality measure is most meaningful and valid for their research purposes, various papers have explored the conceptual foundations of centrality measures. Less well documented is the empirical performance of centrality measures under different research scenarios or constraints. This study uses bootstrap sampling procedures to determine how sampling affects the stability of 11 different network centrality measures. Results indicate that some measures are more stable than others, and that stability is also a function of network and study properties. (C) 2003 Elsevier B.V. All rights reserved.
+C1 Johns Hopkins Bloomberg Sch Publ Hlth, Dept Populat & Family Hlth Sci, Baltimore, MD 21205 USA.   
+Univ So Calif, Sch Med, Dept Prevent Med, Alhambra, CA 91803 USA.
+RP Costenbader, E (corresponding author), Johns Hopkins Bloomberg Sch Publ Hlth, Dept Populat & Family Hlth Sci, 615 N Wolfe St, Baltimore, MD 21205 USA.
+CR Frank O, 2002, SOC NETWORKS, V24, P385, DOI 10.1016/S0378-8733(02)00014-X
+   Lazega E, 1999, SOC NETWORKS, V21, P67, DOI 10.1016/S0378-8733(99)00002-7
+   Lazega E, 2000, EUR SOCIOL REV, V16, P245, DOI 10.1093/esr/16.3.245
+   Scott J, 2000, SOCIAL NETWORKS ANAL, Vsecond, P0
+   Valente TW, 1998, SOC NETWORKS, V20, P89, DOI 10.1016/S0378-8733(97)00007-5
+   Valente TW, 1999, ANN AM ACAD POLIT SS, V566, P55, DOI 10.1177/0002716299566001005
+NR 6
+TC 514
+Z9 0
+U1 3.0
+U2 48.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2003
+VL 25
+BP 283
+EP 307
+DI 10.1016/S0378-8733(03)00012-1
+PG 25
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000186975800001
+PM 
+ER
+
+PT J
+AU Bailey, S
+   Marsden, PV
+TI Interpretation and interview context: examining the General Social Survey name generator using cognitive methods
+SO SOCIAL NETWORKS
+DE general social survey; name generator; cognitive methods
+AB This paper reports on a small (N = 50) study of how survey respondents interpret the General Social Survey (GSS)s "discuss important matters" name generator. The study involved concurrent think-aloud interviews, in which respondents were debriefed about their thought processes immediately after answering the name generator. Analyses of these responses indicate that some respondents had difficulty in specifying what was meant by the term "important matters"; sizable minorities understood the question in terms of frequency of contact or intimacy rather than in terms of specific social exchanges. Most of those interviewed said that their "important matters" had to do with personal/intimate relationships or other issues of personal life (e.g., finances, hobbies, or health), but appreciable numbers referred to work and political discussions. An interview context experiment revealed that a respondents definition of "important matters" can be shaped by the substantive content of the preceding parts of an interview schedule. Notwithstanding these findings, the composition of the networks elicited in the study does not appear to vary substantially across interpretations of the name generator. We conclude that the name generator succeeds in measuring core discussion networks, though with somewhat nonspecific content. Implications for the measurement of personal networks in sample surveys are discussed. (C) 1999 Elsevier Science B.V. All rights reserved.
+C1 Stanford Univ, Dept Sociol, Stanford, CA 94305 USA.   
+Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+RP Bailey, S (corresponding author), Stanford Univ, Dept Sociol, Stanford, CA 94305 USA.
+FU NICHD NIH HHS [R24 HD041022, R21 HD063000] Funding Source: Medline
+CR BAILEY S, 1997, THESIS HARVARD COLL, V0, P0
+   BREWER DD, 1994, SOC NETWORKS, V16, P347, DOI 10.1016/0378-8733(94)90016-7
+   BREWER DD, 1995, HUM NATURE-INT BIOS, V6, P379, DOI 10.1007/BF02734207
+   Beggs JJ, 1996, RURAL SOCIOL, V61, P306
+   Beggs JJ, 1996, RURAL SOCIOL, V61, P407, DOI 10.1111/j.1549-0831.1996.tb00626.x
+   Burt RS, 1997, SOC NETWORKS, V19, P355, DOI 10.1016/S0378-8733(97)00003-8
+   Davis JA, 1996, GEN SOCIAL SURVEYS 1, V0, P0
+   DeMaio TJ, 1995, ANSWERING QUESTIONS, V0, P177
+   FISCHER CS, 1995, SOC NETWORKS, V17, P129, DOI 10.1016/0378-8733(94)00251-5
+   Fiske AP, 1995, JOURNAL OF QUANTITATIVE ANTHROPOLOGY, V0, P305
+   Jobe JB, 1996, ANSWERING QUESTIONS, V0, P197
+   LIAO TF, 1994, SOC FORCES, V73, P693, DOI 10.2307/2579826
+   Morgan DL, 1997, SOC NETWORKS, V19, P9, DOI 10.1016/S0378-8733(96)00288-2
+   Ruan DC, 1997, SOC NETWORKS, V19, P75, DOI 10.1016/S0378-8733(96)00292-4
+   Ruan DC, 1998, SOC NETWORKS, V20, P247, DOI 10.1016/S0378-8733(98)00004-5
+   Straits BC, 1996, SOC NETWORKS, V18, P29, DOI 10.1016/0378-8733(95)00254-5
+   Sudman SeymourNorman MBradburn Norbert Schwarz, 1996, THINKING ANSWERS APP, V0, P0
+   Tigges LM, 1998, SOCIOL QUART, V39, P53, DOI 10.1111/j.1533-8525.1998.tb02349.x
+   Volker B, 1995, NETH J SOC SCI, V31, P87
+   WILLIS GB, 1994, NATL CTR HLTH STAT C, V0, P0
+NR 20
+TC 107
+Z9 0
+U1 1.0
+U2 16.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 1999
+VL 21
+BP 287
+EP 309
+DI 10.1016/S0378-8733(99)00013-1
+PG 23
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000084385700004
+PM 
+ER
+
+PT J
+AU Brewer, DD
+TI No associative biases in the first name cued recall procedure for eliciting personal networks
+SO SOCIAL NETWORKS
+AB One thousand five hundred twenty-five respondents from a representative sample of adult residents of the state of Florida (USA) participated in a telephone survey on personal networks (McCarty et al., 1995). McCarty et al. (1995) elicited samples of alters from respondents personal networks with a first name cued recall interview procedure. This paper reports an assessment of associative biases involved with this technique in a further evaluation of the representativeness of the alter samples elicited with this method. Associative biases would be present if successively recalled alters are more likely to know each other or belong to the same social context (e.g., work, family, school) than alters not recalled successively. Such biases, if present, could influence the characteristics, and thus the representativeness, of the set of alters elicited, such as the density of ties. Analyses indicate that there are no associative biases in the first name cued recall procedure. Future research should investigate the possibility of associative biases in other methods for eliciting personal networks. (C) 1997 Elsevier Science B.V.
+C1 Hong Kong Baptist Univ, Dept Sociol, Kowloon, Hong Kong, Peoples R China.
+RP Brewer, DD (corresponding author), UNIV WASHINGTON,INST ALCOHOL & DRUG ABUSE,BOX 351415,SEATTLE,WA 98195, USA.
+FU Division Of Computer and Network Systems; Direct For Computer & Info
+CR BREWER DD, 1993, SOC NETWORKS, V15, P335, DOI 10.1016/0378-8733(93)90011-9
+   BREWER DD, 1994, SOC NETWORKS, V16, P347, DOI 10.1016/0378-8733(94)90016-7
+   BREWER DD, 1995, HUM NATURE-INT BIOS, V6, P379, DOI 10.1007/BF02734207
+   Brewer DD, 1995, JOURNAL OF QUANTITATIVE ANTHROPOLOGY, V5, P255
+   Fiske AP, 1995, JOURNAL OF QUANTITATIVE ANTHROPOLOGY, V0, P305
+   MCCARTY C, 1995, INT SOC NETW C JUL 6, V0, P0
+   MCCARTY CP, 1992, THESIS U FLORIDA, V0, P0
+   Reason JT, 1992, EXPERIMENTAL SLIPS AND ERROR: EXPLORING THE ARCHITECTURE OF VOLITION, V0, PP71, DOI [10.1007/978-1-4899-1164-3, 3, DOI 10.1007/978-1-4899-1164-3, 3]
+NR 8
+TC 11
+Z9 0
+U1 1.0
+U2 7.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 1997
+VL 19
+BP 345
+EP 353
+DI 10.1016/S0378-8733(97)00002-6
+PG 9
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1997XM03000003
+PM 
+ER
+
+PT J
+AU Bonacich, P
+   Lloyd, P
+TI Calculating status with negative relations
+SO SOCIAL NETWORKS
+DE centrality; eigenvector; status
+AB A new measure of status or network centrality that takes into account both positive and negative relationships is suggested. This measure is based on the eigenvector measure of centrality, a standard measure in network research. Its use is illustrated with data from Sampsons well-known study of monks in a monastery. (C) 2004 Published by Elsevier B.V.
+C1 Univ Calif Los Angeles, Dept Sociol, Los Angeles, CA 90095 USA.
+RP Bonacich, P (corresponding author), Univ Calif Los Angeles, Dept Sociol, 297 Haines Hall,375 Portola Plaza, Los Angeles, CA 90095 USA.
+FU Canadian Institute for Advanced Research; University of Chicago; Harvard
+CR Bonacich P, 2001, SOC NETWORKS, V23, P191, DOI 10.1016/S0378-8733(01)00038-7
+   Borgatti SP, 1999, UCINET 5 WINDOWS SOF, V0, P0
+NR 2
+TC 69
+Z9 0
+U1 1.0
+U2 26.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2004
+VL 26
+BP 331
+EP 338
+DI 10.1016/j.socnet.2004.08.007
+PG 8
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000225137700004
+PM 
+ER
+
+PT J
+AU Borgatti, SP
+   Everett, MG
+TI Models of core/periphery structures
+SO SOCIAL NETWORKS
+DE core; periphery; algorithm
+AB A common but informal notion in social network analysis and other fields is the concept of a core/periphery structure. The intuitive conception entails a dense, cohesive core and a sparse, unconnected periphery. This paper seeks to formalize the intuitive notion of a core/periphery structure and suggests algorithms for detecting this structure, along with statistical tests for testing a priori hypotheses. Different models are presented for different kinds of graphs (directed and undirected, valued and nonvalued). In addition, the close relation of the continuous models developed to certain centrality measures is discussed. (C) 1999 Elsevier Science B.V. All rights reserved.
+C1 Boston Coll, Dept Org Studies, Carroll Sch Management, Chestnut Hill, MA 02467 USA.   
+Univ Greenwich, Sch Comp & Math Sci, London SE10 9LS, England.
+RP Borgatti, SP (corresponding author), Boston Coll, Dept Org Studies, Carroll Sch Management, Chestnut Hill, MA 02467 USA.
+CR Borgatti SP, 1999, UCINET 5 WINDOWS SOF, V0, P0
+   Goldberg DE, 2013, GENETIC ALGORITHMS, V0, P0
+   Krugman P , 1996, THE SELFORGANIZING ECONOMY, V0, P0
+   Scott J, 2017, SOCIAL NETWORK ANALYSIS, V0, P0
+   Wasserman S, 1994, SOCIAL NETWORK ANAL, V0, P0
+NR 5
+TC 1282
+Z9 0
+U1 5.0
+U2 267.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 1999
+VL 21
+BP 375
+EP 395
+PG 21
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000085200300004
+PM 
+ER
+
+PT J
+AU Feld, SL
+   Carter, WC
+TI Detecting measurement bias in respondent reports of personal networks
+SO SOCIAL NETWORKS
+DE sociometric data; social network analysis; measurement; network size
+AB Inaccuracy of sociometric reports poses a serious challenge to social network analysis. Nevertheless, researchers continue to draw potentially misleading conclusions from flawed data. We consider two particular types of systematic error in measurement of network size: individuals over/underreporting others (expansiveness bias), and individuals being over/underreported by others (attractiveness bias). We examine evidence of individual variation in these biases in one apparently typical sociometric dataset. We specifically suggest that variation in expansiveness bias may commonly distort findings concerning characteristics of individual networks (e.g. size, range, density), and properties of whole networks (e.g. inequality, transitivity, clustering, and blockmodels). We suggest methodological improvements and urge further research. (C) 2002 Published by Elsevier Science B.V.
+C1 Louisiana State Univ, Dept Sociol, Baton Rouge, LA 70803 USA.   
+Univ N Carolina, Cecil G Sheps Ctr Hlth Serv, Chapel Hill, NC USA.
+RP Feld, SL (corresponding author), Louisiana State Univ, Dept Sociol, Baton Rouge, LA 70803 USA.
+FU Hungarian Scientific Research Fund (OTKA) [K-881336]; Economic and
+CR Brewer DD, 2000, SOC NETWORKS, V22, P29, DOI 10.1016/S0378-8733(99)00017-9
+   Flint EP, 1998, AGING MENT HEALTH, V2, P286, DOI 10.1080/13607869856533
+   Penninx BWJH, 1999, J AGING HEALTH, V11, P151, DOI 10.1177/089826439901100202
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Putnam R, 1999, BOWLING ALONE, V0, P0
+   Russell DW, 1997, J PERS, V65, P649, DOI 10.1111/j.1467-6494.1997.tb00330.x
+   Wasserman S, 1997, SOCIAL NETWORK ANAL, V0, P0
+   Wilson J, 1998, SOC SCI QUART, V79, P799
+NR 8
+TC 73
+Z9 0
+U1 1.0
+U2 13.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2002
+VL 24
+BP 365
+EP 383
+DI 10.1016/S0378-8733(02)00013-8
+PG 19
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000177947300004
+PM 
+ER
+
+PT J
+AU Brailly, J
+   Favre, Guillaume
+   Chatellet, Josiane
+   Lazega, Emmanuel
+TI Embeddedness as a multilevel problem: A case study in economic sociology
+SO SOCIAL NETWORKS
+DE multilevel; embeddedness; economic network; social network; ergm
+AB Economic sociology has established the interdependencies between economic and social structures using the notion of embeddedness of the former in the latter. However research usually studies inter-organizational commercial networks and inter-individual informal networks separately. In this article we use a multilevel framework to analyze jointly economic networks between firms and informal networks between their members in order to reframe this embeddedness hypothesis. Based on a network study of a trade fair for television programmes in Eastern Europe we show that while each level has its own specific processes they are partly nested. Beyond this result, we observe that these levels of agency emerge in different contexts and in different temporalities. To conclude, we show that in order to understand performance on a market one needs to look at this dual positioning of individuals and organizations. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Brailly, Julien; Favre, Guillaume; Chatellet, Josiane] Univ Paris 09, Inst Rech Interdisciplinaire Sci Sociales IRISSO, F-75016 Paris, France.   
+[Brailly, Julien; Lazega, Emmanuel] CSO, F-75007 Paris, France.
+RP Brailly, J (corresponding author), Univ Paris 09, Inst Rech Interdisciplinaire Sci Sociales IRISSO, Pl Marechal de Lattre de Tassigny, F-75016 Paris, France.
+FU French National Research Agency (ANR); Sciences Po (DYREM Project);
+CR Aspers P, 2011, SOCIOL REV, V59, P758, DOI 10.1111/j.1467-954X.2011.02031.x
+   Bellotti E, 2012, SOC NETWORKS, V34, P215, DOI 10.1016/j.socnet.2011.12.002
+   Hollstein B, 2011, SAGE HDB SOCIAL NETW, V0, P0
+   Knoke D, 2013, EC NETWORKS, V0, P0
+   Koskinen Johan, 2013, EXPONENTIAL RANDOM GRAPH MODELS FOR SOCIAL NETWORKS, V0, P77
+   Lazega E, 2011, HERMES, V59, P43
+   Lazega E, 2012, INTRO THEORIE SOCIAL, V0, P0
+   Lazega E, 2013, EUR SOCIOL REV, V29, P1226, DOI 10.1093/esr/jct002
+   Lazega E, 2013, SOCIAL MORPHOGENESIS, V0, P167
+   Lazega E, 2014, LATE MODERNITY TRAJE, V0, P0
+   Lusher D, 2013, THEORY, V0, P0
+   Schuldt N, 2011, EUR PLAN STUD, V19, P1, DOI 10.1080/09654313.2011.530390
+   Unknown -, 2011, CURRENCY, V0, P0
+   Unknown -, 2011, MULTILEVEL ANALYSIS: AN INTRODUCTION TO BASIC AND ADVANCED MULTILEVEL MODELING, V0, P0
+   Wang P, 2013, SOC NETWORKS, V35, P96, DOI 10.1016/j.socnet.2013.01.004
+NR 15
+TC 43
+Z9 0
+U1 1.0
+U2 33.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2016
+VL 44
+BP 319
+EP 333
+DI 10.1016/j.socnet.2015.03.005
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000367423900029
+PM 
+ER
+
+PT J
+AU Faust, K
+   Willert, KE
+   Rowlee, DD
+   Skvoretz, J
+TI Scaling and statistical models for affiliation networks: patterns of participation among Soviet politicians during the Brezhnev era
+SO SOCIAL NETWORKS
+AB We use scaling and statistical models to study networks of ties among Soviet politicians during the Brezhnev era created by their co-attendance at events. The data consist of observations made by the National Foreign Assessment Center of the Central Intelligence Agency of appearances of Soviet political elites at official and social events for 8 years during the height of the Brezhnev era. Conventional wisdom characterizes the Soviet system as partimonial rather than bureaucratic in nature, that is, a system in which power is exercised through loyalties to key players often rooted in common regional and educational associations. One, therefore, might expect that co-attendance at events over these 8 years to be unrelated to actors formal positions and the nature of the events. However, our scaling models reveal that participation is patterned by the state and party offices elites hold. Random graph models provide tests of hypotheses about structural features of this network and confirm the interaction between politicians offices and the types of events which they jointly attend. Our discussion of the substantive implications of our analyses highlights the need for more detailed examination of "career tracks" through the co-participation space, particularly deviant career tracks and the need for a companion analysis of the structuring participations by informal power groups like those identified by Willerton [Soviet Stud. 34 (1987) 175]. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Univ S Carolina, Dept Sociol, Irvine, CA 92697 USA.   
+Univ S Carolina, Dept Sociol, Columbia, SC 29208 USA.
+RP Univ S Carolina, Dept Sociol, 3265 Social Sci Plaza B Irvine, Irvine, CA 92697 USA.
+FU research project, "Social Capital: Its Origins and Consequences"
+CR Anderson CJ, 1999, SOC NETWORKS, V21, P37, DOI 10.1016/S0378-8733(98)00012-4
+   BORGATTI S, 1999, UCINET 5 0 WINDOWS A, V0, P0
+   BRAZILL TJ, 2002, FACTOR ANAL VERSUS M, V0, P0
+   Moore CC, 1999, AM ANTHROPOL, V101, P529, DOI 10.1525/aa.1999.101.3.529
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Roberts JM, 2000, SOC NETWORKS, V22, P65, DOI 10.1016/S0378-8733(00)00017-4
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   Romney AK, 1999, CURR ANTHROPOL, V40, PS103, DOI 10.1086/200063
+   Romney AK, 2000, P NATL ACAD SCI USA, V97, P518, DOI 10.1073/pnas.97.1.518
+   Skvoretz J, 1999, SOCIOL METHODOL, V29, P253, DOI 10.1111/0081-1750.00066
+   Unknown -, 1997, SPRINGER-SERIES IN STATISTICS, V0, P0
+NR 11
+TC 24
+Z9 0
+U1 1.0
+U2 10.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2002
+VL 24
+BP 231
+EP 259
+DI 10.1016/S0378-8733(02)00005-9
+PG 29
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000176643300004
+PM 
+ER
+
+PT J
+AU Marsden, PV
+TI Egocentric and sociocentric measures of network centrality
+SO SOCIAL NETWORKS
+DE centrality; egocentric networks; betweenness
+AB Egocentric centrality measures (for data on anodes first-order zone) parallel to Freemans [Social Networks 1 (1979) 215] centrality measures for complete (sociocentric) network data are considered. Degree-based centrality is in principle identical for egocentric and sociocentric network data. A closeness measure is uninformative for egocentric data, since all geodesic distances from ego to other nodes in the first-order zone are 1 by definition. The extent to which egocentric and sociocentric versions of Freemans betweenness centrality measure correspond is explored empirically. Across seventeen diverse networks, that correspondence is found to be relatively close-though variations in egocentric network composition do lead to some notable differences in egocentric and sociocentric betweennness. The findings suggest that research design has a relatively modest impact on assessing the relative betweenness of nodes, and that a betweenness measure based on egocentric network data could be a reliable substitute for Freemans betweenness measure when it is not practical to collect complete network data. However, differences in the research methods used in sociocentric and egocentric studies could lead to additional differences in the respective betweenness centrality measures. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+RP Marsden, PV (corresponding author), Harvard Univ, Dept Sociol, 630 William James Hall,33 Kirkland St, Cambridge, MA 02138 USA.
+CR *I SCI INF, 2001, SOC SCI CIT IND, V0, P0
+   Brewer DD, 1999, SOC NETWORKS, V21, P361, DOI 10.1016/S0378-8733(99)00018-0
+   Brewer DD, 2000, SOC NETWORKS, V22, P29, DOI 10.1016/S0378-8733(99)00017-9
+   Faust K, 1997, SOC NETWORKS, V19, P157, DOI 10.1016/S0378-8733(96)00300-0
+   GALASKIEWICZ J, 1998, NONPROFIT ORG AGE UN, V0, P0
+   Lazega E, 1999, CORPORATE SOCIAL CAPITAL AND LIABILITY, V0, P237
+NR 6
+TC 343
+Z9 0
+U1 5.0
+U2 64.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2002
+VL 24
+BP 407
+EP 422
+DI 10.1016/S0378-8733(02)00016-3
+PG 16
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000177947300007
+PM 
+ER
+
+PT J
+AU Huitsing, G
+   Veenstra, Rene
+   Sainio, Miia
+   Salmivalli, Christina
+TI "It must be me" or "It could be them?": The impact of the social network position of bullies and victims on victims' adjustment
+SO SOCIAL NETWORKS
+DE adjustment; attributions; bullying; degree centralization; victimization
+AB It was examined in this study whether the association between victimization and psychological adjustment (depression and self-esteem) is moderated by the classroom network position of bullies and victims. Multivariate multilevel regression analysis was used on a large sample representative of grades three to five in Finland (N=7192 children from 376 classrooms). Consistent with the person-group (dis)similarity model and attributional mechanisms, it was found that victims were better adjusted in classrooms when others shared their plight and when they could attribute the blame to bullies. The results indicate that victimization consequences might be partly generated by person-environment interactions. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Huitsing, Gijs; Veenstra, Rene] Univ Groningen, Dept Sociol, NL-9712 TG Groningen, Netherlands.   
+[Huitsing, Gijs; Veenstra, Rene] Interuniv Ctr Social Sci Theory & Methodol ICS, NL-9712 TG Groningen, Netherlands.   
+[Veenstra, Rene; Sainio, Miia; Salmivalli, Christina] Univ Turku, Dept Psychol, Turku, Finland.   
+[Salmivalli, Christina] Univ Stavanger, Dept Psychol, Stavanger, Norway.   
+[Salmivalli, Christina] Ctr Behav Res, Stavanger, Norway.
+RP Huitsing, G (corresponding author), Univ Groningen, Dept Sociol, Grote Rozenstr 31, NL-9712 TG Groningen, Netherlands.
+CR Arseneault L, 2010, PSYCHOL MED, V40, P717, DOI 10.1017/S0033291709991383
+   Dijkstra JK, 2008, J ABNORM CHILD PSYCH, V36, P1289, DOI 10.1007/s10802-008-9251-7
+   Graham S, 2009, J YOUTH ADOLESCENCE, V38, P487, DOI 10.1007/s10964-008-9386-4
+   Jonkmann K, 2009, CHILD DEV, V80, P338, DOI 10.1111/j.1467-8624.2009.01264.x
+   Sentse M, 2007, J ABNORM CHILD PSYCH, V35, P1009, DOI 10.1007/s10802-007-9150-3
+   Unknown -, 2011, MULTILEVEL ANALYSIS: AN INTRODUCTION TO BASIC AND ADVANCED MULTILEVEL MODELING, V0, P0
+   Unknown -, 2014, REVIEW OF PSYCHOLOGY, V0, P0, DOI DOI 10.1007/978-1-4612-4948-1
+   Veenstra R, 2007, CHILD DEV, V78, P1843, DOI 10.1111/j.1467-8624.2007.01102.x
+NR 8
+TC 103
+Z9 0
+U1 2.0
+U2 83.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2012
+VL 34
+BP 379
+EP 386
+DI 10.1016/j.socnet.2010.07.002
+PG 8
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000313304100002
+PM 
+ER
+
+PT J
+AU Butts, CT
+TI The complexity of social networks: theoretical and empirical findings
+SO SOCIAL NETWORKS
+DE complexity; entropy; social networks; equivalence; graph distribution
+AB A great deal of work in recent years has been devoted to the topic of "complexity", its measurement, and its implications. Here, the notion of algorithmic complexity is applied to the analysis of social networks. Structural features of theoretical importance - such as structural equivalence classes - are shown to be strongly related to the algorithmic complexity of graphs, and these results are explored using analytical and simulation methods. Analysis of the complexity of a variety of empirically derived networks suggests that many social networks are nearly as complex as their source entropy, and thus that their structure is roughly in line with the conditional uniform graph distribution hypothesis. Implications of these findings for network theory and methodology are also discussed. (C) 2001 Published by Elsevier Science B.V.
+C1 Carnegie Mellon Univ, Ctr Computat Anal Social & Org Syst, Dept Social & Decis Sci, Pittsburgh, PA 15213 USA.
+RP Carnegie Mellon Univ, Ctr Computat Anal Social & Org Syst, Dept Social & Decis Sci, Pittsburgh, PA 15213 USA.
+FU European Commission (FP7-PEOPLE-IOF) [299939]
+CR Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   BORGATTI S, 1996, UCINET IV, V1, P64
+   BUTTS CT, 1998, 880498 ICES CARN MEL, V0, P0
+   BUTTS CT, 1998, 880698 ICES, V0, P0
+   BUTTS CT, 1999, SPATIAL MODELS NETWO, V0, P0
+   BUTTS CT, 2001, IN PRESS J MATH SOCI, V0, P0
+   Bhowal A, 1997, PHYSICA A, V247, P327, DOI 10.1016/S0378-4371(97)00369-5
+   Burt RS, 1997, SOC NETWORKS, V19, P355, DOI 10.1016/S0378-8733(97)00003-8
+   Cook WJ, 1998, COMBINATORIAL OPTIMI, V0, P0
+   Cover TM, 2012, ELEM INF THEORY, V0, P0
+   Feldman DP, 1998, PHYS LETT A, V238, P244, DOI 10.1016/S0375-9601(97)00855-4
+   Feldman DP, 1998, WORKING PAPER 98-04-026, V0, P0
+   MOREL B, 1998, COMPLEX SYSTEMS THEO, V0, P0
+   Valente TW, 1998, SOC NETWORKS, V20, P89, DOI 10.1016/S0378-8733(97)00007-5
+   WOLPERT DH, 1998, SELF DISSIMILARITY E, V0, P0
+   Wellman B, 1996, SOC NETWORKS, V18, P347, DOI 10.1016/0378-8733(95)00282-0
+   West DB, 1996, INTRODUCTION TO GRAPH THEORY, V2, P0
+NR 17
+TC 51
+Z9 0
+U1 1.0
+U2 15.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2001
+VL 23
+BP 31
+EP 71
+DI 10.1016/S0378-8733(01)00030-2
+PG 41
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000168534500002
+PM 
+ER
+
+PT J
+AU Lai, G
+   Wong, O
+TI The tie effect on information dissemination: the spread of a commercial rumor in Hong Kong
+SO SOCIAL NETWORKS
+DE commercial rumor; information dissemination; tie effect
+AB The ability to acquire information has been considered a crucial factor facilitating instrumental actions, such as job search and organizational innovation. Previous social network studies tend to treat the characteristics of social ties through which information is acquired as causes that may affect instrumental outcomes. However, little research has directly examined the spread of information via social ties and the tie effect on information dissemination. Using telephone survey data collected after the outbreak of an extensive commercial rumor in Hong Kong, the present paper investigates the characteristics of social ties through which the information is spread and the tie effect on information dissemination. Results show that while mass media, particularly television, serves as a major channel of information flow, social ties are also widely used. Individuals tend to share information with strong ties, or people with whom they perceive to have good relations. However, information transmitted via kin ties tends to arrive at the respondent faster than via nonkin ties or other communication channels. Implications of the findings are discussed. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Hong Kong Baptist Univ, Dept Sociol, Kowloon, Hong Kong, Peoples R China.
+RP Lai, G (corresponding author), Hong Kong Baptist Univ, Dept Sociol, Kowloon, Hong Kong, Peoples R China.
+FU University of Maryland; National Science Foundation (NSF) [DBI-1052875,
+CR *HONG KONG CENS ST, 1997, 1996 POP BY CENS MAI, V0, P0
+   Bian YJ, 1997, AM SOCIOL REV, V62, P366, DOI 10.2307/2657311
+   Freeman LC, 1997, LANEE SOCIOLOGIQUE, V47, P89
+   Hansen MT, 1999, ADMIN SCI QUART, V44, P82, DOI 10.2307/2667032
+   Lai GN, 1998, SOC NETWORKS, V20, P159, DOI 10.1016/S0378-8733(97)00012-9
+   Lin N, 1999, ANNU REV SOCIOL, V25, P467, DOI 10.1146/annurev.soc.25.1.467
+   Lin N, 2000, CONTEMP SOCIOL, V29, P785, DOI 10.2307/2654086
+NR 7
+TC 53
+Z9 0
+U1 1.0
+U2 45.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2002
+VL 24
+BP 49
+EP 75
+DI 10.1016/S0378-8733(01)00050-8
+PG 27
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000174169100003
+PM 
+ER
+
+PT J
+AU Han, SK
+TI Tribal regimes in academia: a comparative analysis of market structure across disciplines
+SO SOCIAL NETWORKS
+DE market structure; random graph models; academia
+AB A systematic comparative analysis of the market structure in various academic disciplines-in terms of the pattern of "buying" and "selling" of new Ph.D.s-is presented. Based on the parameters estimated to delineate the macro-structural features along the dimensions of differentiation and integration, I show that embeddedness permeates unevenly across different domains, and locate the disciplinary regimes in a map along with their expected operational outcomes. The emerging pictures show a common organizing principle-"the prestige principle"-across the disciplines in their broad outlines, yet they differ significantly from one another in that the regimes that are characterized by clear hierarchy and tight solidarity are the ones in which the workings of the prestige principle are the most efficacious. (C) 2003 Published by Elsevier Science B.V.
+C1 Univ Illinois, Dept Sociol, Urbana, IL 61801 USA.
+RP Univ Illinois, Dept Sociol, 326 Lincoln Hall,MC-454, Urbana, IL 61801 USA.
+FU University of Maryland; National Science Foundation (NSF) [DBI-1052875,
+CR ABBOTT A, 1999, DEPT DISCIPLINE, V0, P0
+   Anderson CJ, 1999, SOC NETWORKS, V21, P37, DOI 10.1016/S0378-8733(98)00012-4
+   Breiger RL, 1998, THE PROBLEM OF SOLIDARITY: THEORIES AND MODELS, V0, P239
+   DAVID RJ, 1999, ANN M AC MAN ANN CHI, V0, P0
+   FAUST K, 2001, COMP NETWORKS SPACE, V0, P0
+   Friedkin NE, 1998, A STRUCTURAL THEORY OF SOCIAL INFLUENCE, V0, P0
+   Han S-K, 1999, CORPORATE SOCIAL CAPITAL AND LIABILITY, V0, P118
+   Han SK, 2000, SOCIOL FORUM, V15, P511, DOI 10.1023/A:1007580511361
+   KEITH B, 2000, AM SOCIOL, V31, P5, DOI DOI 10.1007/S12108-000-1001-4
+   Keith B, 1998, SOC FORCES, V76, P1495, DOI 10.2307/3005843
+   Kuhn T, 2012, THE STRUCTURE OF SCIENTIFIC REVOLUTIONS, V0, P0
+   Lazega E, 1999, SOC NETWORKS, V21, P67, DOI 10.1016/S0378-8733(99)00002-7
+   Markman M, 2000, CURR CLIN ONCOL, V2, P1
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   SKVORETZ J, 2001, RELATIONS SPECIES NE, V0, P0
+   Stinchcombe ArthurL, 1998, SOCIAL MECHANISMS: AN ANALYTICAL APPROACH TO SOCIAL THEORY, V0, P267
+   White HC, 2000, SOCIOL THEOR, V18, P505, DOI 10.1111/0735-2751.00116
+   ZHOU X, 2001, ANN M AM SOC ASS AN, V0, P0
+NR 19
+TC 55
+Z9 0
+U1 1.0
+U2 23.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2003
+VL 25
+BP 251
+EP 280
+DI 10.1016/S0378-8733(03)00011-X
+PG 30
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000184386200004
+PM 
+ER
+
+PT J
+AU Flap, H
+   Völker, B
+TI Goal specific social capital and job satisfaction -: Effects of different types of networks on instrumental and social aspects of work
+SO SOCIAL NETWORKS
+DE job satisfaction; social networks; goal specific social capital
+AB This paper addresses the question "To what extent can job satisfaction be explained as the revenue of social capital?" By conceiving someones social network as social capital we specify conditions under which social ties do lead to job satisfaction. We inquire into the idea of goal specificity of social capital, which implies that a network with a given structure and content will have different impacts on various aspects of job satisfaction. If the content of the ties and the structure of the network at the job engender material well-being or produce social approval, satisfaction with the corresponding job aspects increases. Data were collected in 1993 using written questionnaires in two Dutch governmental agencies, one with 32 and the other with 44 employees. These workers networks were charted using nine name-generating questions. Social capital, it turns out, is not an all-purpose good but one that is goal specific, even within a single domain of life such as work. Three effects stand out: First, the structure of the network and the content of the ties do matter. Networks of strategic, work-related ties promote an employee's satisfaction with instrumental aspects of the job, like income, security, and career opportunities. Second, closed networks of identity-based solidarity ties improve an employee's satisfaction with social aspects of the job, like the general social climate at work and cooperation with management and colleagues. Third, a network with a bow-tie structure (i.e., where a focal actor is the link between two or more mutually exclusive cliques) generally has strong negative effects on satisfaction with the social side of the job; although a bow-tie type network of trusting ties does increase satisfaction with the social side. This implies that Krackhardt's hypothesis on the unpleasant feelings produced by bow-tie type networks has to be specified for the content of the ties that constitute such a network. The most important conclusion of our analysis is that goal specificity of social capital has implications for both structure and content of social networks. Achievement of a particular goal, such as satisfaction at work, requires not only networks of a certain structure or ties with a particular content, but specifically structured networks of ties with a particular content. (C) 2001 Published by Elsevier Science B.V.
+C1 Univ Utrecht, Dept Sociol, ICS, NL-3584 CS Utrecht, Netherlands.
+RP Univ Utrecht, Dept Sociol, ICS, Heidelberglaan 1, NL-3584 CS Utrecht, Netherlands.
+FU NICHD NIH HHS [R21 HD068317, P01 HD031921, R01 HD075712] Funding Source:
+CR BULDER A, 2001, THESIS U UTRECHT NET, V0, P0
+   Ducharme LJ, 2000, WORK OCCUPATION, V27, P223, DOI 10.1177/0730888400027002005
+   Fehr E, 1998, J LABOR ECON, V16, P324, DOI 10.1086/209891
+   Flap H, 1998, COMPUTATIONAL & MATHEMATICAL ORGANIZATION THEORY, V4, P109, DOI 10.1023/A:1009675906926
+   Flap H, 1999, TOCQUEVILLE REVIEW, V20, P5
+   Hodson R, 1997, WORK OCCUPATION, V24, P426, DOI 10.1177/0730888497024004003
+   Krackhardt D, 1999, RES SOC ORG, V16, P183
+   Lazega E, 1999, SOC NETWORKS, V21, P67, DOI 10.1016/S0378-8733(99)00002-7
+   Podolny JM, 1997, AM SOCIOL REV, V62, P673, DOI 10.2307/2657354
+   Snijders TAB, 1998, COMPUTATIONAL & MATHEMATICAL ORGANIZATION THEORY, V4, P205, DOI 10.1023/A:1009640426491
+   Spector PE, 1997, JOB SATISFACTION: APPLICATION, V0, P0
+NR 11
+TC 136
+Z9 0
+U1 3.0
+U2 66.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2001
+VL 23
+BP 297
+EP 320
+DI 10.1016/S0378-8733(01)00044-2
+PG 24
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000171391200004
+PM 
+ER
+
+PT J
+AU Robins, G
+   Elliott, P
+   Pattison, P
+TI Network models for social selection processes
+SO SOCIAL NETWORKS
+DE network models; social selection processes; attributes
+AB We present network models for social selection processes, based on the p* class of models. Social selection occurs when individuals form social relationships on the basis of certain characteristics they possess. Similarity is a common hypothesis for selection processes, but one that is usually framed dyadically. Structural balance approaches move beyond dyadic conceptualizations and require more sophisticated modeling. The two-block chain graph approach of p* social influence models is adapted to allow individual attribute variables to be predictors of network ties. Using a range of dependence assumptions, we present a hierarchy of increasingly complex selection models, including models for continuous attribute measures, which in their simplest form may be assumed to be linear. The models have scope, however, for more complex functional formulations so that more specific hypotheses may be investigated by postulating a particular functional form. Our empirical examples illustrate how dyadic selection may be transmuted into structural effects, and how the absence of dyadic selection may still mask a subtle higher order selection effect as individuals position" themselves within a wider social environment. In conclusion, we discuss the links between social influence and social selection models. (C) 2001 Elsevier Science B.V. All rights reserved.
+C1 Univ Melbourne, Dept Psychol, Melbourne, Vic 3010, Australia.   
+Swinburne Univ Technol, Dept Psychol, Hawthorn, Vic 3122, Australia.
+RP Univ Melbourne, Dept Psychol, Melbourne, Vic 3010, Australia.
+CR Byrne D, 1997, J SOC PERS RELAT, V14, P417, DOI 10.1177/0265407597143008
+   CORANDER J, 1998, UNPUB MAXIMUM LIKELI, V0, P0
+   CROUCH B, 1998, INT C SOC NETW SITG, V0, P0
+   ELLIOTT P, 2000, THESIS U MELBOURNE, V0, P0
+   ELLIOTT P, 2000, UNPUB P SELECTION MO, V0, P0
+   Friedkin NE, 1998, A STRUCTURAL THEORY OF SOCIAL INFLUENCE, V0, P0
+   LAZEGA E, 2000, COMMUNICATION, V0, P0
+   Lauritzen S, 1996, GRAPHICAL MODELS, V0, P0
+   Lazega E, 1997, SOC NETWORKS, V19, P375, DOI 10.1016/S0378-8733(97)00006-3
+   Lazega E, 1999, SOC NETWORKS, V21, P67, DOI 10.1016/S0378-8733(99)00002-7
+   Leenders RJ, 1997, EVOLUTION OF SOCIAL NETWORKS, V0, P149
+   Leenders Roger, 1997, EVOLUTION SOCIAL NET, V0, P165
+   PATTISON PE, 2000, UNPUB NEIGHBOURHOOD, V0, P0
+   PRENDERGAST JF, 1996, INT STAT REV, V64, P89
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Paxton SJ, 1999, J ABNORM PSYCHOL, V108, P255, DOI 10.1037/0021-843X.108.2.255
+   ROBINS GL, 1998, THESIS U MELBOURNE, V0, P0
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   Robins G, 2001, J MATH SOCIOL, V25, P5, DOI 10.1080/0022250X.2001.9990243
+   SNIJDERS T, 2000, 2000 INT SOC NETW C, V0, P0
+   Unknown -, 1996, MULTIVARIATE DEPENDENCIES: MODELS, V0, P0
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+NR 22
+TC 127
+Z9 0
+U1 1.0
+U2 27.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2001
+VL 23
+BP 1
+EP 30
+DI 10.1016/S0378-8733(01)00029-6
+PG 30
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000168534500001
+PM 
+ER
+
+PT J
+AU van, duijn MAJ
+   van busschbach, JT
+   Snijders, TAB
+TI Multilevel analysis of personal networks as dependent variables
+SO SOCIAL NETWORKS
+AB In this paper, it is shown that multilevel methods are particularly well-suited for the analysis of relations in personal networks and the changes in these relations. Justice is done to the hierarchical nested structure of the data and the resulting dependence between observations "within egos". Multilevel techniques can also give more specific insight on why personal networks change: they allow to distinguish between. the influence of individual and of tie characteristics on the stability of personal networks as a whole and of specific ties within a personal network. This is illustrated by an application to changes in networks of four Dutch samples experiencing different life events. (C) 1999 Elsevier Science B.V. All rights reserved.
+C1 Univ Groningen, Dept Stat Measurement Theory & Informat Technol, NL-9712 TS Groningen, Netherlands.
+RP van Duijn, MAJ (corresponding author), Univ Groningen, Dept Stat Measurement Theory & Informat Technol, Grote Kruisstr 2-1, NL-9712 TS Groningen, Netherlands.
+CR FLAP H, 1999, REV TOCQUEVILLE TOCQ, V10, P1
+   Goldstein H, 2010, MULTILEVEL STATISTICAL MODELS, VFourth, P0
+   Morgan DL, 1997, SOC NETWORKS, V19, P9, DOI 10.1016/S0378-8733(96)00288-2
+   SNIJDERS T, 1995, JOURNAL OF QUANTITATIVE ANTHROPOLOGY, V5, P85
+   SNIJDERS TAB, 1999, IN PRESS INTRO MULTI, V0, P0
+   SNIJDERS TAB, 1999, IN PRESS PERSONAL RE, V0, P0
+   Snijders T, 1996, QUAL QUANT, V30, P405
+   Suitor J, 1997, SOC NETWORKS, V19, P51, DOI 10.1016/S0378-8733(96)00290-0
+   Suitor JJ, 1997, SOC NETWORKS, V19, P1, DOI 10.1016/S0378-8733(96)00287-0
+   VANDEBUNT GG, 1999, FRIENDS CHOICE ACOR, V0, P0
+   Van Busschbach J, 1996, UIT OOG UIT HART STA, V0, P0
+   Volker B, 1995, SHOULD AULD ACQUAINTANCE BE FORGOT? INSTITUTIONS OF COMMUNISM, V0, P0
+   Volker B, 1997, EUR SOCIOL REV, V13, P241, DOI 10.1093/oxfordjournals.esr.a018217
+   Wellman B, 1997, SOC NETWORKS, V19, P27, DOI 10.1016/S0378-8733(96)00289-4
+   van Tilburg T, 1998, J GERONTOL B-PSYCHOL, V53, PS313, DOI 10.1093/geronb/53B.6.S313
+NR 15
+TC 117
+Z9 0
+U1 1.0
+U2 36.0
+J9 SOCIAL NETWORKS
+PD APR
+PY 1999
+VL 21
+BP 187
+EP 209
+DI 10.1016/S0378-8733(99)00009-X
+PG 23
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000082481700005
+PM 
+ER
+
+PT J
+AU Robins, G
+   Pattison, P
+   Woolcock, J
+TI Missing data in networks:: exponential random graph (<i>p</i>*) models for networks with non-respondents
+SO SOCIAL NETWORKS
+DE exponential random graph models (p*); missing data
+AB Survey studies of complete social networks often involve non-respondents, whereby certain people within the "boundary" of a network do not complete a sociometric questionnaire-either by their own choice or by the design of the study-yet are still nominated by other respondents as network partners. We develop exponential random graph (p*) models for network data with non-respondents. We model respondents and non-respondents as two different types of nodes, distinguishing ties between respondents from ties that link respondents to non-respondents. Moreover, if we assume that the non-respondents are missing at random, we invoke homogeneity across certain network configurations to infer effects as applicable to the entire set of network actors. Using an example from a well-known network dataset, we show that treating a sizeable proportion of nodes as non-respondents may still result in estimates, and inferences about structural effects, consistent with those for the entire network. If, on the other hand, the principal research focus is on the respondent-only structure, with non-respondents clearly not missing at random, we incorporate the information about ties to non-respondents as exogenous. We illustrate this model with an example of a network within and between organizational departments. Because in this second class of models the number of non-respondents may be large, values of parameter estimates may not be directly comparable to those for models that exclude non-respondents. In the context of discussing recent technical developments in exponential random graph models, we present a heuristic method based on pseudo-likelihood estimation to infer whether certain structural effects may contribute substantially to the predictive capacity of a model, thereby enabling comparisons of important effects between models with differently sized node sets. (C) 2004 Elsevier B.V. All rights reserved.
+C1 Univ Melbourne, Sch Behav Sci, Dept Psychol, Melbourne, Vic 3010, Australia.
+RP Univ Melbourne, Sch Behav Sci, Dept Psychol, Melbourne, Vic 3010, Australia.
+FU NICHD NIH HHS [R24 HD041022, R21 HD063000] Funding Source: Medline
+CR Borgatti SP, 1999, UCINET 5 WINDOWS SOF, V0, P0
+   Brewer DD, 1999, SOC NETWORKS, V21, P361, DOI 10.1016/S0378-8733(99)00018-0
+   Butts CT, 2003, SOC NETWORKS, V25, P103, DOI 10.1016/S0378-8733(02)00038-2
+   HANDCOCK MS, 2002, SUNB 22 INT SOC NETW, V0, P0
+   HANDCOCK MS, 2002, WORKSH DYN SOC NETW, V0, P0
+   HANDCOCK MS, 2004, 40 U WASH CTR STAT S, V0, P0
+   Handcock MS, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, V0, P229
+   KLOVDAHL A, 2002, SUNB 22 INT SOC NETW, V0, P0
+   KOSSINETS G, 2003, THESIS COLUMBIA U, V0, P0
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   ROBINS GL, 2001, PSYCHOMETRIKA, V64, P371
+   ROGERS P, 2002, COMMUNICATION, V0, P0
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   Robins G, 2001, J MATH SOCIOL, V25, P5, DOI 10.1080/0022250X.2001.9990243
+   Robins G, 2001, SOC NETWORKS, V23, P1, DOI 10.1016/S0378-8733(01)00029-6
+   Snijders TAB, 2004, NEW SPECIFICATIONS E, V0, P0
+   Unknown -, 2002, JOURNAL OF SOCIAL STRUCTURE, V0, P0
+NR 18
+TC 110
+Z9 0
+U1 1.0
+U2 22.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2004
+VL 26
+BP 257
+EP 283
+DI 10.1016/j.socnet.2004.05.001
+PG 27
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000223652900004
+PM 
+ER
+
+PT J
+AU Lubbers, MJ
+TI Group composition and network structure in school classes:: a multilevel application of the <i>p</i>* model
+SO SOCIAL NETWORKS
+DE social networks; school classes; logit p* model; homophily
+AB This paper describes the structure of social networks of students within school classes and examines differences in network structure between classes. In order to examine the network structure within school classes, we focused in particular on the principle of homophily, i.e. the tendency that people associate with similar others. When differences between classes were observed, it was investigated whether these were related to group compositional characteristics. A two-stage regression procedure is proposed to analyze social networks of multiple groups. The random coefficient model is discussed briefly as an alternative to the two-stage method. (C) 2003 Elsevier B.V. All rights reserved.
+C1 Univ Groningen, Inst Educ Res, GION, NL-9712 TG Groningen, Netherlands.
+RP Lubbers, MJ (corresponding author), Univ Groningen, Inst Educ Res, GION, Grote Rozenstraat 3, NL-9712 TG Groningen, Netherlands.
+FU Divn Of Social and Economic Sciences; Direct For Social, Behav &
+CR *CBS GION, 1999, UNPUB MAST VOCL 99, V0, P0
+   Anderson CJ, 1999, SOC NETWORKS, V21, P37, DOI 10.1016/S0378-8733(98)00012-4
+   BAERVELDT C, 1999, P PAP PRES TWEED MAR, V0, P0
+   Crouch B, 1998, CONNECTIONS, V21, P87
+   Goldstein H, 1998, A USERS GUIDE TO MLWIN. MULTILEVEL MODELS PROJECT, V0, P0
+   Goldstein H, 2010, MULTILEVEL STATISTICAL MODELS, VFourth, P0
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Robins G, 1999, PSYCHOMETRIKA, V64, P371, DOI 10.1007/BF02294302
+   Robins G, 2001, SOC NETWORKS, V23, P1, DOI 10.1016/S0378-8733(01)00029-6
+   Snijders TAB, 2003, J MATH SOCIOL, V27, P123, DOI 10.1080/00222500305892
+   Unknown -, 2002, J SOC STRUCT, V0, P0, DOI DOI 10.1021/pr060392u
+   Unknown -, 2011, MULTILEVEL ANALYSIS: AN INTRODUCTION TO BASIC AND ADVANCED MULTILEVEL MODELING, V0, P0
+   VERMEIJ L, 2001, SUNBELT 21 BUD HUNG, V0, P0
+   Wigfield A, 1998, REV RES EDUC, V23, P73, DOI 10.3102/0091732X023001073
+NR 15
+TC 58
+Z9 0
+U1 1.0
+U2 22.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2003
+VL 25
+BP 309
+EP 332
+DI 10.1016/S0378-8733(03)00013-3
+PG 24
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000186975800002
+PM 
+ER
+
+PT J
+AU Pattison, PE
+   Breiger, RL
+TI Lattices and dimensional representations: matrix decompositions and ordering structures
+SO SOCIAL NETWORKS
+DE matrix decomposition; lattice representation; boolean vector
+AB This paper is concerned with some methods that attempt to provide simultaneous representation of dual relationships, such as ties of membership that connect persons and groups, or connections between organizations and agendas. We focus on vector space and lattice representations, and on techniques for simplifying the structure of dual networks. We demonstrate some fundamental similarities among these approaches. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Univ Melbourne, Dept Psychol, Parkville, Vic 3010, Australia.   
+Univ Arizona, Dept Sociol, Tucson, AZ 85721 USA.
+RP Pattison, PE (corresponding author), Univ Melbourne, Dept Psychol, Parkville, Vic 3010, Australia.
+FU Air Force Research Laboratory (AFRL) Mathematical Modeling and
+CR Breiger RL, 2000, POETICS, V27, P91, DOI 10.1016/S0304-422X(99)00026-1
+   Martin JL, 2000, SOCIOL METHODOL, V30, P123, DOI 10.1111/0081-1750.00077
+   Mische A, 2000, POETICS, V27, P163, DOI 10.1016/S0304-422X(99)00024-8
+   PATTISON PE, 2000, INT C SOC NETW VANC, V0, P0
+   Skvoretz J, 1999, SOCIOL METHODOL, V29, P253, DOI 10.1111/0081-1750.00066
+   Unknown -, 1998, VISUALIZATION OF CATEGORICAL DATA, V0, P0
+   Unknown -, 2012, FORMAL CONCEPT ANALYSIS: MATHEMATICAL FOUNDATIONS, V0, P0
+   Wiley JA, 1999, SOCIOL METHODOL, V29, P113, DOI 10.1111/0081-1750.00062
+   Wolff KarlErich, 1998, VISUALIZATION CATEGO, V0, P85
+NR 9
+TC 25
+Z9 0
+U1 4.0
+U2 8.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2002
+VL 24
+BP 423
+EP 444
+DI 10.1016/S0378-8733(02)00015-1
+PG 22
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000177947300008
+PM 
+ER
+
+PT J
+AU Volker, B
+   De cuyper, Ruben
+   Mollenhorst, Gerald
+   Dirkzwager, Anja
+   van der laan, Peter
+   Nieuwbeerta, Paul
+TI Changes in the social networks of prisoners: A comparison of their networks before and after imprisonment
+SO SOCIAL NETWORKS
+DE network changes; prisoners; core discussion network; relationship dissolution; relationship formation
+AB This study examines the social networks of detainees before and after their incarceration. We use unique panel data on 702 detainees and their core discussion networks. Our results show that while the size of the core discussion network remains stable, detainees have replaced more than 60% of their network members after incarceration. By far not all new core network members are truly new: in particular friendship ties have a higher change to deteriorate and be replaced by ties to relatives. We estimate multinomial multilevel models and find, moreover, that changes in the core discussion network are most likely to occur for detainees who have served a longer prison spell, who did not return to the same place of residence, who had fewer strong or family relationships, and who were suspected of involvement in a violent or sexual offense. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Volker, Beate] Univ Amsterdam, Dept Sociol, Nieuwe Achtergracht 166, NL-1018 WV Amsterdam, Netherlands.   
+[De Cuyper, Ruben; Dirkzwager, Anja; van der Laan, Peter; Nieuwbeerta, Paul] Netherlands Inst Study Crime & Law Enforcement NS, Amsterdam, Netherlands.   
+[Mollenhorst, Gerald] Univ Utrecht, Utrecht, Netherlands.
+RP Volker, B (corresponding author), Univ Amsterdam, Dept Sociol, Nieuwe Achtergracht 166, NL-1018 WV Amsterdam, Netherlands.
+FU University of Groningen
+CR Berg MT, 2011, JUSTICE Q, V28, P382, DOI 10.1080/07418825.2010.498383
+   Cochran JC, 2014, J RES CRIME DELINQ, V51, P200, DOI 10.1177/0022427813497963
+   Duwe G, 2011, CRIMINAL JUSTICE POL, V24, P271, DOI [10.1177/0887403411429724, DOI 10.1177/0887403411429724]
+   Mears DP, 2012, JUSTICE Q, V29, P888, DOI 10.1080/07418825.2011.583932
+   Mollenhorst G, 2014, SOC NETWORKS, V37, P65, DOI 10.1016/j.socnet.2013.12.003
+   Paik A, 2013, AM SOCIOL REV, V78, P339, DOI 10.1177/0003122413482919
+   Pryor JB, 2012, J PERS SOC PSYCHOL, V102, P224, DOI 10.1037/a0026270
+   Rocque M, 2011, INT J OFFENDER THER, V55, P816, DOI 10.1177/0306624X10370457
+   Siennick SE, 2013, J RES CRIME DELINQ, V50, P417, DOI 10.1177/0022427812449470
+   Unknown -, 2011, MULTILEVEL ANALYSIS: AN INTRODUCTION TO BASIC AND ADVANCED MULTILEVEL MODELING, V0, P0
+   Van Schellen M, 2012, MARRIAGE AND CRIME OVER THE LIFE COURSE: THE CRIMINAL CAREERS OF CONVICTS AND THEIR SPOUSES, V0, P0
+   Wrzus C, 2013, PSYCHOL BULL, V139, P53, DOI 10.1037/a0028601
+NR 12
+TC 33
+Z9 0
+U1 1.0
+U2 34.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2016
+VL 47
+BP 47
+EP 58
+DI 10.1016/j.socnet.2016.04.004
+PG 12
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000382592500005
+PM 
+ER
+
+PT J
+AU Lopaciuk-gonczaryk, B
+TI Collaboration strategies for publishing articles in international journals - A study of Polish scientists in economics
+SO SOCIAL NETWORKS
+DE co-authorship network; social capital; publication performance;collaboration strategies; multilevel analysis; brokerage
+AB This study investigates the importance of co-authorship ego-networks to scientific performance. In particular, the focus is on Polish researchers in economics, who need catch-up strategies to aid them in publishing papers in international journals. Brokerage is identified as one of the most important correlatives of publishing success. However, in many cases, the best performers are smart collaborators who take advantage of the benefits of both bridging and bonding social capital. In general, co-authorship itself does not provide an advantage. Instead, a proper collaboration strategy appears to be more important. Additionally, embeddedness of authors within their affiliations should be considered. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Lopaciuk-Gonczaryk, Beata] Univ Warsaw, Fac Econ Sci, PL-00241 Warsaw, Poland.
+RP Lopaciuk-Gonczaryk, B (corresponding author), Univ Warsaw, Fac Econ Sci, Dluga 44-50, PL-00241 Warsaw, Poland.
+FU research grant "Collaboration and publications in top journals -
+CR Abbasi A, 2011, J INFORMETR, V5, P594, DOI 10.1016/j.joi.2011.05.007
+   Abbasi A, 2012, INFORM PROCESS MANAG, V48, P671, DOI 10.1016/j.ipm.2011.09.001
+   Bellotti E, 2012, SOC NETWORKS, V34, P215, DOI 10.1016/j.socnet.2011.12.002
+   Bukowska G, 2013, NAUKA, V3, P59
+   De Stefano D, 2013, SOC NETWORKS, V35, P370, DOI 10.1016/j.socnet.2013.04.004
+   Ductor L, 2014, OXF B EC STAT, V0, P0
+   Ductor L, 2014, REV ECON STAT, V96, P936, DOI 10.1162/REST, a, 00430
+   Hesli VL, 2011, PS-POLIT SCI POLIT, V44, P393, DOI 10.1017/S1049096511000242
+   Kelchtermans S, 2011, IND CORP CHANGE, V20, P295, DOI 10.1093/icc/dtq074
+   Kuzhabekova A, 2011, THESIS U MINNESOTA, V0, P0
+   Li EY, 2013, RES POLICY, V42, P1515, DOI 10.1016/j.respol.2013.06.012
+   Liao CH, 2011, SCIENTOMETRICS, V86, P747, DOI 10.1007/s11192-010-0309-2
+   Lissoni F, 2011, IND CORP CHANGE, V20, P253, DOI 10.1093/icc/dtq073
+   McCarty C, 2013, SCIENTOMETRICS, V96, P467, DOI 10.1007/s11192-012-0933-0
+   Unknown -, 2011, MULTILEVEL ANALYSIS: AN INTRODUCTION TO BASIC AND ADVANCED MULTILEVEL MODELING, V0, P0
+NR 15
+TC 10
+Z9 0
+U1 1.0
+U2 32.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2016
+VL 44
+BP 50
+EP 63
+DI 10.1016/j.socnet.2015.07.001
+PG 14
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000367423900005
+PM 
+ER
+
+PT J
+AU Mennis, J
+   Mason, Michael J
+TI Social and geographic contexts of adolescent substance use: The moderating effects of age and gender
+SO SOCIAL NETWORKS
+DE substance use; egocentric social network; social disorganization;contextual effects; neighborhood effects; activity space; moderation
+AB This study investigates whether age and gender moderate the effects of social network and neighborhood contexts on adolescent substance use using a spatially embedded, egocentric social network data set comprised of 254 urban adolescents. Results indicate that substance use is enhanced by being older and male, as well as the presence of neighborhood concentrated disadvantage and interaction with substance using peers at adolescents perceived risky places. Older adolescents are more strongly influenced by social and neighborhood contexts than younger adolescents, where ages 14-16 appear to be a key transition age for the emergence of contextual effects on substance use. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Mennis, Jeremy] Temple Univ, Dept Geog & Urban Studies, Philadelphia, PA 19122 USA.   
+[Mason, Michael J.] Villanova Univ, Dept Educ & Human Serv, St Augustine Ctr, Villanova, PA 19085 USA.
+RP Mennis, J (corresponding author), Temple Univ, Dept Geog & Urban Studies, 1115 W Berta St,309 Gladfelter Hall, Philadelphia, PA 19122 USA.
+FU Direct For Computer & Info Scie & Enginr; Div Of Information &
+CR Apparicio P, 2008, CYBERGEO EUROPEAN J, V414, P27
+   Fagg J, 2008, J ENVIRON PSYCHOL, V28, P128, DOI 10.1016/j.jenvp.2007.10.004
+   Grunwald HE, 2010, J YOUTH ADOLESCENCE, V39, P1067, DOI 10.1007/s10964-010-9518-5
+   Hayes AF, 2009, BEHAV RES METHODS, V41, P924, DOI 10.3758/BRM.41.3.924
+   Hébert R, 2008, NICOTINE TOB RES, V10, P1113, DOI 10.1080/14622200802239298
+   Mason MJ, 2009, J ADOLESCENCE, V32, P925, DOI 10.1016/j.adolescence.2008.08.004
+   Mason MJ, 2009, J ENVIRON PSYCHOL, V29, P485, DOI 10.1016/j.jenvp.2009.08.004
+   Mason MJ, 2010, ADDICT RES THEORY, V18, P33, DOI 10.3109/16066350903019897
+   Mason MJ, 2010, J ADOLESCENCE, V33, P419, DOI 10.1016/j.adolescence.2009.07.006
+   Percy A, 2008, INT J BEHAV DEV, V32, P451, DOI 10.1177/0165025408093664
+   Sampson RJ, 2009, URBAN HEALTH: READINGS IN THE SOCIAL, V0, P0
+   Snijders T, 2007, EUR ASSOC METHODOL S, V0, P41
+   Stahler GJ, 2009, AM J PSYCHIAT, V166, P1258, DOI 10.1176/appi.ajp.2009.08111667
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   Unknown -, 2009, NIH PUBLICATION, V0, P0
+   Unknown -, 2011, MULTILEVEL ANALYSIS: AN INTRODUCTION TO BASIC AND ADVANCED MULTILEVEL MODELING, V0, P0
+NR 16
+TC 47
+Z9 0
+U1 2.0
+U2 33.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2012
+VL 34
+BP 150
+EP 157
+DI 10.1016/j.socnet.2010.10.003
+PG 8
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000300131600013
+PM 
+ER
+
+PT J
+AU Bonacich, P
+   Holdren, AC
+   Johnston, M
+TI Hyper-edges and multidimensional centrality
+SO SOCIAL NETWORKS
+DE centrality; hypergraphs
+AB Many social transactions are supra-dyadic; they either involve more than two participants (buyer, seller, broker) or they involve important aspects of the interactions setting, tike its timing or its location. Standard network techniques do not adequately plumb these networks. Using the concept of a hypergraph [Berge, C. 1973, Graphs and Hypergraphs], this paper shows how the concept of network centrality can be adapted to supra-dyadic networks. Use of the technique is illustrated with data on attacks by inhabitants of Caribbean islands on Spanish settlements in the period 1509-1700. (C) 2004 Published by Elsevier B.V.
+C1 Univ Calif Los Angeles, Dept Sociol, Los Angeles, CA 90095 USA.
+RP Bonacich, P (corresponding author), Univ Calif Los Angeles, Dept Sociol, 2201 Hershey Hall,POB 951551, Los Angeles, CA 90095 USA.
+FU University research theme `Dynamics of Youth [2020/DoY IG 3/1]
+CR Bonacich P, 2001, SOC NETWORKS, V23, P191, DOI 10.1016/S0378-8733(01)00038-7
+   Pattany PM, 2002, PROG PAIN RES MANAG, V23, P301
+NR 2
+TC 35
+Z9 0
+U1 2.0
+U2 12.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2004
+VL 26
+BP 189
+EP 203
+DI 10.1016/j.socnet.2004.01.001
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000223652900001
+PM 
+ER
+
+PT J
+AU Bignamivanassche, S
+TI Network stability in longitudinal data: A case study from rural Malawi
+SO SOCIAL NETWORKS
+DE network stability; longitudinal data; developing countries; measurement bias
+AB This paper investigates the stability of egocentric informal conversational networks in rural Malawi by analyzing reinterview data collected by a longitudinal survey. Contrary to the findings of test-retest studies carried out in developed countries, in rural Malawi geographically and socially close networks are found to exhibit a low level of stability even over short periods of time. This is mainly attributed to the specific structure of the networks considered, and it is therefore recommended that the importance of measurement bias should not be overemphasized. It is also found that, despite the significant changes in the named partners, network size and reported actions of network partners are quite stable, thus suggesting a negligible impact of network instability for further analyses of these data. 
+C1 Harvard Univ Initiat Global Hlth, Cambridge, MA 02138 USA.
+RP Harvard Univ Initiat Global Hlth, 104 Mt Auburn St, Cambridge, MA 02138 USA.
+FU James S. McDonnell Foundation; Spanish MEC [FIS2013-47282-C2-2]; EC
+CR Bignami-Van Assche Simona, 2003, DEMOGR RES, VS1, P31, DOI DOI 10.4054/DEMRES.2003.S1.2
+   Bignami-VanAssche Simona, 2003, DEMOGRAPHIC RES S, VS1, P77, DOI DOI 10.4054/DEMRES.2003.S1.3
+   Brewer DD, 2000, SOC NETWORKS, V22, P29, DOI 10.1016/S0378-8733(99)00017-9
+   SCHATZ E, 2002, ANN M POP ASS AM ATL, V0, P0
+   Watkins Susan, 2003, DEMOGRAPHIC RESEARCH, V1, P109, DOI DOI 10.4054/DEMRES.2003.S1.4
+   White K, 2000, SOC NETWORKS, V22, P337, DOI 10.1016/S0378-8733(00)00030-7
+NR 6
+TC 16
+Z9 0
+U1 2.0
+U2 11.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2005
+VL 27
+BP 231
+EP 247
+DI 10.1016/j.socnet.2005.02.001
+PG 17
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000230256300004
+PM 
+ER
+
+PT J
+AU Brewer, DD
+TI Forgetting in the recall-based elicitation of personal and social networks (vol 22, pg 29, 2000)
+SO SOCIAL NETWORKS
+C1 Univ Washington, Inst Alcohol & Drug Abuse, Seattle, WA 98105 USA.
+RP Brewer, DD (corresponding author), Univ Washington, Inst Alcohol & Drug Abuse, 3937 15th Ave NE, Seattle, WA 98105 USA.
+FU US Centers for Disease Control and Prevention [5 U01 CK00053102, 1 U01
+CR Brewer DD, 2000, SOC NETWORKS, V22, P29, DOI 10.1016/S0378-8733(99)00017-9
+NR 1
+TC 0
+Z9 0
+U1 0.0
+U2 2.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2000
+VL 22
+BP 367
+EP 367
+DI 10.1016/S0378-8733(00)00032-0
+PG 1
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000166703600006
+PM 
+ER
+
+PT J
+AU Holme, P
+   Edling, CR
+   Liljeros, F
+TI Structure and time evolution of an Internet dating community
+SO SOCIAL NETWORKS
+DE internet community; time evolution; communication; complex networks
+AB We present statistics for the structure and time evolution of a network constructed from user activity in an Internet community. The vastness and precise time resolution of an Internet community offers unique possibilities to monitor social network formation and dynamics. Time evolution of well-known quantities, such as clustering, mixing (degree-degree correlations), average geodesic length, degree, and reciprocity is studied. In contrast to earlier analyses of scientific collaboration networks, mixing by degree between vertices is found to be disassortative. Furthermore, both the evolutionary trajectories of the average geodesic length and of the clustering coefficients are found to have minima. (C) 2004 Elsevier B.V. All rights reserved.
+C1 Umea Univ, Dept Phys, S-90187 Umea, Sweden.   
+Stockholm Univ, Dept Sociol, S-10691 Stockholm, Sweden.   
+Karolinska Inst, Dept Med Epidemiol & Biostat, S-17177 Solna, Sweden.
+RP Umea Univ, Dept Phys, S-90187 Umea, Sweden.
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Amaral LAN, 2000, P NATL ACAD SCI USA, V97, P11149, DOI 10.1073/pnas.200327197
+   Anderson BS, 1999, SOC NETWORKS, V21, P239, DOI 10.1016/S0378-8733(99)00011-8
+   Barabási AL, 1999, SCIENCE, V286, P509, DOI 10.1126/science.286.5439.509
+   Barabási AL, 2001, PHYSICA A, V299, P559, DOI 10.1016/S0378-4371(01)00369-7
+   Butts CT, 2001, SOC NETWORKS, V23, P31, DOI 10.1016/S0378-8733(01)00030-2
+   Dorogovtsev SN, 2002, ADV PHYS, V51, P1079, DOI 10.1080/00018730110112519
+   Dorogovtsev SN, 2002, HANDBOOK OF GRAPHS AND NETWORKS, V0, P0
+   Ebel H, 2002, PHYS REV E, V66, P0, DOI 10.1103/PhysRevE.66.035103
+   Gould RV, 2002, AM J SOCIOL, V107, P1143, DOI 10.1086/341744
+   Holme Petter, 2002, PHYS REV E STAT NONLIN SOFT MATTER PHYS, V65, P066109
+   Latora V, 2001, PHYS REV LETT, V87, P0, DOI 10.1103/PhysRevLett.87.198701
+   Liljeros F, 2001, NATURE, V411, P907, DOI 10.1038/35082140
+   Newman MEJ, 2001, PHYS REV E, V64, P0, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   Newman MEJ, 2002, PHYS REV LETT, V89, P0, DOI 10.1103/PhysRevLett.89.208701
+   Newman MEJ, 2003, SIAM REV, V45, P167, DOI 10.1137/S003614450342480
+   Park J, 2003, PHYS REV E, V68, P0, DOI 10.1103/PhysRevE.68.026112
+   Pattison P, 2000, J MATH PSYCHOL, V44, P536, DOI 10.1006/jmps.1999.1261
+   Roberts JM, 2000, SOC NETWORKS, V22, P273, DOI 10.1016/S0378-8733(00)00026-5
+   Rothaermel FT, 2001, J MANAGE, V27, P297, DOI 10.1016/S0149-2063(01)00093-9
+   SMITH RD, 2002, CONDMAT0206378, V0, P0
+   Shen-Orr SS, 2002, NAT GENET, V31, P64, DOI 10.1038/ng881
+   Watts DJ, 1999, AM J SOCIOL, V105, P493, DOI 10.1086/210318
+   Wellman B, 2001, SCIENCE, V293, P2031, DOI 10.1126/science.1065547
+   Wellman B, 2002, THE INTERNET IN EVERYDAY LIFE, V0, P0
+NR 25
+TC 179
+Z9 0
+U1 2.0
+U2 75.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2004
+VL 26
+BP 155
+EP 174
+DI 10.1016/j.socnet.2004.01.007
+PG 20
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000221286300004
+PM 
+ER
+
+PT J
+AU Marsden, PV
+TI Interviewer effects in measuring network size using a single name generator
+SO SOCIAL NETWORKS
+DE name generators; egocentric networks; interviewer effects
+AB Name generators used to measure egocentric networks are complex survey questions that make substantial demands on respondents and interviewers alike. They are therefore vulnerable to interviewer effects, which arise when interviewers administer questions differently in ways that affect responses-in this case, the number of names elicited. Van Tilburg [Sociol. Methods Res. 26 (1998) 300] found significant interviewer effects on network size in a study of elderly Dutch respondents; that study included an instrument with seven name generators, the complexity of which may have accentuated interviewer effects. This article examines a simpler single-generator elicitation instrument administered in the 1998 General Social Survey (GSS). Interviewer effects on network size as measured by this instrument are smaller than those found by Van Tilburg, but only modestly so. Variations in the network size of respondents within interviewer caseloads (estimated using a single-item "global" measure of network size and an independent sample of respondents) reduce but do not explain interviewer effects on the name generator measure. Interviewer differences remain significant after further controls for between-interviewer differences in the sociodemographic composition of respondent pools. Further insight into the sources of interviewer effects may be obtained via monitoring respondent-interviewer interactions for differences in how name generators are administered. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+RP Marsden, PV (corresponding author), Harvard Univ, Dept Sociol, 630 William James Hall,33 Kirkland St, Cambridge, MA 02138 USA.
+FU European Research Council [295663]; Academy of Finland [276439]; Academy
+CR *STAT, 1999, STAT REL 6, V0, P0
+   RASBASH J, 2000, MLWIN COMMAND INTERF, V0, P0
+   Rasbash J, 2000, A USERS GUIDE TO MLWIN VERSION 2, V0, P0
+   Straits BC, 2000, SOC NETWORKS, V22, P123, DOI 10.1016/S0378-8733(00)00018-6
+   Unknown -, 1998, GEN SOCIAL SURVEYS 1, V0, P0
+   Unknown -, 2011, MULTILEVEL ANALYSIS: AN INTRODUCTION TO BASIC AND ADVANCED MULTILEVEL MODELING, V0, P0
+   Van Tilburg T, 1998, SOCIOL METHOD RES, V26, P300, DOI 10.1177/0049124198026003002
+   van der Zouwen J, 2001, SOCIOL METHOD RES, V30, P35, DOI 10.1177/0049124101030001003
+NR 8
+TC 95
+Z9 0
+U1 1.0
+U2 19.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2003
+VL 25
+BP 1
+EP 16
+DI 10.1016/S0378-8733(02)00009-6
+PG 16
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000179789300001
+PM 
+ER
+
+PT J
+AU Kogovsek, T
+   Ferligoj, A
+TI Effects on reliability and validity of egocentered network measurements
+SO SOCIAL NETWORKS
+DE egocentered networks; measurement; reliability; validity; social support
+AB This paper examines the reliability and validity of egocentered networks. Reliability and validity are estimated by the multitrait-multimethod (MTMM) approach. A split ballot MTMM design [.Saris, W.E., 1999. Forced choice or agree/disagree questions? An evaluation by the split ballot MTMM experiment. In: Proceeding of the Meeting of the IRMCS, pp. 122-146; Kogovsek, T., Ferligoj, A., Coenders, G. Saris, W. E., 2002. Estimating the reliability and validity of personal support measures: full information ml estimation with planned incomplete data. Social Networks 24, 1-20] is used, in which separate groups of respondents received different combinations of two methods. The effect of factors such as the methods used and the personal characteristics of respondents that can affect the quality of data was estimated by a meta analysis. Measurement method, type of question, network size, age, gender, extraversion and emotional stability all had statistically significant effects on the validity of measurement. After the list of alters is obtained with name generators, name interpreter questions can be asked in two ways. One way ("by alters") is to take each alter individually and to ask all the questions about him/her, going alter by alter until the end of the list of alters. The other way ("by questions") is to take the question and ask this question for all alters on the list, going question by question until the end of the list of name interpreter questions. Telephone interviewing (both by alters and by questions) gave more valid measurements than face-to-face interviews. Behavioral questions were more valid than questions with emotional content. The characteristics of ties were more validly measured in smaller networks. With reference to respondents' personal characteristics younger respondents, men, extraverted and emotionally stable respondents all had more valid measurements. Reliability was significantly affected by the measurement method, the type of question and age. The telephone/by alters method was the most reliable measurement method. Behavioral questions were more reliable than questions with emotional content. Measurements among younger respondents were also more reliable. 
+C1 Univ Ljubljana, Fac Social Sci, Ljubljana 1000, Slovenia.
+RP Univ Ljubljana, Fac Social Sci, Kardeljeva Pl 5, Ljubljana 1000, Slovenia.
+FU ICREA Funding Source: Custom
+CR Brewer DD, 2000, SOC NETWORKS, V22, P29, DOI 10.1016/S0378-8733(99)00017-9
+   Hlebec V, 2001, SOC NETWORKS, V23, P125, DOI 10.1016/S0378-8733(01)00037-5
+   Hlebec V, 2002, FIELD METHOD, V14, P288, DOI DOI 10.1177/15222X014003003
+   Kogovsek T, 2002, SOC NETWORKS, V24, P1, DOI 10.1016/S0378-8733(01)00047-8
+   SARIS WE, 2001, NEW APPROACH EVALUAT, V0, P0
+NR 5
+TC 41
+Z9 0
+U1 1.0
+U2 20.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2005
+VL 27
+BP 205
+EP 229
+DI 10.1016/j.socnet.2005.01.001
+PG 25
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000230256300003
+PM 
+ER
+

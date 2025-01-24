@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Modeling influence on posting engagement in online social networks: Beyond neighborhood effects</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.05.005</url>
+<snippet>In many online social networks (OSN), Member A can observe the online participation of Member B and thus may be exposed to a shift in the online participation of B. Such exposure is often modeled by a neighbor-to-neighbor spreading process that can lead to local influence. In other words, exposure to participation shifts of Neighbor B can exert local influence on As posting engagement. Since many posts nowadays are public rather than private, exposure to participation shifts of non-neighbors outside As neighborhood can exert global influence on As posting engagement. We model influence spread in an OSN by differentiating between exposure to participation shifts of local and global influence sources. The results of applying the proposed model to different temporal dynamic OSNs show evidence of both local and global influence on posting engagement of members. This consideration of global influence in OSNs, beyond neighborhood effects, extends past research that focused mainly on local influence and provides new insights about influence sources in general and viral marketing in particular.
+WOS:000487171000007
+</snippet>
+</document>
+
+<document id="2">
+<title>How MPs ties to interest groups matter for legislative co-sponsorship</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.12.001</url>
+<snippet>This article investigates whether linkages between members of parliament (MPs) and interest groups influence MPs activities of co-sponsoring legislative proposals. Based on statistical models for network data, the study builds on classical explanations of co-sponsorships highlighting the role of similar ties between MPs, such as party membership, legislative committee assignments, electoral district or gender. It shows that, on top of these traditional forms of homophily, MPs ties to interest groups matter as well. MPs with ties to a similar type of interest groups are more likely to co-sponsor their respective proposals. The same holds for MPs with ties to groups active in the same policy domain. These findings have implications for the study of groups lobbying, legislative behaviour and representative democracy.
+WOS:000458224300003
+</snippet>
+</document>
+
+<document id="3">
+<title>The opacity problem in social contagion</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.09.001</url>
+<snippet>Many social phenomena can be modeled as cascades in networks, where nodes adopt a behavior in response to peers adopting. When studying cascades, researchers typically assume that the number of active peers when a node adopts is equivalent to the nodes threshold for adoption. This assumption is rarely justified due to the "opacity problem": networked cascades reveal intervals which contain thresholds, rather than point estimates. Existing approaches take the maximum of each nodes threshold interval, which biases models of social influence. Opacity is inevitable in many small graphs when using the threshold model, resulting from the networked process itself rather than data collection techniques. Using simulation, we extend this finding to the probabilistic SI (independent cascade) model. We confirm these theoretical results by studying 50 large hashtag cascades among 3.2 million Twitter users, finding that 20&#37; of adoptions suffer from opacity. Different assumptions in response to opacity qualitatively change conclusions about peer influence. While opacity is a far-reaching problem, it can be addressed. Using information from nodes who have tightly bounded intervals allows building models to reduce error in estimating node thresholds.
+WOS:000454966400009
+</snippet>
+</document>
+
+</searchresult>

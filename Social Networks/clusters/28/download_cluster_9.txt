@@ -1,0 +1,192 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Yamaguchi, K
+TI THE FLOW OF INFORMATION THROUGH SOCIAL NETWORKS - DIAGONAL-FREE MEASURES OF INEFFICIENCY AND THE STRUCTURAL DETERMINANTS OF INEFFICIENCY
+SO SOCIAL NETWORKS
+AB The aim of this paper is to (1) propose specific diagonal-free measures of the inefficiency of information flow through social networks and (2) present an analysis of the structural determinants of inefficiency. We employ a formal model of collective action developed by Coleman (1973, 1990); link it to the Markov model of interpersonal influence developed by among others French (1956), Harary (1959), and Friedkin (1991; Friedkin and Johnsen 1990); and extend it to measure inefficiency in information flow based on the concept of mean first passage times. It is shown that structural characteristics of social networks - such as global density, local density, diameter, number of bridges, and inequality in centrality, and certain interactions among these variables - strongly affect inefficiency. Theoretical implications of the results are discussed.
+C1 E Carolina Univ, Dept Sociol, Greenville, NC 27858 USA.   
+Duke Univ, Durham, NC USA.
+RP YAMAGUCHI, K (corresponding author), UNIV CHICAGO,DEPT SOCIOL,1126 E 59TH ST,CHICAGO,IL 60637, USA.
+FU University research theme `Dynamics of Youth [2020/DoY IG 3/1]
+CR BONACICH P, 1990, AM SOCIOL REV, V55, P448, DOI 10.2307/2095768
+   COLEMAN J, 1990, F SOCIAL THEORY, V0, P0
+   DIEKMANN A, 1989, J MATH SOCIOL, V14, P31, DOI 10.1080/0022250X.1989.9990042
+   FRIEDKIN NE, 1990, J MATH SOCIOL, V15, P195
+   FRIEDKIN NE, 1990, SOCIOL METHOD RES, V19, P122, DOI 10.1177/0049124190019001006
+   FRIEDKIN NE, 1991, AM J SOCIOL, V96, P1478, DOI 10.1086/229694
+   Granovetter Mark, 1995, GETTING JOB STUDY CO, V0, P0
+   Marsden PeterV, 1990, SOCIAL NETWORKS THROUGH TIME, V0, P197
+   STRANG D, 1991, SOCIOL METHOD RES, V19, P324, DOI 10.1177/0049124191019003003
+   YAMAGUCHI K, 1993, UNPUB AUTONOMY EXCHA, V0, P0
+NR 10
+TC 35
+Z9 0
+U1 2.0
+U2 13.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 1994
+VL 16
+BP 57
+EP 86
+DI 10.1016/0378-8733(94)90011-6
+PG 30
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1994MR27900003
+PM 
+ER
+
+PT J
+AU Borgatti, SP
+   Everett, MG
+TI GRAPH COLORINGS AND POWER IN EXPERIMENTAL EXCHANGE NETWORKS
+SO SOCIAL NETWORKS
+AB The principal goal of studying experimental exchange networks is to understand the relationship between power and network position. In this paper we provide a formal definition of the appropriate notion of position, and explore some of the consequences of assuming that power is a function of position. It is shown that, in highly structured graphs, the space of possible power outcomes is significantly reduced if power is entirely structural. Drawing on the notion of role colorings (Everett and Borgatti 1991), we formalize the frequently expressed intuitive idea that a nodes power is a function of the powers of its neighbors, just as their power is determined by the powers of their neighbors, and so on. We use a combination of two role colorings to express this idea. One, called ecological coloring, states that if two nodes have the same power neighborhoods (i.e. distinct levels of power exhibited by their neighbors), then they must have equal power. The other, called regular coloring, states that if two nodes have equal power, then we can infer that they have the same power neighborhoods. Together, these colorings imply a one-to-one relationship between the power of a node, and the power(s) of its neighbors. It is found that applying these colorings in addition to assuming power is a function of position, radically reduces the sample space of possible power outcomes, leaving only a few possibilities. With two revealing exceptions, the reduced space of possible power outcomes always contains the experimentally observed result.
+C1 THAMES POLYTECH,LONDON SE18 6PF,ENGLAND.
+RP BORGATTI, SP (corresponding author), UNIV S CAROLINA,DEPT SOCIOL,COLUMBIA,SC 29208, USA.
+FU EPSRC [EP/H023135/1] Funding Source: UKRI
+CR BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   BORGATTI SP, 1989, SOC NETWORKS, V11, P65, DOI 10.1016/0378-8733(89)90018-X
+   BORGATTI SP, 1992, IN PRESS SOCIOLOGICA, V0, P0
+   EVERETT MG, 1991, MATH SOC SCI, V21, P183, DOI 10.1016/0165-4896(91)90080-B
+   MARKOVSKY B, 1987, SOCIOLOGICAL THEORY, V5, P100
+   MARKOVSKY B, 1988, AM SOCIOL REV, V53, P220, DOI 10.2307/2095689
+   MARKOVSKY BD, 1991, 1991 AM SOC ASS M, V0, P0
+   MARSDEN PV, 1987, SOCIAL EXCHANGE THEO, V0, P130
+   STOLTE JF, 1988, SOC PSYCHOL QUART, V51, P357, DOI 10.2307/2786762
+NR 9
+TC 18
+Z9 0
+U1 0.0
+U2 3.0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1992
+VL 14
+BP 287
+EP 308
+DI 10.1016/0378-8733(92)90006-S
+PG 22
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1992JV35600007
+PM 
+ER
+
+PT J
+AU Fararo, TJ
+   Skvoretz, J
+   Kosaka, K
+TI ADVANCES IN E-STATE STRUCTURALISM - FURTHER-STUDIES IN DOMINANCE STRUCTURE FORMATION
+SO SOCIAL NETWORKS
+AB E-state structuralism is a theoretical method that analyzes the formation and dissolution of network ties by merging the abstract core of expectation states theory with social network analysis. The method has been used to model dominance structure formation in infra-human populations. The work reported in this paper retains the specific problem focus on dominance while generalizing E-state structuralism in two directions. First, we incorporate potential parallelism in attack processes, and second, we allow for non-complementarity in the formation of orientational dominance/deference E-states. We analyze the effects of both these generalizations on the developments of stable forms of dominance structures. We find that under the more general assumptions, stable structures include various forms of coalitions in addition to the usual cycles and hierarchies. We view this generalized version of E-state structuralism as suggestive of ways to model the development of social structure in both infra-human and human populations.
+C1 UNIV S CAROLINA, DEPT SOCIOL, COLUMBIA, SC 29208 USA.   
+UNIV PITTSBURGH, DEPT SOCIOL, PITTSBURGH, PA 15260 USA.   
+KWANSEI GAKUIN UNIV, DEPT SOCIOL, NISHINOMIYA, HYOGO 662, JAPAN.
+RP McDonald, JW (corresponding author), Univ Southampton, Southampton Stat Sci Res Inst, Southampton SO17 1BJ, Hants, England.
+FU Grants-in-Aid for Scientific Research [25285158] Funding Source: KAKEN
+CR COLEMAN J, 1990, F SOCIAL THEORY, V0, P0
+   FARARO TJ, 1989, MEANING GENERAL THEO, V0, P0
+   FARARO TJ, 1994, ADV GROUP PROCESS, V11, P0
+   HUMMON NP, 1990, J MATH SOCIOLOGY, V0, P0
+   HUMMON NP, 1994, IN PRESS SOCIAL NETW, V0, P0
+   WILLER D, 1992, LOCATION POWER EXCHA, V0, P0
+NR 6
+TC 14
+Z9 0
+U1 1.0
+U2 3.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 1994
+VL 16
+BP 233
+EP 265
+DI 10.1016/0378-8733(94)90007-8
+PG 33
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1994NY15500003
+PM 
+ER
+
+PT J
+AU Zeggelink, E
+TI DYNAMICS OF STRUCTURE - AN INDIVIDUAL ORIENTED APPROACH
+SO SOCIAL NETWORKS
+AB The dynamics of network structure are considered, here as a consequence of individual choices with regard to relationships. We introduce the individual- or object-oriented modelling approach to model social networks. Object-oriented model building is based on acting so-called objects, communicating with and reacting to each other. Individuals are modelled as objects, each object with the possibility of having specific characteristics and behavioral rules. In contrast to many existing studies in the field of dynamic social networks, heterogeneity and dependence of dyads can easily be dealt with using this method. To clarify the new approach, we present a first simple model of the arising of friendship networks. For this simplicity, the model presented here is based solely on individuals different needs for social contact, but can easily be extended. We present results about the effect of the distribution of individual needs on the network emergent structure.
+C1 Univ Penn, Ctr Populat Studies, Philadelphia, PA 19104 USA.
+RP UNIV GRONINGEN, INTERUNIV CTR SOCIAL SCI THEORY & METHODOL, GR ROZENSTRAAT 31, 9712 TG GRONINGEN, NETHERLANDS.
+FU German Science Foundation [DFG/KA 1602/6-2]; Ministry of Science,
+CR *OBJ, 1989, SMALL 80 US GUID, V0, P0
+   *OBJ, 1990, SMALL REL 4 US GUID, V0, P0
+   Allan Graham A, 1990, FRIENDSHIP DEV SOCIO, V0, P0
+   COLEMAN J, 1990, F SOCIAL THEORY, V0, P0
+   Duck S, 1991, FRIENDS, V0, P0
+   Dykstra PA, 1990, NEXT NONKIN IMPORTAN, V0, P0
+   HOEDE C, 1990, 846 U TWENT DEP APPL, V0, P0
+   HUMMEL HJ, 1990, SOCIAL NETWORKS TIME, V0, P0
+   JOHNSEN EC, 1989, APPLICATIONS COMBINA, V0, P0
+   Olson M, 2012, CONTEMPORARY SOCIOLOGICAL THEORY, V124, P1965
+   SKVORETZ J, 1990, SOC NETWORKS, V12, P217, DOI 10.1016/0378-8733(90)90006-U
+   SKVORETZ J, 1991, SOC NETWORKS, V13, P275, DOI 10.1016/0378-8733(91)90009-I
+   SNIJDERS TAB, 1990, SOC NETWORKS, V12, P359, DOI 10.1016/0378-8733(90)90015-2
+   SNIJDERS TAB, 1991, PSYCHOMETRIKA, V56, P397, DOI 10.1007/BF02294482
+   VANDEBUNT G, 1993, 3RD EUR C SOC NETW A, V0, P0
+   WELLMAN B, 1991, SOC NETWORKS, V13, P223, DOI 10.1016/0378-8733(91)90007-G
+   ZEGGELINK EPH, 1993, STRANGERS FRIENDS EV, V0, P0
+NR 17
+TC 45
+Z9 0
+U1 1.0
+U2 6.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 1994
+VL 16
+BP 295
+EP 333
+DI 10.1016/0378-8733(94)90014-0
+PG 39
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1994PK84800002
+PM 
+ER
+
+PT J
+AU Skvoretz, J
+   Fararo, TJ
+TI POWER AND NETWORK EXCHANGE - AN ESSAY TOWARD THEORETICAL UNIFICATION
+SO SOCIAL NETWORKS
+AB We locate network exchange research on power development in the broad historical perspective given by neoclassical economic theory and the structuralist tradition in network analysis. We then compare the particular explanatory approaches represented by papers in this volume, noting convergences and divergences both at the conceptual, theoretical level and at the level of specific predictions for particular networks and in comparison with available observations. Our review suggests that the theoretical unification of the various approaches will require going beyond the current comparative statics analyses to a fully formal, dynamic process conceptualization of power development in exchange networks. We offer some preliminary ideas in this direction based on the Colemans recent work in which the problem is framed as one of actors exchanging control over resources in which each has interests.
+C1 UNIV PITTSBURGH,PITTSBURGH,PA 15260.
+RP SKVORETZ, J (corresponding author), UNIV S CAROLINA,DEPT SOCIOL,COLUMBIA,SC 29208, USA.
+FU Swiss National Science Foundation
+CR BONACICH P, 1992, ADV GROUP PROCESS, V9, P0
+   BRAUN N, 1991, UNPUB RESTRICTED ACC, V0, P0
+   COLEMAN J, 1990, F SOCIAL THEORY, V0, P0
+   FARARO TJ, 1989, ASA ROSE MONOGRAPH S, V0, P0
+   KAPPELHOFF P, 1990, UNPUB POWER EXCHANGE, V0, P0
+   MARKOVSKY B, 1988, AM SOCIOL REV, V53, P220, DOI 10.2307/2095689
+   MARKOVSKY BD, 1991, 1991 AM SOC ASS M, V0, P0
+   SKVORETZ J, 1990, 1990 AM SOC ASS M, V0, P0
+   SKVORETZ J, 1991, SOC PSYCHOL QUART, V54, P224, DOI 10.2307/2786652
+   Samuel Y, 1989, SOCIOLOGICAL THEORIE, V0, P288
+   Willer David, 1987, THEORY EXPT INVESTIG, V0, P0
+NR 11
+TC 27
+Z9 0
+U1 1.0
+U2 5.0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1992
+VL 14
+BP 325
+EP 344
+DI 10.1016/0378-8733(92)90008-U
+PG 20
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1992JV35600009
+PM 
+ER
+

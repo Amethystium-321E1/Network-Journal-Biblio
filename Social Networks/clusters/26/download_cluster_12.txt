@@ -1,0 +1,434 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Breiger, RL
+TI A concluding comment: Toward a critical social network analysis
+SO SOCIAL NETWORKS
+DE ethics; reflexivity; critical sna
+AB The authors of articles in this special issue on "Ethics in SNA" contribute to enriching the continuing discussion of major ethical dilemmas that social network analysts need to confront. These articles encourage us to replace silence with thoughtful consideration and innovative paths forward. I highlight three themes that emerged in my own reading of these contributions: moving beyond "ethics versus science," deepening reflexivity, and possible approaches toward a critical SNA.
+C1 [Breiger, Ronald L.] Univ Arizona, Sch Sociol, Tucson, AZ 85721 USA.
+RP Breiger, RL (corresponding author), Univ Arizona, Sch Sociol, Tucson, AZ 85721 USA.
+FU National Institutes of Health (NICHD) [R01HD086259]
+CR Breiger RL, 2018, POETICS, V68, P104, DOI 10.1016/j.poetic.2018.02.005
+   Chu KH, 2021, SOC NETWORKS, V67, P41, DOI 10.1016/j.socnet.2019.10.010
+   Cronin B, 2021, SOC NETWORKS, V67, P29, DOI 10.1016/j.socnet.2020.09.001
+   DAngelo A, 2021, SOC NETWORKS, V67, P20, DOI 10.1016/j.socnet.2019.06.002
+   Maya-Jariego I, 2021, SOC NETWORKS, V67, P55, DOI 10.1016/j.socnet.2019.10.009
+   Molina JL, 2021, SOC NETWORKS, V67, P13, DOI 10.1016/j.socnet.2019.11.001
+   Rudolph Abby E, 2021, SOC NETWORKS, V67, P47, DOI 10.1016/j.socnet.2019.09.002
+   Tubaro P, 2020, IN PRESS, V0, P0
+   Tubaro P, 2021, SOC NETWORKS, V67, P65, DOI 10.1016/j.socnet.2019.10.003
+NR 9
+TC 1
+Z9 0
+U1 0.0
+U2 2.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2021
+VL 67
+BP 74
+EP 75
+DI 10.1016/j.socnet.2020.12.004
+PG 2
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000685648800010
+PM 
+ER
+
+PT J
+AU Hogan, B
+TI Networks are a lens for power: A commentary on the recent advances in the ethics of social networks special issue
+SO SOCIAL NETWORKS
+C1 [Hogan, Bernie] Univ Oxford, Oxford Internet Inst, Oxford, England.
+RP Hogan, B (corresponding author), Univ Oxford, Oxford Internet Inst, Oxford, England.
+FU National Institute of Mental Health [1R21MH100238-01A1]
+CR Chu KH, 2021, SOC NETWORKS, V67, P41, DOI 10.1016/j.socnet.2019.10.010
+   Cronin B, 2021, SOC NETWORKS, V67, P29, DOI 10.1016/j.socnet.2020.09.001
+   DAngelo A, 2021, SOC NETWORKS, V67, P20, DOI 10.1016/j.socnet.2019.06.002
+   Hogan B, 2018, INT J COMMUN-US, V12, P592
+   Jeon GY, 2016, ACM CONFERENCE ON COMPUTER-SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING (CSCW 2016), V0, PP887, DOI 10.1145/2818048.2820074
+   Maya-Jariego I, 2021, SOC NETWORKS, V67, P55, DOI 10.1016/j.socnet.2019.10.009
+   Molina JL, 2021, SOC NETWORKS, V67, P13, DOI 10.1016/j.socnet.2019.11.001
+   Rudolph Abby E, 2021, SOC NETWORKS, V67, P47, DOI 10.1016/j.socnet.2019.09.002
+   Stys P, 2020, GLOB CRIME, V21, P74, DOI 10.1080/17440572.2019.1596806
+   Tubaro P, 2021, SOC NETWORKS, V67, P65, DOI 10.1016/j.socnet.2019.10.003
+NR 10
+TC 3
+Z9 0
+U1 0.0
+U2 5.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2021
+VL 67
+BP 9
+EP 12
+DI 10.1016/j.socnet.2020.12.003
+PG 4
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000685648800002
+PM 
+ER
+
+PT J
+AU Toepfer, T
+   Hollstein, Betina
+TI Order of recall and meaning of closeness in collecting affective network data
+SO SOCIAL NETWORKS
+DE egocentric networks; data collection; affective name generator;cognitive schemata; order of recall; closeness
+AB The paper investigates how study participants handle the so-called "hierarchical mapping technique", an affective name generator developed by Antonucci (1986), which is accompanied by a diagram enabling respondents to compare alters with regard to different degrees of closeness. By applying the thinking-aloud method, we identified three patterns in the order of recalling alters: closeness as overarching schema (with either role relationships or relationship properties as subordinate schema), roles and foci as overarching schema, and a fraying schema. In addition, we investigated how study participants understand and interpret "closeness". The meanings of closeness can refer to various relationship properties, cultural framing, and relationship dynamics. Results show that specific meanings of closeness are related to different recall patterns. Furthermore, recall patterns vary according to the socio-economic status of the participants. Finally, implications for the construction of name generators and data collection are discussed.
+C1 [Toepfer, Tom] Univ Hildesheim, Inst Sci Educ, Dept Gen Educ Sci, Univ Pl 1, D-31141 Hildesheim, Germany.   
+[Toepfer, Tom; Hollstein, Betina] Univ Bremen, SOCIUM Res Ctr Inequal & Social Policy, Mary Somerville Str 9, D-28359 Bremen, Germany.
+RP Hollstein, B (corresponding author), Univ Bremen, SOCIUM Res Ctr Inequal & Social Policy, Mary Somerville Str 9, D-28359 Bremen, Germany.
+FU University of Hamburg; University of Bremen
+CR Brashears ME, 2016, ADV GROUP PROCESS, V33, P1, DOI 10.1108/S0882-614520160000033001
+   Dobbie F, 2018, QUAL RES, V18, P207, DOI 10.1177/1468794117710323
+   Hogan B, 2016, 34TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, V0, P5360, DOI 10.1145/2858036.2858368
+   Hogan B, 2020, NETW SCI, V8, P204, DOI 10.1017/nws.2019.27
+   Hollstein B, 2020, NETW SCI, V8, P223, DOI 10.1017/nws.2020.4
+   Kogovsek T, 2018, ENCY SOCIAL NETWORK, V0, P1985
+   Maya-Jariego I, 2019, CONNECTIONS, V39, P1, DOI DOI 10.21307/CONNECTIONS-2019-003
+   Tubaro P, 2016, SOCIOL RES ONLINE, V21, P0, DOI 10.5153/sro.3864
+   Unknown -, 2017, SOMEONE TO TALK TO, V0, P0
+   von der Lippe H, 2017, INT J SOC RES METHOD, V20, P425, DOI 10.1080/13645579.2016.1227649
+NR 10
+TC 4
+Z9 0
+U1 1.0
+U2 8.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2021
+VL 65
+BP 124
+EP 140
+DI 10.1016/j.socnet.2020.12.006
+PG 17
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000614282000011
+PM 
+ER
+
+PT J
+AU Stulp, G
+TI Collecting large personal networks in a representative sample of Dutch women
+SO SOCIAL NETWORKS
+DE personal networks; ego-centric; gensi; survey methodology; respondent burden
+AB In this study we report on our experiences with collecting large personal network data (25 alters) from a representative sample of Dutch women. We made use of GENSI, a recently developed tool for network data collection using interactive visual elements that has been shown to reduce respondent burden. A sample of 758 women between the ages of 18 and 40 were recruited through the LISS-panel; a longitudinal online survey of Dutch people. Respondents were asked to name exactly 25 alters, answer sixteen questions about these alters (name interpreter questions), and assess all 300 alter-alter relations. Nearly all (97%) respondents reported on 25 alters. Non-response was minimal: 92% of respondents had no missing values, and an additional 5% had fewer than 10% missing values. Listing 25 alters took 3.5 +/- 2.2 (mean +/- SD) minutes, and reporting on the ties between these alters took 3.6 +/- 1.3 min. Answering all alter questions took longest with a time of 15.2 +/- 5.3 min. The majority of respondents thought the questions were clear and easy to answer, and most enjoyed filling in the survey. Collecting large personal networks can mean a significant burden to respondents, but through the use of visual elements in the survey, it is clear that it can be done within reasonable time, with enjoyment and without much non-response.
+C1 [Stulp, Gert] Dept Sociol, Grote Rozenstr 31, NL-9712 TS Groningen, Netherlands.   
+[Stulp, Gert] Inter Univ, Ctr Social Sci Theory & Methodol, Grote Rozenstr 31, NL-9712 TS Groningen, Netherlands.
+RP Stulp, G (corresponding author), Dept Sociol, Grote Rozenstr 31, NL-9712 TS Groningen, Netherlands.; Stulp, G (corresponding author), Inter Univ, Ctr Social Sci Theory & Methodol, Grote Rozenstr 31, NL-9712 TS Groningen, Netherlands.
+FU Netherlands Organization for Scientific Research; Netherlands
+CR Allaire JJ, 2020, RTICLES ARTICLE FORM, V0, P0
+   Eddens K, 2018, SOC NETWORKS, V55, P130, DOI 10.1016/j.socnet.2018.05.009
+   Eddens Katherine S, 2017, JMIR RES PROTOC, V6, Pe124, DOI 10.2196/resprot.6927
+   Hogan B, 2016, 34TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, V0, P5360, DOI 10.1145/2858036.2858368
+   Hogan B, 2020, NETW SCI, V8, P204, DOI 10.1017/nws.2019.27
+   Jaspersen LJ, 2019, BRIT J MANAGE, V30, P748, DOI 10.1111/1467-8551.12339
+   Krause J, 2019, GENTLE GRAPHICAL EGO, V0, P0
+   McCarty C, 2019, CONDUCTING PERSONAL, V0, P0
+   Pedersen TL, 2017, PATCHWORK: THE COMPOSER OF GGPLOTS, V0, P0
+   Perry BL, 2018, EGOCENTRIC NETWORK ANALYSIS: FOUNDATIONS, V0, P0, DOI DOI 10.1017/9781316443255
+   Rudis B, 2019, MANUAL, V0, P0
+   Ryan L, 2018, SOC NETWORKS, V53, P148, DOI 10.1016/j.socnet.2017.03.003
+   Stark TH, 2017, SOC NETWORKS, V48, P36, DOI 10.1016/j.socnet.2016.07.007
+   Tubaro P, 2016, SOCIOL RES ONLINE, V21, P0, DOI 10.5153/sro.3864
+   Unknown -, 2016, NETWORK CANVAS SOFTW, V0, P0
+   Unknown -, 2017, EASILY INSTALL LOAD, V0, P0
+   Unknown -, 2018, R LANG ENV STAT COMP, V0, P0
+   Xie Yihui, 2018, KNITR: A GENERAL-PURPOSE PACKAGE FOR DYNAMIC REPORT GENERATION IN R, V0, P0
+   von der Lippe H, 2017, INT J SOC RES METHOD, V20, P425, DOI 10.1080/13645579.2016.1227649
+NR 19
+TC 19
+Z9 0
+U1 1.0
+U2 6.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2021
+VL 64
+BP 63
+EP 71
+DI 10.1016/j.socnet.2020.07.012
+PG 9
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000591504600006
+PM 
+ER
+
+PT J
+AU Tubaro, P
+TI Whose results are these anyway? Reciprocity and the ethics of "giving back" after social network research
+SO SOCIAL NETWORKS
+DE research ethics; reporting results to study participants; reciprocity;communication outside academia; social network research; network visualization
+AB Bridging the social networks, field methods and ethics literatures, I make the case that the process of reporting research findings is an ethical issue, and recommend elevating it in the research design. I draw on a reflective account of three research experiences with settings in, respectively, online health communities, economic or-ganizations, and the mainstream media. I proceed in steps, discussing release of personal network results to individual participants, of whole network results to the researched community, and finally of general results to wider audiences, under a unifying idea that a reciprocity obligation underlies the reporting process. I claim that communication should follow an iterative rather than a linear approach to reach all relevant stakeholders, thereby mitigating the vulnerabilities that arise from research.
+C1 [Tubaro, Paola] Univ Paris Sud, CNRS, Lab Rech Informat, Bat 660, F-91405 Orsay, France.
+RP Tubaro, P (corresponding author), Univ Paris Sud, CNRS, Lab Rech Informat, Bat 660, F-91405 Orsay, France.
+FU MSH-Paris Saclay; IEA de Paris
+CR Bellotti E, 2016, SOCIOL RES ONLINE, V21, P0, DOI 10.5153/sro.3936
+   Crossley N, 2016, SOCIOL RES ONLINE, V21, P0, DOI 10.5153/sro.3920
+   DAngelo A, 2016, SOCIOL RES ONLINE, V21, P0, DOI 10.5153/sro.3996
+   DAngelo A, 2021, SOC NETWORKS, V67, P20, DOI 10.1016/j.socnet.2019.06.002
+   Dunbar RIM, 2016, ROY SOC OPEN SCI, V3, P0, DOI 10.1098/rsos.150292
+   Hogan B, 2018, INT J COMMUN-US, V12, P592
+   Molina JL, 2021, SOC NETWORKS, V67, P13, DOI 10.1016/j.socnet.2019.11.001
+   Pallotti F, 2018, HEALTH COMMUN, V33, P1166, DOI 10.1080/10410236.2017.1339371
+   Patel K, 2016, PLOS ONE, V11, P0, DOI 10.1371/journal.pone.0159910
+   Ryan L, 2018, SOC NETWORKS, V53, P148, DOI 10.1016/j.socnet.2017.03.003
+   Tubaro P, 2016, SOCIOL RES ONLINE, V21, P0, DOI 10.5153/sro.3864
+   Tubaro P, 2017, SOCIOLOGIES, V0, P0
+   Wong CA, 2018, JAMA-J AM MED ASSOC, V320, P435, DOI 10.1001/jama.2018.7898
+NR 13
+TC 19
+Z9 0
+U1 1.0
+U2 18.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2021
+VL 67
+BP 65
+EP 73
+DI 10.1016/j.socnet.2019.10.003
+PG 9
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000685648800009
+PM 
+ER
+
+PT J
+AU Tubaro, P
+   Ryan, Louise
+   Casilli, Antonio A
+   D'angelo, Alessio
+TI Social network analysis: New ethical approaches through collective reflexivity. Introduction to the special issue of Social Networks
+SO SOCIAL NETWORKS
+DE research ethics; social network analysis; reflexivity
+AB Research in social network analysis (SNA) faces unprecedented ethical challenges today due to both technological developments ('big' data) and a growing tendency toward institutionalization of ethics governance. We argue that a suitable response requires a more comprehensive approach to SNA ethics, and we identify two main paths toward this goal. First, we need to recognize the breadth of the subject, no longer limited to anonymity and consent. Second, we need to encourage the active participation and contribution of SNA scholars. We advocate a need for greater reflexivity at both individual and collective levels, whereby researchers can learn from their own and their peers' experiences, and foster a more ethically 'virtuous' approach within the whole SNA community.
+C1 [Tubaro, Paola] Univ Paris Saclay, LRI TAU, CNRS, Inria, France.   
+[Ryan, Louise] London Metropolitan Univ, London, England.   
+[Casilli, Antonio A.] Inst Polytech Paris, I3 Telecom Paris, Paris, France.   
+[D'Angelo, Alessio] Univ Nottingham, Nottingham, England.
+RP Tubaro, P (corresponding author), Univ Paris Saclay, LRI TAU, CNRS, Inria, France.
+FU Maison des Sciences de lHomme Paris-Saclay
+CR Bastin G, 2018, REV FR SOCIOL, V59, P375, DOI 10.3917/rfs.593.0375
+   Chu KH, 2021, SOC NETWORKS, V67, P41, DOI 10.1016/j.socnet.2019.10.010
+   Cronin B, 2021, SOC NETWORKS, V67, P29, DOI 10.1016/j.socnet.2020.09.001
+   DAngelo A, 2021, SOC NETWORKS, V67, P20, DOI 10.1016/j.socnet.2019.06.002
+   ESRC, 2020, WHAT IS IMP, V0, P0
+   Hogan B, 2018, INT J COMMUN-US, V12, P592
+   Ingram D, 2020, NBC NEWS, V0, P0
+   Jobin A, 2019, NAT MACH INTELL, V1, P389, DOI 10.1038/s42256-019-0088-2
+   Kerr A, 2020, BIG DATA SOC, V7, P0, DOI 10.1177/2053951720915939
+   Maya-Jariego I, 2021, SOC NETWORKS, V67, P55, DOI 10.1016/j.socnet.2019.10.009
+   Molina JL, 2021, SOC NETWORKS, V67, P13, DOI 10.1016/j.socnet.2019.11.001
+   Ochigame R, 2019, INVENTION ETHICAL AI, V0, P0
+   Rudolph Abby E, 2021, SOC NETWORKS, V67, P47, DOI 10.1016/j.socnet.2019.09.002
+   Ryan L, 2021, GLOBAL NETW, V21, P567, DOI 10.1111/glob.12295
+   Tubaro P, 2016, SOCIOL RES ONLINE, V21, P0, DOI 10.5153/sro.3864
+   Tubaro P, 2021, SOC NETWORKS, V67, P65, DOI 10.1016/j.socnet.2019.10.003
+   Williams ML, 2017, SOCIOLOGY, V51, P1149, DOI 10.1177/0038038517708140
+NR 17
+TC 17
+Z9 0
+U1 1.0
+U2 22.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2021
+VL 67
+BP 1
+EP 8
+DI 10.1016/j.socnet.2020.12.001
+PG 8
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000685648800001
+PM 
+ER
+
+PT J
+AU D'angelo, A
+   Ryan, Louise
+TI The presentation of the networked self: Ethics and epistemology in social network analysis
+SO SOCIAL NETWORKS
+AB Drawing on the seminal work of Goffman, Krackhardt and others, this paper argues that there is a crucial step in between participants perceptions and the collection and visualisation of data - i.e. what we call the presentation of the networked self. We employ examples from our own empirical work in the UK to argue that the presentation of the networked self requires researchers to adopt a highly reflexive approach. Framing our analysis within the context of contemporary society - including the impact of social media on a networking mindset - we explore the range of ethical dilemmas which can emerge during a research encounter.
+C1 [D'Angelo, Alessio] Univ Nottingham, Sch Sociol & Social Policy, Nottingham, England.   
+[Ryan, Louise] Univ Sheffield, Sheffield, England.
+RP D'Angelo, A (corresponding author), Univ Nottingham, Sch Sociol & Social Policy, Nottingham, England.
+FU research project, "Social Capital: Its Origins and Consequences"
+CR DAngelo A, 2016, AN END TO THE CRISIS OF EMPIRICAL SOCIOLOGY, V0, P0
+   DAngelo A, 2016, SOCIOL RES ONLINE, V21, P0, DOI 10.5153/sro.3996
+   Ryan L, 2016, SOCIOL REV, V64, P951, DOI 10.1111/1467-954X.12395
+   Ryan L, 2018, BRIT J SOCIOL EDUC, V39, P762, DOI 10.1080/01425692.2017.1417821
+   Ryan L, 2018, J ETHN MIGR STUD, V44, P233, DOI 10.1080/1369183X.2017.1341710
+   Ryan L, 2018, SOC NETWORKS, V53, P148, DOI 10.1016/j.socnet.2017.03.003
+   Ryan L, 2019, J YOUTH STUD, V0, P1
+NR 7
+TC 23
+Z9 0
+U1 4.0
+U2 30.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2021
+VL 67
+BP 20
+EP 28
+DI 10.1016/j.socnet.2019.06.002
+PG 9
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000685648800004
+PM 
+ER
+
+PT J
+AU Akbari, H
+TI Exploratory social-spatial network analysis of global migration structure
+SO SOCIAL NETWORKS
+DE network analysis; international migration structure; migratory ties;migration patterns
+AB At the global level, international migration can be considered as a network of migration exchanges between different countries. Employing an exploratory network analysis of the international migration structure, the present paper examines the structural characteristics of this network and the status of the countries. The analysis is done using the socio-spatial approach. Results show that as the severity of network ties grow, the number of ties reduce significantly and ties are asymmetric. Most of the migrations in the international migration structure have also taken place outside the near and neighboring countries. The network analysis showed two migration patterns of "International Migratory Highways" and "Migratory Clusters". In the first migration pattern, migra-tions are largely asymmetric and towards the major centers of immigration, while in the second one, migrations are mostly symmetric and within specific geographical areas.
+C1 [Akbari, Hossein] Ferdowsi Univ Mashhad, Dept Social Sci, Mashhad, Razavi Khorasan, Iran.
+RP Akbari, H (corresponding author), Ferdowsi Univ Mashhad, Dept Social Sci, Mashhad, Razavi Khorasan, Iran.
+CR Aleskerov, 2017, MODELS ALGORITHMS TE, V0, P175
+   Bilecen B, 2018, SOC NETWORKS, V53, P1, DOI 10.1016/j.socnet.2017.07.001
+   Bojarczuk S, 2017, SOC NETW SOCIAL NETW, V53, P101
+   Cachia R, 2018, SOC NETWORKS, V53, P111, DOI 10.1016/j.socnet.2017.03.014
+   Charyyev B, 2019, COMPUT SOC NETW, V6, P1, DOI [10.1186/s40649-019-0061-6.Accessed, 10.1186/s40649-019-0061-6, DOI 10.1186/S40649-019-0061-6]
+   Danchev V, 2016, SSRN ELECT J, V0, P0
+   Danchev V, 2018, SOC NETWORKS, V53, P4, DOI 10.1016/j.socnet.2017.06.003
+   Garip F, 2016, AM BEHAV SCI, V60, P1168, DOI 10.1177/0002764216643131
+   Peres M, 2016, PLOS ONE, V11, P0, DOI [10.1371/journal.pone.0162426, 10.1371/journal.pone.0148615]
+   Popielarz PA, 2018, SOC NETWORKS, V53, P42, DOI 10.1016/j.socnet.2017.03.004
+   Ryan L, 2018, SOC NETWORKS, V53, P148, DOI 10.1016/j.socnet.2017.03.003
+   Sekulic S, 2018, P AGILE 2018 C LUND, V0, P0
+   Thomas I, 2017, MIGRATION COMMUTING, V4, P0
+   United Nations Department for Economic and Social Affairs Statistical Division (UN SD), 2017, HDB MEAS INT MIGR PO, V0, P0
+   Vacca R, 2018, SOC NETWORKS, V53, P72, DOI 10.1016/j.socnet.2016.08.007
+   Verdery AM, 2018, SOC NETWORKS, V53, P57, DOI 10.1016/j.socnet.2017.03.002
+   Windzio M, 2018, SOC NETWORKS, V53, P20, DOI 10.1016/j.socnet.2017.08.006
+   Windzio M, 2021, J ETHN MIGR STUD, V47, P951, DOI 10.1080/1369183X.2019.1643229
+NR 18
+TC 12
+Z9 0
+U1 5.0
+U2 39.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2021
+VL 64
+BP 181
+EP 193
+DI 10.1016/j.socnet.2020.09.007
+PG 13
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000591504700006
+PM 
+ER
+
+PT J
+AU Molina, JL
+   Borgatti, Stephen P
+TI Moral bureaucracies and social network research
+SO SOCIAL NETWORKS
+DE research ethics; personal data&nbsp; protection; open science;social&nbsp; networks&nbsp; research; gdpr; censorship
+AB In the wake of Europes General Data Protection Regulation (GDPR), research ethics governance does not just affect the ethical dimensions of social research but also the range of scientific decisions available to researchers. Because of the sensitive status of personal data and the aversion to even minimal risk by what we call "moral bureaucracies", we are concerned that social network researchers will increasingly limit their research decisions to "safe" options, like reusing anonymized datasets, choosing target populations based on convenience rather than theoretical relevance, and routinely subcontracting fieldwork to professional data collection companies, among others. We also suggest that scientific associations and social scientists in general need to adopt a proactive role in preserving both scientific freedom and genuine ethics advice within this new regulatory framework.
+C1 [Molina, Jose Luis] Univ Autonoma Barcelona, Dept Social & Cultural Anthropol GRAFO, Edifici B Carrer Fortuna s n,Campus UAB, Bellaterra 08193, Barcelona, Spain.   
+[Borgatti, Stephen P.] Univ Kentucky, Dept Management, Gatton Coll Business & Econ, Lexington, KY 40506 USA.
+RP Molina, JL (corresponding author), Univ Autonoma Barcelona, Dept Social & Cultural Anthropol GRAFO, Edifici B Carrer Fortuna s n,Campus UAB, Bellaterra 08193, Barcelona, Spain.
+FU Social Sciences and Humanities Research Council of Canada (SSHRC)
+CR Bastin G, 2018, REV FR SOCIOL, V59, P375, DOI 10.3917/rfs.593.0375
+   Chassang G, 2017, ECANCERMEDICALSCIENC, V11, P0, DOI 10.3332/ecancer.2017.709
+   Etzioni A, 2016, ETHICS INF TECHNOL, V18, P149, DOI 10.1007/s10676-016-9400-6
+   Giles P, 2019, J CULT ECON-UK, V12, P612, DOI 10.1080/17530350.2019.1639068
+   Inglehart R, 2018, CULTURAL EVOLUTION: PEOPLES MOTIVATIONS ARE CHANGING, V0, P0, DOI 10.1017/9781108613880
+   Isaak J, 2018, COMPUTER, V51, P56, DOI 10.1109/MC.2018.3191268
+   Jones ML, 2018, IEEE SECUR PRIV, V16, P64, DOI 10.1109/MSP.2018.2701155
+   Kotsios A, 2017, ECANCER, V11, P1, DOI [10.3332/ecancer.2017.709, DOI 10.3332/ECANCER.2017.709]
+   Mannheimer S, 2019, AM BEHAV SCI, V63, P643, DOI 10.1177/0002764218784991
+   McCarty C, 2019, CONDUCTING PERSONAL, V0, P0
+   Perry BL, 2018, EGOCENTRIC NETWORK ANALYSIS: FOUNDATIONS, V0, P0, DOI DOI 10.1017/9781316443255
+   Sleeboom-Faulkner M, 2017, HAU-J ETHNOGR THEORY, V7, P71, DOI 10.14318/hau7.1.010
+   The European Parliament The European Council, 2016, GEN DAT PROT REG, V0, P20
+   Van den Hoonaard WC, 2016, THE ETHICS RUPTURE : EXPLORING ALTERNATIVES TO FORMAL RESEARCH ETHICS REVIEW, V0, P0
+NR 14
+TC 11
+Z9 0
+U1 2.0
+U2 11.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2021
+VL 67
+BP 13
+EP 19
+DI 10.1016/j.socnet.2019.11.001
+PG 7
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000685648800003
+PM 
+ER
+
+PT J
+AU Cronin, B
+   Perra, Nicola
+   Rocha, Luis Enrique Correa
+   Zhu, Zhen
+   Pallotti, Francesca
+   Gorgoni, Sara
+   Conaldi, Guido
+   De vita, Riccardo
+TI Ethical implications of network data in business and management settings
+SO SOCIAL NETWORKS
+DE research ethics; business networks; business and management;organisational networks; social network analysis
+AB Reflecting on the compilation and analysis of a range of network datasets drawn from our own work and some prominent examples, we consider the ethical challenges in dealing with network data in business and management settings. We argue that the managerial processes that characterize such settings introduce particular ethical sensitivities in the stages of commissioning and research design, and when collecting, analyzing and reporting network data. These sensitivities arise from the imperatives of business, motivations for commissioning network analyses and the legal authority that managers have over employees. We argue that ethical considerations are much more pervasive in business and management network research than in many other fields. In this contribution, we present a range of ethical challenges in network research in business and management settings that arise at several stages of the research process. For each issue identified, we describe the ethical problem and propose mitigation remedies. From this reflection, we suggest guidelines for other researchers to consider when designing research projects in this application area.
+C1 [Cronin, Bruce; Perra, Nicola; Zhu, Zhen; Pallotti, Francesca; Gorgoni, Sara; Conaldi, Guido; De Vita, Riccardo] Univ Greenwich, Ctr Business Network Anal, London, England.   
+[Rocha, Luis Enrique Correa] Univ Ghent, Dept Econ, Dept Phys & Astron, Ghent, Belgium.
+RP Cronin, B (corresponding author), Univ Greenwich, Pk Row, London SE10 9LS, England.
+FU NSF USA [IIS 1527200]; MSIT Korea ICT Consilience Creative Program
+CR Badi S, 2017, IND MARKET MANAG, V60, P204, DOI 10.1016/j.indmarman.2016.03.014
+   Bloom P, 2019, MONITORED, V0, P0
+   Burt RS, 2018, SOC NETWORKS, V54, P12, DOI 10.1016/j.socnet.2017.12.001
+   Chan S, 2017, NEW YORK TIMES, V0, P0
+   Chen S, 2018, INDIRECT INFERENCE S, V0, P0
+   Cronin B, 2017, EUR SOC NETW C SEPT, V0, P0
+   DAngelo A, 2021, SOC NETWORKS, V67, P20, DOI 10.1016/j.socnet.2019.06.002
+   Ethics & Compliance Initiative, 2016, 2016 GLOB BUS ETH SU, V0, P0
+   Fortunato S, 2016, PHYS REP, V659, P1, DOI 10.1016/j.physrep.2016.09.002
+   Heemskerk E, 2018, GLOBAL NETW, V18, P3, DOI 10.1111/glob.12183
+   Horak S, 2018, J BUS ETHICS, V149, P207, DOI 10.1007/s10551-016-3125-7
+   Isaak J, 2018, COMPUTER, V51, P56, DOI 10.1109/MC.2018.3191268
+   Kagan D, 2018, SOC NETW ANAL MIN, V8, P0, DOI 10.1007/s13278-018-0503-4
+   Kitts JA, 2017, AM J SOCIOL, V123, P850, DOI 10.1086/693704
+   Kurt Y, 2020, INT BUS REV, V29, P0, DOI 10.1016/j.ibusrev.2019.101633
+   Linhares CD, 2017, P S APPL COMP, V0, PP187, DOI DOI 10.1145/3019612.3019686
+   Mannheimer S, 2016, J INF COMMUN ETHICS, V14, P139, DOI 10.1108/JICES-05-2015-0013
+   Marineau JE, 2016, SOC NETWORKS, V44, P238, DOI 10.1016/j.socnet.2015.09.003
+   Molina JL, 2021, SOC NETWORKS, V67, P13, DOI 10.1016/j.socnet.2019.11.001
+   Monaghan S, 2017, J BUS RES, V76, P136, DOI 10.1016/j.jbusres.2017.03.020
+   Pallotti F, 2020, SOC NETWORKS, V0, P0
+   Rocha LEC, 2017, PHYS REV E, V96, P0, DOI 10.1103/PhysRevE.96.052302
+   Shipilov A, 2020, ACAD MANAG ANN, V14, P92, DOI 10.5465/annals.2018.0121
+   Sykes TA, 2017, MIS QUART, V41, P917
+   TUC, 2018, TRAD UN C LOND, V0, P0
+   Tubaro P, 2021, SOC NETWORKS, V67, P65, DOI 10.1016/j.socnet.2019.10.003
+   Wei Y, 2016, MARKET SCI, V35, P234, DOI 10.1287/mksc.2015.0949
+   Zuboff S, 2020, AGE SURVEILLANCE CAP, V0, P0
+NR 28
+TC 8
+Z9 0
+U1 2.0
+U2 17.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2021
+VL 67
+BP 29
+EP 40
+DI 10.1016/j.socnet.2020.09.001
+PG 12
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000685648800005
+PM 
+ER
+

@@ -1,0 +1,1184 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Bilecen, B
+   Gamper, Markus
+   Lubbers, Miranda J
+TI The missing link: Social network analysis in migration and transnationalism
+SO SOCIAL NETWORKS
+DE social network analysis; migration; transnationalism; personal networks
+AB The focus on social networks in migration studies marked a significant departure of understanding. Social networks are not only a mechanism through which the migration process is patterned, but they also have broader implications for migrants and non-migrants alike. Despite the fact that the network character of migration processes has long been recognized in migration studies, for a long time, Social Network Analysis has not been applied. Taking this scholarly omission as a starting point, we seek in this special issue to discuss recent research into social networks and migration that use SNA approaches. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Bilecen, Basak] Bielefeld Univ, Fac Sociol, POB 100131, D-33501 Bielefeld, Germany.   
+[Gamper, Markus] Univ Cologne, Inst Comparat Educ & Social Sci, Gronewaldstr 2, D-50931 Cologne, Germany.   
+[Lubbers, Miranda J.] Autonomous Univ Barcelona, Fac Arts, Dept Social & Cultural Anthropol, Off B9 229, Bldg B, E-08193 Barcelona, Spain.
+RP Bilecen, B (corresponding author), Bielefeld Univ, Fac Sociol, POB 100131, D-33501 Bielefeld, Germany.
+FU German Research Council (DFG) [882]; Spanish Ministry of Science and
+CR Bilecen B, 2014, INTERNATIONAL STUDENT MOBILITY AND TRANSNATIONAL FRIENDSHIPS, V0, P0
+   Bilecen B, 2018, SOC NETWORKS, V53, P90, DOI 10.1016/j.socnet.2017.03.001
+   Bojarczuk S, 2018, SOC NETWORKS, V53, P101, DOI 10.1016/j.socnet.2017.04.004
+   Cachia R, 2018, SOC NETWORKS, V53, P111, DOI 10.1016/j.socnet.2017.03.014
+   Danchev V, 2018, SOC NETWORKS, V53, P4, DOI 10.1016/j.socnet.2017.06.003
+   Eurobarameter, 2016, STAND EUR 85, V0, P0, DOI [10.2775/720961, DOI 10.2775/720961]
+   Kornienko O, 2018, SOC NETWORKS, V53, P125, DOI 10.1016/j.socnet.2017.04.006
+   Nelson DR, 2015, COMPLEX GEOGR EC, V19, P141
+   Popielarz PA, 2018, SOC NETWORKS, V53, P42, DOI 10.1016/j.socnet.2017.03.004
+   Ryan L, 2018, SOC NETWORKS, V53, P148, DOI 10.1016/j.socnet.2017.03.003
+   Sommer E, 2018, SOC NETWORKS, V53, P136, DOI 10.1016/j.socnet.2017.04.007
+   UNHCR, 2016, GLOB TRENDS, V0, P0
+   Vacca R, 2018, SOC NETWORKS, V53, P72, DOI 10.1016/j.socnet.2016.08.007
+   Verdery AM, 2018, SOC NETWORKS, V53, P57, DOI 10.1016/j.socnet.2017.03.002
+   Windzio M, 2018, SOC NETWORKS, V53, P20, DOI 10.1016/j.socnet.2017.08.006
+   Wissink M, 2018, SOC NETWORKS, V53, P30, DOI 10.1016/j.socnet.2017.03.005
+NR 16
+TC 85
+Z9 0
+U1 6.0
+U2 111.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2018
+VL 53
+BP 1
+EP 3
+DI 10.1016/j.socnet.2017.07.001
+PG 3
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000427340000001
+PM 
+ER
+
+PT J
+AU Popielarz, PA
+   Cserpes, Tuende
+TI Comparing the discussion networks and voluntary association memberships of immigrants and non-immigrants in US suburban gateways
+SO SOCIAL NETWORKS
+DE discussion networks; voluntary associations; immigrants; latinxs;race/ethnicity
+AB Using survey data from five Chicago (U.S.) suburbs, we build regression models comparing the social lives of immigrants and non-immigrants. We define immigration several ways (citizenship, legal status, immigrant generation, length of time in U.S., and race/ethnicity). Results indicate that the size, longevity and density of immigrants discussion networks are mostly comparable to those of non-immigrants, as are the number and longevity of their voluntary association memberships. Immigrants and non-immigrants differ little in geographic location of their network confidants and organizational memberships. However, there is less racial/ethnic variety in immigrants social lives, particularly if they are Latinx or not citizens. (C) 2017 Published by Elsevier B.V.
+C1 [Popielarz, Pamela A.; Cserpes, Tuende] Univ Illinois, Dept Sociol M C 312, 1007 W Harrison St, Chicago, IL 60607 USA.
+RP Popielarz, PA (corresponding author), Univ Illinois, Dept Sociol M C 312, 1007 W Harrison St, Chicago, IL 60607 USA.
+FU National Science Foundation [SES 0921414]; Russell Sage Foundation;
+CR Brashears ME, 2014, SOCIOL SCI, V1, P493, DOI 10.15195/v1.a27
+   Dekker R, 2014, GLOBAL NETW, V14, P401, DOI 10.1111/glob.12040
+   Faist T, 2015, POPUL SPACE PLACE, V21, P193, DOI 10.1002/psp.1903
+   Fussell E, 2014, ANNU REV SOCIOL, V40, P479, DOI 10.1146/annurev-soc-071913-043325
+   Migration Policy Institute, 2013, MIGR DAT HUB, V0, P0
+   Mowen TJ, 2016, SOCIOL RACE ETHNIC, V2, P323, DOI 10.1177/2332649215611685
+   Small ML, 2013, SOC NETWORKS, V35, P470, DOI 10.1016/j.socnet.2013.05.004
+   Small ML, 2015, SOC NETWORKS, V40, P90, DOI 10.1016/j.socnet.2014.09.001
+   Takle M, 2015, ETHNICITIES, V15, P92, DOI 10.1177/1468796814546575
+   Tienda M, 2014, ANNU REV SOCIOL, V40, P499, DOI 10.1146/annurev-soc-071913-043315
+   Unknown -, 2013, EMPIRIA REV METODOL, V0, P0
+   Waters MC, 2014, ANNU REV SOCIOL, V40, P369, DOI 10.1146/annurev-soc-071811-145449
+NR 12
+TC 7
+Z9 0
+U1 1.0
+U2 16.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2018
+VL 53
+BP 42
+EP 56
+DI 10.1016/j.socnet.2017.03.004
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000427340000005
+PM 
+ER
+
+PT J
+AU Wissink, M
+   Mazzucato, Valentina
+TI In transit: Changing social networks of sub-Saharan African migrants in Turkey and Greece
+SO SOCIAL NETWORKS
+DE transnational networks; transit migration; personal network analysis;network change
+AB Research on the role of social networks in human migration has mainly relied on single snapshots in time. This paper focuses on the changes in composition and usage of the transnational networks of migrants and why these changes occur. It is based on ethnography and network analysis with forty sub-Saharan African migrants in two transit contexts: Turkey and Greece, over a 17-month period. Findings show that relationship preferences, resources and communication infrastructures constitute an individual opportunity infrastructure affecting how critical events produce network changes. This process is ongoing through the continued experience of critical events, suggesting that the role of networks fluctuates over time. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Wissink, Marieke; Mazzucato, Valentina] Maastricht Univ, Fac Arts & Social Sci, POB 616, NL-6200 MD Maastricht, Netherlands.
+RP Wissink, M (corresponding author), Maastricht Univ, Fac Arts & Social Sci, POB 616, NL-6200 MD Maastricht, Netherlands.
+FU ESRC [ES/L000113/1] Funding Source: UKRI
+CR Bilecen B, 2016, INTERNATIONAL REVIEW OF SOCIAL RESEARCH, V6, P0
+   Dekker R, 2014, GLOBAL NETW, V14, P401, DOI 10.1111/glob.12040
+   Gladkova N, 2016, POPUL SPACE PLACE, V0, P0
+   Mollenhorst G, 2014, SOC NETWORKS, V37, P65, DOI 10.1016/j.socnet.2013.12.003
+   Schapendonk J, 2015, POPUL SPACE PLACE, V21, P809, DOI 10.1002/psp.1860
+   Somerville K, 2015, INT MIGR, V53, P135, DOI 10.1111/j.1468-2435.2010.00671.x
+   Wissink M, 2013, J ETHN MIGR STUD, V39, P1087, DOI 10.1080/1369183X.2013.778026
+   Wissink M, 2016, NAVIGATING E MEDITER, V0, P0
+NR 8
+TC 39
+Z9 0
+U1 1.0
+U2 16.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2018
+VL 53
+BP 30
+EP 41
+DI 10.1016/j.socnet.2017.03.005
+PG 12
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000427340000004
+PM 
+ER
+
+PT J
+AU Verdery, AM
+   Mouw, Ted
+   Edelblute, Heather
+   Chavez, Sergio
+TI Communication flows and the durability of a transnational social field
+SO SOCIAL NETWORKS
+DE migrant networks; transnationalism; communication flows
+AB We draw on unique data on communication flows between migrants and non-migrants in a bi-national, cross-border social network to test competing theories of the process of social incorporation. While advocates of the assimilation perspective argue that social incorporation is largely a one-way street, a recent literature on immigrant transnationalism challenges this view by arguing that changes in communication technologies and reductions in travel costs have made it possible for migrants to retain meaningful connections to their origin communities. In the context of this debate, we argue that communication flows as measured by a combination of the number of social ties and the frequency of communication with them provide an empirical test of the potential durability of cross-border networks. In our analysis, we find mixed support for both transnationalism and assimilation: while the classic assimilation perspective is correct that the strength of migrants ties to origin attenuates as time in the destination increases, we also find evidence of a striking persistence in cross-border communication that is reinvigorated by migrant return visits, consistent with an attenuated view of transnationalism. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Verdery, Ashton M.] Penn State Univ, Dept Sociol & Criminol, University Pk, PA 16802 USA.   
+[Mouw, Ted] Univ North Carolina Chapel Hill, Dept Sociol, Chapel Hill, NC 27515 USA.   
+[Edelblute, Heather] Univ Texas San Antonio, Dept Sociol, San Antonio, TX USA.   
+[Chavez, Sergio] Rice Univ, Dept Sociol, Houston, TX 77251 USA.
+RP Verdery, AM (corresponding author), Penn State Univ, Dept Sociol & Criminol, University Pk, PA 16802 USA.
+FU Population Research Institute; Institute for CyberScience of the
+CR Bilecen B, 2015, POPUL SPACE PLACE, V21, P227, DOI 10.1002/psp.1906
+   Bilsborrow Richard E, 2016, MILLENNIUM DEV INDIC, V0, P0
+   Bolíbar M, 2015, INT SOCIOL, V30, P579, DOI 10.1177/0268580915579925
+   Cameron AC, 2015, J HUM RESOUR, V50, P317, DOI 10.3368/jhr.50.2.317
+   Comola M, 2015, SCAND J ECON, V117, P592, DOI 10.1111/sjoe.12093
+   Herz A, 2015, SOC NETWORKS, V40, P64, DOI 10.1016/j.socnet.2014.08.001
+   Levitt P, 2013, MIGR LETT, V10, P11
+   Luken VD, 2015, REV ESP INVESTIG SOC, V0, PP151, DOI 10.5477/cis/reis.150.151
+   Merli M, 2016, MIGR STUD, V0, P0
+   Mouw T, 2014, SOC PROBL, V61, P329, DOI 10.1525/sp.2014.12192
+   Ryan L, 2014, SOCIOLOGY, V48, P251, DOI 10.1177/0038038512475109
+   Ryan L, 2015, J ETHN MIGR STUD, V41, P1664, DOI 10.1080/1369183X.2015.1015409
+   United Nations Department of Economic and Social Affairs, 2015, TRENDS INT MIGR STOC, V0, P0
+   Waldinger Roger, 2015, CROSS BORDER CONNECT, V0, P0
+   Wilhelm S, 2013, R J, V5, P130
+   van Tubergen F, 2015, J ETHN MIGR STUD, V41, P101, DOI 10.1080/1369183X.2014.886955
+NR 16
+TC 25
+Z9 0
+U1 2.0
+U2 16.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2018
+VL 53
+BP 57
+EP 71
+DI 10.1016/j.socnet.2017.03.002
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000427340000006
+PM 29867287
+ER
+
+PT J
+AU Block, P
+   Koskinen, Johan
+   Hollway, James
+   Steglich, Christian
+   Stadtfeld, Christoph
+TI Change we can believe in: Comparing longitudinal network models on consistency, interpretability and predictive power
+SO SOCIAL NETWORKS
+DE saom; ergm; tergm; longitudinal network models; network evolution;out-of-sample testing; parameter interpretation; auto-regressive network models; process-based network models
+AB While several models for analysing longitudinal network data have been proposed, their main differences, especially regarding the treatment of time, have not been discussed extensively in the literature. However, differences in treatment of time strongly impact the conclusions that can be drawn from data. In this article we compare auto-regressive network models using the example of TERGMs - a temporal extensions of ERGMs - and process-based models using SAOs as an example. We conclude that the TERGM has, in contrast to the ERGM, no consistent interpretation on tie-level probabilities, as well as no consistent interpretation on processes of network change. Further, parameters in the TERGM are strongly dependent on the interval length between two time-points. Neither limitation is true for process -based network models such as the SAOM. Finally, both compared models perform poorly in out-of-sample prediction compared to trivial predictive models. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Block, Per; Stadtfeld, Christoph] Swiss Fed Inst Technol, Chair Social Networks, Zurich, Switzerland.   
+[Koskinen, Johan] Univ Manchester, Mitchell Ctr SNA, Manchester M13 9PL, Lancs, England.   
+[Koskinen, Johan] Univ Manchester, Social Stat Discipline Area, Manchester M13 9PL, Lancs, England.   
+[Hollway, James] Grad Inst Geneva, Dept Int Relat Polit Sci, Geneva, Switzerland.   
+[Steglich, Christian] Linkoping Univ, Inst Analyt Sociol, Linkoping, Sweden.   
+[Steglich, Christian] Univ Groningen, Dept Sociol ICS, Groningen, Netherlands.
+RP Block, P (corresponding author), Swiss Fed Inst Technol, Chair Social Networks, Zurich, Switzerland.
+CR Athey S, 2017, SCIENCE, V355, P483, DOI 10.1126/science.aal4321
+   Block P, 2016, SOCIOL METH IN PRESS, V0, P0
+   Hollway J, 2016, SOC NETWORKS, V44, P281, DOI 10.1016/j.socnet.2015.03.001
+   Koskinen J, 2015, NETW SCI, V3, P58, DOI 10.1017/nws.2015.3
+   Krivitsky PN, 2014, J ROY STAT SOC B, V76, P29, DOI 10.1111/rssb.12014
+   Leifeld P, 2016, WORKING PAPER, V0, P0
+   Lerner J, 2013, J MATH PSYCHOL, V57, P275, DOI 10.1016/j.jmp.2012.03.002
+   Lusher D, 2013, THEORY, V0, P0
+   McFarland DA, 2014, AM SOCIOL REV, V79, P1088, DOI 10.1177/0003122414554001
+   Pattison P, 2013, EXPONENTIAL RANDOM GRAPH MODELS FOR SOCIAL NETWORKS, V0, P287
+   Ripley R, 2016, MANUAL FOR RSIENA, V0, P0
+   Shalizi CR, 2013, ANN STAT, V41, P508, DOI 10.1214/12-AOS1044
+   Snijders T, 2013, EXPONENTIAL RANDOM GRAPH MODELS FOR SOCIAL NETWORKS: THEORY, V0, P0, DOI [10.1017/CBO9780511894701, DOI 10.1017/CBO9780511894701]
+   Wang P, 2014, MPNET MELBOURNE SCH, V0, P0
+NR 14
+TC 63
+Z9 0
+U1 18.0
+U2 87.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2018
+VL 52
+BP 180
+EP 191
+DI 10.1016/j.socnet.2017.08.001
+PG 12
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000416496300017
+PM 
+ER
+
+PT J
+AU Kornienko, O
+   Agadjanian, Victor
+   Menjivar, Cecilia
+   Zotova, Natalia
+TI Financial and emotional support in close personal ties among Central Asian migrant women in Russia
+SO SOCIAL NETWORKS
+DE personal networks; social support; migration; women; multi-level regression analysis; russian federation
+AB This study advances research on the role of personal networks as sources of financial and emotional support in immigrants close personal ties beyond the immediate family. Because resource scarcity experienced by members of immigrant communities is likely to disrupt normatively expected reciprocal support, we explored multi-level predictors of exchange processes with personal network members that involve (1) only receiving support, (2) only providing support, and (3) reciprocal support exchanges. We focus on an understudied case of Central Asian migrant women in the Russian Federation using a sample of 607 women from three ethnic groups Kyrgyz, Tajik, Uzbek who were surveyed in two large Russian cities-Nizhny Novgorod and Kazan. The survey collected information on respondents demographic, socioeconomic, and migration-related characteristics, as well as characteristics of up to five individuals with whom they had a close relationship. Multi-level multinomial regression analyses were used to account for the nested nature of the data. Our results revealed that closer social relationships (siblings and friends) and greater levels of resources (income and regularized legal status) at both ego and alter levels were positively related to providing, receiving, and reciprocally exchanging financial and emotional support. Egos were more likely to provide financial assistance to transnational alters, whereas they were more likely to engage in mutual exchanges of emotional support with their network members from other countries. Personal network size and density showed no relationship with support exchanges. These findings provide a nuanced picture of close personal ties as conduits for financial and emotional support in migrant communities in a major, yet understudied, migrant-receiving context. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Kornienko, Olga] Arizona State Univ, Dept Psychol, POB 871104, Tempe, AZ 85287 USA.   
+[Agadjanian, Victor; Menjivar, Cecilia] Univ Kansas, Dept Sociol, Lawrence, KS 66045 USA.   
+[Zotova, Natalia] Ohio State Univ, Dept Anthropol, Columbus, OH 43210 USA.
+RP Kornienko, O (corresponding author), Arizona State Univ, Dept Psychol, POB 871104, Tempe, AZ 85287 USA.
+FU National Institute of Child Health and Human Development [1 R21
+CR Bilecen B, 2018, SOC NETWORKS, V53, P1, DOI 10.1016/j.socnet.2017.07.001
+   Bilecen B, 2018, SOC NETWORKS, V53, P90, DOI 10.1016/j.socnet.2017.03.001
+   Boccagni P, 2015, INT SOCIOL, V30, P250, DOI 10.1177/0268580915570508
+   Donato KatharineMDonna RGabaccia, 2015, GENDER INT MIGRATION, V0, P0
+   Herz A, 2015, SOC NETWORKS, V40, P64, DOI 10.1016/j.socnet.2014.08.001
+   Reeves M, 2013, AM ETHNOL, V40, P508, DOI 10.1111/amet.12036
+   Reeves M, 2013, CITIZENSHIP AND IMMIGRATION: CONCEPTUAL, V0, P146
+   Unknown -, 2013, STATA STATISTICAL SOFTWARE: RELEASE 13, V0, P0
+   Valdez CR, 2013, HISPANIC J BEHAV SCI, V35, P303, DOI 10.1177/0739986313488312
+NR 9
+TC 36
+Z9 0
+U1 1.0
+U2 27.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2018
+VL 53
+BP 125
+EP 135
+DI 10.1016/j.socnet.2017.04.006
+PG 11
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000427340000011
+PM 29755184
+ER
+
+PT J
+AU Vacca, R
+   Solano, Giacomo
+   Jessica lubbers, Miranda
+   Luis molina, Jose
+   Mccarty, Christopher
+TI A personal network approach to the study of immigrant structural assimilation and transnationalism
+SO SOCIAL NETWORKS
+DE personal networks; ego networks; acculturation; transnationalism; social capital; connectivity
+AB This paper proposes a personal network approach to the study of structural assimilation and structural transnationalism among international immigrants. Structural assimilation and transnationalism are defined as embeddedness in native social networks of the host society, and in co-national social networks of the origin society, respectively. Data on the personal networks of international immigrants, each including 45 alters, are obtained from two surveys among Moroccan, Senegalese and Gambian immigrants in Spain (N = 139), and among Sri Lankan immigrants in Italy (N = 102). Measures on the size of different national and geographical classes of alters, and on the cohesion within and between these classes, are used to quantify the degree and type of structural assimilation and transnationalism. Linear regression models show that these measures are significantly associated with outcomes of cultural and economic assimilation of immigrants. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Vacca, Raffaele; McCarty, Christopher] Univ Florida, Gainesville, FL 32611 USA.   
+[Solano, Giacomo] Eindhoven Univ Technol, Eindhoven, Netherlands.   
+[Jessica Lubbers, Miranda; Luis Molina, Jose] Autonomous Univ Barcelona, Barcelona, Spain.
+RP Vacca, R (corresponding author), 720 SW 2nd Ave 150, Gainesville, FL 32601 USA.
+FU Swiss National Science Foundation [10001A_169965]; European Research
+CR Beauchemin C, 2014, INT MIGR REV, V48, P921, DOI 10.1111/imre.12157
+   Bilecen B, 2015, POPUL SPACE PLACE, V21, P227, DOI 10.1002/psp.1906
+   Bolíbar M, 2015, INT SOCIOL, V30, P579, DOI 10.1177/0268580915579925
+   Castles Stephen, 2013, INTERNATIONAL POPULATION MOVEMENTS IN THE MODERN WORLD, V5, P0
+   Core Team R, 2015, R: A LANGUAGE AND ENVIRONMENT FOR STATISTICAL COMPUTING, V0, P0
+   Faist T, 2014, SOC INCL, V2, P38, DOI 10.17645/si.v2i4.29
+   Fitzgerald D, 2014, MIGRATION THEORY: TALKING ACROSS DISCIPLINES, V0, P115
+   Herz A, 2015, SOC NETWORKS, V40, P64, DOI 10.1016/j.socnet.2014.08.001
+   Jadalla A, 2015, J IMMIGR MINOR HEALT, V17, P208, DOI 10.1007/s10903-013-9889-2
+   Koopmans R, 2016, J ETHN MIGR STUD, V42, P197, DOI 10.1080/1369183X.2015.1082903
+   Meissner F, 2015, ETHNIC RACIAL STUD, V38, P541, DOI 10.1080/01419870.2015.980295
+   Molina JL, 2015, FIELD METHOD, V27, P223, DOI 10.1177/1525822X14556254
+   Mouw T, 2014, SOC PROBL, V61, P329, DOI 10.1525/sp.2014.12192
+   Richter M, 2014, GLOBAL NETW, V14, P458, DOI 10.1111/glob.12044
+   Solano Giacomo, 2016, INTERNATIONAL JOURNAL OF ENTREPRENEURSHIP AND SMALL BUSINESS, V29, P176
+   Unknown -, 2014, VENNMAKER 1 4 0, V0, P0
+NR 16
+TC 52
+Z9 0
+U1 0.0
+U2 38.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2018
+VL 53
+BP 72
+EP 89
+DI 10.1016/j.socnet.2016.08.007
+PG 18
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000427340000007
+PM 
+ER
+
+PT J
+AU Marineau, JE
+   Labianca, Giuseppe (Joe)
+   Brass, Daniel J
+   Borgatti, Stephen P
+   Vecchi, Patrizia
+TI Individuals' power and their social network accuracy: A situated cognition perspective
+SO SOCIAL NETWORKS
+DE formal and informal power; social network analysis; network perception and accuracy; positive and negative ties; situated cognition; employee outcomes
+AB Individuals differ in how accurately they perceive their social environment, but research and theory provide conflicting predictions on whether powerful people are more or less accurate than others. Drawing on social network theory and the situated cognition theory of power, we examine the relationship between individuals formal and informal power and their perceptual accuracy of social network relationships. We propose that individuals perceptual accuracy is related to: 1) their formal and informal power in the organization; 2) the type of relationship being perceived (positive/negative valence) and its relevance to task and goal completion; and 3) the dependence relationship with the target of perception (i.e., whether the perceiver is dependent on the perceived to get their work done). Predictions were tested using cognitive social structure data collected from a technical call center. Results showed that power was generally linked to increased perceptual accuracy, particularly for the types of relationships most relevant for task and goal completion. We further demonstrated that social network accuracy was related to employees outcomes, including subsequent transfer, promotion, and exit from the organization. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Marineau, Joshua E.] North Dakota State Univ, Dept Management & Mkt, Fargo, ND 58102 USA.   
+[Labianca, Giuseppe (Joe); Brass, Daniel J.; Borgatti, Stephen P.] Univ Kentucky, Dept Management, Lexington, KY 40506 USA.   
+[Vecchi, Patrizia] Washington Univ, Olin Business Sch, St Louis, MO USA.
+RP Marineau, JE (corresponding author), North Dakota State Univ, Dept Management & Mkt, Fargo, ND 58102 USA.
+FU LINKS Center for Social Network Analysis, University of Kentucky
+CR Brands RA, 2013, J ORGAN BEHAV, V34, PS82, DOI 10.1002/job.1890
+   Brashears ME, 2015, SOC NETWORKS, V41, P113, DOI 10.1016/j.socnet.2014.11.003
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   Han J, 2015, HUM PERFORM, V28, P265, DOI 10.1080/08959285.2015.1021044
+   Labianca G, 2014, RES SOCIOL ORGAN-RES, V40, P239, DOI 10.1108/S0733-558X(2014)0000040012
+   Marineau JE, 2016, SOC NETWORKS, V44, P238, DOI 10.1016/j.socnet.2015.09.003
+   Marineau JE, 2017, GROUP ORG MANAGE, V42, P0
+   Smith JM, 2014, SOC NETWORKS, V36, P162, DOI 10.1016/j.socnet.2013.04.007
+   StataCorp, 2014, STAT STAT SOFTW RLEA, V0, P0
+   Tost LP, 2015, RES ORGAN BEHAV, V35, P29, DOI 10.1016/j.riob.2015.10.004
+   Venkataramani V, 2013, J APPL PSYCHOL, V98, P1028, DOI 10.1037/a0034090
+NR 11
+TC 29
+Z9 0
+U1 3.0
+U2 55.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2018
+VL 54
+BP 145
+EP 161
+DI 10.1016/j.socnet.2018.01.006
+PG 17
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000432768600013
+PM 
+ER
+
+PT J
+AU Withers, M
+   Kim, Ji Youn (Rose)
+   Howard, Michael
+TI The evolution of the board interlock network following Sarbanes-Oxley
+SO SOCIAL NETWORKS
+DE social networks; board interlocks; network formation; institutional effects; corporate governance
+AB We examine the impact of the passage of Sarbanes-Oxley (SOX) on the evolution of the board interlock network for Fortune 300 firms during the 1998-2006 period using a stochastic actor-oriented model. Placing particular emphasis on director accountability and board independence, SOX created considerable disparity in demand and supply in the labor market for corporate directors. We examine whether the regulatory change may have led firms to draw more on socially embedded processes of board interlock partner selection such as reciprocity, transitivity, and multiplexity after SOX. We find that after the passage of SOX, a firms tendency to reciprocate board interlock ties has been reinforced. Similarly, firms appear to have relied more on their existing alliance partners to fill their board seats in the post-SOX period. (C) 2017 Published by Elsevier B.V.
+C1 [Withers, Michael; Howard, Michael] Texas A&M Univ, Dept Management, Mays Business Sch, College Stn, TX 77843 USA.   
+[Kim, Ji Youn (Rose)] Univ Kentucky, Dept Management, Gatton Coll Business & Econ, Lexington, KY 40506 USA.
+RP Howard, M (corresponding author), Texas A&M Univ, Dept Management, Mays Business Sch, College Stn, TX 77843 USA.
+CR Balland PA, 2016, ECON GEOGR, V92, P35, DOI 10.1080/00130095.2015.1094370
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Checkley M, 2014, STRATEG CHANG, V23, P107, DOI 10.1002/jsc.1963
+   Coates JC, 2014, ACCOUNT HORIZ, V28, P627, DOI 10.2308/acch-50759
+   Corbo L, 2016, ORGAN STUD, V37, P323, DOI 10.1177/0170840615613373
+   Everett MG, 2013, SOC NETWORKS, V35, P204, DOI 10.1016/j.socnet.2012.05.004
+   Giuliani E, 2013, RES POLICY, V42, P1406, DOI 10.1016/j.respol.2013.04.002
+   Hernandez E, 2015, ACAD MANAGE J, V58, P1233, DOI 10.5465/amj.2012.0773
+   Howard M, 2017, ACAD MANAG IN PRESS, V0, P0
+   Howard MD, 2016, STRATEGIC MANAGE J, V37, P2222, DOI 10.1002/smj.2573
+   Kim JY, 2016, STRATEGIC MANAGE J, V37, P22, DOI 10.1002/smj.2454
+   Krause R, 2014, J MANAGE, V40, P256, DOI 10.1177/0149206313503013
+   Martin G, 2015, STRATEGIC MANAGE J, V36, P235, DOI 10.1002/smj.2216
+   Ripley RM, 2015, MANUAL SIENA VERSION, V0, P0
+   Robins Garry L, 2015, DOING SOCIAL NETWORK RESEARCH, V0, P0
+   Snijders TAB, 2013, SOCIOL METHOD RES, V44, P222
+   Spencer Staurt Staurt, 2016, SPENCER STAURT BOARD, V0, P0
+   Stadtfeld C, 2016, SOC NETWORKS, V44, P363, DOI 10.1016/j.socnet.2015.04.010
+   Zona F, 2017, J MANAG IN PRESS, V0, P0
+NR 19
+TC 21
+Z9 0
+U1 2.0
+U2 41.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2018
+VL 52
+BP 56
+EP 67
+DI 10.1016/j.socnet.2017.05.005
+PG 12
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000416496300007
+PM 
+ER
+
+PT J
+AU Xu, R
+TI Alternative estimation methods for identifying contagion effects in dynamic social networks: A latent-space adjusted approach
+SO SOCIAL NETWORKS
+DE contagion effects; social influence; estimation methods; latent-space approach
+AB Contagion effects, also known as peer effects or social influence process, have become more and more central to social science, especially with the availability of longitudinal social network data. However, contagion effects are usually difficult to identify, as they are often entangled with other factors, such as homophily in the selection process, the individuals preference for the same social settings, etc. Methods currently available either do not solve these problems or require strong assumptions. Following Shalizi and Thomas (2011), I frame this difficulty as an omitted variable bias problem, and I propose several alternative estimation methods that have potentials to correctly identify contagion effects when there is an unobserved trait that co-determines the influence and the selection. The Monte-Carlo simulation results suggest that a latent-space adjusted estimator is especially promising. It outperforms other estimators that are traditionally used to deal with the unobserved variables, including a structural equation based estimator and an instrumental variable estimator. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Xu, Ran] Virginia Polytech Inst & State Univ, Grad Dept Ind & Syst Engn, Blacksburg, VA 24061 USA.
+RP Xu, R (corresponding author), Virginia Tech, 250 Durham Hall, Blacksburg, VA 24061 USA.
+FU Michigan State University
+CR An WH, 2015, SOC SCI RES, V50, P382, DOI 10.1016/j.ssresearch.2014.08.011
+   Bates D, 2015, J STAT SOFTW, V67, P1, DOI 10.18637/jss.v067.i01
+   Block P, 2017, SOC NETW, V0, P0
+   Kline RB, 2015, PRINCIPLES PRACTICE, V0, P0
+   Lerner J, 2013, J MATH PSYCHOL, V57, P275, DOI 10.1016/j.jmp.2012.03.002
+   OMalley AJ, 2014, BIOMETRICS, V70, P506, DOI 10.1111/biom.12172
+   Rastelli Riccardo, 2015, ARXIV150607806, V0, P0
+   Unknown -, 2015, LATENTNET LATENT POS, V0, P0
+   VanderWeele TJ, 2013, HANDBOOK OF CAUSAL ANALYSIS FOR SOCIAL RESEARCH, V0, P353
+NR 9
+TC 7
+Z9 0
+U1 2.0
+U2 14.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2018
+VL 54
+BP 101
+EP 117
+DI 10.1016/j.socnet.2018.01.002
+PG 17
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000432768600010
+PM 
+ER
+
+PT J
+AU Sommer, E
+   Gamper, Markus
+TI Transnational entrepreneurial activities: A qualitative network study of self-employed migrants from the former Soviet Union in Germany
+SO SOCIAL NETWORKS
+DE transnational entrepreneurship; transnational social capital;qualitative network analysis; migrant entrepreneurs
+AB During their careers, migrant entrepreneurs may get involved in different types of transnational entrepreneurial activities and use their social capital to activate transnational business-related ties. Based on content analysis of semi-structured interviews and networks maps with self-employed migrants from the former Soviet Union in Germany this study identified four empirically grounded types of migrant transnational entrepreneurial activities and analysed transnational networking strategies for each type. The study demonstrates that different types of social capital are mobilised for different types of transnational business strategies, with intensive transnational entrepreneurial activities requiring larger pre-existing networks in the country of origin of both strong and weak ties, that are gradually extended, while a more limited set of mostly informal weak ties suffice for more sporadic transnational activities in the country of origin. Transnational entrepreneurial activities with other countries or with multiple countries, on the other hand, involved a more formal network of relationships. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Sommer, Elena] Bremen Int Grad Sch Social Sci BIGSSS, Bremen, Germany.   
+[Sommer, Elena] City Univ London, Dept Sociol, London, England.   
+[Gamper, Markus] Univ Cologne, Fac Arts & Humanities, Cologne, Germany.   
+[Gamper, Markus] Sch Int Business & Entrepreneurship SIBE, Berlin, Germany.
+RP Sommer, E (corresponding author), City Univ London, Ctr Comparat Social Surveys, Northampton Sq, London EC1V 0HB, England.
+FU Hans Buckler Foundation (Hans-Bockler-Stiftung); Bremen International
+CR Bagwell S, 2015, J ETHN MIGR STUD, V41, P329, DOI 10.1080/1369183X.2014.907739
+   Barnes M, 2016, SOC NETWORKS, V45, P55, DOI 10.1016/j.socnet.2015.11.004
+   Bilecen B, 2016, INTERNATIONAL REVIEW OF SOCIAL RESEARCH, V6, P0
+   Faist T, 2014, SOC INCL, V2, P38, DOI 10.17645/si.v2i4.29
+   Gamper M, 2013, TRANSMIGRATION SOZIA, V0, P249
+   Gamper M, 2013, VISUELLE NETZWERKFOR, V0, P249
+   Gamper M, 2015, SCHLUSSELWERKE MIGRA, V0, P343
+   Herz A, 2015, FORUM: QUALITATIVE SOCIAL RESEARCH, V16, P0, DOI [DOI 10.17169/FQS-16.1.2092, 10.17169/fqs-16.1.2092]
+   Hollstein B, 2014, STRUC AN S, V0, P3
+   Ryan L, 2014, GLOBAL NETW, V14, P148, DOI 10.1111/glob.12038
+   Ryan L, 2014, SOCIOL RES ONLINE, V19, P0, DOI 10.5153/sro.3404
+   Sommer E, 2016, ROUT RES TRANSNAT, V32, P45
+NR 12
+TC 34
+Z9 0
+U1 2.0
+U2 33.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2018
+VL 53
+BP 136
+EP 147
+DI 10.1016/j.socnet.2017.04.007
+PG 12
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000427340000012
+PM 
+ER
+
+PT J
+AU Mirc, N
+   Parker, Andrew
+TI If you do not know who knows what: Advice seeking under changing conditions of uncertainty after an acquisition
+SO SOCIAL NETWORKS
+DE advice seeking; social networks; merger and acquisition; changing uncertainty
+AB In this study we develop a model to explain the dynamics of advice seeking after an acquisition. We build on a theory of advice seeking that draws from prospect theory and expectancy theory. We theorize that immediately after an acquisition there is uncertainty about who knows what, but over time individuals become more aware of the expertise within the organization and they change their advice networks based upon this increased awareness. Our model examines four micro-processes of advice seeking: reciprocity, preferential attachment, transitivity, and legacy-firm tie preferences. To test our hypotheses we use post-acquisition data over four time periods in a recruitment consulting firm. Our longitudinal analysis uses a stochastic actor-orientated model and our results indicate that immediately after the acquisition individuals have a tendency to seek advice based upon reciprocity and preferential attachment. However, over time these tendencies diminish. Surprisingly, transitivity does not play a significant role, which suggests that other micro-processes such as reciprocity are dominant. In addition, individuals in the acquired firm have a tendency to make more ties and there is a preference for same firm ties in both legacy firms, with the tendency being higher in the acquired firm. Our findings add to theories on the process of advice seeking under conditions of uncertainty, on knowledge transfer processes in mergers and acquisitions, and the knowledge based view of the firm.
+C1 [Mirc, Nicola] Univ Toulouse Capitole, TSM Res, CNRS, 2 Rue Doyen Gabriel Marty, F-31000 Toulouse, France.   
+[Parker, Andrew] Univ Exeter, Sch Business, Rennes Dr, Exeter EX4 4PU, Devon, England.
+RP Parker, A (corresponding author), Univ Exeter, Sch Business, Rennes Dr, Exeter EX4 4PU, Devon, England.
+CR Argote L, 2016, ORGAN BEHAV HUM DEC, V136, P146, DOI 10.1016/j.obhdp.2016.08.003
+   Brennecke J, 2016, SOC NETWORKS, V44, P307, DOI 10.1016/j.socnet.2015.02.004
+   Caimo A, 2015, J MANAGE, V41, P665, DOI 10.1177/0149206314552192
+   Cross R, 2016, HARVARD BUS REV, V94, P74
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   Junni P, 2015, BRIT J MANAGE, V26, P596, DOI 10.1111/1467-8551.12115
+   Parker A, 2016, ORGAN STUD, V37, P375, DOI 10.1177/0170840615613371
+   Reus TH, 2016, STRATEGIC MANAGE J, V37, P932, DOI 10.1002/smj.2373
+   Ripley RM, 2019, MANUAL RSIENA, V0, P0
+   Shah NP, 2017, MANAGE COMMUN Q, V31, P5, DOI 10.1177/0893318916647528
+   Srivastava SB, 2015, ORGAN SCI, V26, P1365, DOI 10.1287/orsc.2015.0999
+   Tröster C, 2019, ACAD MANAGE J, V62, P22, DOI 10.5465/amj.2016.0914
+NR 12
+TC 18
+Z9 0
+U1 3.0
+U2 30.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2020
+VL 61
+BP 53
+EP 66
+DI 10.1016/j.socnet.2019.08.006
+PG 14
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000512481500005
+PM 
+ER
+
+PT J
+AU Everett, MG
+   Borgatti, Stephen P
+TI Unpacking Burt's constraint measure
+SO SOCIAL NETWORKS
+DE egonetworks; structural holes; constraint
+AB Burt (1992) proposed two principal measures of structural holes, effective size and constraint. However, the formulas describing the measures are somewhat opaque and have led to a certain amount of confusion. Borgatti (1997) showed that, for binary data, the effective size formula could be written very simply as degree (ego network size) minus average degree of alters within the ego network. The present paper presents an analogous reformulation of the constraint measure. We also derive minima and maxima for constraint, showing that, for small ego networks, constraint can be larger than one, and for larger ego networks, constraint cannot get as large as one. We also show that for networks with more than seven alters, the maximum constraint does not occur in a maximally dense or closed network, but rather in a relatively sparse "shadow ego network", which is a network that contains an alter (the shadow ego) that is connected to every other alter, and where no other alter-alter ties exist.
+C1 [Everett, Martin G.] Univ Manchester, Mitchell Ctr Social Network Anal, Sch Social Sci, Arthur Lewis Bldg,Bridgeford St, Manchester M13 9PL, Lancs, England.   
+[Borgatti, Stephen P.] Univ Kentucky, Lexington, KY 40506 USA.
+RP Everett, MG (corresponding author), Univ Manchester, Mitchell Ctr Social Network Anal, Sch Social Sci, Arthur Lewis Bldg,Bridgeford St, Manchester M13 9PL, Lancs, England.
+FU University of Chicago; Massachusetts Institute of Technology
+CR Parker A, 2016, ORGAN STUD, V37, P375, DOI 10.1177/0170840615613371
+NR 1
+TC 24
+Z9 0
+U1 2.0
+U2 16.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2020
+VL 62
+BP 50
+EP 57
+DI 10.1016/j.socnet.2020.02.001
+PG 8
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000527272000006
+PM 
+ER
+
+PT J
+AU Selden, M
+   Goodie, Adam S
+TI Review of the effects of Five Factor Model personality traits on network structures and perceptions of structure
+SO SOCIAL NETWORKS
+DE social network; network perception; network structure; personality five;factor model; big five personality
+AB We review recent research on Five Factor Model personality and social network analysis to assess how structures develop and are perceived. Extraversion and agreeableness relate consistently to personal but not workplace networks. Extraverts are more likely to seek connections, whereas agreeable individuals receive connections from others. Openness predicts network diversity and is marginally related to position when groups pursue collective goals. Conscientiousness is associated with maintaining certain personal relationships, but is strongly related to central positions in workplace networks. Neuroticism has no consistent relationship with network size or composition, and is differentially related to network positions, depending on the context. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Selden, Mary; Goodie, Adam S.] Univ Georgia, Athens, GA 30602 USA.
+RP Selden, M (corresponding author), Univ Georgia, Psychol Dept, 125 Baldwin St, Athens, GA 30602 USA.
+CR Baams L, 2015, J RES PERS, V54, P2, DOI 10.1016/j.jrp.2014.07.009
+   Battistoni E, 2014, LEARN INDIVID DIFFER, V34, P63, DOI 10.1016/j.lindif.2014.05.007
+   Bjornebekk A, 2013, NEUROIMAGE, V65, P194, DOI 10.1016/j.neuroimage.2012.10.009
+   Burt RS, 2013, ANNU REV PSYCHOL, V64, P527, DOI 10.1146/annurev-psych-113011-143828
+   Chorley MJ, 2015, COMPUT HUM BEHAV, V46, P45, DOI 10.1016/j.chb.2014.12.038
+   Clifton A, 2014, J PERS, V82, P103, DOI 10.1111/jopy.12038
+   Costantini G, 2015, J RES PERS, V54, P13, DOI 10.1016/j.jrp.2014.07.003
+   Daly AJ, 2014, EDUC ADMIN QUART, V50, P233, DOI 10.1177/0013161X13492795
+   Emery C, 2013, GROUP PROCESS INTERG, V16, P28, DOI 10.1177/1368430212461835
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   Feiler DC, 2015, PSYCHOL SCI, V26, P593, DOI 10.1177/0956797615569580
+   Lamkin J, 2014, PERSONAL DISORD, V5, P137, DOI 10.1037/per0000024
+   Lönnqvist JE, 2014, J RES PERS, V53, P64, DOI 10.1016/j.jrp.2014.08.009
+   Roberts BW, 2014, DEV PSYCHOL, V50, P1315, DOI 10.1037/a0031109
+   Unknown -, 2013, ANALYZING SOCIAL NETWORKS, V0, P0
+   Wagner J, 2014, EUR J PERSONALITY, V28, P586, DOI 10.1002/per.1974
+   Wrzus C, 2013, PSYCHOL BULL, V139, P53, DOI 10.1037/a0028601
+   Yan L, 2014, J COMPUT INFORM SYST, V54, P1
+   Zell D, 2014, J BEHAV APPL MANAGEM, V15, P59, DOI [DOI 10.21818/001C.17938, 10.21818/001c.17938]
+   Zhu XM, 2013, SOC NETWORKS, V35, P382, DOI 10.1016/j.socnet.2013.04.005
+NR 20
+TC 58
+Z9 0
+U1 3.0
+U2 65.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2018
+VL 52
+BP 81
+EP 99
+DI 10.1016/j.socnet.2017.05.007
+PG 19
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000416496300009
+PM 
+ER
+
+PT J
+AU Growiec, K
+   Growiec, Jakub
+   Kaminski, Bogumil
+TI Social network structure and the trade-off between social utility and economic performance
+SO SOCIAL NETWORKS
+DE social network structure; social trust; willingness to cooperate;economic performance; computational multi-agent model
+AB We put forward a computational multi-agent model capturing the impact of social network structure on individuals social trust, willingness to cooperate, social utility and economic performance. Social network structure is modeled as four distinct social capital dimensions: degree, centrality, bridging and bonding social capital. Model setup draws from socio-economic theory and empirical findings based on our novel survey dataset. Results include aggregate-level comparative statics and individual-level correlations. We find, inter alia, that societies that either are better connected, exhibit a lower frequency of local cliques, or have a smaller share of family-based cliques, record relatively better aggregate economic performance. As long as family ties are sufficiently valuable, there is a trade-off between aggregate social utility and economic performance, and small world networks are then socially optimal. We also find that in dense networks and trustful societies, there is a trade-off between individual social utility and economic performance; otherwise both outcomes are positively correlated in the cross section. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Growiec, Katarzyna] Univ Social Sci & Humanities, Dept Psychol Personal, Warsaw, Poland.   
+[Growiec, Jakub] SGH Warsaw Sch Econ, Dept Quantitat Econ, Warsaw, Poland.   
+[Growiec, Jakub] Narodowy Bank Polski, Warsaw, Poland.   
+[Kaminski, Bogumil] SGH Warsaw Sch Econ, Inst Econometr, Decis Anal & Support Unit, Warsaw, Poland.
+RP Growiec, J (corresponding author), Katedra Ekon Ilosciowej SGH, Al Niepodleglosci 162, PL-02554 Warsaw, Poland.
+FU Polish National Science Center (Narodowe Centrum Nauki) under the grant
+CR Barnes M, 2016, SOC NETWORKS, V45, P55, DOI 10.1016/j.socnet.2015.11.004
+   Bjornskov C, 2013, SOC INDIC RES, V114, P1225, DOI 10.1007/s11205-012-0199-1
+   Butler JV, 2016, J EUR ECON ASSOC, V14, P1155, DOI 10.1111/jeea.12178
+   Curry O, 2013, BRIT J PSYCHOL, V104, P283, DOI 10.1111/j.2044-8295.2012.02119.x
+   Curry O, 2013, HUM NATURE-INT BIOS, V24, P336, DOI 10.1007/s12110-013-9174-z
+   Growiec K, 2014, J HAPPINESS STUD, V15, P1015, DOI 10.1007/s10902-013-9461-8
+   Growiec K, 2017, 2017025 KAE SGH WARS, V0, P0
+   Melamed D, 2016, SOC NETWORKS, V45, P32, DOI 10.1016/j.socnet.2015.11.001
+   Norbutas L, 2018, SOC NETWORKS, V52, P120, DOI 10.1016/j.socnet.2017.06.002
+   Tian FF, 2016, SOC NETWORKS, V44, P117, DOI 10.1016/j.socnet.2015.08.002
+NR 10
+TC 13
+Z9 0
+U1 4.0
+U2 52.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2018
+VL 55
+BP 31
+EP 46
+DI 10.1016/j.socnet.2018.05.002
+PG 16
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000444666300004
+PM 
+ER
+
+PT J
+AU Sewell, DK
+   Chen, Yuguo
+TI Latent space models for dynamic networks with weighted edges
+SO SOCIAL NETWORKS
+DE embedding; markov chain monte carlo; network dynamics; visualization;weighted network; valued dyad
+AB Longitudinal binary relational data can be better understood by implementing a latent space model for dynamic networks. This approach can be broadly extended to many types of weighted edges by using a link function to model the mean of the dyads, or by employing a similar strategy via data augmentation. To demonstrate this, we propose models for count dyads and for non-negative real dyads, analyzing simulated data and also both mobile phone data and world export/import data. The model parameters and latent actors' trajectories, estimated by Markov chain Monte Carlo algorithms, provide insight into the network dynamics. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Sewell, Daniel K.] Univ Iowa, Dept Biostat, Iowa City, IA 52242 USA.   
+[Chen, Yuguo] Univ Illinois, Dept Stat, Champaign, IL 61820 USA.
+RP Chen, YG (corresponding author), Univ Illinois, Dept Stat, 725 S Wright St, Champaign, IL 61820 USA.
+FU National Science Foundation [DMS-1106796, DMS-1406455]
+CR Aharony N, 2011, PERVASIVE MOB COMPUT, V7, P643, DOI 10.1016/j.pmcj.2011.09.004
+   Durante D, 2014, BIOMETRIKA, V101, P883, DOI 10.1093/biomet/asu040
+   Hoff PD, 2011, COMPUT STAT DATA AN, V55, P530, DOI 10.1016/j.csda.2010.05.020
+   Krivitsky PN, 2012, ARXIV12100493, V0, P0
+   Krivitsky PN, 2012, ELECTRON J STAT, V6, P1100, DOI 10.1214/12-EJS696
+   Krivitsky PN, 2014, J ROY STAT SOC B, V76, P29, DOI 10.1111/rssb.12014
+   Morgan JW, 2014, NEW FACES POLITICAL, V0, P0
+   Raftery AE, 2012, J COMPUT GRAPH STAT, V21, P901, DOI 10.1080/10618600.2012.679240
+   Sewell DK, 2015, J AM STAT A IN PRESS, V0, P0
+   Sewell DK, 2015, J R STAT SOC C-APPL, V64, P611, DOI 10.1111/rssc.12093
+   Ward MD, 2013, NETW SCI, V1, P95, DOI [DOI 10.1017/NWS.2013.1, 10.1017/nws.2013.1]
+NR 11
+TC 41
+Z9 0
+U1 1.0
+U2 25.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2016
+VL 44
+BP 105
+EP 116
+DI 10.1016/j.socnet.2015.07.005
+PG 12
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000367423900010
+PM 
+ER
+
+PT J
+AU Berenhaut, KS
+   Kotsonis, Rebecca C
+   Jiang, Hongyi
+TI A new look at clustering coefficients with generalization to weighted and multi-faction networks
+SO SOCIAL NETWORKS
+DE clustering coefficient; multiple random walks; two-mode networks;geodesic distance; weighted networks; multi-faction networks
+AB In this paper we propose a new method for studying local and global clustering in networks employing random walk pairs. The method is intuitive and directly generalizes standard local and global clustering coefficients to weighted networks and networks containing nodes of multiple types. In the case of two mode networks the values obtained for commonly considered social networks are in sharp contrast to those obtained, for instance, by the method of Opsahl (2013), and provide a different viewpoint for clustering. The approach is also applicable in questions related to the general study of segregation and homophily. Applications to existent data sets are considered. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Berenhaut, Kenneth S.; Kotsonis, Rebecca C.; Jiang, Hongyi] Wake Forest Univ, 1834 Wake Forest Rd, Winston Salem, NC USA.
+RP Berenhaut, KS (corresponding author), Wake Forest Univ, Dept Math & Stat, 1834 Wake Forest Rd, Winston Salem, NC 27109 USA.
+CR Eom YH, 2014, SCI REP-UK, V4, P0, DOI 10.1038/srep04603
+   Latora V, 2013, J STAT PHYS, V151, P745, DOI 10.1007/s10955-013-0722-z
+   Opsahl T, 2013, SOC NETWORKS, V35, P159, DOI 10.1016/j.socnet.2011.07.001
+   Phan B, 2013, SOC NETWORKS, V35, P300, DOI 10.1016/j.socnet.2013.02.007
+NR 4
+TC 2
+Z9 0
+U1 1.0
+U2 9.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2018
+VL 52
+BP 201
+EP 212
+DI 10.1016/j.socnet.2017.08.003
+PG 12
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000416496300019
+PM 
+ER
+
+PT J
+AU Brandenberger, L
+TI Trading favors-Examining the temporal dynamics of reciprocity in congressional collaborations using relational event models
+SO SOCIAL NETWORKS
+DE reciprocity; dynamic networks; relational event model; two-mode network;collective action; congress
+AB The norm of reciprocity shapes social interactions over time and should therefore be analyzed using longitudinal designs. This paper examines the temporal dynamics of reciprocity in the setting of legislative cosponsorship in the 113th U.S. Congress (2013-2015). Rather than aggregating cosponsoring events into network snapshots, cosponsoring events are ordered in time and reflect an event sequence of members supporting bills at distinct points in time. The norm of reciprocity is tested to see if it affects (a) new collaboration clusters emerging over time or (b) the time-to-cosponsoring. Findings suggest that receiving cosponsoring support recently, leads to future collaborations. However, this finding holds only for Republican members of Congress. Furthermore, reciprocity demands do not expedite cosponsorship support and members do not react faster to favors they received, calling mitigating effects of reciprocity on collective action into question. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Brandenberger, Laurence] Univ Bern, Inst Polit Sci, Fabrikstr 8, CH-3012 Bern, Switzerland.   
+[Brandenberger, Laurence] ETH Domain, Swiss Fed Inst Aquat Sci & Technol Eawag, Dept Environm Social Sci, Zurich, Switzerland.
+RP Brandenberger, L (corresponding author), Univ Bern, Inst Polit Sci, Fabrikstr 8, CH-3012 Bern, Switzerland.
+FU Swiss National Science Foundation [149410]
+CR Cook KS, 2013, SOCIAL EXCHANGE THEO, V0, PP61, DOI [10.1007/978-94-007-6772-0, DOI 10.1007/978-94-007-6772-03]
+   Cranmer SJ, 2014, SOC NETWORKS, V36, P5, DOI 10.1016/j.socnet.2013.01.001
+   Desmarais BA, 2015, SOC NETWORKS, V40, P43, DOI 10.1016/j.socnet.2014.07.006
+   DuBois C, 2013, P 16 INT C ART INT S, V0, P238
+   Kirkland JH, 2014, SOC NETWORKS, V36, P97, DOI 10.1016/j.socnet.2012.11.001
+   Kitts JA, 2017, AM J SOCIOL, V123, P850, DOI 10.1086/693704
+   Leenders RTAJ, 2016, ORGAN PSYCHOL REV, V6, P92, DOI 10.1177/2041386615578312
+   Lerner J, 2013, CORVINUS J SOCIOL PO, V4, P3
+   Lerner J, 2013, J MATH PSYCHOL, V57, P275, DOI 10.1016/j.jmp.2012.03.002
+   Liang H, 2014, HUM COMMUN RES, V40, P483, DOI 10.1111/hcre.12034
+   Melamed D, 2016, SOC NETWORKS, V45, P32, DOI 10.1016/j.socnet.2015.11.001
+   Patison KP, 2015, BEHAV ECOL SOCIOBIOL, V69, P841, DOI 10.1007/s00265-015-1883-3
+   Pilny A, 2016, GROUP DYN-THEOR RES, V20, P181, DOI 10.1037/gdn0000042
+   Pilny A, 2017, COMMUN STUD, V68, P72, DOI 10.1080/10510974.2016.1262886
+   Quintane E, 2013, SOC NETWORKS, V35, P528, DOI 10.1016/j.socnet.2013.07.001
+   Quintane E, 2014, ORGAN RES METHODS, V17, P23, DOI 10.1177/1094428113517007
+   Quintane E, 2016, ORGAN SCI, V27, P1343, DOI 10.1287/orsc.2016.1091
+   R Core Team, 2016, R: A LANGUAGE AND ENVIRONMENT FOR STATISTICAL COMPUTING, V0, P0
+   Tranmer M, 2015, ANIM BEHAV, V101, P99, DOI 10.1016/j.anbehav.2014.12.005
+   Unknown -, 2015, ARXIV151206141, V0, P0
+   Unknown -, 2018, RELATIONAL EVENT MOD, V0, P0
+   Vu D, 2015, SOC NETWORKS, V43, P121, DOI 10.1016/j.socnet.2015.05.001
+   Welbers K, 2014, AM BEHAV SCI, V58, P1361, DOI 10.1177/0002764214527086
+   Xia DG, 2016, TECHNOMETRICS, V58, P360, DOI 10.1080/00401706.2016.1142906
+   de Nooy W, 2013, POLIT COMMUN, V30, P117, DOI 10.1080/10584609.2012.737417
+   de Nooy W, 2015, BIG DATA SOC, V2, P0, DOI 10.1177/2053951715603732
+NR 26
+TC 22
+Z9 0
+U1 1.0
+U2 13.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2018
+VL 54
+BP 238
+EP 253
+DI 10.1016/j.socnet.2018.02.001
+PG 16
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000432768600020
+PM 
+ER
+
+PT J
+AU Bilecen, B
+   Cardona, Andres
+TI Do transnational brokers always win? A multilevel analysis of social support
+SO SOCIAL NETWORKS
+DE transnationality; brokerage; cohesion; social support; ego-centric network analysis; migration
+AB Migrants often maintain relationships with significant others located in their countries of origin, which results in having transnational interpersonal ties in addition to local ones. The majority of previous studies indicate that financial and social remittances flow from countries of immigration to the countries of emigration through migrants and their networks. However, less is known about who is involved in those exchanges, what kind of supportive resources flow within and across nation-state borders, and what level of individual cross-border engagement of migrants is related to those flows. We ask whether and how transnationality as an individual attribute, together with other personal, dyadic, and supradyadic characteristics, explain received social support. Drawing on data from 100 ego-centric networks collected from Turkish migrants in Germany, the results indicate that not only the dyadic level but also network structure, the position occupied by individuals in the network and their level of transnationality explain supportive resource flows within and across borders. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Bilecen, Barak; Cardona, Andres] Bielefeld Univ, Fac Sociol, Univ Str 25, D-33615 Bielefeld, Germany.
+RP Bilecen, B (corresponding author), Bielefeld Univ, Fac Sociol, Univ Str 25, D-33615 Bielefeld, Germany.
+FU German Research Council (DFG) [882]
+CR Alpes JM, 2013, INT MIGRATION I WORK, V80, P0
+   Bilecen B, 2014, INTERNATIONAL STUDENT MOBILITY AND TRANSNATIONAL FRIENDSHIPS, V0, P0
+   Bilecen B, 2015, GLOBAL NETW, V21, P282
+   Bilecen B, 2015, POPUL SPACE PLACE, V21, P203, DOI 10.1002/psp.1897
+   Bilecen B, 2015, POPUL SPACE PLACE, V21, P227, DOI 10.1002/psp.1906
+   Bilecen B, 2016, INTERNATIONAL REVIEW OF SOCIAL RESEARCH, V6, P0
+   Bilecen B, 2018, SOC NETWORKS, V53, P1, DOI 10.1016/j.socnet.2017.07.001
+   Boccagni P, 2015, EMOT SPACE SOC, V16, P73, DOI 10.1016/j.emospa.2015.06.009
+   Faist T, 2014, SOC INCL, V2, P38, DOI 10.17645/si.v2i4.29
+   Faist T, 2015, POPUL SPACE PLACE, V21, P193, DOI 10.1002/psp.1903
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   Fauser M, 2015, ETHNIC RACIAL STUD, V38, P1497, DOI 10.1080/01419870.2015.1005639
+   Gamper M, 2013, TRANSMIGRATION SOZIA, V0, P249
+   Herz A, 2015, SOC NETWORKS, V40, P64, DOI 10.1016/j.socnet.2014.08.001
+   Latora V, 2013, J STAT PHYS, V151, P745, DOI 10.1007/s10955-013-0722-z
+   Long JC, 2013, BMC HEALTH SERV RES, V13, P0, DOI 10.1186/1472-6963-13-158
+   Shor E, 2013, SOC NETWORKS, V35, P626, DOI 10.1016/j.socnet.2013.08.004
+   Stark O, 2013, J DEV ECON, V101, P1, DOI 10.1016/j.jdeveco.2012.07.002
+   Unknown -, 2013, COMCAD WORKING PAPER 113, V0, P0
+NR 19
+TC 19
+Z9 0
+U1 1.0
+U2 14.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2018
+VL 53
+BP 90
+EP 100
+DI 10.1016/j.socnet.2017.03.001
+PG 11
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000427340000008
+PM 
+ER
+
+PT J
+AU Basov, N
+TI Socio-material network analysis: A mixed method study of five European artistic collectives
+SO SOCIAL NETWORKS
+DE socio-material network; physical object; object usage; material structure; two-mode approach; exponential random graph model; mixed method
+AB In this paper, I argue that we can better understand the relationship between social structure and materiality by combining qualitative analysis of practices in shared physical space with statistical analysis. Drawing on the two-mode approach, I treat social and material structures together with the relationship between them as a two-level socio-material network. In a mixed method study, formalized ethnographic data on such networks in five European artistic collectives are subjected to multilevel exponential random graph modelling. It sheds light on how different kinds of interpersonal ties condition the engagement of individuals with similar materiality over time. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Basov, Nikita] St Petersburg State Univ, Ctr German & European Studies, Univ Skaya 7-9, St Petersburg 199034, Russia.
+RP Basov, N (corresponding author), St Petersburg State Univ, Ctr German & European Studies, Univ Skaya 7-9, St Petersburg 199034, Russia.
+FU Russian Foundation for Humanities [15-03-00722]; Russian Foundation for
+CR Berns S, 2016, J MAT CULT, V21, P153, DOI 10.1177/1359183515615896
+   Breiger Ronald L, 2015, INT ENCY SOCIAL BEHA, V0, P0
+   Brennecke J, 2017, RES POLICY, V46, P768, DOI 10.1016/j.respol.2017.02.002
+   Carley K, 2013, ORA USERS GUIDE, V0, P0
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   Griswold W, 2013, QUAL SOCIOL, V36, P343, DOI 10.1007/s11133-013-9264-6
+   Jarness V, 2015, POETICS, V53, P65, DOI 10.1016/j.poetic.2015.08.002
+   Kalish Y, 2013, EXPONENTIAL RANDOM G, V0, P226
+   Kim JY, 2016, STRATEGIC MANAGE J, V37, P22, DOI 10.1002/smj.2454
+   McAndrew S, 2015, CULT SOCIOL-LONDON, V9, P56, DOI 10.1177/1749975514542486
+   Nenko A, 2017, GEOJOURNAL LIB, V123, P241, DOI 10.1007/978-3-319-53217-2, 11
+   Newton-Francis M, 2015, POETICS, V52, P1, DOI 10.1016/j.poetic.2015.06.003
+   Oberlin KC, 2015, POETICS, V50, P20, DOI 10.1016/j.poetic.2015.01.001
+   Pivovarov AM, 2016, INDIAN JOURNAL OF SCIENCE AND TECHNOLOGY, V9, P1, DOI [10.17485/ijst/2016/v9i25/90760, DOI 10.17485/ijst/2016/v9i25/90760]
+   Unknown -, 2016, STUDIES COMPUTATIONA, V0, P0
+   Wang P, 2013, EXPONENTIAL RANDOM G, V0, P115
+   Wang P, 2013, SOC NETWORKS, V35, P96, DOI 10.1016/j.socnet.2013.01.004
+   Wang P, 2014, MPNET PROGRAM SIMULA, V0, P0
+   Zappa P, 2016, SOC NETWORKS, V44, P295, DOI 10.1016/j.socnet.2015.03.003
+NR 19
+TC 16
+Z9 0
+U1 2.0
+U2 19.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2018
+VL 54
+BP 179
+EP 195
+DI 10.1016/j.socnet.2018.02.003
+PG 17
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000432768600016
+PM 
+ER
+
+PT J
+AU Bojarczuk, S
+   Muehlau, Peter
+TI Mobilising social network support for childcare: The case of Polish migrant mothers in Dublin
+SO SOCIAL NETWORKS
+DE social support network; transnational ties; informal childcare; migrant mothers
+AB This paper describes the utilisation of support networks for the organisation of informal childcare by working Polish migrant mothers in Dublin. Grounded in a support network perspective the study employs a mixed method approach to elucidate how the mothers use local and transnational relations in their child-minding strategies, but also highlights the obstacles posed by the distant character of the latter ties. In line with previous research on support networks, we find a strong reliance on strong ties in providing instrumental and emotional support (e.g., Wellman and Wortley, 1990) but also that distance matters (e.g., Mok et al., 2010) and shapes the network mobilisation strategies of the working mothers. Locally based weak ties, based on various forms of reciprocity, are supplemental in providing ad-hoc crisis support when transnational ties cannot be mobilized. Nonetheless, transnational ties are shown to be crucial in the childcare provision, in particular for longer spells of regular childcare. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Bojarczuk, Sara; Muehlau, Peter] Trinity Coll Dublin, Dept Sociol, Dublin, Ireland.
+RP Bojarczuk, S (corresponding author), Trinity Coll Dublin, Dept Sociol, Dublin, Ireland.
+FU University research theme `Dynamics of Youth [2020/DoY IG 3/1]
+CR Baldassar Loretta, 2014, TRANSNATIONAL FAMILIES, V0, P0
+   Barglowski K, 2015, POPUL SPACE PLACE, V21, P215, DOI 10.1002/psp.1935
+   Bilecen B, 2015, POPUL SPACE PLACE, V21, P227, DOI 10.1002/psp.1906
+   Frese C, 2015, CHILD RES DIGEST, V2, P40
+   Herz A, 2015, SOC NETWORKS, V40, P64, DOI 10.1016/j.socnet.2014.08.001
+   Maya-Jariego I, 2014, STRUC AN S, V0, P153
+   Roder A, 2014, NEW IRISH FAMILIES: A PROFILE OF SECOND GENERATION CHILDREN AND THEIR FAMILIES, V0, P0
+NR 7
+TC 35
+Z9 0
+U1 1.0
+U2 15.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2018
+VL 53
+BP 101
+EP 110
+DI 10.1016/j.socnet.2017.04.004
+PG 10
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000427340000009
+PM 
+ER
+
+PT J
+AU Cachia, R
+   Maya jariego, Isidro
+TI Mobility types, transnational ties and personal networks in four highly skilled immigrant communities in Seville (Spain)
+SO SOCIAL NETWORKS
+DE personal networks; mobility patterns; transnational communities; social support; typology
+AB In this study, we explore how different mobility patterns influence the composition and structure of the transnational social support networks and how personal networks allow us to elicit insightful data of mobile individuals. Ninety-five mobile individuals were selected from four distinct communities based in Seville (Spain), namely: Erasmus students, Flamenco artists, musicians from the symphonic orchestra and partners of European Commission researchers. Data were collected through an electronic survey sent by email with multiple name generators and a structured face-to-face interview utilizing a network visualization tool, VennMaker. Two distinct methods, namely qualitative case studies and cluster analysis were used to characterize mobility types. Findings reveal a heterogeneous foreign population, in which different forms of mobility are reflected in the personal networks of mobile individuals. Respondents who were settled in the city were more likely to have networks in which social support was mainly derived by hosts and people in the host location and with whom they communicated predominantly through face-to-face communication. Those who were in the host location for a study exchange, knowing that return to the county of origin is imminent were more likely to have networks linked to the home location. They relied heavily on strong transnational ties in the home country using social media to sustain their relationship. Respondents with an itinerant mobility profile, also had networks dominated by strong transnational ties, however, such ties had a higher degree of geographical spread due to previous international mobility. Participants who had a high number of hosts in the network but low connection between the ties were more likely to be linked to a specific subculture in the host society. The integration in the host location follows a different pattern to other settled individuals, mainly because their connection in the city tends to be community specific. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Cachia, Romina; Maya Jariego, Isidro] Univ Seville, Dept Psicol Social, Lab Redes Personales & Comunidades, Seville, Spain.
+RP Cachia, R (corresponding author), Univ Seville, Fac Psicol, Calle Camilo Jose Cela S-N, Seville 41018, Spain.
+FU Institute of Prospective Technological Studies (IPTS), Joint Research
+CR Bilecen B, 2014, INTERNATIONAL STUDENT MOBILITY AND TRANSNATIONAL FRIENDSHIPS, V0, P0
+   Geddie K, 2013, POPUL SPACE PLACE, V19, P196, DOI 10.1002/psp.1751
+   Griffith M, 2013, MIGRATION TIME TEMPO, V0, P0
+   Herz A, 2015, SOC NETWORKS, V40, P64, DOI 10.1016/j.socnet.2014.08.001
+   Lozares C, 2013, METOD ENCUESTAS, V15, P57
+   Maya-Jariego I, 2015, PSYCHOSOC INTERV, V24, P185, DOI 10.1016/j.psi.2015.09.001
+   Maya-Jariego I, 2016, EFECTOS ESTRUCTURA R, V0, P0
+   Molina JL, 2014, STRUC AN S, V0, P305
+   Molina JL, 2015, FIELD METHOD, V27, P223, DOI 10.1177/1525822X14556254
+   Robertson S, 2014, I CULTURE SOC OCCASI, V5, P0
+NR 10
+TC 26
+Z9 0
+U1 2.0
+U2 51.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2018
+VL 53
+BP 111
+EP 124
+DI 10.1016/j.socnet.2017.03.014
+PG 14
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000427340000010
+PM 
+ER
+
+PT J
+AU Beran, E
+   Pleh, Csaba
+   Soltesz, Peter
+   Racz, Anna
+   Kardos, Peter
+   Czobor, Pal
+   Unoka, Zsolt
+TI Ego centered social network and relationship quality: linking attachment security and relational models to network structure
+SO SOCIAL NETWORKS
+DE ego-centered social network; attachment; relational models; network structure
+AB According to Dunbars social brain hypothesis, brain capacity puts a limit on the size of social network in humans. At the same time, emotional-cognitive systems such as attachment and different relational models (Fiske, 1991) may also act as driving forces behind network structure underlying relationship quality of the various ego-centered layers. The aim of our study was to examine how these cognitive systems may contribute to network organization. We examined the two inner layers of the ego-network in 274 volunteers, the support and sympathy groups, as well as close family members in comparison to friends within the support group, in terms of attachment security and underlying relational models.
+C1 [Beran, Eszter; Soltesz, Peter] Pazmany Peter Catholic Univ, Inst Psychol, Mikszath Ter 1, H-1088 Budapest, Hungary.   
+[Pleh, Csaba] Cent European Univ, Oktober 6 St 7, H-1051 Budapest, Hungary.   
+[Racz, Anna; Czobor, Pal; Unoka, Zsolt] Semmelweis Univ, Dept Psychiat & Psychotherapy, Balassa U 6, H-1083 Budapest, Hungary.   
+[Kardos, Peter] Bloomfield Coll, Bloomfield, NJ USA.
+RP Berán, E (corresponding author), Pazmany Peter Catholic Univ, Inst Psychol, Mikszath Ter 1, H-1088 Budapest, Hungary.
+FU [TAMOP-4.2.2.C-11/1/KONV-2012-0008]
+CR Chopik WJ, 2013, J PERS, V81, P171, DOI 10.1111/j.1467-6494.2012.00793.x
+   Curry O, 2013, HUM NATURE-INT BIOS, V24, P336, DOI 10.1007/s12110-013-9174-z
+   Dunbar R, 2014, JOURNAL OF EVOLUTIONARY PSYCHOLOGY, V12, P109, DOI [DOI 10.1556/JEP-D-13-00024, 10.1556/JEP-D-13-00024]
+   Dunbar RIM, 2018, TRENDS COGN SCI, V22, P32, DOI 10.1016/j.tics.2017.10.004
+   KSH, 2015, POP CENS 2011, V0, P0
+   Machin A, 2013, J RELATIONSHIPS RES, V4, P0, DOI [10.1017/jrn2013.8, DOI 10.1017/JRN2013.8]
+   Nummenmaa L, 2015, HUM BRAIN MAPP, V36, P3621, DOI 10.1002/hbm.22866
+   Van Assche L, 2013, CLIN PSYCHOL REV, V33, P67, DOI 10.1016/j.cpr.2012.10.003
+NR 8
+TC 2
+Z9 0
+U1 0.0
+U2 37.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2018
+VL 55
+BP 189
+EP 201
+DI 10.1016/j.socnet.2018.07.002
+PG 13
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000444666300018
+PM 
+ER
+
+PT J
+AU Kuwabara, K
+   Zou, Xi
+   Aven, Brandy
+   Hildebrand, Claudius
+   Iyengar, Sheena
+TI Lay theories of networking ability: Beliefs that inhibit instrumental networking
+SO SOCIAL NETWORKS
+DE instrumental networking; lay theories; agency
+AB While touting the importance of building effective networks, scholars have paid far less attention to why so many people feel so ambivalent or conflicted about instrumental networking, and what can be done to change such attitudes. The present research provides the first empirical test of a novel theory, which argues that people are more likely to disengage from networking if they hold a "fixed theory" of networking ability-believing that how well one networks is fixed or innate rather than learned through effort-which triggers negative attitudes toward moral and instrumental aspects of networking. To test this argument, we first develop and validate a Lay Theory of Networking Ability scale (Study 1) and show that this scale predicts peoples attendance in networking events over a 6-week period (Study 2). Next, we show that lay theories can be experimentally manipulated, with consequences for attendance in networking events over a 4-week period (Study 3) as well as peoples affective experiences in networking events (Study 4). In all, the present research contributes to our understanding of the motivational psychology of networking by highlighting the importance of beliefs as an understudied construct in the networks literature and by introducing methods to measure and manipulate them.
+C1 [Kuwabara, Ko] INSEAD Asia, 1 Ayer Rajah Ave, Singapore 138676, Singapore.   
+[Zou, Xi] Nanyang Business Sch, Singapore, Singapore.   
+[Aven, Brandy] Carnegie Mellon Univ, Pittsburgh, PA 15213 USA.   
+[Hildebrand, Claudius] Spencer Stuart, New York, NY USA.   
+[Iyengar, Sheena] Columbia Univ, New York, NY 10027 USA.
+RP Kuwabara, K (corresponding author), INSEAD Asia, 1 Ayer Rajah Ave, Singapore 138676, Singapore.
+FU ARRS, Slovenia [J5-5537]; EUROCORES Programme EUROGIGA (project GReGAS)
+CR Brands RA, 2017, ADMIN SCI QUART, V62, P405, DOI 10.1177/0001839216682728
+   Brands RA, 2019, ACAD MANAGE J, V62, P196, DOI 10.5465/amj.2016.0860
+   Casciaro T, 2015, ORGAN SCI, V26, P1162, DOI 10.1287/orsc.2015.0988
+   DeVellis RF, 2016, SCALE DEV THEORY APP, V26, P0
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   Hudson NW, 2015, J PERS SOC PSYCHOL, V109, P490, DOI 10.1037/pspp0000021
+   Ibarra H, 2015, ACT LEADER THINK LEA, V0, P0
+   Kleinbaum AM, 2015, ORGAN SCI, V26, P1226, DOI 10.1287/orsc.2014.0961
+   Kuwabara K, 2018, ACAD MANAGE REV, V43, P50, DOI 10.5465/amr.2015.0076
+   Paunesku D, 2015, PSYCHOL SCI, V26, P784, DOI 10.1177/0956797615571017
+   Porter CM, 2015, J MANAGE, V41, P1477, DOI 10.1177/0149206315582247
+   Rubineau B, 2019, SOC NETWORKS, V56, P33, DOI 10.1016/j.socnet.2018.08.005
+   Shea CT, 2015, SOC NETWORKS, V43, P91, DOI 10.1016/j.socnet.2015.01.003
+   Shea CT, 2016, ORGAN BEHAV HUM DEC, V137, P45, DOI 10.1016/j.obhdp.2016.07.002
+   Srivastava SB, 2015, SOC PSYCHOL QUART, V78, P246, DOI 10.1177/0190272515596176
+   Tasselli S, 2015, J MANAGE, V41, P1361, DOI 10.1177/0149206315573996
+   Tasselli S, 2018, ACAD MANAG ANN, V12, P467, DOI 10.5465/annals.2016.0008
+   Walter J, 2015, ORGAN SCI, V26, P1447, DOI 10.1287/orsc.2015.0996
+NR 18
+TC 20
+Z9 0
+U1 5.0
+U2 39.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2020
+VL 62
+BP 1
+EP 11
+DI 10.1016/j.socnet.2020.01.003
+PG 11
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000527272000001
+PM 
+ER
+
+PT J
+AU Lerner, J
+TI Structural balance in signed networks: Separating the probability to interact from the tendency to fight
+SO SOCIAL NETWORKS
+DE signed networks; structural balance theory; international relations;conditional sign of interaction
+AB Structural balance theory implies hypothetical network effects such as "the enemy of an enemy is a friend" or "the friend of an enemy is an enemy." To statistically test such hypotheses researchers often estimate whether, for instance, actors have an increased probability to collaborate with the enemies of their enemies and/or a decreased probability to fight the enemies of their enemies. Empirically it turns out that the support for balance theory from these tests is mixed at best. We argue that such results are not necessarily a contradiction to balance theory but that they could also be explained by other network effects that influence the probability to interact at all. We propose new and better interpretable models to assess structural balance in signed networks and illustrate their usefulness with networks of international alliances and conflicts. With the new operationalization the support for balance theory in international relations networks is much stronger than suggested by previous work. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Lerner, Juergen] Univ Konstanz, Dept Comp & Informat Sci, Box 67, D-78457 Constance, Germany.
+RP Lerner, J (corresponding author), Univ Konstanz, Dept Comp & Informat Sci, Box 67, D-78457 Constance, Germany.
+CR Altafini C, 2012, PLOS ONE, V7, P0, DOI 10.1371/journal.pone.0038135
+   Core Team R, 2015, R: A LANGUAGE AND ENVIRONMENT FOR STATISTICAL COMPUTING, V0, P0
+   Cranmer SJ, 2011, POLIT ANAL, V19, P66, DOI 10.1093/pan/mpq037
+   Cranmer SJ, 2012, CONFLICT MANAG PEACE, V29, P279, DOI 10.1177/0738894212443446
+   Huitsing G, 2012, SOC NETWORKS, V34, P645, DOI 10.1016/j.socnet.2012.08.001
+   Huitsing G, 2014, DEV PSYCHOPATHOL, V26, P645, DOI 10.1017/S0954579414000297
+   Kleinnijenhuis J, 2013, SOC NETWORKS, V35, P168, DOI 10.1016/j.socnet.2011.03.002
+   Krivitsky PN, 2014, J ROY STAT SOC B, V76, P29, DOI 10.1111/rssb.12014
+   Leifeld P, 2013, J STAT SOFTW, V55, P1
+   Lerner J, 2013, CORVINUS J SOCIOL PO, V4, P3
+   Lusher D, 2013, THEORY, V0, P0
+   Unknown -, 2015, J SOC STRUCT, V0, P0, DOI DOI 10.21307/JOSS-2019-012
+   Yap J, 2015, SOC NETWORKS, V40, P103, DOI 10.1016/j.socnet.2014.08.002
+   de Nooy W, 2013, POLIT COMMUN, V30, P117, DOI 10.1080/10584609.2012.737417
+NR 14
+TC 41
+Z9 0
+U1 1.0
+U2 23.0
+J9 SOCIAL NETWORKS
+PD MAR
+PY 2016
+VL 45
+BP 66
+EP 77
+DI 10.1016/j.socnet.2015.12.002
+PG 12
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000371362600006
+PM 
+ER
+
+PT J
+AU Ryan, L
+   D'angelo, Alessio
+TI Changing times: Migrants' social network analysis and the challenges of longitudinal research
+SO SOCIAL NETWORKS
+DE migration research; temporality; spatiality; mixed methods;visualisation
+AB Focusing on migrant social networks, this paper draws upon the sociology of time to incorporate complex notions of temporality into the research process. In so doing, we consider firstly, the challenge of going beyond the snapshot in data collection to capture dynamism through time. Secondly, we apply the concepts of timescapes to explore ways of addressing the wider context and the interplay between spatiality, temporality and relationality in migration research. We argue that integrating a mixed methods approach to SNA, crucially including visualisation, can provide a useful methodological and analytical framework to understand dynamics. SNA can also be helpful in bridging the personal and structural dimensions in migration research, by providing a meso level of analysis. However, it is also important to connect the investigation of local and transnational networks with an analysis of the broader social, economic and political contexts in which these take shape; in other words, connecting the micro and the meso with the wider macro level. Drawing upon reflections from our migration research studies, we argue that different combinations of quantitative, qualitative and visual methods do not just provide richer sets of data and insights, but can allow us to better connect conceptualisations - and ontologies - of social networks with specific methodological frameworks. (C) 2017 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license.
+C1 [Ryan, Louise] Univ Sheffield, Dept Sociol Studies Elmfield, Sheffield ST10 2TU, S Yorkshire, England.   
+[D'Angelo, Alessio] Middlesex Univ, Social Policy Res Ctr, Hendon Campus, London NW4 4BT, England.
+RP Ryan, L (corresponding author), Univ Sheffield, Dept Sociol Studies Elmfield, Sheffield ST10 2TU, S Yorkshire, England.
+FU NIDA NIH HHS [R01 DA013709, R01 DA018225, R01 DA018225-01A2] Funding
+CR Bilecen B, 2015, POPUL SPACE PLACE, V21, P227, DOI 10.1002/psp.1906
+   Bilecen Basak, 2013, SFB 882 WORKING PAPE, V0, P0
+   Borgatti SP, 2014, RES SOCIOL ORGAN-RES, V40, P1, DOI 10.1108/S0733-558X(2014)0000040001
+   Conway S, 2014, BRIT J MANAGE, V25, P102, DOI 10.1111/j.1467-8551.2012.00835.x
+   Crossley N, 2016, VISUALIZATION MIXED, V21, P15
+   DAngelo A, 2016, AN END TO THE CRISIS OF EMPIRICAL SOCIOLOGY, V0, P0
+   DAngelo, 2015, MIGRANT ORG EMBEDDED, V0, P0
+   Herz A, 2014, FORUM QUAL. SOZIALFORSCHUNG/FORUM: QUAL. SOC. RES, V16, P0
+   Krivitsky PN, 2014, J ROY STAT SOC B, V76, P29, DOI 10.1111/rssb.12014
+   Nowok B, 2013, ENVIRON PLANN A, V45, P986, DOI 10.1068/a45287
+   Ryan L, 2014, GLOBAL NETW, V14, P148, DOI 10.1111/glob.12038
+   Ryan L, 2014, SOCIOL RES ONLINE, V19, P0, DOI 10.5153/sro.3404
+   Ryan L, 2015, ANOTHER YEAR ANOTHER, V0, P0
+   Ryan L, 2015, FORUM QUALITATIVE SOZIALFORSCHUNG, V16, P0, DOI [10.17169/fqs-16.2.2333, DOI 10.17169/FQS-16.2.2333]
+   Ryan L, 2015, GLOBAL NETW, V15, P198, DOI 10.1111/glob.12054
+   Ryan L, 2016, SOCIOL REV, V64, P951, DOI 10.1111/1467-954X.12395
+   Thomson R, 2015, INT J SOC RES METHOD, V18, P243, DOI 10.1080/13645579.2015.1017900
+   Tubaro P, 2016, SOCIOL RES ONLINE, V0, P0
+NR 18
+TC 101
+Z9 0
+U1 2.0
+U2 63.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2018
+VL 53
+BP 148
+EP 158
+DI 10.1016/j.socnet.2017.03.003
+PG 11
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000427340000013
+PM 
+ER
+
+PT J
+AU Saint-charles, J
+   Mongeau, Pierre
+TI Social influence and discourse similarity networks in workgroups
+SO SOCIAL NETWORKS
+DE discourse similarity; network; similarity threshold; social influence;workgroup stages; socio-semantic
+AB Adopting a socio-semantic perspective, this study aims to verify the relation between social influence and discourse similarity networks in workgroups and explore its modification over time. Data consist of video transcripts of 45 3-h group meetings and weekly sociometric questionnaires. Relation between tie strength, actor centrality within the influence network, and shared elements of discourse between group members are examined over time. Observed correlations support the hypothesis of a relation between social influence and discourse similarity. Changes over time suggest a similarity threshold above which the relation between similarity and influence is reversed. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Saint-Charles, Johanne] Univ Quebec Montreal, Dept Commun Sociale & Publ, Ctr Rech Interdisciplinaire Bienetre Sante Soc &, Case Postale 8888,Succ Ctr Ville, Montreal, PQ H3C 3P8, Canada.   
+[Mongeau, Pierre] Univ Quebec Montreal, Dept Commun Sociale & Publ, Case Postale 8888,Succ Ctr Ville, Montreal, PQ H3C 3P8, Canada.
+RP Saint-Charles, J (corresponding author), Univ Quebec Montreal, Dept Commun Sociale & Publ, Ctr Rech Interdisciplinaire Bienetre Sante Soc &, Case Postale 8888,Succ Ctr Ville, Montreal, PQ H3C 3P8, Canada.
+FU Social Sciences and Humanities Research Council of Canada
+CR Aral S, 2014, MANAGE SCI, V60, P1352, DOI 10.1287/mnsc.2014.1936
+   Balogun J, 2014, J MANAGE STUD, V51, P175, DOI 10.1111/joms.12059
+   Barberio V, 2014, COMMUNIQUER REV INT, V0, P7
+   Basov N, 2017, STUD COMPUT INTELL, V693, P785, DOI 10.1007/978-3-319-50901-3, 62
+   Carter DR, 2015, J APPL PSYCHOL, V100, P597, DOI 10.1037/a0038922
+   Choi S, 2014, DISCOURSE STUD, V16, P3, DOI 10.1177/1461445613508891
+   Clare S, 2013, GEOFORUM, V49, P40, DOI 10.1016/j.geoforum.2013.05.007
+   Curry O, 2013, HUM NATURE-INT BIOS, V24, P336, DOI 10.1007/s12110-013-9174-z
+   Danowski JA, 2013, CHANGE OVER TIME ICA, V0, P0
+   Duval AM, 2015, CRIT PERSPECT ACCOUN, V29, P31, DOI 10.1016/j.cpa.2015.01.003
+   El-Khatib R, 2015, J FINANC ECON, V116, P349, DOI 10.1016/j.jfineco.2015.01.001
+   Ezeifeka CR, 2013, DISCOURSE SOC, V24, P687, DOI 10.1177/0957926513486221
+   Fabre C, 2015, TRAIT AUTOM LANG, V56, P7
+   Fairclough N, 2014, LANGUAGE AND POWER, V3rd, P0
+   Fairhurst GT, 2014, LEADERSHIP-LONDON, V10, P7, DOI 10.1177/1742715013509396
+   Hardy C, 2016, ACAD MANAGE REV, V41, P80, DOI 10.5465/amr.2013.0106
+   Holmberg K, 2016, INTEGRATING DIFFEREN, V0, P0
+   Johnson AR, 2015, J MANAGE, V41, P574, DOI 10.1177/0149206314539351
+   Kilby L, 2013, DISCOURSE SOC, V24, P725, DOI 10.1177/0957926513503270
+   Kotwal A, 2015, HORIZON, V23, P174, DOI 10.1108/OTH-05-2015-0019
+   Lazzaro-Salazar MV, 2015, PRAGMAT SOC, V6, P444, DOI 10.1075/ps.6.3.06laz
+   Maier D, 2015, BRINGING TOGETHER SO, V0, P36
+   McKenna EF, 2016, J TRAVEL RES, V55, P555, DOI 10.1177/0047287514564597
+   Melamed D, 2016, A J S, V122, P0
+   Mongeau P, 2014, COMMUNIQUER REV COMM, V0, P121
+   Owen-Smith J, 2015, SOC NETWORKS, V41, P1, DOI 10.1016/j.socnet.2014.11.004
+   Pavitt C, 2014, SMALL GR RES, V45, P704, DOI 10.1177/1046496414548353
+   Robert PF, 2014, REV COMMUNICATION SO, V0, P101
+   Roth C, 2013, ADV COMPLEX SYST WOR, V16, P0
+   Saint-Charles J, 2014, ECOHEALTH, V11, P279, DOI 10.1007/s10393-014-0945-8
+   Simpson JA, 2015, APA HDB PERSONALITY, V0, PP393, DOI [10.1037/14344-015, DOI 10.1037/14344-015]
+   Toft A, 2014, DISCOURSE SOC, V25, P783, DOI 10.1177/0957926514536839
+   Treadway DC, 2013, J MANAGE, V39, P1529, DOI 10.1177/0149206311410887
+   Vargas A, 2016, ECOL ECON, V129, P104, DOI 10.1016/j.ecolecon.2016.06.009
+   Westaby JD, 2016, ORGAN PSYCHOL REV, V6, P34, DOI 10.1177/2041386614551319
+   Zanoni P, 2015, ORGAN STUD, V36, P1463, DOI 10.1177/0170840615593584
+NR 36
+TC 23
+Z9 0
+U1 2.0
+U2 33.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2018
+VL 52
+BP 228
+EP 237
+DI 10.1016/j.socnet.2017.09.001
+PG 10
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000416496300021
+PM 
+ER
+

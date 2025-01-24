@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>The duality of firms and directors in board interlock networks: A relational event modeling approach</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2020.02.009</url>
+<snippet>The long tradition of scholarly work on corporate interlocks has left us with competing theoretical frameworks on the causes of interlock networks. Board interlocks are studied either as means to overcome the resource dependence of corporations or as a group cohesion mechanism of business elites. This contrast is due to an empirical divide of the literature where either the firms or the individuals are considered as decision-making bodies. In systematically ignoring the agency of the other group of actors, these literatures suffer from both theoretical and empirical biases in understanding the drivers of new interlocks. In this paper, we employ a relational event modeling technique that allows us to overcome this problem. The analysis of board appointments in Denmark demonstrates how in fact both personal and corporate considerations simultaneously drive the evolution of the corporate networks. The study of the duality of actors is essential for understanding the causes and consequences of corporate networks across time and space.
+WOS:000527272000008
+</snippet>
+</document>
+
+<document id="2">
+<title>Incorporating structural stigma into network analysis</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2020.05.005</url>
+<snippet>A rich literature has explored the modeling of homophily and other forms of nonuniform mixing associated with individual-level covariates within the exponential family random graph (ERGM) framework. Such differential mixing does not fully explain phenomena such as stigma, however, which involve the active maintenance of social boundaries by ostracism of persons with out-group ties. Here, we introduce a new family of statistics that allows for such effects to be captured, making it possible to probe for the potential presence of boundary maintenance above and beyond simple differences in nomination rates. We demonstrate these statistics in the context of gender segregation in a school classroom, and introduce a framework for understanding the associated coefficients via network perturbation.
+WOS:000563919700009
+</snippet>
+</document>
+
+<document id="3">
+<title>&lt;i&gt;k&lt;/i&gt;-means-based algorithm for blockmodeling linked networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.10.006</url>
+<snippet>The paper presents a k-means-based algorithm for blockmodeling linked networks where linked networks are defined as a collection of one-mode and two-mode networks in which units from different one-mode networks are connected through two-mode networks. The reason for this is that a faster algorithm is needed for blockmodeling linked networks that can better scale to larger networks. Examples of linked networks include multilevel networks, dynamic networks, dynamic multilevel networks, and meta-networks. Generalized blockmodeling has been developed for linked/multilevel networks, yet the generalized blockmodeling approach is too slow for analyzing larger networks. Therefore, the flexibility of generalized blockmodeling is sacrificed for the speed of k-means-based approaches, thus allowing the analysis of larger networks. The presented algorithm is based on the two-mode k-means (or KL-means) algorithm for two-mode networks or matrices. As a side product, an algorithm for one-mode blockmodeling of one-mode networks is presented. The algorithms use on a dynamic multilevel network with more than 400 units is presented. A situation study is also conducted which shows that k-means based algorithms are superior to relocation algorithm-based methods for larger networks (e.g. larger than 800 units) and never much worse.
+WOS:000512481500013
+</snippet>
+</document>
+
+<document id="4">
+<title>Collecting survey-based social network information in work organizations</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2021.04.003</url>
+<snippet>Collecting social network data among organization members using surveys is challenging and requires a well considered strategy. Based on extensive past experience with collecting social network information in work organizations with surveys, we identify and discuss four major elements of the data collection process, all linked with and dependent on the specific research question and objective: 1) negotiating access to the organization; 2) identifying the networks boundary, the relevant formal organizational structures that affect social networks, and the sampling approach; 3) deciding how to approach research subjects and collect network data; and, 4) providing useful and ethically-sensitive feedback to the organization and its members. Decisions on each of these elements and their co-alignment, particularly with respect to the chosen research question, is crucial to a successful study. We offer guidelines and provide examples for each of these elements.
+WOS:000700623500003
+</snippet>
+</document>
+
+<document id="5">
+<title>Lost in translation: Collecting and coding data on social relations from audio-visual recordings</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2020.02.006</url>
+<snippet>Some of the constitutive features of social relations fade from view when information naturally produced by sequential social interaction is translated into network ties. Building on core concepts and ideas developed within conversation analysis, in this paper we argue that this happens because the sequential, multimodal and embodied character of social relations can be fully understood only with reference to the sequential constrains that are generated by - and at the same time shape the micro-dynamics of social interaction. We suggest that the translation of social interaction into social networks precludes analysis of the multiple interfaces that sustain social relations (multimodality), and the material resources around which social relations are organized (embodiment). We highlight audio-visual recording as a data collection technology that facilitates storage, retrieval, and analysis of complex information on social relations that is typically absent from social network data. An illustrative video-supported case study based on the observation of social and task-related interaction among members of surgical teams provides the empirical context that supports and motivates our general reflection on network data collection strategies and technologies to study social interaction. The analysis highlights the need for social networks research to return to the study of social relations.
+WOS:000777556900010
+</snippet>
+</document>
+
+<document id="6">
+<title>On the structural equivalence of coresidents and the measurement of village social structure</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2020.02.010</url>
+<snippet>Researchers in the social and biomedical sciences regularly measure networks spanning entire villages in low and middle-income countries by documenting the social contacts of just one or two representatives from participating households. This "lean" approach to network measurement is cost-effective compared to a sociometric census of a villages adult population. However, it implicitly assumes that interviewed and non interviewed coresidents are structurally equivalent - i.e., directly connected to the same network members in the same fashion. Drawing from research on multilevel networks and intra-household heterogeneity, here I argue that this assumption is unlikely to hold for the personal social ties typically of interest to field researchers (i.e., friends and other preferred sources and targets of material, informational and emotional support). I substantiate my claim with an exploratory case study on the similarity of coresidents incoming and outgoing ties using data documenting unrestricted roster-based reports on the provision of tangible aid amongst all adult residents of a remote village of indigenous horticulturalists in Nicaragua (108 adults; 32 nuclear-family households). Results indicate that coresidents markedly deviate from structural equivalence and its generalisation in the form of stochastic equivalence (i.e., similar probabilities of being directly connected to the same network members in the same fashion). All in all, it is ill-advised to assume that the personal network of any one coresident, or, more generally, the manner in which a coresident tends to send and receive their personal ties, is representative of their household.
+WOS:000777556900007
+</snippet>
+</document>
+
+<document id="7">
+<title>Does the spatial distribution of social ties impact neighborhood and city attachment? Differentials among urban/rural contexts</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2021.10.001</url>
+<snippet>Using social network data from the American Social Fabric Project (ASFP), this study examines how the distance to social alters may lead to different perceptions of neighborhood and city attachment among urban versus rural residents, and considers which types of relations play influential roles in shaping attachment. Overall, a key finding is that having more local neighborhood ties is positively associated with attachment at both the neighborhood level and city level, holding for any social relationship in our sample and for urban and rural environments. Notably, long distance ties are not irrelevant for attachment; rather, we see that long distance ties are associated with greater neighborhood and city attachment. Among different social relations measured, neighborhood safety ties consistently show the strongest positive relationship with neighborhood and city attachment. Surprisingly, we find that the spatial distribution of social ties appears more consequential for attachment in the rural sample than it does in the urban sample. Further, geographically dispersed ties also matter for urban versus rural settings: physically close and midrange core discussion ties are associated with weaker attachment for urban residents, whereas they do not affect rural residents perceptions of attachment.
+WOS:000717084300001
+</snippet>
+</document>
+
+<document id="8">
+<title>A graph database framework for covert network analysis: An application to the Islamic State network in Europe</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.10.004</url>
+<snippet>This paper proposes a new framework, based on graph database theory, for encoding complex data on covert networks, mapping their structure, and conducting a sensitivity analysis. The framework is then applied to reconstruct the terrorist network of the 2015-2016 attacks in Paris and Brussels, and related plots in Europe by the Islamic State group. The resulting network was found to be qualitatively different from the ideologically-related Al-Qaeda network, having a lower secrecy and a lower mean degree, under different network-generating assumptions. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000411771300016
+</snippet>
+</document>
+
+<document id="9">
+<title>The social ecology of intergenerational closure in school class networks. Socio-spatial conditions of parents' norm generation and their effects on students' interpersonal conflicts</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2021.12.009</url>
+<snippet>In this paper, we investigate how protective effects of intergenerational closure correspond with conflict networks in school classes. Taking a multilevel ecological perspective, we also consider networks socio-spatial conditions. In a first step, we use ERGMs to analyze the association between parental contact and students friendship ties, i.e., intergenerational closure (IC). Then, we utilize spatial regressions to analyze direct and moderating effects of a schools neighborhood on conflicts in the 135 German class networks (N = 3143 student measurements). In accordance with Colemans theoretical notions, we find consistent negative effects of IC on the (standardized) density of the conflict networks. Moreover, we show that ICs impact is particularly strong in neighborhoods with a relatively high concentration of minorities. The results are in line with our theoretical considerations on multilevel network ecologies and the selective pressure of IC against conflict ties. Practically, our results provide evidence that fostering connections among parents (e.g., by implementing opportunity structures for parents to meet) might help to prevent deviating behavior in schools, especially in neighborhoods with relatively large proportions of ethnic minorities.
+WOS:001188886600001
+</snippet>
+</document>
+
+<document id="10">
+<title>International production and trade in a high-tech industry: A multilevel network analysis</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.05.003</url>
+<snippet>We propose a multilevel network approach as an alternative framework to analyse the international organisation of an industrial sector. We present a novel application of a multilevel Exponential Random Graph Model to a multilevel network of firms linked by ownership at the micro level, countries linked by trade at the macro level, and a firm-county affiliation network linking the two in a high-tech industry. The results from the multilevel ERGM reveal a complex interplay between firm-level activity and international trade patterns. The approach can be extended to other industries to improve understanding of the international organisation of production, to map global value chains and to compare industries.
+WOS:000487171000006
+</snippet>
+</document>
+
+<document id="11">
+<title>Identifying power elites-k-cores in heterogeneous affiliation networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.03.009</url>
+<snippet>Specifying network boundaries is fundamental in the study of social structures of elite networks. However, traditional methods do not offer clear criteria on either size or composition of the elite, and rely on numerous ad hoc decisions. A methodological framework that is inductive, reproducible and suitable for comparative research is proposed. First, a comprehensive dataset of the 5079 affiliation networks of all potentially powerful sectors in Denmark was assembled. Second, these heterogeneous affiliation networks were weighted to account for potential level of social integration. Third, a weighted modification of k-cores is used to identify a power elite of 423 individuals. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000403527900007
+</snippet>
+</document>
+
+<document id="12">
+<title>Socio-economic segregation in a population-scale social network</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2024.02.005</url>
+<snippet>We propose a social network -aware approach to study socio-economic segregation. The key question that we address is whether patterns of segregation are more pronounced in social networks than in the common spatial neighborhood -focused manifestations of segregation. We, therefore, conduct a population -scale social network analysis to study socio-economic segregation at a comprehensive and highly granular social network level. For this, we utilize social network data from Statistics Netherlands on 17.2 million registered residents of the Netherlands that are connected through around 1.3 billion ties distributed over five distinct tie types. We take income assortativity as a measure of socio-economic segregation, compare a social network and spatial neighborhood approach, and find that the social network structure exhibits two times as much segregation. As such, this work complements the spatial perspective on segregation in both literature and policymaking. While at a widely used unit of spatial aggregation (e.g., the geographical neighborhood), patterns of socioeconomic segregation may appear relatively minimal, they may in fact persist in the underlying social network structure. Furthermore, we discover higher social network segregation in larger cities, shedding a different light on the common view of cities as hubs for diverse socio-economic mixing. A population -scale social network perspective hence offers a way to uncover hitherto "hidden"segregation that extends beyond spatial neighborhoods and infiltrates multiple aspects of human life.
+WOS:001232374700001
+</snippet>
+</document>
+
+<document id="13">
+<title>Identifying relationships between personal social networks and spatial mobility: A study using smartphone tracing and related surveys</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2021.08.008</url>
+<snippet>Knowledge about the relationship between the spatial organisation of personal social networks and physical mobility is important for understanding spatial problems and social inequalities that are inseparable from spatial and social structures. To provide further insights into these relationships, this study investigates the link between the spatial distribution of individuals social networks and spatial mobility. We collected data from a group of highly skilled individuals with a smartphone application and combined quantitative surveys. In general, individuals with dispersed networks tend to have more spatial mobility. Our typological approach reveals three distinctive types: (A) dispersed networks and high mobility, (B) dispersed networks and low mobility, and (C) concentrated networks and low mobility. This typology is explained by gender, the composition of the network, and the use of mobile phones and social media.
+WOS:000702773800006
+</snippet>
+</document>
+
+<document id="14">
+<title>Digital networks: Elements of a theoretical framework</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2021.12.002</url>
+<snippet>The proliferation of new, digital communications technologies and platforms over the past few decades has transformed the way humans relate to one another. In turn, there has been an explosion of scientific research using data on these interactions to better understand how social networks emerge and evolve. Curiously, this agenda has proceeded with little theoretical foundation-typically assuming digital and face-to-face ties operate the same way. The purpose of this article is to interrogate this assumption: I identify when, how, and to what consequence digital networks are similar to and different from other kinds of social networks and thereby attempt to strengthen the available theoretical scaffolding for this important and rapidly growing body of work.
+WOS:001188248400001
+</snippet>
+</document>
+
+<document id="15">
+<title>Persistence and change in structural signatures of tie formation over time</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2021.12.001</url>
+<snippet>Using data on the formation of Facebook friendships from over 100,000 students at the 1141 four-year colleges and universities in the Department of Education Scorecard dataset, we examine whether students tendencies to form more open or closed relations (their closure "signature") persist as they leave high school and attend college, and whether this varies by the type of institution attended. Despite significant persistence of individual signature, for the case of Facebook friendships, individuals do tend to adopt the closure signature that characterizes their school. Contrary to expectation, students at more selective colleges are more, not less, likely to form friends with those with whom they share more friends. Yet, at the crucial time of transition to a new school, they form more open ties, due to the tendency of very popular students to reach out to those they generally would not form ties with.
+WOS:001188870300001
+</snippet>
+</document>
+
+<document id="16">
+<title>Multilevel determinants of collaboration between organised criminal groups</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2020.04.002</url>
+<snippet>Collaboration between members of different criminal groups is an important feature of crime that is considered organised, as it allows criminals to access resources and skills in order to exploit illicit economic opportunities. Collaboration across criminal groups is also difficult and risky due to the lack of institutions supporting peaceful cooperation in illicit markets. Thus cross-group collaboration has been thought to take place mostly among small and transient groups. This paper determines whether and under what conditions members of different, larger organised crime groups collaborate with one another. To do so we use intelligence data from the Canadian province of Alberta, centering on criminals and criminal groups engaged in multiple crime types in multiple geographic locations. We apply a multilevel network analytical framework and exponential random graph models using Bayesian techniques to uncover the determinants of cross-group criminal collaboration. We find cross-group collaboration depends not only on co-location, but also on the types of groups to which the criminals are affiliated, and on illicit market overlap between groups. When groups are operating in the same geographically-situated illicit markets their members tend not to collaborate with one another, providing evidence for the difficulty or undesirability of cross-group collaboration in illicit markets. Conversely, members of Outlaw Motorcycle Gangs are more likely to collaborate across groups when markets overlap, suggesting the superior capacity and motivation of biker gangs to coordinate criminal activity. Our paper contributes to the understanding of criminal networks as complex, emergent, and spatially embedded market phenomena.
+WOS:000563919700006
+</snippet>
+</document>
+
+<document id="17">
+<title>Breaking "bad" links: Impact of Companies Act 2013 on the Indian Corporate Network</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2020.01.001</url>
+<snippet>Board interlock networks are known to exhibit concentration of influence by a small group of elites. In this paper, we study a policy intervention aiming to curb this influence. We analyze the evolution of Indian board interlocking network from 2008 to 2016, a period that covers pre- and post-enactment of government regulation (Companies Act, 20) limiting the number of directorships held by a single director. We utilize this enactment as an exogenous shock to analyze its effects on architecture of the network. To quantify the changes in cohesiveness, we extract the core-periphery structure in terms of the k-cores of the network and study its evolution over the years. Impacts of the regulation are strikingly demonstrated by fracture of the innermost core of the preregulation period into two new cores in the post-regulation period. At the macroscopic level, we find substantial changes in the degree distribution as the network became more egalitarian in terms of connectivity from an erstwhile highly unequal degree distribution. While the actual degree and coreness of companies had undergone substantial changes, we find that relative ranks in terms of degree or coreness of individual companies were very persistent. Empirically, we find that the same social and economic factors that determine the degree/coreness of a company before and after the regulation. We conclude that the regulation reduced concentration of elite control through changes in the core-periphery organization and degree distribution, while mobility of the companies across the network was low and stable throughout the entire period.
+WOS:000527272000002
+</snippet>
+</document>
+
+<document id="18">
+<title>The embeddedness of social relations in inter-firm competitive structures</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2020.03.001</url>
+<snippet>Collaboration with direct competitors is a valuable, yet risky, strategy that might pave the way for competitive advantages. Thus far, we have lacked a detailed understanding of how competitive relations between firms shape collaborative relations between their managers, and consequently the structural interdependencies at both levels. The primary objective of this study is to understand the multi-level structure underlying the ambiguous relationship of coopetition, a state of simultaneous collaboration and competition. Hence, we investigate the influence of perceived inter-firm competition on interpersonal knowledge flows among managers within three high-tech clusters by applying multi-level exponential random graph models to network data. Our results reveal that the interpersonal exchange of advice and information depends strongly on the inter-firm competitive structure and that competitive structures shape these interpersonal exchanges in different ways. Thereby, our research demonstrates that managers utilize asymmetries by means of perceived competitive relations to seek work-related advice and information from their competitors and that stronger forms of competition are significant, but not insuperable, obstacles to the exchange of knowledge.
+WOS:000527272000010
+</snippet>
+</document>
+
+<document id="19">
+<title>If you do not know who knows what: Advice seeking under changing conditions of uncertainty after an acquisition</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.08.006</url>
+<snippet>In this study we develop a model to explain the dynamics of advice seeking after an acquisition. We build on a theory of advice seeking that draws from prospect theory and expectancy theory. We theorize that immediately after an acquisition there is uncertainty about who knows what, but over time individuals become more aware of the expertise within the organization and they change their advice networks based upon this increased awareness. Our model examines four micro-processes of advice seeking: reciprocity, preferential attachment, transitivity, and legacy-firm tie preferences. To test our hypotheses we use post-acquisition data over four time periods in a recruitment consulting firm. Our longitudinal analysis uses a stochastic actor-orientated model and our results indicate that immediately after the acquisition individuals have a tendency to seek advice based upon reciprocity and preferential attachment. However, over time these tendencies diminish. Surprisingly, transitivity does not play a significant role, which suggests that other micro-processes such as reciprocity are dominant. In addition, individuals in the acquired firm have a tendency to make more ties and there is a preference for same firm ties in both legacy firms, with the tendency being higher in the acquired firm. Our findings add to theories on the process of advice seeking under conditions of uncertainty, on knowledge transfer processes in mergers and acquisitions, and the knowledge based view of the firm.
+WOS:000512481500005
+</snippet>
+</document>
+
+<document id="20">
+<title>The free encyclopedia that anyone can dispute: An analysis of the micro-structural dynamics of positive and negative relations in the production of contentious Wikipedia articles</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.12.003</url>
+<snippet>We consider two rival hypotheses on the emergence of organization in open production communities. According to the first ("reputation hypothesis"), patterns of agreement and disagreement among participants in open production communities are explained by differences in individual reputation for quality of contribution. The reputation hypothesis predicts that participants will tend to agree with more reputable others and disagree with less reputable others thus contributing to establish a stable open production community. According to the second hypothesis ("balance hypothesis"), patterns of agreement and disagreement are explained by membership in sub-communities of "friends" and "enemies." The balance hypothesis predicts that participants in open production communities will agree mainly with friends and disagree mainly with enemies, regardless of considerations about reputation for the quality of their contributions. In this paper, we examine which one of these hypotheses is more consistent with patterns of positive and negative interaction events observed during the production of the complete set of 1,206 English-language Wikipedia articles officially considered controversial. We specify and estimate new models for signed and weighted relational event networks predicting the probability that a user deletes the contributions of another user - thus expressing personal disagreement - and/or protects the contributions of another user against deletion from third parties - thus expressing personal agreement. In an analysis of positive and negative interaction among Wikipedia contributors consisting of more than 60 million observations, we find strong support for the balance hypothesis and for the predictions of the reputation hypothesis that are more consistent with alter-centric interpretations of social status as conferred by alters through observable acts of deference.
+WOS:000501619700002
+</snippet>
+</document>
+
+<document id="21">
+<title>Streams of interactions: Social connectedness in daily life</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2024.03.001</url>
+<snippet>This study contributes to the social connectedness literature by exploring the range of social interactions that people experience on a daily basis using time diary data. First, we investigate the different types of people whom individuals encounter in everyday life (i.e., family, friends, co-workers, acquaintances, others). Quantifying the degree of this social exposure provides insight into potential sources of support, information, comparison, and control. It further allows us to capture certain types of social connections that are commonly missed in traditional social network questionnaires. Second, we examine how social context fosters interactions between different types of people. Upon analyzing data from the American Time Use Survey, we find that a majority of respondents (69&#37;) engaged in at least one interaction with a non-household member in a 24-hour period. We also found that interactions with different types of people varied according to social context. Interactions with friends, acquaintances, and "others" were significantly more likely to occur in public contexts rather than private or professional contexts. Collectively, our findings highlight the prevalence of social exposure among the American population as well as the important role of social context in making these interactions possible.
+WOS:001208404700001
+</snippet>
+</document>
+
+<document id="22">
+<title>Network stability in organizational flux: The case of in-house management consulting</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.11.002</url>
+<snippet>This article explores the effects of organizational flux on the statics of interpersonal knowledge exchange structures. In our empirical case, organizational flux refers to high rates of personnel turnover, temporary project work, constant recombination of team memberships, and short-term collaboration. Network statics refers to the balance between forces composing and decomposing a network. Set in continuously changing organizational compositions of an in-house management-consulting unit, our study offers insights into the relationship between organizational characteristics and informal networks between experts. Against conventional intuition, we find a dense and stable structure of knowledge exchange. Furthermore, we elaborate on the two concepts of organizational flux and network statics, by comparing the observed structures with theoretical (random graphs) and empirical references (other empirical cases), and by using ERG models to account for different factors of organization, social balance, and individual attributes.
+WOS:000512481500014
+</snippet>
+</document>
+
+<document id="23">
+<title>Network exploration and exploitation: Professional network churn and scientific production</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.07.003</url>
+<snippet>The production of scientific knowledge is an inherently social process making professional networks important for producing science outcomes. Although prior work has demonstrated the connection between collaboration and productivity, most research that examines scientist networks begins from the perspective that structure predicts productivity. Institutional approaches to explaining productivity are useful, but generally ignore the role of individual agency or strategic network behavior. Our study utilizes the dynamic perspective of network churn to assess how professional network composition and structure change overtime via processes of network exploration and exploitation. Using two waves of survey data from a national sample of academic scientists and engineers across six disciplines in the United States, we investigate how network churn affects the quantity and quality of scientific production. Our results suggest that while network exploration generally improves production quality, it can hurt quantity. Network exploitation tends to have the opposite effect, resulting in short term gains but potentially limiting the innovativeness of future research. By recognizing the tradeoffs associated with alternative networking strategies, policy makers in universities and other research organizations can begin focusing on interventions that more effectively target scientists strategic network behavior. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300016
+</snippet>
+</document>
+
+<document id="24">
+<title>Measuring centrality in film narratives using dynamic character interaction networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2020.03.003</url>
+<snippet>The tools of social network analysis offer a promising framework for studying fictional texts and the relational activity of the characters therein. The goal of this paper is to offer both a conceptual refinement of the project of measuring the centrality of characters within narratives using network tools, as well as the proposal of a novel measure with which to do so. Conceptually, we argue that as questions of time, order and sequence are central in narratives, measures of characters narrative importance should be based on dynamic network representations which respect the time-ordering of narrative events. We suggest a directed dynamic measure of relative character importance based on character interactions and illustrate it through an examination of gender in the 2015 film Star Wars: The Force Awakens. We find that the measure helps illuminate important narrative dynamics which cannot be captured by static measures, and presents a platform on which future character network research can productively build.
+WOS:000563919700003
+</snippet>
+</document>
+
+<document id="25">
+<title>Formal and informal cross-cluster networks and the role of funding: A multi-level network analysis of the collaboration among publicly and privately funded cluster organizations and their managers</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.03.003</url>
+<snippet>Collaboration between institutionalized cluster organizations as a means of connecting firms across regions and sectors has recently received growing policy attention. Using a multi-level network approach, we explore the influence of different funding types (primarily private vs. primarily public) on the propensity of cluster organizations to enter into partnerships and of cluster managers to exchange advice. Analyzing data from 82 clusters in Germany, we show that while privately funded cluster organizations have fewer formal partnerships, their managers more actively collaborate at the informal level. Furthermore, we find tendencies towards funding based homophily and cross-level closure at both levels, formal and informal.
+WOS:000472813200009
+</snippet>
+</document>
+
+<document id="26">
+<title>Review of the effects of Five Factor Model personality traits on network structures and perceptions of structure</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.05.007</url>
+<snippet>We review recent research on Five Factor Model personality and social network analysis to assess how structures develop and are perceived. Extraversion and agreeableness relate consistently to personal but not workplace networks. Extraverts are more likely to seek connections, whereas agreeable individuals receive connections from others. Openness predicts network diversity and is marginally related to position when groups pursue collective goals. Conscientiousness is associated with maintaining certain personal relationships, but is strongly related to central positions in workplace networks. Neuroticism has no consistent relationship with network size or composition, and is differentially related to network positions, depending on the context. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300009
+</snippet>
+</document>
+
+<document id="27">
+<title>Embedding time in positions: Temporal measures of centrality for social network analysis</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.02.002</url>
+<snippet>Digital data enable researchers to obtain fine-grained temporal information about social interactions. However, positional measures used in social network analysis (e.g., degree centrality, reachability, betweenness) are not well suited to these time-stamped interaction data because they ignore sequence and time of interactions. While new temporal measures have been developed, they consider time and sequence separately. Building on formal algebra, we propose three temporal equivalents to positional network measures that incorporate time and sequence. We demonstrate how these temporal equivalents can be applied to an empirical context and compare the results with their static counterparts. We show that, compared to their temporal counterparts, static measures applied to interaction networks obscure meaningful differences in the way in which individuals accumulate alters over time, conceal potential disconnections in the network by overestimating reachability, and bias the distribution of betweenness centrality, which can affect the identification of key individuals in the network. Crown Copyright (C) 2018 Published by Elsevier B.V. All rights reserved.
+WOS:000432768600015
+</snippet>
+</document>
+
+<document id="28">
+<title>Routine action networks: An architectural study of spatial layouts and performativity in outpatient clinics</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2021.12.004</url>
+<snippet>Social network analysis offers powerful ways to investigate personal relationships, however, to date little work has explored the more routinized, impersonal work processes present in bureaucratic organizations. Asking whether network analysis has insights to offer into routine work, this paper investigates a data set of direct observations of diagnostic care processes in ten outpatient clinics of two different hospitals. Instead of networks of agents, this study constructs so called action networks, tying together sequences of tasks into networks structures. Following the strong social networks tradition of considering contexts, this paper examines the architectural layout of a setting as key variable. Drawing in particular on ecological approaches to the study of networks by focusing on variability, it is hypothesized that the spatial configuration of clinics is associated with performativity, i.e., a more varied set of sequences to emerge within more open-plan layouts. Results indicate that this is the case, showing how different sets of routines emerge in different types of layout depending on their spatial openness. Variability in routinization is also found between doctors, nurses and clerks, highlighting ecological niches. Network density as well as edge-weighted centralization turned out to be useful metrics for performativity. The work presented contributes to the study of bureaucratic organizations, making a case that social network methods can be fruitfully applied to impersonal, routinized and rule-driven relations.
+WOS:001188415900001
+</snippet>
+</document>
+
+<document id="29">
+<title>Measuring knowledge and experience in two mode temporal networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.05.003</url>
+<snippet>Two mode social network data consisting of actors attending events is a common type of social network data. For these kinds of data it is also common to have additional information about the timing or sequence of the events. We call data of this type two-mode temporal data. We explore the idea that actors attending events gain information from the event in two ways. Firstly the event itself may provide information or training; secondly, as co-attendees interact, they may pass on skills or information they have gleaned from other events. We propose a method of measuring these gains and demonstrate its usefulness using the classic Southern Women Data and a covert network dataset. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000444666300007
+</snippet>
+</document>
+
+<document id="30">
+<title>Assessing the missing data problem in criminal network analysis using forensic DNA data</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.09.003</url>
+<snippet>Missing data is pertinent to criminal networks due to the hidden nature of crime. Generally, researchers evaluate the impact of incomplete network data by extracting or adding nodes and/or edges from a known network. Statistics on this reduced or completed network are then compared with statistics from the known network. In this study, we integrate police data on known offenders with DNA data on unknown offenders. Statistics from the integrated dataset (known network) are compared with statistics from the police data (reduced network). Networks with both known and unknown offenders are bigger but also have a different structure to networks with only known offenders.
+WOS:000512481500009
+</snippet>
+</document>
+
+<document id="31">
+<title>A mixed membership model-based measure for subgroup integration in social networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.08.001</url>
+<snippet>Social networks analysis often involves quantifying subgroup structure in which tie density is greater among nodes in the same subgroup than between subgroups. One such measure, subgroup insularity or segregation, is the extent that subgroups are separate from each other. We introduce a new measure, gamma, which is a parameter from the mixed membership stochastic blockmodel (MMSBM; Airoldi et al., 2008), and differs from many existing measures in that gamma does not depend on node membership. We compare this measure to several well-known measures and use simulation studies and real data analysis to provide insight into how this measure can be used in practice. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200014
+</snippet>
+</document>
+
+<document id="32">
+<title>Non-parametric estimation of reciprocity and triadic effects in relational event networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2021.08.004</url>
+<snippet>Relational event networks arise naturally from social interactions: interactions can be considered time-stamped edges between vertices of social actors. By studying the factors that influence the interaction inter-arrival times we can get insight in the drivers of interaction dynamics. Relational event models provide a succinct way to analyse a broad family of interactional patterns and their influence on network dynamics. These models can easily incorporate a wide range of mechanisms involving both endogenous and exogenous network effects. It has been typical for quantitive models to assume that endogenous network mechanisms, such as reciprocity or triadic effects, remain stable over time. However, a number of studies argued that reciprocity has a strong tendency to decay over time. This paper proposes to model the dynamic structure of reciprocal and triadic effects in relational event networks via stratified baseline hazards. This avoids having to define arbitrary temporal windows for what can be considered reciprocity or triadic closure. A two-step estimation framework is used, based on the stratified Cox proportional hazards model, followed by non-parametric estimation of the stratified cumulative hazard functions. This framework is illustrated by a simulation study and its application to two studies involving email communication and classroom interactions.
+WOS:000702773800005
+</snippet>
+</document>
+
+<document id="33">
+<title>Migration, mixedness, and the partner's role in core discussion networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2022.03.004</url>
+<snippet>Research into migration and social networks has suggested that migrants are relationally more vulnerable than non-migrants, especially those in endogamous couples. However, non-probability samples and lack of data about partners networks have often impeded rigorous testing. This paper analyses the influence of migration and mixedness (unions between two persons from different geographical origins) on some compositional and structural measures of the core discussion networks of the adult population in Spain, paying special attention to the partners role. Data from the 2013 Spanish General Social Survey (SGSS) were used. A graph census shows the predominance of complete graphs both for endogamous and exogamous couples, but more clearly in the case of natives. Multivariate models prove that, in general, Spaniards in mixed unions seem less partner-dependent, whereas endogamous immigrants seem the most affected by the effects of the geographical mobility on relational vulnerability.
+WOS:000798769300001
+</snippet>
+</document>
+
+<document id="34">
+<title>Farm size shapes friend choice amongst rice producers in China: Some evidence for the theory of network ecology'</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.10.001</url>
+<snippet>Multiple dynamics jointly determine who we befriend, however, researchers have failed to systematically assess which processes matter most under different circumstances. Here I draw on observations around how the demands of paddy rice cultivation shape social interaction to demonstrate that the relative importance of reciprocity, transitivity and generalised exchange to who rice producers choose as friends varies with the amount of agricultural land under their control. In doing so, I use unique data on farm size and friendship amongst 4713 rice-growing smallholders in 162 rural villages in Jiangxi, China along with a new technique for measuring the relative importance of effects in Stochastic Actor-Oriented Models. In line with the micro-level component of the recently advanced "theory of network ecology", results suggest that features of an individuals proximal environment can powerfully moderate the relative expression of network-formation mechanisms such that for some individuals, a dynamic may be expected to hold substantial sway over the process of choosing social contacts and, for others, no sway at all.
+WOS:000512481500010
+</snippet>
+</document>
+
+</searchresult>

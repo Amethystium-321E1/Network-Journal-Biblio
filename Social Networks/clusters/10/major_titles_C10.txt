@@ -1,0 +1,28 @@
+Effects of missing data in social networks
+Measuring ego-centered social networks on the web: Questionnaire design issues
+Legislative cosponsorship networks in the US House and Senate
+Group betweenness and co-betweenness: Inter-related notions of coalition centrality
+Bridging: Locating critical connectors in a network
+Duocentered networks
+Exploratory social network analysis with Pajek
+An algorithm and metric for network decomposition from similarity matrices: Application to positional analysis
+It's not who you know, it's how you know them:: Who exchanges what with whom?
+The network is personal:: Introduction to a special issue of <i>Social Networks</i>
+Did distance matter before the Internet? Interpersonal contact and support in the 1970s
+Tastes, ties, and time: A new social network dataset using Facebook.com
+A graph-theoretic perspective on centrality
+The school class as a social network and contextual effects on childhood and adult health: Findings from the Aberdeen Children of the 1950s cohort study
+On the robustness of centrality measures under conditions of imperfect data
+The authority of Supreme Court precedent
+On variants of shortest-path betweenness centrality and their generic computation
+VIP-club phenomenon: Emergence of elites and masterminds in social networks
+To tell the truth: Measuring concordance in multiply reported network data
+Induced, endogenous and exogenous centrality
+Partitioning signed social networks
+The use of sparsest cuts to reveal the hierarchical community structure of social networks
+Treatment of non-response in longitudinal network studies
+Clearing the FOG: Fuzzy, overlapping groups for social networks
+The structure of educational research: The role of multivocality in promoting cohesion in an article interlock network
+Node centrality in weighted networks: Generalizing degree and shortest paths
+A new method for finding hierarchical subgroups from networks
+Triadic configurations in limited choice sociometric networks: Empirical and theoretical results

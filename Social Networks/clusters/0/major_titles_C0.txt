@@ -1,0 +1,78 @@
+A sexual affiliation network of swingers, heterosexuals practicing risk behaviours that potentiate the spread of sexually transmitted infections: A two-mode approach
+Bayesian model selection for exponential random graph models
+Networks and geography: Modelling community network structures as the outcome of both spatial and network processes
+The microstructures of network recall: How social networks are encoded and represented in human memory
+Avoidance in negative ties: Inhibiting closure, reciprocity, and homophily
+Multiplexity and strategic alliances: The relational embeddedness of coalitions in social movement organisational fields
+Embeddedness as a multilevel problem: A case study in economic sociology
+Stochastic weighted graphs: Flexible model specification and simulation
+A real-coded genetic algorithm for two-mode <i>KL</i>-means partitioning with application to homogeneity blockmodeling
+Conditionally exponential random models for individual properties and network structures: Method and application
+Duality of departmental specializations and PhD exchange: A Weberian analysis of status in interaction using multilevel exponential random graph models (mERGM)
+Audience structure and status multiplicity
+Gender homophily from spatial behavior in a primary school: A sociometric study
+Evaluation of strategies to mitigate contagion spread using social network characteristics
+Structural effects of network sampling coverage I: Nodes missing at random
+Familial groups in social networks
+Introduction to the special issue on advances in two-mode social networks
+Exploratory blockmodeling for one-mode, unsigned, deterministic networks using integer programming and structural equivalence
+Social selection models for multilevel networks
+Two-mode brokerage in policy networks
+Focused model selection for social networks
+Homophily and prestige: An assessment of their relative strength to explain link formation in the online climate change debate
+The strength of family ties: A meta-analysis and meta-regression of self-reported social support and mortality
+Effects of competition on collective learning in advice networks
+<i>Linked Ego Networks</i>: Improving estimate reliability and validity with respondent-driven sampling
+Modelling a disease-relevant contact network of people who inject drugs
+orr Network formation in the interbank money market: An application of the actor-oriented model
+How social exclusion distorts social network perceptions
+Information seeking in secondary schools: A multilevel network approach
+International production and trade in a high-tech industry: A multilevel network analysis
+Pathways to happiness: From personality to social networks and perceived support
+Multilevel network data facilitate statistical inference for curved ERGMs with geometrically weighted terms
+Time as a limited resource: Communication strategy in mobile phone networks
+What drives participatory policy processes: Grassroot activities, scientific knowledge or donor money? - A comparative policy network approach
+Statistical adjustment of network degree in respondent-driven sampling estimators: Venue attendance as a proxy for network size among young MSM
+Introduction to multilevel social networks
+Weak ties and contact initiation in everyday life: Exploring contextual variations from contact diaries
+The "unfriending" problem: The consequences of homophily in friendship retention for causal estimates of social influence
+Popularity breeds contempt: The evolution of reputational dislike relations and friendships in high school
+Substantive implications of unobserved heterogeneity: Testing the frailty approach to exponential random graph models
+Eigenvector centrality and structural zeroes and ones: When is a neighbor not a neighbor?
+Triadic closure in two-mode networks: Redefining the global and local clustering coefficients
+Investor commitment to serial entrepreneurs: A multilayer network analysis
+Assimilation and differentiation: A multilevel perspective on organizational and network change
+Short- and long-term stability in organizational networks: Temporal structures of project teams
+Sex and network recall accuracy
+The development of adolescents' friendships and antipathies: A longitudinal multivariate network test of balance theory
+Permutation and randomization tests for network analysis
+Collaboration strategies for publishing articles in international journals - A study of Polish scientists in economics
+The embeddedness of organizational performance: Multiple Membership Multiple Classification Models for the analysis of multilevel networks
+The acquisition of perceived descriptive norms as social category learning in social networks
+Partitioning large signed two-mode networks: Problems and prospects
+Inter-ethnic friendship and negative ties in secondary school
+Structural balance in signed networks: Separating the probability to interact from the tendency to fight
+The determinants of heroin flows in Europe: A latent space approach
+Organizational learning across multi-level networks
+The contagion effects of repeated activation in social networks
+Does it take <i>three</i> to dance the Tango? Organizational design, triadic structures and boundary spanning across subunits
+Heating up the debate? Measuring fragmentation and polarisation in a German climate change hyperlink network
+The use of different data sources in the analysis of co-authorship networks and scientific performance
+Neither global nor local: Heterogeneous connectivity in spatial network structures of world migration
+Mixed integer programming formulations for clustering problems related to structural balance
+The affective antecedents of cognitive social network activation
+A multi-way analysis of international bilateral claims
+Competition for foundation patronage and the differential effects of prestige on the grant market success of social movement organisations
+Network effects on organizational decision-making: Blended social mechanisms and IPO withdrawal
+Exponential random graph models for multilevel networks
+The interplay between formal project memberships and informal advice seeking in knowledge-intensive firms: A multilevel network approach
+Ask and you shall receive: Social network contacts' provision of help during the job search
+Snowball sampling for estimating exponential random graph models for large networks
+Multilevel embeddedness: The case of the global fisheries governance complex
+Motivations for self-assembling into project teams
+Bayesian analysis for partially observed network data, missing ties, attributes and actors
+What makes a network go round? Exploring the structure of a strong component with exponential random graph models
+Bayesian exponential random graph models with nodal random effects
+Simultaneous-direct blockmodeling for multiple relations in Pajek
+Multilevel models for social networks: Hierarchical Bayesian approaches to exponential random graph modeling
+Core-periphery or decentralized? Topological shifts of specialized information on Twitter

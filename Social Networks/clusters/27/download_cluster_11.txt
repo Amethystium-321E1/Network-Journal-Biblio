@@ -1,0 +1,443 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Bright, D
+   Brewer, Russell
+   Morselli, Carlo
+TI Using social network analysis to study crime: Navigating the challenges of criminal justice records
+SO SOCIAL NETWORKS
+DE illicit networks; criminal networks; criminal justice records; offender databases; investigative records; prosecution files; court files;department inquiries and commissions
+AB The use of social network analysis to study groups of offenders engaged in illicit activities such as drug trafficking and terrorism has grown in popularity over the last three decades. Along with such growth, however, researchers have been confronted with a suite of challenges related to the use of data extracted from criminal justice records. In this paper, we review these challenges through a discussion of the extant empirical literature utilizing social network analysis approaches that draw data from the criminal justice system. First, we outline and discuss the different types of data used across this literature. Second, we chronicle the challenges that have emerged across the field of criminal networks via a comprehensive review of the literature. In particular, we draw on the documented experiences of researchers in the field, including our own, and detail "archeological" approaches that future researchers can utilize to adapt and overcome said challenges. The use of criminal justice records can suffer from a number of limitations, mainly with respect to accuracy, validity and reliability. Such data may include errors, both intentional (e.g. aliases, false information) and unintentional (e.g. transcription errors), including missing data. The use of criminal justice records present particular problems with defining the network boundary as the boundary as determined by law enforcement or prosecution agencies may not correspond to the boundary as defined by network members. We conclude by offering a number of recommendations for researchers about data collection and preparation when utilizing criminal justice records.
+C1 [Bright, David] Flinders Univ S Australia, Ctr Crime Policy & Res, Adelaide, SA, Australia.   
+[Brewer, Russell] Univ Adelaide, Sch Social Sci, Adelaide, SA, Australia.   
+[Morselli, Carlo] Univ Montreal, Int Ctr Comparat Criminol, Sch Criminol, Montreal, PQ, Canada.
+RP Bright, D (corresponding author), Flinders Univ S Australia, Ctr Crime Policy & Res, Adelaide, SA, Australia.
+FU Leverhulme Trust
+CR Agreste S, 2016, INFORM SCIENCES, V351, P30, DOI 10.1016/j.ins.2016.02.027
+   Bichler G, 2019, CRIME DELINQUENCY, V65, P875, DOI 10.1177/0011128717739607
+   Bouchard M, 2016, OXFORD HDB ONLINE, V0, P0
+   Brewer R, 2017, REGULATORY THEORY: FOUNDATIONS AND APPLICATIONS, V0, P447
+   Bright D, 2017, GLOB CRIME, V18, P424, DOI 10.1080/17440572.2017.1377614
+   Bright D, 2019, J QUANT CRIMINOL, V35, P237, DOI 10.1007/s10940-018-9379-8
+   Bright D, 2020, STUD CONFL TERROR, V43, P638, DOI 10.1080/1057610X.2018.1494411
+   Campana P, 2016, BRIT J CRIMINOL, V56, P68, DOI 10.1093/bjc/azv027
+   Campana P, 2018, EUR J CRIMINOL, V15, P481, DOI 10.1177/1477370817749179
+   Costa J, 2017, GLOB CRIME, V18, P353, DOI 10.1080/17440572.2017.1332594
+   De Moor S, 2018, EUR J CRIMINOL, V15, P632, DOI 10.1177/1477370817749499
+   Denton E, 2016, J HUMAN TRAFFICKING, V2, P32, DOI DOI 10.1080/23322705.2016.1136540
+   Englefield A, 2017, INT J SOC SCI STUD, V5, P0
+   Faust K, 2019, ANNU REV CRIMINOL, V2, P99, DOI 10.1146/annurev-criminol-011518-024701
+   Gallupe O, 2016, WILEY HDB MEASUREMEN, V0, P555
+   Hashimi S, 2017, POLICING, V40, P768, DOI 10.1108/PIJPSM-06-2016-0079
+   Hughes CE, 2017, SOC NETWORKS, V51, P135, DOI 10.1016/j.socnet.2016.11.004
+   Jones NP, 2020, TRENDS ORGAN CRIME, V23, P154, DOI 10.1007/s12117-018-9352-9
+   LeClerc B, 2017, CRIME PREVENTION 21, V0, P187
+   Meyers TJ, 2017, CRIME LAW SOCIAL CH, V68, P251, DOI 10.1007/s10611-017-9689-z
+   Ouellet M, 2018, DEVIANT BEHAV, V39, P1467, DOI 10.1080/01639625.2018.1481678
+   Randle J, 2017, CRIME PREVENTION 21, V0, PP165, DOI DOI 10.1007/978-3-319-27793-6, 12
+   Rostami A, 2019, TRENDS ORGAN CRIME, V22, P34, DOI 10.1007/s12117-017-9310-y
+   Smith CM, 2016, AM SOCIOL REV, V81, P644, DOI 10.1177/0003122416650149
+NR 24
+TC 41
+Z9 0
+U1 4.0
+U2 31.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2021
+VL 66
+BP 50
+EP 64
+DI 10.1016/j.socnet.2021.01.006
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000648645200005
+PM 
+ER
+
+PT J
+AU Tumminello, M
+   Petruzzella, F
+   Ferrara, C
+   Micciche, S
+TI Anagraphical relationships and crime specialization within Cosa Nostra
+SO SOCIAL NETWORKS
+DE criminal specialization; complex networks; complex systems; social relationships; social networks; mafia
+AB The aim of the present work is to investigate the relationships established within Cosa Nostra, by making use of networks and complex-systems methods. The analysis is performed at three different levels, that is, individuals, groups within mafia syndicates, and relationships amongst mafia syndicates. The reported empirical analysis is based on the criminal records of 632 affiliates to Cosa Nostra selected from a set of 125 judgements emitted by the Palermo courts from 2000 to 2014. According to the criminal records of the Palermo Prosecutor Office, such a dataset includes approximately 10% of the whole population of Cosa Nostra affiliates in western Sicily. Furthermore, the vital statistics of 235 subjects sentenced for mafia crimes and the one of their relatives complemented the database that, overall, includes about 4000 subjects. Our results show that mafia syndicates are not specialized in terms of criminal activity, rather they show a strong territorial attachment and are involved in heterogeneous criminal activities. Since syndicates insist on a delimited territory, young affiliates are selected on a territorial basis according to the significance and variety of their past criminal activity. Once inside a syndicate, affiliates tend to specialize in a few criminal activities, depending on their attitudes and the needs of the organization. Finally, despite the fact that the vast majority of mafia affiliates are males, our results highlight that female subjects are crucial to form and consolidate alliances between mafia syndicates through suitable marriages.
+C1 [Tumminello, M.] Univ Studi Palermo, Dipartimento Sci Econ Aziendali & Stat, Viale Sci Ed 13, I-90128 Palermo, Italy.   
+[Petruzzella, F.; Ferrara, C.] Procura Repubbl Presso Tribunale Palermo, Direz Distrettuale Antimafia, Piazza VE Orlando, I-90138 Palermo, Italy.   
+[Micciche, S.] Univ Studi Palermo, Dipartimento Fis & Chim Emilio Segre, Viale Sci,Ed 18, I-90128 Palermo, Italy.
+RP Micciche, S (corresponding author), Univ Studi Palermo, Dipartimento Fis & Chim Emilio Segre, Viale Sci,Ed 18, I-90128 Palermo, Italy.
+FU Public Prosecutors Office of Palermo [327/2014]; DSEAS department of
+CR Agreste S, 2016, INFORM SCIENCES, V351, P30, DOI 10.1016/j.ins.2016.02.027
+   Calderoni F, 2017, SOC NETWORKS, V48, P116, DOI 10.1016/j.socnet.2016.08.003
+   Calderoni F, 2018, RETI MAFIE, V0, P0
+   Caprì C, 2018, CLIN NEUROPSYCHIATR, V15, P111
+   Varese F, 2017, VITA MAFIA, V0, P0
+NR 5
+TC 8
+Z9 0
+U1 1.0
+U2 3.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2021
+VL 64
+BP 29
+EP 41
+DI 10.1016/j.socnet.2020.07.011
+PG 13
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000591504600003
+PM 
+ER
+
+PT J
+AU Calderoni, F
+   Brunetto, Domenico
+   Piccardi, Carlo
+TI Communities in criminal networks: A case study
+SO SOCIAL NETWORKS
+DE criminal networks; dark networks; community analysis; centrality measures; leadership identification; membership identification
+AB Criminal organizations tend to be clustered to reduce risks of detection and information leaks. Yet, the literature exploring the relevance of subgroups for their internal structure is so far very limited. The paper applies methods of community analysis to explore the structure of a criminal network representing the individuals co-participation in meetings. It draws from a case study on a large law enforcement operation ("Operazione Infinito") tackling the Ndrangheta, a mafia organization from Calabria, a southern Italian region. The results show that the network is indeed clustered and that communities are associated, in a non-trivial way, with the internal organization of the Ndrangheta into different "locali" (similar to mafia families). Furthermore, the results of community analysis can improve the prediction of the "locale" membership of the criminals (up to two thirds of any random sample of nodes) and the leadership roles (above 90% precision in classifying nodes as either bosses or non-bosses). The implications of these findings on the interpretation of the structure and functioning of the criminal network are discussed. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Calderoni, Francesco] Univ Cattolica Sacro Cuore & Transcrime, Milan, Italy.   
+[Brunetto, Domenico] Politecnico Milano, Dept Math, MOX, Milan, Italy.   
+[Piccardi, Carlo] Politecn Milan, DEIB, Milan, Italy.
+RP Calderoni, F (corresponding author), Univ Cattolica Sacro Cuore & Transcrime, Milan, Italy.; Calderoni, F (corresponding author), Politecn Milan, DEIB, Milan, Italy.
+CR Agreste S, 2016, INFORM SCIENCES, V351, P30, DOI 10.1016/j.ins.2016.02.027
+   Bright DA, 2012, CRIME LAW SOCIAL CH, V57, P151, DOI 10.1007/s10611-011-9336-z
+   Bright DA, 2015, J CONTEMP CRIM JUST, V31, P262, DOI 10.1177/1043986214553378
+   Calderoni F, 2012, CRIME LAW SOCIAL CH, V58, P321, DOI 10.1007/s10611-012-9387-9
+   Calderoni Francesco, 2014, NETWORKS AND NETWORK ANALYSIS FOR DEFENCE AND SECURITY, V0, PP27, DOI DOI 10.1007/978-3-319-04147-6, 2
+   Campana P, 2012, TRENDS ORGAN CRIME, V15, P13, DOI 10.1007/s12117-011-9131-3
+   Catanese S, 2013, SOC NETW ANAL MIN, V3, P15, DOI 10.1007/s13278-012-0060-1
+   Della Rossa F, 2013, SCI REP-UK, V3, P0, DOI 10.1038/srep01467
+   Ferrara E, 2014, EXPERT SYST APPL, V41, P5733, DOI 10.1016/j.eswa.2014.03.024
+   Hosmer DW Jr, 2013, WILEY SER PROBAB ST, V0, P89
+   Hric D, 2014, PHYS REV E, V90, P0, DOI 10.1103/PhysRevE.90.062805
+   Kleemans ER, 2014, OXFORD HDB ORG CRIME, V0, PP32, DOI DOI 10.1093/OXFORDHB/9780199730445.001.0001
+   Larremore DB, 2014, PHYS REV E, V90, P0, DOI 10.1103/PhysRevE.90.012805
+   Taha K, 2016, IEEE T INF FOREN SEC, V11, P811, DOI 10.1109/TIFS.2015.2510826
+   Unknown -, 2015, CRIME PREVENTION STUDIES, V0, P0
+NR 15
+TC 47
+Z9 0
+U1 1.0
+U2 42.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2017
+VL 48
+BP 116
+EP 125
+DI 10.1016/j.socnet.2016.08.003
+PG 10
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000389730200010
+PM 
+ER
+
+PT J
+AU Agneessens, F
+   Borgatti, Stephen P
+   Everett, Martin G
+TI Geodesic based centrality: Unifying the local and the global
+SO SOCIAL NETWORKS
+DE degree centrality; closeness centrality; betweenness centrality;diversity; resource-richness; node-level measures
+AB A variety of node-level centrality measures, including purely structural measures (such as degree and closeness centrality) and measures incorporating characteristics of actors (such as the Blaus measure of heterogeneity) have been developed to measure a persons access to resources held by others. Each of these node-level measures can be placed on a continuum depending on whether they focus only on egos direct contacts (e.g. degree centrality and Blaus measure of heterogeneity), or whether they also incorporate connections to others at longer distances in the network (e.g. closeness centrality or betweenness centrality). In this paper we propose generalized measures, where a tuning parameter 8 regulates the relative impact of resources held by more close versus more distant others. We first show how, when a specific 8 is chosen degree-centrality and reciprocal closeness centrality are two specific instances of this more general measure. We then demonstrate how a similar approach can be applied to node-level measures that incorporate attributes. When more or less weight is given to other nodes at longer distances with specific characteristics, a generalized measure of resource-richness and a generalized measure for diversity among ones connections can be obtained (following Blaus measure of heterogeneity). Finally, we show how this approach can also be applied to betweenness centrality to focus on more local (ego) betweenness or global (Freeman) betweenness. The importance of the choice of 8 is illustrated on some classic network datasets. (C) 2016 Published by Elsevier B.V.
+C1 [Agneessens, Filip] Univ Surrey, Surrey Business Sch, Guildford GU2 7XH, Surrey, England.   
+[Borgatti, Stephen P.] Univ Kentucky, Gatton Coll Business & Econ, LINKS Ctr Social Network Anal, Lexington, KY 40508 USA.   
+[Everett, Martin G.] Univ Manchester, Sch Social Sci, Mitchell Ctr Social Network Anal, Arthur Lewis Bldg,Bridgeford St, Manchester M13 9PL, Lancs, England.
+RP Agneessens, F (corresponding author), Univ Surrey, Surrey Business Sch, Guildford GU2 7XH, Surrey, England.
+FU Leverhulme Trust Research Project Grant [R116318]
+CR Agneessens F, 2016, METHODOS SERIES, V0, P0
+   Duijn PAC, 2014, SCI REP-UK, V4, P0, DOI 10.1038/srep04238
+   Ellwardt L, 2012, SOC NETWORKS, V34, P193, DOI 10.1016/j.socnet.2011.11.003
+   Everett MG, 2012, SOC NETWORKS, V34, P562, DOI 10.1016/j.socnet.2012.06.002
+   Marineau JE, 2016, SOC NETWORKS, V44, P238, DOI 10.1016/j.socnet.2015.09.003
+   OConnor LT, 2013, SOC NETWORKS, V35, P593, DOI 10.1016/j.socnet.2013.07.005
+   Shipilov A, 2014, SOC NETWORKS, V39, P71, DOI 10.1016/j.socnet.2014.03.006
+NR 7
+TC 32
+Z9 0
+U1 0.0
+U2 28.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2017
+VL 49
+BP 12
+EP 26
+DI 10.1016/j.socnet.2016.09.005
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000395601700002
+PM 
+ER
+
+PT J
+AU Basu, K
+   Sen, Arunabha
+TI Identifying individuals associated with organized criminal networks: A social network analysis
+SO SOCIAL NETWORKS
+DE criminal networks; unique surveillance strategy; identifying codes;discriminating codes; augmented identifying codes
+AB The past couple of decades has witnessed an unprecedented rise in organized crime. This rise, coupled with increasing intricacies of organized crime, poses significant and evolving challenges for international law enforcement authorities. With the passage of time, authorities such as Interpol, have discovered that modern criminal organizations have adopted a networked structure, a shift away from the traditional hierarchical structure. Fluid networked structures make it difficult for the authorities to apprehend individuals associated with each network, and consequently, to disrupt the operations of the network. Various research groups have analyzed prison/courtroom transcripts, to create an organizational structure of known individuals, or a social network of individuals, suspected to be a part of a major drug/terrorist organization. These social networks have been studied fairly extensively from network centrality perspectives, to understand the role of suspect individuals in the network. Additionally, with drug and terror offenses increasing globally, the list of suspect individuals has also been growing over the past decade. As it takes significant amount of technical and human resources to monitor a suspect, an increasing list entails higher resource requirements on the part of the authorities, and monitoring all the suspects soon becomes an impossible task. In this paper, we primarily focus on two types of networks - (i) Drug Trafficking Organizations, and (ii) Terrorist Organizations, and present a methodology for the surveillance of individuals associated with these networks. Our methodology is based on the mathematical notion of Identifying Codes, which ensures reduction in resources on the part of law enforcement authorities, without compromising the ability to uniquely identify a suspect, when they become "active" in drug/terror related activities. Furthermore, we show that our approach requires far lesser resources when compared to strategies adopting standard network centrality measures for the unique identification of individuals. In other words, we show that the strategy of monitoring individuals in such networks, by utilizing centrality measures is wasteful, on the part of the authorities. Finally, we evaluate the efficacy of our approach on real world datasets.
+C1 [Basu, Kaustav; Sen, Arunabha] Arizona State Univ, Sch Comp Informat & Decis Syst Engn, NetXT Lab, 699,South Mill Ave, Tempe, AZ 85281 USA.
+RP Basu, K (corresponding author), Arizona State Univ, Sch Comp Informat & Decis Syst Engn, NetXT Lab, 699,South Mill Ave, Tempe, AZ 85281 USA.
+FU Netherlands Organization for Scientific Research; Netherlands
+CR Basu K, 2018, IEEE INT SYMP PARAL, V0, PP1159, DOI 10.1109/BDCloud.2018.00171
+   Basu K, 2019, LECT NOTES COMPUT SC, V11260, P29, DOI 10.1007/978-3-030-05849-4, 3
+   Basu K, 2019, PROCEEDINGS OF THE 2019 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2019), V0, PP1136, DOI 10.1145/3341161.3343530
+   Basu K, 2019, PROCEEDINGS OF THE 2019 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2019), V0, PP480, DOI 10.1145/3341161.3342938
+   Gialampoukidis I, 2016, EUR INTELL SECUR INF, V0, PP112, DOI [10.1109/EISIC.2016.38, 10.1109/EISIC.2016.029]
+   Hughes CE, 2017, SOC NETWORKS, V51, P135, DOI 10.1016/j.socnet.2016.11.004
+   Sen A, 2018, LECT NOTES COMPUT SC, V10899, P329, DOI 10.1007/978-3-319-93372-6, 36
+NR 7
+TC 15
+Z9 0
+U1 3.0
+U2 22.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2021
+VL 64
+BP 42
+EP 54
+DI 10.1016/j.socnet.2020.07.009
+PG 13
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000591504600004
+PM 
+ER
+
+PT J
+AU Dellaposta, D
+TI Network closure and integration in the mid-20th century American mafia
+SO SOCIAL NETWORKS
+DE criminal networks; american mafia; efficiency; security; modularity;small-world networks; brokerage
+AB Criminal networks are thought to be biased toward decentralization and security rather than integration and efficiency. This article examines this tradeoff in a large-scale national criminal network spanning more than 700 members of 24 distinct American mafia families operating in the mid-20th century. Producing a novel network image of the American mafia as a set of highly differentiated yet intertwined islands of criminal activity, the analysis uncovers a small-world structure that allowed both for strong intragroup closure and high intergroup connectivity. This balance reflected a division of network labor in which integrative bridging connections were disproportionately concentrated among a small number of criminals. Furthermore, the criminals who held such bridging ties tended to be either low- or high-status but not of middling status within their respective organizations. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [DellaPosta, Daniel] Cornell Univ, Dept Sociol, Ithaca, NY 14853 USA.
+RP DellaPosta, D (corresponding author), Cornell Univ, 332 Uris Hall, Ithaca, NY 14853 USA.
+FU NSF [CMMI-1436365]; Hong Kong Research Grant Council [T32-101/15-R];
+CR Agreste S, 2016, INFORM SCIENCES, V351, P30, DOI 10.1016/j.ins.2016.02.027
+   Berlusconi Giulia, 2014, ENCYCLOPEDIA OF CRIMINOLOGY AND CRIMINAL JUSTICE, V0, PP2699, DOI DOI 10.1007/978-1-4614-5690-2, 639
+   Bright DA, 2012, CRIME LAW SOCIAL CH, V57, P151, DOI 10.1007/s10611-011-9336-z
+   Bright DA, 2015, J CONTEMP CRIM JUST, V31, P262, DOI 10.1177/1043986214553378
+   Calderoni F, 2012, COMMON MKT LAW REV, V49, P1365
+   Calderoni Francesco, 2014, NETWORKS AND NETWORK ANALYSIS FOR DEFENCE AND SECURITY, V0, PP27, DOI DOI 10.1007/978-3-319-04147-6, 2
+   Campana P, 2013, RATION SOC, V25, P263, DOI 10.1177/1043463113481202
+   Mancuso M, 2014, TRENDS ORGAN CRIME, V17, P66, DOI 10.1007/s12117-013-9199-z
+   Mastrobuoni G, 2012, REV NETW ECON, V11, P0, DOI 10.1515/1446-9022.1324
+   Mastrobuoni G, 2015, ECON J, V125, PF256, DOI 10.1111/ecoj.12234
+   Papachristos AV, 2014, CRIME AND NETWORKS, V0, P97
+   Rostami A, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0119309
+   Smith CM, 2016, AM SOCIOL REV, V81, P644, DOI 10.1177/0003122416650149
+   Stovel K, 2012, ANNU REV SOCIOL, V38, P139, DOI 10.1146/annurev-soc-081309-150054
+NR 14
+TC 29
+Z9 0
+U1 0.0
+U2 18.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2017
+VL 51
+BP 148
+EP 157
+DI 10.1016/j.socnet.2016.11.005
+PG 10
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000411771300013
+PM 
+ER
+
+PT J
+AU Hughes, CE
+   Bright, David A
+   Chalmers, Jenny
+TI Social network analysis of Australian poly-drug trafficking networks: How do drug traffickers manage multiple illicit drugs?
+SO SOCIAL NETWORKS
+DE drug trafficking; poly-drug trafficking; australia; criminal networks
+AB International agencies report rising numbers of drug traffickers who deal in multiple drugs (poly-drug traffickers). This paper explores how product diversification is managed in three Australian poly-drug trafficking syndicates. Networks were constructed using judges sentencing comments and social network analysis applied to examine the degree of specialisation, resource flows and management structure (if any). Each syndicate had a clear management structure, but employed a different approach to diversifying including in-house production of multiple products (Syndicate 1) and outsourcing to other syndicates (Syndicate 3). This suggests traffickers will have multiple avenues for product diversification. This may create challenges for their policing. (C) 2016 Published by Elsevier B.V.
+C1 [Hughes, Caitlin E.; Chalmers, Jenny] UNSW Australia, Natl Drug & Alcohol Res Ctr, Sydney, NSW 2052, Australia.   
+[Bright, David A.] UNSW Australia, Sch Social Sci, Sydney, NSW, Australia.
+RP Hughes, CE (corresponding author), UNSW Australia, Natl Drug & Alcohol Res Ctr, Sydney, NSW 2052, Australia.
+FU National Drug Law Enforcement Research Fund; Commonwealth Australian
+CR Basu G, 2013, J TRANSP SECUR, V6, P315, DOI 10.1007/s12198-013-0118-y
+   Berlusconi G, 2013, GLOB CRIME, V14, P61, DOI 10.1080/17440572.2012.746940
+   Bright DA, 2012, CRIME LAW SOCIAL CH, V57, P151, DOI 10.1007/s10611-011-9336-z
+   Bright DA, 2013, GLOB CRIME, V14, P238, DOI 10.1080/17440572.2013.787927
+   Bright DA, 2015, GLOB CRIME, V16, P219, DOI 10.1080/17440572.2015.1039164
+   Bright DA, 2015, J CONTEMP CRIM JUST, V31, P262, DOI 10.1177/1043986214553378
+   Calderoni F, 2012, CRIME LAW SOCIAL CH, V58, P321, DOI 10.1007/s10611-012-9387-9
+   Framis AG-S, 2014, CRIME AND NETWORKS, V0, P131
+   Gong WD, 2012, DRUG ALCOHOL DEPEN, V122, P208, DOI 10.1016/j.drugalcdep.2011.09.028
+   Hill CW, 2014, STRATEGIC MANAGEMENT: THEORY: AN INTEGRATED APPROACH, V0, P0
+   Hughes CE, 2016, INT J DRUG POLICY, V31, P80, DOI 10.1016/j.drugpo.2016.01.005
+   Insulza JM, 2013, DRUG PROBLEM AM STUD, V0, P0
+   Le V, 2013, ASIAN J CRIMINOL, V8, P69, DOI 10.1007/s11417-011-9124-9
+   Le VKT, 2013, THESIS, V0, P0
+   Morselli C, 2012, CRIME LAW SOCIAL CH, V57, P129, DOI 10.1007/s10611-011-9340-3
+   National Drug Intelligence Center, 2012, NAT DRUG THERAT ASS, V0, P0
+   OKelly ME, 2015, NETW SPAT ECON, V15, P235, DOI 10.1007/s11067-014-9267-1
+   Paoli L, 2014, ENCY CRIMINOLOGY CRI, V0, P3376
+   Reuter P, 2014, THE OXFORD HANDBOOK OF ORGANIZED CRIME, V0, P359
+   Ritter A, 2013, EVALUATING DRUG LAW, V44, P0
+   Rubin J, 2013, FURTHER INSIGHTS ASP, V0, P361
+   Steele L, 2014, THESIS, V0, P0
+   UN Office on Drugs and Crime, 2014, ILL DRUG TRAD S E EU, V0, P0
+   Unknown -, 2013, SOCTA 2013 EU SERIOU, V0, P0
+   Unknown -, 2014, EUR DRUG REP, V0, P0
+   Varese F, 2013, EUR SOCIOL REV, V29, P899, DOI 10.1093/esr/jcs067
+NR 26
+TC 38
+Z9 0
+U1 5.0
+U2 31.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2017
+VL 51
+BP 135
+EP 147
+DI 10.1016/j.socnet.2016.11.004
+PG 13
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000411771300012
+PM 
+ER
+
+PT J
+AU Malm, A
+   Bouchard, Martin
+   Decorte, Tom
+   Vlaemynck, Marieke
+   Wouters, Marije
+TI More structural holes, more risk? Network structure and risk perception among marijuana growers
+SO SOCIAL NETWORKS
+DE marijuana; cannabis cultivation; perceptual deterrence; risks of apprehension; structural holes; network closure; vicarious deterrence
+AB This study examines the relationship between network structure and risk perceptions. We use self report data on 359 illicit marijuana growers and their personal co-worker networks. Our results show that growers with more structural holes in their co-worker network perceive higher risk of apprehension from law enforcement. We argue that this result is facilitated by two mechanisms: 1) the amount and quality of information available to growers about risks and detection, which uses guidance from Stafford and Warrs (1993) concept of vicarious deterrence; and, 2) the trust inherent in their network and the growers self-awareness of their own network position, which relies on Colemans (1988) and Burts (2005) ideas of network closure as a protective-factor. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Malm, Aili] Calif State Univ Long Beach, 1250 Bellflower Blvd, Long Beach, CA 90840 USA.   
+[Bouchard, Martin] Simon Fraser Univ, 8888 Univ Dr, Burnaby, BC V5A 1S6, Canada.   
+[Decorte, Tom; Vlaemynck, Marieke] Univ Ghent, St Pietersnieuwstr 33, B-9000 Ghent, Belgium.   
+[Wouters, Marije] Univ Amsterdam, POB 1030, NL-1012 CP Amsterdam, Netherlands.
+RP Malm, A (corresponding author), Calif State Univ Long Beach, 1250 Bellflower Blvd, Long Beach, CA 90840 USA.
+FU German Research Council (DFG) [882]
+CR Barratt MJ, 2012, DRUGS ALCOHOL TODAY, V12, P213, DOI 10.1108/17459261211286627
+   Barratt MJ, 2015, INT J DRUG POLICY, V26, P238, DOI 10.1016/j.drugpo.2014.12.004
+   Bichler G, 2017, CRIME SCI IN PRESS, V0, P0
+   Calderoni F, 2014, INFORMATION SECURITY, V31, P49
+   Decorte T, 2012, INT CANNABIS CULTIVA, V0, P0
+   Duijn PAC, 2014, SCI REP-UK, V4, P0, DOI 10.1038/srep04238
+   Jacques Scott, 2015, CODE OF THE SUBURB: INSIDE THE WORLD OF YOUNG MIDDLE-CLASS DRUG DEALERS, V0, P0
+   Mainas ED, 2012, INTERNATIONAL JOURNAL OF POLICE SCIENCE MANAGEMENT, V14, P264
+   Nguyen H, 2013, JUSTICE Q, V30, P44, DOI 10.1080/07418825.2011.589398
+   Nguyen H, 2015, INT J DRUG POLICY, V26, P267, DOI 10.1016/j.drugpo.2014.08.012
+   Ouellet M, 2016, J RES CRIME DELINQ, V53, P743, DOI 10.1177/0022427816647163
+   Piquero AR, 2012, AM J CRIM JUSTICE, V37, P630, DOI 10.1007/s12103-011-9145-z
+   Potter GR, 2015, INT J DRUG POLICY, V26, P226, DOI 10.1016/j.drugpo.2014.12.007
+   Sitren AH, 2012, DEVIANT BEHAV, V33, P492, DOI 10.1080/01639625.2011.636685
+   Tenti V, 2014, CRIME LAW SOCIAL CH, V62, P21, DOI 10.1007/s10611-014-9518-6
+NR 15
+TC 19
+Z9 0
+U1 3.0
+U2 28.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2017
+VL 51
+BP 127
+EP 134
+DI 10.1016/j.socnet.2017.01.006
+PG 8
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000411771300011
+PM 
+ER
+
+PT J
+AU Wood, G
+TI The structure and vulnerability of a drug trafficking collaboration network
+SO SOCIAL NETWORKS
+DE collaboration; criminal network; degree distribution; assortativity;vulnerability
+AB Prior research has established that collaboration networks exhibit heavy-tailed degree distributions, assortative degree mixing, and large clustering coefficients. Using court record data, we assess these properties in a collaboration network among heroin traffickers. Consistent with prior research, we find an exponential degree distribution and strong local clustering. However, the traffickers mix dissortatively by degree rather than assortatively. Using a graph sampling method, we show that a consequence of dissortative mixing is that targeted vertex removals have a greater impact on the connectivity and cohesion of the trafficking network. We also note the importance of degree mixing for characterizing and identifying topological weaknesses. Crown Copyright (C) 2016 Published by Elsevier B.V. All rights reserved.
+C1 [Wood, George] Univ Oxford, Dept Sociol, Oxford, England.
+RP Wood, G (corresponding author), Univ Oxford, Dept Sociol, Oxford, England.
+FU Hans Buckler Foundation (Hans-Bockler-Stiftung); Bremen International
+CR Berlusconi G, 2013, GLOB CRIME, V14, P61, DOI 10.1080/17440572.2012.746940
+   Bright DA, 2015, J CONTEMP CRIM JUST, V31, P262, DOI 10.1177/1043986214553378
+   Butts Carter, 2012, JOURNAL OF SOCIAL STRUCTURE, V13, P1, DOI DOI 10.21307/JOSS-2019-027
+   Campana P, 2012, TRENDS ORGAN CRIME, V15, P13, DOI 10.1007/s12117-011-9131-3
+   Campana P, 2013, RATION SOC, V25, P263, DOI 10.1177/1043463113481202
+   Crossley N, 2012, SOC NETWORKS, V34, P634, DOI 10.1016/j.socnet.2012.07.004
+   Duijn PAC, 2014, SCI REP-UK, V4, P0, DOI 10.1038/srep04238
+   Gillespie CS, 2015, J STAT SOFTW, V64, P0
+   Rossi RA, 2015, AAAI CONF ARTIF INTE, V0, P4292
+   Virkar Y, 2014, ANN APPL STAT, V8, P89, DOI 10.1214/13-AOAS710
+NR 10
+TC 34
+Z9 0
+U1 0.0
+U2 26.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2017
+VL 48
+BP 1
+EP 9
+DI 10.1016/j.socnet.2016.07.001
+PG 9
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000389730200001
+PM 
+ER
+
+PT J
+AU Grassi, R
+   Calderoni, F
+   Bianchi, M
+   Torriero, A
+TI Betweenness to assess leaders in criminal networks: New evidence using the dual projection approach
+SO SOCIAL NETWORKS
+DE criminal networks; two-mode networks; dual projection; flow betweenness;topological centrality
+AB Brokerage is crucial for dark networks. In analyzing communications among criminals, which naturally induce bipartite networks, previous studies have focused on the classic Freemans betweenness, conceived for one-mode matrices and possibly biasing the results. We explore different betweenness centrality including three inspired by the dual projection approach recently suggested by Everett and Borgatti 2013. We test these measures in identifying criminal leaders in a meeting participation network. Despite the expected high correlations among them, the measures yield different node rankings, capturing different characteristics of brokerage. Overall, the dual projection approaches show higher success than classic approaches in identifying the criminal leaders.
+C1 [Grassi, R.] Univ Milano Bicocca, Milan, Italy.   
+[Calderoni, F.; Bianchi, M.; Torriero, A.] Univ Cattolica Sacro Cuore, Milan, Italy.   
+[Calderoni, F.] Transcrime, Milan, Italy.
+RP Grassi, R (corresponding author), Via Bicocca Arcimboldi 8, I-20126 Milan, Italy.
+CR Agreste S, 2016, INFORM SCIENCES, V351, P30, DOI 10.1016/j.ins.2016.02.027
+   Bichler G, 2017, CRIME SCI, V6, P0, DOI 10.1186/s40163-017-0063-3
+   Bright DA, 2015, J CONTEMP CRIM JUST, V31, P262, DOI 10.1177/1043986214553378
+   Broccatelli C, 2017, THESIS, V0, P0
+   Calderoni F, 2014, CRIME AND NETWORKS, V0, P163
+   Calderoni F, 2015, DISRUPTING CRIMINAL, V28, P0
+   Calderoni F, 2017, SOC NETWORKS, V48, P116, DOI 10.1016/j.socnet.2016.08.003
+   Calderoni F, 2018, RELAZIONI SOCIALI CO, V0, P0
+   Calderoni Francesco, 2014, NETWORKS AND NETWORK ANALYSIS FOR DEFENCE AND SECURITY, V0, PP27, DOI DOI 10.1007/978-3-319-04147-6, 2
+   Duijn PA, 2014, NETWORKS NETWORK ANA, V0, P121
+   Everett MG, 2016, METHODOL INNOV, V9, P0
+   Hughes CE, 2016, INT J DRUG POLICY, V31, P80, DOI 10.1016/j.drugpo.2016.01.005
+   Kivimäki I, 2016, SCI REP-UK, V6, P0, DOI 10.1038/srep19668
+   Kleemans ER, 2014, OXFORD HDB ORG CRIME, V0, PP32, DOI DOI 10.1093/OXFORDHB/9780199730445.001.0001
+   Klemens Edward R, 2014, ENCY CRIMINOLOGY CRI, V0, PP285, DOI DOI 10.1007/978-1-4614-5690-2, 321
+   Mancuso M, 2014, TRENDS ORGAN CRIME, V17, P66, DOI 10.1007/s12117-013-9199-z
+   Papachristos AV, 2014, EMBEDDED MULTIPLEX N, V0, P97
+NR 17
+TC 33
+Z9 0
+U1 1.0
+U2 21.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2019
+VL 56
+BP 23
+EP 32
+DI 10.1016/j.socnet.2018.08.001
+PG 10
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000454966400003
+PM 
+ER
+

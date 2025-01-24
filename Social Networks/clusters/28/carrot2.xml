@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>THE FLOW OF INFORMATION THROUGH SOCIAL NETWORKS - DIAGONAL-FREE MEASURES OF INEFFICIENCY AND THE STRUCTURAL DETERMINANTS OF INEFFICIENCY</title>
+<url>http://dx.doi.org/10.1016/0378-8733(94)90011-6</url>
+<snippet>The aim of this paper is to (1) propose specific diagonal-free measures of the inefficiency of information flow through social networks and (2) present an analysis of the structural determinants of inefficiency. We employ a formal model of collective action developed by Coleman (1973, 1990); link it to the Markov model of interpersonal influence developed by among others French (1956), Harary (1959), and Friedkin (1991; Friedkin and Johnsen 1990); and extend it to measure inefficiency in information flow based on the concept of mean first passage times. It is shown that structural characteristics of social networks - such as global density, local density, diameter, number of bridges, and inequality in centrality, and certain interactions among these variables - strongly affect inefficiency. Theoretical implications of the results are discussed.
+WOS:A1994MR27900003
+</snippet>
+</document>
+
+<document id="2">
+<title>GRAPH COLORINGS AND POWER IN EXPERIMENTAL EXCHANGE NETWORKS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(92)90006-S</url>
+<snippet>The principal goal of studying experimental exchange networks is to understand the relationship between power and network position. In this paper we provide a formal definition of the appropriate notion of position, and explore some of the consequences of assuming that power is a function of position. It is shown that, in highly structured graphs, the space of possible power outcomes is significantly reduced if power is entirely structural. Drawing on the notion of role colorings (Everett and Borgatti 1991), we formalize the frequently expressed intuitive idea that a nodes power is a function of the powers of its neighbors, just as their power is determined by the powers of their neighbors, and so on. We use a combination of two role colorings to express this idea. One, called ecological coloring, states that if two nodes have the same power neighborhoods (i.e. distinct levels of power exhibited by their neighbors), then they must have equal power. The other, called regular coloring, states that if two nodes have equal power, then we can infer that they have the same power neighborhoods. Together, these colorings imply a one-to-one relationship between the power of a node, and the power(s) of its neighbors. It is found that applying these colorings in addition to assuming power is a function of position, radically reduces the sample space of possible power outcomes, leaving only a few possibilities. With two revealing exceptions, the reduced space of possible power outcomes always contains the experimentally observed result.
+WOS:A1992JV35600007
+</snippet>
+</document>
+
+<document id="3">
+<title>ADVANCES IN E-STATE STRUCTURALISM - FURTHER-STUDIES IN DOMINANCE STRUCTURE FORMATION</title>
+<url>http://dx.doi.org/10.1016/0378-8733(94)90007-8</url>
+<snippet>E-state structuralism is a theoretical method that analyzes the formation and dissolution of network ties by merging the abstract core of expectation states theory with social network analysis. The method has been used to model dominance structure formation in infra-human populations. The work reported in this paper retains the specific problem focus on dominance while generalizing E-state structuralism in two directions. First, we incorporate potential parallelism in attack processes, and second, we allow for non-complementarity in the formation of orientational dominance/deference E-states. We analyze the effects of both these generalizations on the developments of stable forms of dominance structures. We find that under the more general assumptions, stable structures include various forms of coalitions in addition to the usual cycles and hierarchies. We view this generalized version of E-state structuralism as suggestive of ways to model the development of social structure in both infra-human and human populations.
+WOS:A1994NY15500003
+</snippet>
+</document>
+
+<document id="4">
+<title>DYNAMICS OF STRUCTURE - AN INDIVIDUAL ORIENTED APPROACH</title>
+<url>http://dx.doi.org/10.1016/0378-8733(94)90014-0</url>
+<snippet>The dynamics of network structure are considered, here as a consequence of individual choices with regard to relationships. We introduce the individual- or object-oriented modelling approach to model social networks. Object-oriented model building is based on acting so-called objects, communicating with and reacting to each other. Individuals are modelled as objects, each object with the possibility of having specific characteristics and behavioral rules. In contrast to many existing studies in the field of dynamic social networks, heterogeneity and dependence of dyads can easily be dealt with using this method. To clarify the new approach, we present a first simple model of the arising of friendship networks. For this simplicity, the model presented here is based solely on individuals different needs for social contact, but can easily be extended. We present results about the effect of the distribution of individual needs on the network emergent structure.
+WOS:A1994PK84800002
+</snippet>
+</document>
+
+<document id="5">
+<title>POWER AND NETWORK EXCHANGE - AN ESSAY TOWARD THEORETICAL UNIFICATION</title>
+<url>http://dx.doi.org/10.1016/0378-8733(92)90008-U</url>
+<snippet>We locate network exchange research on power development in the broad historical perspective given by neoclassical economic theory and the structuralist tradition in network analysis. We then compare the particular explanatory approaches represented by papers in this volume, noting convergences and divergences both at the conceptual, theoretical level and at the level of specific predictions for particular networks and in comparison with available observations. Our review suggests that the theoretical unification of the various approaches will require going beyond the current comparative statics analyses to a fully formal, dynamic process conceptualization of power development in exchange networks. We offer some preliminary ideas in this direction based on the Colemans recent work in which the problem is framed as one of actors exchanging control over resources in which each has interests.
+WOS:A1992JV35600009
+</snippet>
+</document>
+
+</searchresult>

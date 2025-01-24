@@ -2,7 +2,7 @@
   "NounPhraseWordsMax": 4,
   "Description": "How did you create the dataset?",
   "MaximumGMLNodeLabelLength": 8,
-  "FilterByIntrinsicCitations": false,
+  "FilterByIntrinsicCitations": true,
   "AuthorED": false,
   "MaxLinksToRetain": 2.5,
   "AuthorGP": false,

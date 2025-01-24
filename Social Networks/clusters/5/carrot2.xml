@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>An inductive typology of egocentric networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.02.003</url>
+<snippet>We apply Random Forests to detailed survey data of social relations in order to derive an inductive typology of egocentric networks. Beginning with over 40 descriptors of 1050 northern California respondents networks, we combine 21 of these into seven dimensions, the extent to which those networks display: (1) interaction with nonkin, (2) proximity to kin, (3) overall involvement with kin (including support), (4) support from nonkin, and the extent to which (5) church, (6) work and (7) extra-curricular activities shape connections with others. We use these dimensions to reliably place 985 of the 1050 observations into types: career-and-friends (24&#37;), family-and-community (20&#37;), family-only (16&#37;), untethered (8&#37;), energetic (7&#37;), withdrawn (6&#37;), and home-and-church (5&#37;). In the second part of the analysis, we describe the social and demographic attributes of respondents that predict membership in each cluster to present a richer picture of the network typology, as well as to confirm that the types have face validity. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000382592500002
+</snippet>
+</document>
+
+<document id="2">
+<title>Networks and geography: Modelling community network structures as the outcome of both spatial and network processes</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2010.12.001</url>
+<snippet>This paper focuses on how to extend the exponential random graph models to take into account the geographical embeddedness of individuals in modelling social networks. We develop a hierarchical set of nested models for spatially embedded social networks, in which, following Butts (2002), an interaction function between tie probability and Euclidean distance between nodes is introduced. The models are illustrated by an empirical example from a study of the role of social networks in understanding spatial clustering in unemployment in Australia. The analysis suggests that a spatial effect cannot solely explain the emergence of organised network structure and it is necessary to include both spatial and endogenous network effects in the model. (C) 2010 Elsevier B.V. All rights reserved.
+WOS:000300131600002
+</snippet>
+</document>
+
+<document id="3">
+<title>Changes in core network size in Japan: Comparisons between the 1990s and 2010s</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.09.005</url>
+<snippet>Few studies have examined changes in network size during the past 20 years in Japan despite changes in many other aspects of Japanese society that could affect Japanese social relationships. I conducted a time-series cross-sectional survey to investigate changes in network size for married Japanese people from 1993 to 2014. Results follow: 1) core network sizes decreased slightly; 2) the number of married males with no core network outside their households increased slightly; 3) kin and neighbour network sizes decreased and friend network size increased among married females; 4) kin network size decreased among married males; and 5) the probability of younger married males having no network friends increased. Overall, changes in network sizes were small, and we cannot conclude that serious social decay occurs among married Japanese people. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300025
+</snippet>
+</document>
+
+<document id="4">
+<title>A Bayesian approach for the reliability of scientific co-authorship networks with emphasis on nodes</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.06.005</url>
+<snippet>The co-authorship among members of a research group commonly can be represented by a (co-authorship) graph in which nodes represent the researchers that make up of this group and edges represent the connections between two agents (i.e., the co-authorship between these agents). Current study measures the reliability of networks by taking into consideration unreliable nodes (researchers) and perfectly reliable edges (co-authorship between two researchers). A Bayesian approach for the reliability of a network represented by the co-authorship among members of a real research group is proposed, obtaining Bayesian estimates and credibility intervals for the individual components (nodes or researchers) and the network. Weakly informative and non-informative prior distributions are assumed for those components and the posterior summaries are obtained by Monte Carlo-Markov Chain methods. The results show the relevance of an inferential approach for the reliability of scientific co-authorship network. The results also demonstrate that the contribution of each researcher is highly relevant for the maintenance of a research group. In addition, the Bayesian methodology was a feasible and easy computational implementation. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200009
+</snippet>
+</document>
+
+<document id="5">
+<title>Geography of Twitter networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2011.05.006</url>
+<snippet>The paper examines the influence of geographic distance, national boundaries, language, and frequency of air travel on the formation of social ties on Twitter, a popular micro-blogging website. Based on a large sample of publicly available Twitter data, our study shows that a substantial share of ties lies within the same metropolitan region, and that between regional clusters, distance, national borders and language differences all predict Twitter ties. We find that the frequency of airline flights between the two parties is the best predictor of Twitter ties. This highlights the importance of looking at pre-existing ties between places and people. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000300131600007
+</snippet>
+</document>
+
+<document id="6">
+<title>Social networks and spatial configuration-How office layouts drive social interaction</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2011.05.005</url>
+<snippet>This paper analyzes the spatial dimensions of office layouts in diverse knowledge-intensive workplace environments based on the theoretical and methodological propositions of Space Syntax, and brings this together with the analysis of intra-organizational interaction networks. Physical distances between agents are modeled in different ways and used as explanatory variables in exponential random graph modeling. The paper shows that spatial configuration in offices can be considered an important but not sole rationale for tie formation. Furthermore, it is shown that spatial distance measures based on detailed configurational analysis outperform simple Euclidean distance metrics in predicting social ties. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000300131600005
+</snippet>
+</document>
+
+<document id="7">
+<title>Reconsidering "community liberated": How class and the national context shape personal support networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.07.005</url>
+<snippet>The "community liberated" thesis has been influential in describing contemporary social support systems. Specifically, "community liberated" argues that people do not seek support in their immediate neighborhood but rather entertain a network of far-flung ties to support-providing alters. This paper uses personal network data from six countries - Australia, Germany, the US, Austria, Hungary and Italy - to evaluate this argument and shows that the degree of liberation of ones community is strongly linked to ones socioeconomic status - specifically, ones education level. Additionally, we describe strong country-level heterogeneity in the spatial dynamics of personal support networks and find national contexts to be moderating the effect of education on community liberation, especially in Italy and Hungary, thus suggesting network geographic dispersion to be linked to national economic structures and labor markets. The paper thus elucidates the effect of two different, yet related social contexts on personal networks: the class context and the national context. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200006
+</snippet>
+</document>
+
+<document id="8">
+<title>Social capital in Singapore: Gender differences, ethnic hierarchies, and their intersection</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.06.004</url>
+<snippet>Our inquiry probes the association of the ascriptive categories of gender and ethnicity with different kinds and amounts of social capital in Singapore. For both forms of inequality, people most easily meet contacts in occupations dominated by their own categories (e.g., women are more likely to meet nurses as they are overrepresented in nursing; likewise, dominant ethnic groups are more likely to meet managers and CEOs, being overrepresented in high-status roles). Yet we also find distinctive patterns: childcare is a major factor influencing womens contact with teachers, cashiers, and cleaners. Education is a major factor affecting ethnic groups unequal access to contacts such as professors and bankers, cleaners and taxi drivers. Examining the intersection of gender and ethnicity, we find Malay men have less access to contacts in high-status occupations compared with Malay women, Non-Malay men, and Non-Malay women. Moreover, a university education accrues social capital at a slower rate for Malay men than for the other combinations of gender and ethnicity. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000382592500013
+</snippet>
+</document>
+
+<document id="9">
+<title>Beauty and social capital: Being attractive shapes social networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.05.003</url>
+<snippet>It is a fact of life that being beautiful is advantageous (Hamermesh, 2011). Whether we consider incomes or the marriage market, the more attractive one is, the better one does. Drawing on psychological research that explains why beauty pays, we hypothesize that more attractive people will exploit social network opportunities differently than less attractive people and, consequently, their networks will comprise more beneficial features. As predicted, results of an experiment showed that more attractive people were more likely to select for themselves more profitable broker positions in networks relative to other positions and relative to less attractive people. Relying on network data supplied by young professionals, in a follow-up study we found that the networks of more attractive people were relatively less dense, as the findings of Study 1 would imply. We discuss the implications for our work as well as highlight the need for further research into an understudied, but potentially influential brokerage contingency factor physical appeal. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300005
+</snippet>
+</document>
+
+<document id="10">
+<title>Relational constitution of social support in migrants' transnational personal communities</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.08.001</url>
+<snippet>Migrants personal communities are often composed of both local and transnational ties. So far little is known about how transnationality influences the provision of different dimensions of social support in migrants personal communities. Structural and relational characteristics of personal communities as well as attributes of egos are seen to explain how social support is provided. The study addresses the question of which dimensions of support are transferred across national borders as well as what structural, relational and ego-attributional constituents of migrants personal communities form social support. It presents data on personal communities from an online survey with n = 234 German migrants in Great Britain. The results show that household, local, national and transnational relationships provide a wide array of social support. Though being restricted in the tangible dimensions of social support (instrumental, social companionship), transnational ties provide more intangible (emotional) support. Conflicts are less prevalent in transnational relationships than within the household. Furthermore, the multi-level analysis of the ego-centred network data shows that both structural characteristics of personal communities (size, density) and ego attributes (e.g. age and gender of ego, time of residence in country of residence) are less relevant than relational characteristics (e.g. contact frequency, tie strength and esp. transnationality) in explaining how migrants receive social support. This result challenges a structural approach to the explanation of social support in personal communities of mobile people. 
+WOS:000347585500007
+</snippet>
+</document>
+
+<document id="11">
+<title>More or less &lt;i&gt;guanxi&lt;/i&gt;: Trust is 60&#37; network context, 10&#37; individual difference</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.12.001</url>
+<snippet>The strong ties known in China as guanxi can be distinguished by a high level of trust relatively independent of the surrounding social structure. Using network data from a stratified probability sample of 700 entrepreneurs citing 4664 contacts, we study guanxi relative to other relations to learn how much individual differences such as well-being, business differences, political participation and demographic factors matter for the guanxi distinction. Two findings stand out: First, the connection between trust and social network is robust to most differences between individuals, especially business and political differences. Trust variance is 60&#37; network context, and 10&#37; individual differences. Trust increases within a relationship as network closure increases around the relationship, but some relationships mature into guanxi ties within which trust is high and relatively independent of the surrounding social structure. Second, when individual differences matter, they concern social isolation. Guanxi ties are more distinct in the networks around entrepreneurs with small, marginal families, and around those with small, closed networks. Both categories of entrepreneurs are likely to experience difficulties with respect to resource access and doing business with people beyond their network, which may explain why longstanding guanxi ties linked to important events are particularly distinct for these entrepreneurs. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000432768600002
+</snippet>
+</document>
+
+<document id="12">
+<title>Validation of tie corroboration and reported alter characteristics among a sample of young men who have sex with men</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.10.001</url>
+<snippet>The differences between direct ties (i.e., ties between a respondent and their nominees) and ties between nominees (indirect) are key to understanding network structure, yet remain understudied. Within a sample of 175 young men who have sex with men, we explored the corroboration of sex and drug ties, and factors associated with corroboration. The majority of instances in which there was no corroboration for either sex or drug ties was due to one individual not appearing in another respondents network. When an individual did appear in another respondents network, direct sex and drug ties were corroborated in most cases. We also found that more indirect sex ties were corroborated than direct sex ties (95.7&#37; vs. 88.9&#37;), but the reverse was true for indirect versus direct drug ties (73.1&#37; vs. 84.1&#37;). Strength of relationship and frequency of communication were both associated with confirmed direct ties, but not with indirect ties. Based on these findings, we recommend that direct and indirect ties be treated differently in network analyses. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200020
+</snippet>
+</document>
+
+<document id="13">
+<title>The causal effect of social capital on income: A new analytic strategy</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.01.004</url>
+<snippet>This study identifies three groups of job seekers in terms of the channels used to search for jobs: the formal channel involving only official procedures to obtain a job, the informal channel using only social contacts to obtain a job, and the joint channel leveraging both social contacts and official procedures. The analysis of a national sample survey of China shows that joint channel users, due to their relatively higher level of social capital, not only make more job search attempts but also obtain higher income than formal channel users. Meanwhile, joint channel users, because of their relative advantages in both human capital and social capital, not only make more job attempts but also obtain higher income than informal channel users. The two comparisons offer a new strategy to test the causal role social capital plays in labour market success, regardless of whether social capital is exogenous or endogenous to human capital. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000432768600008
+</snippet>
+</document>
+
+<document id="14">
+<title>Immigrant children and their parents: Is there an intergenerational interdependence of integration into social networks?</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.11.002</url>
+<snippet>The paper investigates the integration of immigrant children and their parents in different dimensions of social networks - referred to as multiplexity in social network terminology. These dimensions are childrens friendships, their attendance at birthday parties, and contact among their parents. By attending birthday parties, childrens friendships are publicly reinforced and membership in a social circle is signified. During these events, communication and social exchange drive the process of social integration at the micro-level, and ethnic boundaries can be shifted or blurred. It will be shown that a variety of homophily effects can be found in all three network dimensions. In addition, ethnic segregation in parents networks has an impact on childrens participation in these events and, thereby, on childrens integration in social networks. However, the causal effect in the other way around - childrens birthday party attendance on contact among their parents - is even stronger. A new approach is the non-recursive analysis of how ties in one network dimension effect ties in another dimension. Analyses are based on 76 social networks of 1266 children in school classes in the city state of Bremen, Germany. 
+WOS:000347585500019
+</snippet>
+</document>
+
+<document id="15">
+<title>The analysis of multiple ties in longitudinal egocentric network data: A case study on bidirectional relationships between trust and drug use</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2012.08.005</url>
+<snippet>We extend multi-level models to examine single egocentric network ties to the joint analysis of paired dynamic ties. Two analytic challenges are addressed. First, inference needs to account for multiple layers of nesting: ties are nested within pairs, pairs are nested within time points, and time points are nested within egos. Second, the focus is on the relationship between two dynamic ties; specification of outcome and predictor may be difficult. Instead, we treat both ties as outcomes. Our approach is used to analyze trust and reported drug use between egos and alters over time in a Bayesian framework. (C) 2012 Elsevier B.V. All rights reserved.
+WOS:000313304100031
+</snippet>
+</document>
+
+<document id="16">
+<title>The influence of parents' social capital on their children's transition to vocational training in Germany</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.05.006</url>
+<snippet>This study investigates the up-to-now strongly underexplored role of parents social capital in the school to-work transition of adolescents. We base our empirical analyses on unique longitudinal largescale data from the German National Educational Panel Study. Parents social capital is measured with a position generator. Results show that adolescents with lower secondary education have better chances of finding an apprenticeship in a company if their parents know many persons with lower-status occupations for which vocational training is sufficient. This is especially the case for parents social contacts that have occupations in which many adolescents with lower secondary education are being trained in a company. The contrary is true for adolescents whose parents know many persons with higher-status occupations. Parents social networks do not show any effects on the quality of these apprenticeships or on the probability of entering school-based vocational training. Overall, our results indicate that parents social networks are important for a smooth school-to-work transition of their children. Moreover, our analyses confirm the idea that social capital is goal and labour market segment specific. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000444666300008
+</snippet>
+</document>
+
+<document id="17">
+<title>Double-embeddedness: Spatial and relational contexts of tie persistence and re-formation</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.02.005</url>
+<snippet>Personal relationships are embedded in both spatial and relational contexts. Using data on 60 intentional communities from the Urban Communes Data Set, we examine how such embedding is related to the persistence and re-formation of close personal ties over a thirteen year period, beginning from when most members had been out of their group environments more than a decade. We find that local network structure-the pattern of dyads immediately surrounding any dyad is extremely weighty in which ties persist, which lapse, and which are re-initiated, but that the precise ways in which local structure affects contact are bound up with the distance between dyad members. We also find asymmetries in these processes that other studies have been unable to uncover that processes that lead ties to be dropped are not the same as those that lead them to be renewed; that increases in local embeddedness are not opposite of decreases; that change in contact is not the same as change in friendship. Finally, there is evidence of hierarchical effects influencing the retention of friendships more than twenty-five years after most respondents left their groups. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000355050600004
+</snippet>
+</document>
+
+<document id="18">
+<title>Spectral goodness of fit for network models</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.04.004</url>
+<snippet>We introduce a new statistic, spectral goodness of fit (SGOF) to measure how well a network model explains the structure of the pattern of ties in an observed network. SGOF provides a measure of fit analogous to the standard R-2 in linear regression. Additionally, as it takes advantage of the properties of the spectrum of the graph Laplacian, it is suitable for comparing network models of diverse functional forms, including both fitted statistical models and algorithmic generative models of networks. After introducing, defining, and providing guidance for interpreting SGOF, we illustrate the properties of the statistic with-a number of examples and comparisons to existing techniques. We show that such a spectral approach to assessing model fit fills gaps left by earlier methods and can be widely applied. (C) 2015 The Authors. Published by Elsevier B.V.
+WOS:000358626400002
+</snippet>
+</document>
+
+<document id="19">
+<title>Ethnic segregation of friendship networks in school: Testing a rational-choice argument of differences in ethnic homophily between classroom- and grade-level networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.02.002</url>
+<snippet>Adolescents school-based friendship networks tend to be segregated along ethnic lines. But few studies have examined whether variation in network boundaries affects the degree of ethnic friendship segregation. We use rational-choice theory to argue that ethnic homophily is more pronounced for friendships between classrooms than for those within classrooms. We empirically test this hypothesis using two-wave German panel data (N=1258) and stochastic actor-oriented models (RSiena). In line with our theoretical argument, we find that the tendency to form same-ethnic friendships is indeed stronger at the grade level, which translates into stronger ethnic segregation in friendship networks at the grade level than at the classroom level. Implications for research on ethnic segregation in school-based friendship networks are discussed. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000355050600003
+</snippet>
+</document>
+
+<document id="20">
+<title>Avoidance in negative ties: Inhibiting closure, reciprocity, and homophily</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.07.003</url>
+<snippet>Theorising of negative ties has focused on simplex negative tie networks or multiplex signed tie networks. We examine the fundamental differences between positive and negative tie networks measured on the same set of actors. We test six mechanisms of tie formation on face-to-face positive (affect/esteem) and negative (dislike/disesteem) networks of 282 university students. While popularity, activity, and entrainment are present in both networks, closure, reciprocity, and homophily are largely absent from negative tie networks. We argue this arises because avoidance is inherent to negative sentiments. Avoidance reduces information transfer through negative ties and short-circuits cumulative causation. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200011
+</snippet>
+</document>
+
+<document id="21">
+<title>Personal social networks and health among aging adults in Agincourt, South Africa: A multidimensional approach</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.06.001</url>
+<snippet>Personal social networks (SN) affect health and wellbeing. This study used a multidimensional approach of SN and social determinants of health (SDH) to examine the association between SN and self-reported physical health among the aging population of Agincourt, South Africa. We analyzed the composition of personal SN and used a multiple linear regression analysis to examine both network dimensions and SDH that correlate with physical health. Results highlight the complexity and nuances of social relationships. A few recommendations were also made.
+WOS:000444666300014
+</snippet>
+</document>
+
+<document id="22">
+<title>Social fabric and fear of crime: Considering spatial location and time of day</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.12.001</url>
+<snippet>Criminologists have long noted that social networks play a role in influencing residents fear of crime, but findings vis a vis the exact nature of that role have been mixed. More social ties may be associated with less fear of crime through their role in collective action, trust, and emotional support, but also with more fear of crime because of their role in the diffusion of information on local crime patterns. In what follows, we suggest temporal and spatial distinctions in how social ties matter for fear of crime with respect to these different mechanisms. Analysis of data from a large scale egocentric network study in Southern California provides evidence for these claims. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000411771300006
+</snippet>
+</document>
+
+<document id="23">
+<title>Methodological considerations in the use of name generators and interpreters</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.07.005</url>
+<snippet>With data from the Clergy Health Initiative Longitudinal Survey, we look for interviewer effects, differences between web and telephone delivery, and panel conditioning bias in an "important matters" name generator and interpreter, replicated from the U.S. General Social Survey. We find evidence of phone interviewers systematically influencing the number of confidants named, we observe that respondents assigned to the web survey reported a larger number of confidants, and we uncover strong support for panel conditioning. We discuss the possible mechanisms behind these observations and conclude with a brief discussion of the implications of our findings for similar studies. 
+WOS:000347585500008
+</snippet>
+</document>
+
+<document id="24">
+<title>Check the phone book: Testing information and communication technology (ICT) recall aids for personal network surveys</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.11.006</url>
+<snippet>This study tested two recall aids for the name generator procedure via a randomized web experiment with 447 college students, eliciting their personal networks. Compared to participants solely presented with the name generator, participants being prompted and probed to consult records saved in their communication devices provided more comprehensive network data and more weak ties. Furthermore, these data were garnered without either a substantial increase in item nonresponse or a decrease in completion time for subsequent name interpreters. Thus, ICF recall aids are deemed cost-effective and context-neutral techniques to improve the recall accuracy of data collected by the name generator. (C) 2014 Elsevier B.V. All rights reserved.
+WOS:000351979100009
+</snippet>
+</document>
+
+<document id="25">
+<title>Multiplexity and strategic alliances: The relational embeddedness of coalitions in social movement organisational fields</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.02.007</url>
+<snippet>While scholars have embraced the notion of social movements as networks, there has been little empirical exploration of the emergence of coalitions within these multilayered systems. Here I explore the role of overlapping relations in alliance formation amongst a group of 55 health-related professional social movement organisations mobilised against austerity. Using cross-sectional bivariate exponential random graph models, I find dependencies between digital proxies for alliance, shared allies, information exchange, positive nomination and offline colobbying activity at the dyadic, degree and triadic levels. Cross-network associations indicate that multiplexity plays a non-trivial role in the formation of alliances and, more generally, social movement organisational fields, necessitating increased attention from scholars of social movements. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000355050600005
+</snippet>
+</document>
+
+<document id="26">
+<title>Research note: The consequences of different methods for handling missing network data in stochastic actor based models</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.12.004</url>
+<snippet>Although stochastic actor-based models (e.g., as implemented in the SIENA software program) are growing in popularity as a technique for estimating longitudinal network data, a relatively understudied issue is the consequence of missing network data for longitudinal analysis. We explore this issue in our research note by utilizing data from four schools in an existing dataset (the AddHealth dataset) over three time points, assessing the substantive consequences of using four different strategies for addressing missing network data. The results indicate that whereas some measures in such models are estimated relatively robustly regardless of the strategy chosen for addressing missing network data, some of the substantive conclusions will differ based on the missing data strategy chosen. These results have important implications for this burgeoning applied research area, implying that researchers should more carefully consider how they address missing data when estimating such models. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000351979100006
+</snippet>
+</document>
+
+<document id="27">
+<title>Weak ties, strong ties, and job mobility in urban China: 1978-2008</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.08.002</url>
+<snippet>The economic transformation in urban China provides a unique opportunity to assess how institutional arrangements shape network-based job searches. Despite several studies on this issue, disagreement exists over how network-based job searches evolve in the Chinese emerging labor market. We argue one way to solve this controversy is to examine the patterns of change in the use of weak ties and strong ties separately. Using pooled data from three cross-sectional surveys in urban China, the results show a steady increase in the use of weak ties and an increasing and persistent use of strong ties in finding jobs between 1978 and 2008. The results also show no systematic difference between the use of weak ties for finding jobs in the market sector versus the state sector. However, they show faster growth in the use of strong ties for finding jobs in the state sector, compared to the market sector. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900011
+</snippet>
+</document>
+
+<document id="28">
+<title>Friends in locked places: An investigation of prison inmate network structure</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.12.006</url>
+<snippet>The current study investigates informal social structure among prison inmates. Data come from the Prison Inmate Network Study (PINS), a project focused on a unit of a Pennsylvania medium security mens prison. We focus on 205 inmates and their "get along with" network - an approximation of friendship in other settings. We find a weak subgroup structure dominated by two groups of "old heads" and characterized by moderate (non gang-based) race/ethnic clustering. Structurally, the network resembles adolescents in schools, suggesting that prison inmates are capable, of successfully building peer associations. We conclude that under the right conditions self-organizing inmate society can foster social integration reminiscent of other social settings. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000411771300008
+</snippet>
+</document>
+
+<document id="29">
+<title>Residential mobility and the spatial dispersion of personal networks: Effects on social support</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2011.07.003</url>
+<snippet>Using a representative national sample of personal networks, this article explores how the spatial dispersion of networks, residential mobility and social support are linked. Three issues will be addressed here. Firstly, how is the spatial dispersion of personal networks related to individuals social characteristics, network composition and residential mobility? Secondly, how do the spatial dispersion of networks, residential mobility and their combined effect influence the number and (thirdly) the structure of emotional support ties? Results showed that the extent of the support was affected neither by the geographical distribution of the networks nor by residential mobility. Living far from ones birthplace, however, exerted two distinct, and opposite effects on the support network structure. On the one hand, mobility led to high spatial dispersion of personal contacts, which in turn favored a sparsely knit network centered around the mobile individual. On the other hand, by controlling for the effect of distance between the contacts, we found that individuals that cited long-distance ties tended to be part of more transitive support networks than those that cited local ties. We interpreted the latter effect as evidence that transitive ties may survive greater spatial distances than intransitive ones. These findings are discussed in view of spatial mobility and social network research. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000300131600006
+</snippet>
+</document>
+
+<document id="30">
+<title>Structural holes and bridging in two-mode networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.04.001</url>
+<snippet>Social networks are often structured in such a way that there are gaps, or "structural holes," between regions. Some actors are in the position to bridge or span these gaps, giving rise to individual advantages relating to brokerage, gatekeeping, access to non-redundant contacts, and control over network flows. The most widely used measures of a given actors bridging potential gauge the extent to which that actor is directly connected to others who are otherwise not well connected to each other. Unfortunately, the measures that have been developed to identify structural holes cannot be adapted directly to two-mode networks, like individual-to-organization networks. In two-mode networks, direct contacts cannot be directly connected to each other by definition, making the calculation of redundancy, effective size, and constraint impossible with conventional one-mode methods. We therefore describe a new framework for the measurement of bridging in two-mode networks that hinges on the mathematical concept of the intersection of sets. An actor in a given node class ("ego") has bridging potential to the extent that s/he is connected to actors in the opposite node class that have unique profiles of connections to actors in egos own node class. We review the relevant literature pertaining to structural holes in two-mode networks, and we compare our primary bridging measure (effective size) to measures of bridging that result when using one-mode projections of two-mode data. We demonstrate the results of applying our approach to empirical data on the organizational affiliations of elites in a large U.S. city. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000444666300002
+</snippet>
+</document>
+
+<document id="31">
+<title>Extended structures of mediation: Re-examining brokerage in dynamic networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.02.001</url>
+<snippet>In this paper we revisit the concept of brokerage in social networks. We elaborate on the concept of brokerage as a process, identifying three distinct classes of brokerage behavior. Based on this process model, we develop a framework for measuring brokerage opportunities in dynamic relational data. Using data on emergent inter-organizational collaborations, we employ the dynamic brokerage framework to examine the relationship between organizational attributes and coordination in the evolving network. Comparing the findings of our process-based definition with traditional, static approaches, we identify important dimensions of organizational action that would be missed by the latter approach. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000317943100012
+</snippet>
+</document>
+
+<document id="32">
+<title>Are bridging ties really advantageous? An experimental test of their advantage in a competitive social learning context</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.01.007</url>
+<snippet>Despite the widespread acceptance of the claim that bridging ties help to obtain profitable outcomes, its underlying mechanisms remain understudied. Starting from a multi-armed bandit problem, we tested the bridging tie hypothesis experimentally by studying the outcomes of social learning for different network positions (in terms of local clustering and closeness centrality) with and without competition. We found a positive effect of bridging ties, but only within ones direct network (i.e., when local clustering is lower), in competitive contexts, and for choices characterized by higher uncertainty. This stresses the importance of outlining more clearly the scope in which the bridging tie hypothesis applies. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000432768600009
+</snippet>
+</document>
+
+<document id="33">
+<title>Neighborhood isolation in Chicago: Violent crime effects on structural isolation and homophily in inter-neighborhood commuting networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.01.007</url>
+<snippet>Urban sociologists and, criminologists have long been interested in the link between neighborhood isolation and crime. Yet studies have focused predominantly on the internal dimension of social isolation (i.e., increased social disorganization and insufficient jobs and opportunities). This study highlights the need to assess the external dimension of neighborhood isolation, the disconnectedness from other neighbor-hoods in the city. Analyses of Chicagos neighborhood commuting network over twelve years (2002-2013) showed that violence predicted network isolation. Moreover, pairwise similarity in neighborhood violence predicted commuting ties, supporting homophily expectations. Violence homophily affected tie formation most, while neighborhood violence was important in dissolving ties. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000411771300005
+</snippet>
+</document>
+
+<document id="34">
+<title>Uniters or dividers? Voluntary organizations and social capital acquisition</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.09.002</url>
+<snippet>Many voluntary civic groups such as churches, neighborhood organizations, and recreation clubs are segregated by status dimensions such as social class. As a result, they may preferentially foster social network ties among in-group members while excluding outsiders, thereby reinforcing social capital deficits among low status actors. However, to the extent that civic groups bring together diverse members from across a variety of status dimensions, these organizations can expand and strengthen network ties and foster heterogeneous social capital resources for those who participate. This study uses nationally representative data in the United States and the position-generator social capital instrument to investigate these issues. Analyses draw on several summary measures of individual social capital, as well as an innovative multilevel dyadic analysis constructed from position-generator responses. Results suggest that civic participation largely mediates the relationship between egos social position and access to social capital resources. Additionally, civic participation is associated with stronger ties to high status alters. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900019
+</snippet>
+</document>
+
+<document id="35">
+<title>When networks speak volumes: Variation in the size of broader acquaintanceship networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.08.004</url>
+<snippet>Personal network researchers have extensively studied the characteristics and effects of individuals closest relationships, but they have paid much less attention to broader acquaintanceship networks, despite evidence that weak ties can also provide social support. In this paper we focus on one aspect of these networks: acquaintanceship volume. We estimate its distributional parameters for a large, representative sample of the general population of Spain, explore its variation across social groups as well as its implications for social support availability. We designed a survey instrument based on the Network Scale-Up Method and implemented it in a national survey in Spain. Our results suggest that Spaniards have approximately 536 acquaintances, with a large inter-individual variation, comparable to the estimates reported for the American population. Acquaintanceship volume varies with gender, age, education, and income. These differences are partially related to the unequal participation of social groups in voluntary associations, confirming the civic value of such associations, and in employment. Even with similar core network size, acquaintanceship volume increases the likelihood of having adequate social support available, suggesting that broader acquaintanceship networks also structure individual outcomes.
+WOS:000454966400006
+</snippet>
+</document>
+
+<document id="36">
+<title>Because they were there: Access, deliberation, and the mobilization of networks for support</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.05.002</url>
+<snippet>When people need help, what is the process through which they decide whom in their network to turn to? Research on social support has described a process that is deliberative in nature: people determine their needs, assess who in their network has the needed attributes such as skill, trustworthiness, intimacy, and accessibility and then activate that tie. Nevertheless, research in behavioral economics and other fields has shown that people make many decisions not deliberatively but intuitively. We examine this possibility in the context of social support by focusing on one factor: accessibility. Although researchers have argued that people weigh the accessibility of potential helpers as they do any other attribute, accessibility may be not only an attribute of the helper but also a condition of the situation. We develop a framework to make this question tractable for survey research and evaluate competing hypotheses using original data on an analytically strategic sample of 2000 college students, probing concrete instances of social support. We identify and document not one but three decision processes, reflective, incidental, and spontaneous activation, which differ in the extent to which actors had deliberated on whether to seek help and on whom to approach before activating the tie. We find that while the process was reflective (consistent with existing theory) when skill or trustworthiness played a role, it was significantly less so (consistent with the alternative) when accessibility did. Findings suggest that actors decide whom in their network to mobilize through at least three systematically different processes, two of which are consistent less with either active "mobilization" or explicit "help seeking" than with responsiveness to opportunity and context. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000382592500007
+</snippet>
+</document>
+
+<document id="37">
+<title>The weakness of tie strength</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.05.010</url>
+<snippet>The relationship between network structure and access to novel information has fascinated social scientists for decades, culminating in the recent identification of the bandwidth-diversity tradeoff. Yet, existing work focuses on a unidimensional conception of network ties that leaves many important sources of novel information unexplored. We unpack bandwidth, identifying three factors that govern the transmission behavior of network ties: capacity (the ability of a tie to transmit content), frequency (the average time between tie activations), and redundancy (the extent to which a tie reaches persons who are connected to each other). Empirical analyses and simulation models reveal new types of ties, as well as the conventional variety, that open promising research avenues.
+WOS:000444666300011
+</snippet>
+</document>
+
+<document id="38">
+<title>What's in the "old boys" network? Accessing social capital in gendered and racialized networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2011.10.002</url>
+<snippet>Network processes have long been implicated in the reproduction of labor market inequality, but it remains unclear whether white male networks provide more social capital resources than female and minority networks. Analysis of nationally representative survey data reveals that people in white male networks receive twice as many job leads as people in female/minority networks. White male networks are also comprised of higher status connections than female/minority networks. The information and status benefits of membership in these old boy networks accrue to all respondents and not just white men. Furthermore, gender homophilous contacts offer greater job finding assistance than other contacts. The results specify how social capital flows through gendered and racialized networks. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000298122200007
+</snippet>
+</document>
+
+<document id="39">
+<title>Sex and network recall accuracy</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.06.002</url>
+<snippet>How does an individuals sex influence their recall of social relations? Extensive research has shown that social networks differ by sex and has attempted to explain these differences either through structural availability or individual preferences. Addressing the limitations of these explanations, we build on an increasing body of research emphasizing the role of cognition in the formation and maintenance of networks to argue that males and females may exhibit different strategies for encoding and recalling social information in memory. Further, because activating sex roles can alter cognitive performance, we propose that differences in recall may only or primarily appear when respondents are made aware of their sex. We explore differences in male and female network memory using a laboratory experiment asking respondents to memorize and recall a novel social network after receiving either a sex prime or a control prime. We find that sex significantly impacts social network recall, however being made aware of ones sex does not. Our results provide evidence that differences in male and female networks may be partly due to sex-based differences in network cognition. (C) 2015 The Authors. Published by Elsevier B.V.
+WOS:000367423900007
+</snippet>
+</document>
+
+<document id="40">
+<title>The development of adolescents' friendships and antipathies: A longitudinal multivariate network test of balance theory</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.05.003</url>
+<snippet>We examined the interplay between friendship (best friend) and antipathy (dislike) relationships among adolescents (N=480; 11-14 years) in two US middle schools over three years (grades 6, 7, and 8). Using longitudinal multivariate network analysis (RSiena), the effects of friendships on antipathies and vice versa were tested, while structural network effects (e.g., density, reciprocity, and transitivity) and individual (age, gender, and ethnicity) and behavioral (prosocial and antisocial behavior) dispositions were controlled for. Based on (structural) balance theory, it was expected that friendships would be formed or maintained when two adolescents disliked the same person (shared enemy hypothesis), that friends would tend to agree on whom they disliked (friends agreement hypothesis), that adolescents would tend to dislike the friends of those they disliked (reinforced animosity hypothesis), and, finally, that they would become or stay friends with dislikes of dislikes (enemys enemy hypothesis). Support was found for the first three hypotheses, and partially for the fourth hypothesis. Results are discussed in light of adolescents peer relationships. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000358626400015
+</snippet>
+</document>
+
+<document id="41">
+<title>Network sampling coverage II: The effect of non-random missing data on network measurement</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.04.005</url>
+<snippet>Missing data is an important, but often ignored, aspect of a network study. Measurement validity is affected by missing data, but the level of bias can be difficult to gauge. Here, we describe the effect of missing data on network measurement across widely different circumstances. In Part I of this study (Smith and Moody, 2013), we explored the effect of measurement bias due to randomly missing nodes. Here, we drop the assumption that data are missing at random: what happens to estimates of key network statistics when central nodes are more/less likely to be missing? We answer this question using a wide range of empirical networks and network measures. We find that bias is worse when more central nodes are missing. With respect to network measures, Bonacich centrality is highly sensitive to the loss of central nodes, while closeness centrality is not; distance and bicomponent size are more affected than triad summary measures and behavioral homophily is more robust than degree-homophily. With respect to types of networks, larger, directed networks tend to be more robust, but the relation is weak. We end the paper with a practical application, showing how researchers can use our results (translated into a publically available java application) to gauge the bias in their own data. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200007
+</snippet>
+</document>
+
+<document id="42">
+<title>Mapping social milieus and cohesion patterns between 1997 and 2014. Exploiting the potential of the occupational position generator</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.05.007</url>
+<snippet>The study joins the stream of the social network approach attempting to look beyond micro-level association patterns towards macro-structural modeling. Utilizing the versatility of the occupational position generator technique for measuring network resources generally related to hierarchical aspects, an attempt is made to apply the tool for horizontal targets. Furthermore, with some conceptual transfer, the paper applies the distinction between omnivorous and univorous patterns of symbolic selectivity to nexus choice as well. The comparative investigation relies on data from four Hungarian national surveys from the 1990s on, using 19 items of the position generator to measure network resources. Exploratory and confirmative factor analyses reveal four dimensions of occupational milieus; Goodman RC modeling outlines two organizing axes behind them interpreted in network terms as status and betweenness centrality. Latent class analysis results in a five-element typology with both vertical and horizontal features. The findings point to the stability, in some respects to the increase of gaps between various segments along the social ladder. As concerns the cultural aspect, returns on relational selectivity indicate some fading or even reversal of the omnivorous trend in contemporary Hungary; both tendencies suggesting some growth of distances between milieus with the related problems of social cohesion. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000444666300012
+</snippet>
+</document>
+
+<document id="43">
+<title>Gamers' confidants: Massively Multiplayer Online Game participation and core networks in China</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.11.001</url>
+<snippet>Through a survey of more than 18,000 participants in a Chinese Massively Multiplayer Online Game (MMOG), this study examines how the size and diversity of Chinese garners core networks vary by individuals sociodemographic, socioeconomic and game-related characteristics. It represents the first study focusing exclusively on the gamer population and one of the most recent examining personal networks in contemporary China, home to over 560 million Internet users. We found that Chinese garners have notably larger and more diverse core networks than those of major studies. Coplaying patterns and attachment to the game community contributed significantly to network size and diversity. 
+WOS:000347585500020
+</snippet>
+</document>
+
+<document id="44">
+<title>The contagion effects of repeated activation in social networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.11.001</url>
+<snippet>Demonstrations, protests, riots, and shifts in public opinion respond to the coordinating potential of communication networks. Digital technologies have turned interpersonal networks into massive, pervasive structures that constantly pulsate with information. Here, we propose a model that aims to analyze the contagion dynamics that emerge in networks when repeated activation is allowed, that is, when actors can engage recurrently in a collective effort. We analyze how the structure of communication networks impacts on the ability to coordinate actors, and we identify the conditions under which large-scale coordination is more likely to emerge. (C) 2017 The Authors. Published by Elsevier B.V.
+WOS:000432768600027
+</snippet>
+</document>
+
+<document id="45">
+<title>Neighborhood co-offending networks, structural embeddedness, and violent crime in Chicago</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.12.003</url>
+<snippet>Neighborhood disparities in crime are a persistent feature of U.S. cities. Scholars have documented that both local structural conditions and characteristics of spatially proximate communities influence neigh-borhood crime rates. Previous studies on neighborhood inequality in crime, however, are limited by their focus on identifying average spillover effects between pairs of spatially contiguous neighborhoods, and have neglected to consider how the broader social organization of the city influences local outcomes. This study examines the role of neighborhood-level criminal networks in shaping the distribution of crime throughout cities. Employing arrest records and survey data from the Project on Human Development in Chicago Neighborhoods, we construct a neighborhood-level co-offending network for Chicago for 2001. We use this network to investigate how a focal neighborhoods homicide rate is influenced by its structural embeddedness within the larger inter -neighborhood co-offending network. Results indicate that a neighborhoods embeddedness increases the local homicide rate, even after controlling for the neighborhoods internal propensity toward crime and accounting for unobserved spatial processes. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000411771300004
+</snippet>
+</document>
+
+<document id="46">
+<title>"It could turn ugly": Selective disclosure of attitudes in political discussion networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.04.002</url>
+<snippet>This article documents individuals selectively disclosing their political attitudes and discusses the consequences of these communication patterns for social influence and the democratic process. Using a large, diverse sample of U.S. resident adults, we ask under which conditions do people reveal their political preferences versus keeping them close to the vest. We find Americans are more likely to share their opinions with friends and family rather than co-workers and they are more likely to share their opinions on more salient topics. More importantly, they withhold their political attitudes specifically from those with whom they disagree in an attempt to avoid conflict. This produces the experience of highly homogeneous social contexts, in which only liberal or conservative views are voiced, while dissent remains silent, and oftentimes goes unacknowledged. This experience is not the result of homogeneous social contexts but the appearance of them. Paradoxically, the mechanism of selective disclosure, whose goal is to prevent conflict at the micro-level, might lead to the perception of greater division in the larger society. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300001
+</snippet>
+</document>
+
+<document id="47">
+<title>Gendered double embeddedness: Finding jobs through networks in the Chinese labor market</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.05.001</url>
+<snippet>Inspired by the concept of "double embeddedness," we argue that the gender gap in network-based job searching depends on the degree of legitimacy of gender status beliefs across institutional contexts. Analyses from the 2008 Chinese General Social Survey show that the gender gap in network-based job searching is larger in the market sector than in the state sector, as the gender status beliefs are more legitimate in the former than in the latter. Additionally, the sector difference of the gender gap in network based job searching is significant when the resources channeled through networks are information related, but it is insignificant when the network resources are influence-related. These findings indicate that job searching is double embedded in social networks and in cultural institutions. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300003
+</snippet>
+</document>
+
+<document id="48">
+<title>Analytic strategies for longitudinal networks with missing data</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.02.001</url>
+<snippet>Missing data are often problematic when analyzing complete longitudinal social network data. We review approaches for accommodating missing data when analyzing longitudinal network data with stochastic actor-based models. One common practice is to restrict analyses to participants observed at most or all time points, to achieve model convergence. We propose and evaluate an alternative, more inclusive approach to sub-setting and analyzing longitudinal network data, using data from a school friendship network observed at four waves (N=694). Compared to standard practices, our approach retained more information from partially observed participants, generated a more representative analytic sample, and led to less biased model estimates for this case study. The implications and potential applications for longitudinal network analysis are discussed. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000403527900003
+</snippet>
+</document>
+
+<document id="49">
+<title>orr Network formation in the interbank money market: An application of the actor-oriented model</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.11.005</url>
+<snippet>This paper investigates the driving forces behind banks link formation in the interbank market by applying the stochastic actor oriented model (SAOM). Our data consists of quarterly networks constructed from the transactions on an electronic trading platform (e-MID) for interbank credit over the period from 2001 to 2010. The analysis strongly supports the hypothesis that the existence and extent of past credit relationships is a major determinant of credit provision (i.e., link formation) in subsequent periods. We also find explanatory power of size-related characteristics, but little influence of past interest rates. The actor based analysis, thus, confirms the prevalent view that interbank credit is mainly determined by lasting business relationships and less so by competition for the best price (interest rate). Our findings also show that topological features exert a certain influence on the network formation process. The major changes found for the period after the onset of the financial crisis are that: (1) large banks and those identified as core intermediaries became even more sought of as counterparties and (2) indirect counterparty risk appeared to be more of a concern as we find a higher tendency to avoid indirect exposure as indicated by clustering effects. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200019
+</snippet>
+</document>
+
+<document id="50">
+<title>Personal networks in Saudi Arabia: The role of ascribed and achieved characteristics</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.10.007</url>
+<snippet>This study examines how ascribed characteristics (gender and nationality) and achieved characteristics (SES) are related to the extensity and occupational resources of personal networks in Saudi Arabia. Using large-scale survey data from Jeddah, results show that networks of women are smaller and less occupational resourceful, due to fewer non-family connections. Non-Saudi have more non-family ties and resources, but less resourceful family members. Higher SES individuals have larger and more resourceful personal networks. The study suggests that achieved status is more important in getting access to a wider variety of social ties and a more resourceful network than ascribed categories. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000371362600004
+</snippet>
+</document>
+
+<document id="51">
+<title>Comparing the discussion networks and voluntary association memberships of immigrants and non-immigrants in US suburban gateways</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.03.004</url>
+<snippet>Using survey data from five Chicago (U.S.) suburbs, we build regression models comparing the social lives of immigrants and non-immigrants. We define immigration several ways (citizenship, legal status, immigrant generation, length of time in U.S., and race/ethnicity). Results indicate that the size, longevity and density of immigrants discussion networks are mostly comparable to those of non-immigrants, as are the number and longevity of their voluntary association memberships. Immigrants and non-immigrants differ little in geographic location of their network confidants and organizational memberships. However, there is less racial/ethnic variety in immigrants social lives, particularly if they are Latinx or not citizens. (C) 2017 Published by Elsevier B.V.
+WOS:000427340000005
+</snippet>
+</document>
+
+<document id="52">
+<title>In transit: Changing social networks of sub-Saharan African migrants in Turkey and Greece</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.03.005</url>
+<snippet>Research on the role of social networks in human migration has mainly relied on single snapshots in time. This paper focuses on the changes in composition and usage of the transnational networks of migrants and why these changes occur. It is based on ethnography and network analysis with forty sub-Saharan African migrants in two transit contexts: Turkey and Greece, over a 17-month period. Findings show that relationship preferences, resources and communication infrastructures constitute an individual opportunity infrastructure affecting how critical events produce network changes. This process is ongoing through the continued experience of critical events, suggesting that the role of networks fluctuates over time. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000427340000004
+</snippet>
+</document>
+
+<document id="53">
+<title>Stability and dynamics of communities on online question-answer sites</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.12.004</url>
+<snippet>Social networks are present in our everyday lives, not just in face to face communication, but also when we communicate through the Internet. The latter leaves massive traces of data and thereby opens opportunities to acquire a better understanding of social communities in general. In this work, we are particularly interested in the patterns of volunteer efforts within the communities. To that end, we examine the community structure of several large online question-answer sites and how they evolve over time. To describe the user interaction patterns concisely, we employ the hyperbolic community model. This statistical model allows for a summary of each community in each time step by means of intuitive parameters that reflect the connectivity pattern within the network. Our study of the temporal evolution of these parameters reveals an important characteristic: In contrast to what has been observed earlier in the analyses of growth behaviour of online communities, we observe that the user activity within a community is constant with respect to its size throughout its lifetime. Furthermore, the structural organisation of different communities across different question-answer sites seems to follow a common scheme: There is a small group of users who is responsible for the majority of the social interactions.
+WOS:000472813200005
+</snippet>
+</document>
+
+<document id="54">
+<title>Reinforced structural holes</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.04.008</url>
+<snippet>Holes in social structure are variably reinforced by the social organization around the hole. The more reinforced the hole, the greater the difficulty in bridging it, but the more likely a successful bridge will carry information novel, and so potentially valuable, to people on the other side. To study how reinforcement varies with access to structural holes, and the achievement associated with access, I propose a measure of access to reinforced structural holes (RSH), and present results predicting achievement in an integrated banker organization and a balkanized supply-chain organization. In both study populations, the people who have access to structural holes also have access to reinforced structural holes, and all measures of access have a statistically significant association with achievement. However, there is no consistent prediction advantage from incorporating reinforcement in measures of access to structural holes. The reinforced-holes measure predicts compensation better or as well as network constraint and betweenness, but is weaker or no better than a count of nonredundant contacts. I do not infer from the results a rank-order of alternative measures so much as substitutability. I expect achievement to be associated with access to structural holes, but I expect the association to vary across alternative measures depending on how achievement is achieved in a specific population. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000358626400014
+</snippet>
+</document>
+
+<document id="55">
+<title>How many names are enough? Identifying network effects with the least set of listed contacts</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.03.004</url>
+<snippet>How many names are enough to reveal network effects using a name generator for network analysis? We analyze network data from two large organizations varying in complexity. We ask how much the network association with achievement is strengthened by adding another name to the recorded list of each persons sociometric citations. We conclude that five names is the cost effective number of sociometric citations to record. The network association with achievement weakens quickly with fewer names, especially in the more clustered network. Published by Elsevier B.V.
+WOS:000322692600006
+</snippet>
+</document>
+
+<document id="56">
+<title>Upward contacts in everyday life: Benefits of reaching hierarchical relations in ego-centered networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.03.002</url>
+<snippet>Recent studies have inspired inquiries about what circumstances allow people to gain from interactions with those who rank higher than themselves in the social hierarchy. We examine how self-reported benefits of such upward contacts vary by tie strength and network structures in everyday life. Data were drawn from contact diaries that 137 individuals recorded over seven months in 2014; these diaries captured unique features of 94,353 one-on-one contacts that 137 diary keepers made, along with the estimated tie strength and the extent of embeddedness among network members. Multilevel models with interaction terms show that diary keepers benefit from contacts with people who play higher hierarchical roles and that the benefits become more substantial when the higher-ranked others are weakly tied to the diary keepers and connected with fewer fellow network members. The paper extends contact diary studies to estimate alter-alter ties that help construct comprehensive structures in egocentric networks. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000432768600022
+</snippet>
+</document>
+
+<document id="57">
+<title>Beyond interviewer effects in the standardized measurement of ego-centric networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.01.003</url>
+<snippet>The effects which interviewers exert on the collection of ego-centric networks have recently come into the focus of methodological considerations. Studies consistently show that the size of networks varies depending on the interviewer. We would like to expand on this research strand by pointing to different aspects which have so far gone unremarked in the discussion. First, size is mainly analysed as a network measure which is influenced during data collection, while other common measures such as network density or composition have not received sufficient consideration. Second, large-scale surveys using face-to-face interviews usually allocate interviewers to a single sampling point. Differences between sampling points (locality effects) are attributed to interviewer effects. Hence, we disentangle the effects of the locality and interviewer. Third, the discussion on interviewer effects often follows an "actor-oriented" consideration of how data collection situations are structured by interviewers. Expanding this approach from a relational perspective, we consider the relationship between the interviewers and respondents and whether this relationship influences the collection of network data. To test our hypotheses about the influence of interviewers, the locality and the interviewer-respondent relationship on different network measures, we use data from the 2010 German General Social Survey (n = 2827 respondents, n = 220 interviewers). The multilevel analyses show that the relationship between the interviewer and the respondent is not very relevant. Furthermore, the analyses show that interviewers have an influence on the network size but not on measures of their composition. However, evidence on the prevalence of locality or interviewer effects is mixed. Finally, homophilous interviewer-respondent relationships have very little effect on network characteristics. We find evidence of training and fatigue effects on network size. However, much of the variation in network size caused by the interviewer still remains unexplained. We draw conclusions on how to organize interview situations in surveys. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000403527900008
+</snippet>
+</document>
+
+<document id="58">
+<title>Closeness, loneliness, support: Core ties and significant ties in personal communities</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2011.12.001</url>
+<snippet>Past research has introduced further distinctions within the strong ties that form our personal communities. This work aimed at a comparison between core and significant ties in terms of their emotional closeness to ego, the social provisions that are exchanged, the relationship maintenance behaviours reported, and egos loneliness. Measures for all these variables were assessed in a survey study. Evidence for a trade-off between the number of ties and their level of intimacy was obtained such that having more core ties was associated with lower levels of intimacy. Distinct signatures for friends from both sets of ties emerged for friendship maintenance behaviours and social provisions exchanged. Further, social and emotional loneliness were differentially related to the number and the intimacy of core and significant ties. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000302394600006
+</snippet>
+</document>
+
+<document id="59">
+<title>A graph database framework for covert network analysis: An application to the Islamic State network in Europe</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.10.004</url>
+<snippet>This paper proposes a new framework, based on graph database theory, for encoding complex data on covert networks, mapping their structure, and conducting a sensitivity analysis. The framework is then applied to reconstruct the terrorist network of the 2015-2016 attacks in Paris and Brussels, and related plots in Europe by the Islamic State group. The resulting network was found to be qualitatively different from the ideologically-related Al-Qaeda network, having a lower secrecy and a lower mean degree, under different network-generating assumptions. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000411771300016
+</snippet>
+</document>
+
+<document id="60">
+<title>Network structure and economic prosperity in municipalities: A large-scale test of social capital theory using social media data</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.06.002</url>
+<snippet>In this study, we analyze the relationship between network structure and economic prosperity in 438 Dutch municipalities. We focus on the structural aspects of social capital theory and test how three forms of social capital- network density, fragmentation (bonding), diversity and geographical distance of ties (bridging)- are associated with economic prosperity at the municipality level. We use data from a Dutch online social network that consists of more than 10 million users to test the hypotheses. We find that communities that have high network diversity are also more prosperous economically, while high network fragmentation is associated with lower prosperity. Contrary to previous literature, we find some support that network density at the community level is negatively associated with economic prosperity. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300012
+</snippet>
+</document>
+
+<document id="61">
+<title>A concept for measuring network proximity of regions in R&amp;D networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.10.003</url>
+<snippet>This paper proposes a new measure for assessing the network proximity between aggregated units, based on disaggregated information on the network distance of actors. Specific focus is on R&amp;D network structures between regions. We introduce a weighted version of the proximity measure, related to the idea that direct and indirect linkages carry different types of knowledge. First-order proximity arising from direct cross-regional linkages is distinguished from higher-order network proximity, resulting from indirect linkages in the R&amp;D network. We use an macroeconomic application in which we analyse the productivity effects of R&amp;D network spillovers across regions to illustrate the usefulness of a proximity measure for aggregated units. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000432768600026
+</snippet>
+</document>
+
+<document id="62">
+<title>Inequalities in social capital and their longitudinal effects on the labour market entry</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.10.001</url>
+<snippet>This study investigates socio-economic and ethnic inequalities in social capital and their effects on the process of the labour market entry. We use longitudinal data about the transition from school to work of lower- and middle educated young people in Belgium. Social capital is measured with three robust position generator measures. In line with previous studies, there are substantial socioeconomic and ethnic inequalities in the access to social capital. Ethnic differences in social capital are, however, due to the socio-economic deprivation of ethnic minority groups in Belgium. Among the specific population of lower- and middle educated youth, knowing more people from the working class leads to a higher likelihood of entering the labour market versus continuing in education, whereas knowing more people from the higher service class results in a lower likelihood of entering the labour market. Especially the resources of strong ties such as relatives and friends are important for these decisions. In addition, once entered the labour market, social capital has an impact on the likelihood of getting a job. Lower- and middle educated labour market entrants who know more people from the working class are more likely to find work, whereas knowing people from the lower service class decreases the job chances. However, there is no evidence for social capital effects on the occupational status of the job among our population. 
+WOS:000347585500017
+</snippet>
+</document>
+
+<document id="63">
+<title>Mediatizing the network model of cultural capital: Network diversity, media use, and cultural knowledge along and across ethnic boundaries</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.10.003</url>
+<snippet>Existing studies have paid limited attention to how media use and network diversity are related to cultural capital along or across ethnic boundaries. Extending the network model to a mediated network model of cultural capital, this research examines cultural knowledge as a function of media use and network diversity and whether media use moderates or mediates the relationship between network diversity and cultural knowledge. Data were drawn from a random sample survey on Chinese immigrant entrepreneurs in Toronto. Results showed that media use was a stronger predictor of cultural knowledge than network diversity. It also moderated and mediated the relationship between network diversity and cultural knowledge along and across ethnic boundaries. 
+WOS:000347585500018
+</snippet>
+</document>
+
+<document id="64">
+<title>GENSI: A new graphical tool to collect ego-centered network data</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.07.007</url>
+<snippet>This study (1) tested the effectiveness of a new survey tool to collect ego-centered network data and (2) assessed the impact of giving people feedback about their network on subsequent responses. The new tool, GENSI (Graphical Ego-centered Network Survey Interface), allows respondents to describe all network contacts at once via a graphical representation of their networks. In an online experiment, 434 American adults were randomly assigned to answer traditional network questions or GENSI and were randomly assigned to receive feedback about their network or not. The traditional questionnaire and GENSI took the same amount of time to complete, and measurements of racial composition of the network showed equivalent convergent validity in both survey tools. However, the new tool appears to solve what past researchers have considered to be a problem with online administration: exaggerated numbers of network connections. Moreover, respondents reported enjoying GENSI more than the traditional tool. Thus, using a graphical interface to collect ego-centered network data seems to be promising. However, telling respondents how their network compared to the average Americans reduced the convergent validity of measures administered after the feedback was provided, suggesting that such feedback should be avoided. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200004
+</snippet>
+</document>
+
+<document id="65">
+<title>Individuals' power and their social network accuracy: A situated cognition perspective</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.01.006</url>
+<snippet>Individuals differ in how accurately they perceive their social environment, but research and theory provide conflicting predictions on whether powerful people are more or less accurate than others. Drawing on social network theory and the situated cognition theory of power, we examine the relationship between individuals formal and informal power and their perceptual accuracy of social network relationships. We propose that individuals perceptual accuracy is related to: 1) their formal and informal power in the organization; 2) the type of relationship being perceived (positive/negative valence) and its relevance to task and goal completion; and 3) the dependence relationship with the target of perception (i.e., whether the perceiver is dependent on the perceived to get their work done). Predictions were tested using cognitive social structure data collected from a technical call center. Results showed that power was generally linked to increased perceptual accuracy, particularly for the types of relationships most relevant for task and goal completion. We further demonstrated that social network accuracy was related to employees outcomes, including subsequent transfer, promotion, and exit from the organization. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000432768600013
+</snippet>
+</document>
+
+<document id="66">
+<title>Comparing nascent approaches for gathering alter-tie data for egocentric studies</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.05.009</url>
+<snippet>Egocentric network researchers have recently developed interactive, force-directed, node-link tools to alleviate the burden of collecting information about ties between alters. In this study we use a randomized trial with a common stimulus to compare the effectiveness, efficiency, and satisfaction of new tools to established tools. We find interactive node-link tools are very satisfying to users and produce accurate data, however it underreported ties, and results differed considerably between users. The results have implications for any research using an interactive node-link diagram or any of the established methods for alter-tie data collection in egocentric network studies.
+WOS:000444666300013
+</snippet>
+</document>
+
+<document id="67">
+<title>Criminal collaboration and risk: The drivers of Al Qaeda's network structure before and after 9/11</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.01.005</url>
+<snippet>A groups resilience is often linked to its network structure. While decentralized network properties have been associated with resilience at the group-level, little is known about the individual-level factors that lead groups to adopt these structures. Criminal groups, consistently faced with unexpected external disruptions, provide an opportunity to examine individual decisions to collaborate across periods of increased risk. Using data on 118 terrorist offenders across six attacks we test whether individual decisions to collaborate are influenced by variation in law enforcement activity. Results from exponential random graph models demonstrate that many of the processes that drive collaboration between offenders differ when faced with greater risk. Connectivity was maximized in periods of decreased enforcement activity, with offenders more likely to collaborate in dense, local triads. Following an increase in interdictions, triad closure had no impact on co-offending. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000411771300015
+</snippet>
+</document>
+
+<document id="68">
+<title>Social capital and homophily both matter for labor market outcomes - evidence from replication and extension</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.10.003</url>
+<snippet>Social resource theory has been challenged, as the effects of contact resources on job outcomes may be spurious given the presence of homophily. We review the Mouw-Lin debate and propose that occupational homophily moderates the role of contact resources in the labor market and that effects of resources depend on labor market institutions. We analyze data from the US, East Germany before 1989, and post-reform China, combining the first-difference method and Heckman selection procedure to deal with endogeneity. Empirical findings from different labor market contexts demonstrate that: (1) contact resources have a causal and positive role in job outcomes; (2) in a market economy, the role of resources is more salient if they provide within-occupation job-leads; (3) under state job-assignment systems occupational homophily does not pay off; and (4) job-search ties can take the form of heterophilous selection. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000371362600002
+</snippet>
+</document>
+
+<document id="69">
+<title>The influence of network structure and prosocial cultural norms on charitable giving: A multilevel analysis of Movember's fundraising campaigns in 24 countries</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.04.001</url>
+<snippet>This study examines how the interplay between an online campaigns network structure and prosocial cultural norms in a country affect charitable giving. We conducted a multilevel analysis that includes Twitter network and aggregated donation data from the 2013 Movember fundraising campaigns in 24 countries during 62 campaign days. Prosocial cultural norms did not affect the relationship between network size and average donations raised, nor did they affect the relationship between network centralization and average donation amount. Prosocial cultural norms did affect the relationship between network density and average donations raised. However, this effect was negative and contrary to our expectation.
+WOS:000472813200010
+</snippet>
+</document>
+
+<document id="70">
+<title>Reciprocity, transitivity, and the mysterious three-cycle</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.10.005</url>
+<snippet>Reciprocity and transitivity are the two most important structural mechanisms underlying friendship network evolution. While on their own they are understood in great detail, the relation between them is rarely studied systematically. Are friendships outside of social groups more or less likely to be reciprocated than friendships embedded in a group? Using a theoretical framework that focusses on the situations in which friends interact and the social structures that stabilise one-sided friendships, I propose that the tendency towards reciprocation of friendships within transitive groups is usually lower than outside of transitive groups. In a meta-analysis of two datasets including 29 friendship networks using stochastic actor-oriented models (SAOMs), the interaction between reciprocity and transitivity is analysed. Supporting the theoretical reasoning, the interaction is consistently negative. Second, the tendency against forming three-cycles in friendship networks, which was consistently found in previous studies, is shown to be spurious and a result of neglecting to control for the tendency against reciprocation in transitive groups. The tendency against three-cycles is commonly seen as an indicator that unreciprocated friendships indicate local hierarchy differences between individuals; this proposition has to be re-evaluated in light of the findings of this study. Future studies that analyse the evolution of friendship networks should consider modelling reciprocation in transitive triplets and potentially omit modelling three-cycles. 
+WOS:000347585500016
+</snippet>
+</document>
+
+<document id="71">
+<title>How stable is the core discussion network?</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.09.001</url>
+<snippet>Researchers have paid increasing attention to the core discussion network, the set of people we turn to when discussing important matters. Because the core discussion network is theorized to be composed of peoples closest ties, not fleeting acquaintances, it is expected to be largely stable, evolving slowly over the span of peoples lives. However, recent studies have shown that networks are strongly affected by the contexts in which people interact with others, and as people experience life course transitions, they also often enter new contexts - school, college, work, marriage, and retirement. We ask whether, as actors enter new social contexts, the core discussion network remains stable or changes rapidly. Based on original, longitudinal, qualitative and quantitative data on the experience of first-year graduate students in three academic departments in a large university, we examine the stability of the core discussion network over the first 6 and 12 months in this new context. We test four competing hypotheses that focus on strength of ties, new opportunities, obligations, and routine activity and predict, respectively, stasis, expansion, shedding, and substitution. We find that the core discussion network changes remarkably quickly, with little or no lag, and that it appears to do so because both the obligations that people face and the routine activities they engage in are transformed by new institutional environments. Findings suggest that core discussion network may be less a "core" network than a highly contextual support network in which people are added and dropped as actors shift from environment to environment. 
+WOS:000347585500010
+</snippet>
+</document>
+
+<document id="72">
+<title>Building them up, breaking them down: Topology, vendor selection patterns, and a digital drug market's robustness to disruption</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.09.002</url>
+<snippet>Drug distributors are increasingly turning to online markets to deliver and procure illegal drugs. Online venues allow drug vendors to span broad audiences, reshape organizational structure, and remain relatively anonymous. Such trends raise fundamental questions regarding the structural robustness, topological characteristics, and tie formation patterns in online drug distribution networks. We examine one online illegal opioid transaction network. We characterize the networks topology, evaluate selection dynamics that sustain and facilitate the growth of the drug market, and investigate network vulnerability. Results support the existence of trust-based preferential attachment and give insight to how the network reacts to disruption. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300022
+</snippet>
+</document>
+
+<document id="73">
+<title>Americans are more exposed to difference than we think: Capturing hidden exposure to political and racial difference</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.08.002</url>
+<snippet>Use of name generators (NG) in assessing exposure to political difference has led to the conclusion that disagreement is uncommon. Data from two representative surveys tested a NG modification to probe for exposure to difference. Over half for whom NG results suggest no exposure to difference were able to name an alter who supported an alternative candidate. Over a quarter whose NG results indicate no exposure to a racial difference were able to name someone of the opposite race with whom theyd talked politics. These findings demonstrate that mixed or diverse networks are more common than prior NG research suggests. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300018
+</snippet>
+</document>
+
+<document id="74">
+<title>The network dynamics of co-offending careers</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.12.005</url>
+<snippet>Despite the long-standing acknowledgement that crime is a group phenomenon, little research treats co-offending as a dynamic network process. This study analyses the individual and network processes responsible for long-lasting criminal relationships using co-offendingdyads from eight years of arrest records in Chicago. Results from proportional hazard models suggest that homophily with respect to age, race, gender, geographic proximity, and gang identity lead to sustained partnerships. Victimization increases the probability of continued co-offending, while the victimization of ones associates dissuade continued collaboration. Supra-dyadic processes (centrality, transitivity) influence the likelihood of continued co-offending. Results are discussed regarding opportunities and turning points. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000411771300002
+</snippet>
+</document>
+
+<document id="75">
+<title>Predicting the trajectory of the evolving international cyber regime: Simulating the growth of a social network</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.01.002</url>
+<snippet>This paper presents an agent-based model of regime growth. States and the relations comprising a regime are conceptualized as social networks. Regime growth is understood as the addition of ties between states as they agree to work with one another. These ties are added as a result of the interaction between state behavior and the structure of their relations. We apply the model to the emerging cyber security regime. Based on reasonable assumptions of the nature of the current international system, the model predicts a bi-polar structure pitting two distinct blocs led by the two states with the greatest capacity to conduct cyber conflict. However, if states either place increasing emphasis on the benefits of trade or if the more materially powerful seek greater cooperation among themselves, linkages will develop across the two blocs. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000351979100007
+</snippet>
+</document>
+
+<document id="76">
+<title>Referrals and information flow in networks increase discrimination: A laboratory experiment</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.03.005</url>
+<snippet>Referrals and information flow distort market mechanisms of hiring in the labor market, but they might assist employers under asymmetric information in finding better alternatives. This paper investigates whether an impartial information flow between employers in a cyclic network structure could generate more discrimination than when no information is exchanged between employers. We set up an artificial labor market in which there was no average quality difference between two categories of workers. We asked participants to play the role of employers and examined the partiality of their hiring choices. Results showed that discrimination was prevalent in all conditions. Higher standards by the employers for the quality of workers increased discrimination as did the presence of referrals from workers. Unexpectedly, impartial information flow in a cyclic network of employers did not help to decrease discrimination. We also showed that these mechanisms interact with and subdue each other in complex ways. (C) 2018 The Authors. Published by Elsevier B.V.
+WOS:000432768600021
+</snippet>
+</document>
+
+<document id="77">
+<title>A new look at clustering coefficients with generalization to weighted and multi-faction networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.08.003</url>
+<snippet>In this paper we propose a new method for studying local and global clustering in networks employing random walk pairs. The method is intuitive and directly generalizes standard local and global clustering coefficients to weighted networks and networks containing nodes of multiple types. In the case of two mode networks the values obtained for commonly considered social networks are in sharp contrast to those obtained, for instance, by the method of Opsahl (2013), and provide a different viewpoint for clustering. The approach is also applicable in questions related to the general study of segregation and homophily. Applications to existent data sets are considered. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300019
+</snippet>
+</document>
+
+<document id="78">
+<title>At the intersection of criminal justice involvement and sexual orientation: Dynamic networks and health among a population-based sample of young Black men who have sex with men</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.04.001</url>
+<snippet>Mass incarceration of young Black men has a significant impact on their network composition and stability that, in turn, may have major implications for health and well-being. A sub-group of young Black men with criminal justice involvement (CJI) identify as gay, bisexual or are non-identified men who have sex with men (hereafter MSM). This paper focuses on the potential effects of CJI on the composition of Black MSM social and sexual networks, their stability over time, and concomitant health and social outcomes. We use data from the UConnect study, a population-based cohort of young Black MSM 16-29 years of age (n = 618) selected using respondent -driven sampling in Chicago from 2013 to 2016. Both confidant and sexual network name generators and interpreters were administered at 9-month intervals over three waves of data collection. Ego and dyadic-level data were collected on behaviors prevalent among MSM and including factors associated with network CJI, network stability, and health outcomes. Generalized Structural Equation Models (GSEM) were utilized to determine the relationship between CJI network composition, network stability and behaviors prevalent among young Black MSM and their networks. In the UConnect cohort, 46&#37; had at least once been detained, arrested or spent time in jail or prison. In addition, 20&#37; of participants reported incident CJI over the study period. Respondents with a history of CJI were significantly more likely to have CJI homophily in their confidant and sexual networks. Multivariate analyses demonstrate that the association between ones history of CJI, housing instability and drug use is partially explained by ones network CJI. In addition, a higher prevalence of network CJI is associated with increased turnover in the confidant network, and this network instability is also related to important health and social outcomes. This analysis describes the networks of criminal justice involved men among a representative sample of young Black MSM and demonstrates the relationship between CJI network homophily, network stability and their impact on several key health and social outcomes relevant to this population. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000411771300007
+</snippet>
+</document>
+
+<document id="79">
+<title>Actor non-response in valued social networks: The impact of different non-response treatments on the stability of blockmodels</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.06.001</url>
+<snippet>Social network data usually contain different types of errors. One of them is missing data due to actor non response. This can seriously jeopardize the results of analyses if not appropriately treated. The impact of missing data may be more severe in valued networks where not only the presence of a tie is recorded, but also its magnitude or strength. Blockmodeling is a technique for delineating network structure. We focus on an indirect approach suitable for valued networks. Little is known about the sensitivity of valued networks to different types of measurement errors. As it is reasonable to expect that blockmodeling, with its positional outcomes, could be vulnerable to the presence of non-respondents, such errors require treatment. We examine the impacts of seven actor non-response treatments on the positions obtained when indirect blockmodeling is used. The start point for our simulation are networks whose structure is known. Three structures were considered: cohesive subgroups, core-periphery, and hierarchy. The results show that the number of non-respondents, the type of underlying blockmodel structure, and the employed treatment all have an impact on the determined partitions of actors in complex ways. Recommendations for best practices are provided. (C) 2016 The Authors. Published by Elsevier B.V.
+WOS:000389730200005
+</snippet>
+</document>
+
+<document id="80">
+<title>Changes in the social networks of prisoners: A comparison of their networks before and after imprisonment</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.04.004</url>
+<snippet>This study examines the social networks of detainees before and after their incarceration. We use unique panel data on 702 detainees and their core discussion networks. Our results show that while the size of the core discussion network remains stable, detainees have replaced more than 60&#37; of their network members after incarceration. By far not all new core network members are truly new: in particular friendship ties have a higher change to deteriorate and be replaced by ties to relatives. We estimate multinomial multilevel models and find, moreover, that changes in the core discussion network are most likely to occur for detainees who have served a longer prison spell, who did not return to the same place of residence, who had fewer strong or family relationships, and who were suspected of involvement in a violent or sexual offense. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000382592500005
+</snippet>
+</document>
+
+<document id="81">
+<title>Popularity breeds contempt: The evolution of reputational dislike relations and friendships in high school</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.07.006</url>
+<snippet>In this study, we examined the dynamics of the perception of "dislike" ties (reputational dislike) among adolescents within the contexts of friendship, perceived popularity, substance use, and Facebook use. Survey data were collected from a longitudinal sample of 238 adolescents from the 11th and 12th grades in one California high school. We estimated stochastic actor-based network dynamic models, using reports of reputational dislike, friendships, and perceived popularity, to identify factors associated with the maintenance and generation reputational dislike ties. The results showed that high-status adolescents and more frequent Facebook users tended to become perceived as or stay disliked by their peers over time. There was a tendency for friendships to promote the creation and maintenance of reputational disliking but not vice versa. Adolescents tended to perceive others as disliked when their friends also perceived them as disliked. There was no evidence that either cigarette smoking or drinking alcohol affected reputational dislike dynamics. This study highlights the important role that the hierarchical peer system, online peer context, and friendships play in driving information diffusion of negative peer relations among adolescents. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200008
+</snippet>
+</document>
+
+<document id="82">
+<title>Creating the thin blue line: Social network evolution within a police academy</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.03.011</url>
+<snippet>Whenever major schisms between police and communities come to public attention, there are always passionate calls for an increased emphasis on - and improvement of - police training. This rhetoric is so common that police leaders joke that there is no societal problem so big that it cant be fixed by better police training. Still, professional socialization in law enforcement remains an important topic with a great deal of resources being devoted to developing initiatives and augmenting existing curricula. This training comes in many forms including learning the nuts and bolts of many legal processes and acquiring the practical skills for law enforcement. However, beyond this, there is a socialization process with multiple facets including the development of solidarity and trust among a cohort of recruits. We attempt to understand the basic mechanisms of network creation in police academies as the foundation of the socialization processes within them. By focusing on these network mechanisms underlying the establishment of the Thin Blue Line, we offer an understanding of the underlying social processes foundational for the transmission of police culture. In short, we think the recruit network structure functions as a vehicle for cultural transmission within police academies. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000403527900009
+</snippet>
+</document>
+
+<document id="83">
+<title>Ranking terrorists in networks: A sensitivity analysis of Al Qaeda's 9/11 attack</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.02.003</url>
+<snippet>All over the world, intelligence services are collecting data concerning possible terrorist threats. This information is usually transformed into network structures in,which the nodes represent the individuals in the data set and the links possible connections between these individuals. Unfortunately, it is nearly impossible to keep track of all individuals in the resulting complex network. Therefore, Lindelauf et al. (2013) introduced a methodology that ranks terrorists in a network. The rankings that result from this methodology can be used as a decision support system to efficiently allocate the scarce surveillance means of intelligence agencies. Moreover, usage of these rankings can improve the quality of surveillance which can in turn lead to prevention of attacks or destabilization of the networks under surveillance. The methodology introduced by Lindelauf et al. (2013) is based on a game theoretic centrality measure, which is innovative in the sense that it takes into account not only the structure of the network but also individual and coalitional characteristics of the members of the network. In this paper we elaborate on this methodology by introducing a new game theoretic centrality measure that better takes into account the operational strength of connected subnetworks. Moreover, we perform a sensitivity analysis on the rankings derived from this new centrality measure for the case of Al Qaeda's 9/11 attack, In this sensitivity analysis we consider firstly the possible additional information available about members of the network, secondly, variations in relational strength and, finally, the absence or presence of a small percentage of links in the network. We also introduce a case specific method to compare the different rankings that result from the sensitivity analysis and show that the new centrality measure is robust to small changes in the data. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000355050600001
+</snippet>
+</document>
+
+<document id="84">
+<title>Integrated or isolated? The impact of public housing redevelopment on social network homophily</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2011.01.001</url>
+<snippet>Do mixed income housing programs increase the poors social network diversity? Using unique, longitudinal, egocentric social network data, this research investigates changes in social network homophily for both Vietnamese and English-speaking original residents of a public housing redevelopment site. Changes in mixing occur for both those who return and those who moved away, but only increases in ethnic mixing were associated with returning to the new site. Thus, changes in social networks may be associated with disruption rather moving to a mixed-income site. Vietnamese residents also experienced increases in ethnic diversity compared to English-speaking respondents. The results raise questions about the social mixing intent of such programs. The high expectations for social network benefits of income mixing housing programs should be tempered. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000291175400006
+</snippet>
+</document>
+
+</searchresult>

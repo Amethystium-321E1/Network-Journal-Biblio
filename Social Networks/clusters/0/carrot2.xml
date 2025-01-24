@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>A sexual affiliation network of swingers, heterosexuals practicing risk behaviours that potentiate the spread of sexually transmitted infections: A two-mode approach</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.02.006</url>
+<snippet>Using the example of the sexual affiliation networks of swingers, this paper examines how the analysis of sexual affiliation networks can contribute to the development of sexually transmitted infection (STI) prevention strategies. Two-mode network methodology and ERGMs are applied to describe the structural composition of the affiliation network and analyse attribute effects. Swingers were found to recruit their sex partners through one large, moderately cohesive network component. Swingers who used drugs or had a longer history of swinging tended to frequent websites instead of clubs. This study confirms the relevance of studying sexual affiliation networks and its additional value for STI epidemiology. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000320479500008
+</snippet>
+</document>
+
+<document id="2">
+<title>How MPs ties to interest groups matter for legislative co-sponsorship</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.12.001</url>
+<snippet>This article investigates whether linkages between members of parliament (MPs) and interest groups influence MPs activities of co-sponsoring legislative proposals. Based on statistical models for network data, the study builds on classical explanations of co-sponsorships highlighting the role of similar ties between MPs, such as party membership, legislative committee assignments, electoral district or gender. It shows that, on top of these traditional forms of homophily, MPs ties to interest groups matter as well. MPs with ties to a similar type of interest groups are more likely to co-sponsor their respective proposals. The same holds for MPs with ties to groups active in the same policy domain. These findings have implications for the study of groups lobbying, legislative behaviour and representative democracy.
+WOS:000458224300003
+</snippet>
+</document>
+
+<document id="3">
+<title>Bayesian model selection for exponential random graph models</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2012.10.003</url>
+<snippet>Exponential random graph models are a class of widely used exponential family models for social networks. The topological structure of an observed network is modelled by the relative prevalence of a set of local sub-graph configurations termed network statistics. One of the key tasks in the application of these models is which network statistics to include in the model. This can be thought of as statistical model selection problem. This is a very challenging problem-the posterior distribution for each model is often termed "doubly intractable" since computation of the likelihood is rarely available, but also, the evidence of the posterior is, as usual, intractable. The contribution of this paper is the development of a fully Bayesian model selection method based on a reversible jump Markov chain Monte Carlo algorithm extension of Caimo and Friel (2011) which estimates the posterior probability for each competing model. 
+WOS:000317943100002
+</snippet>
+</document>
+
+<document id="4">
+<title>Networks and geography: Modelling community network structures as the outcome of both spatial and network processes</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2010.12.001</url>
+<snippet>This paper focuses on how to extend the exponential random graph models to take into account the geographical embeddedness of individuals in modelling social networks. We develop a hierarchical set of nested models for spatially embedded social networks, in which, following Butts (2002), an interaction function between tie probability and Euclidean distance between nodes is introduced. The models are illustrated by an empirical example from a study of the role of social networks in understanding spatial clustering in unemployment in Australia. The analysis suggests that a spatial effect cannot solely explain the emergence of organised network structure and it is necessary to include both spatial and endogenous network effects in the model. (C) 2010 Elsevier B.V. All rights reserved.
+WOS:000300131600002
+</snippet>
+</document>
+
+<document id="5">
+<title>Measurement quality issues in dyadic models of relationships</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(99)00010-6</url>
+<snippet>Interpersonal relationships are an important and integral part of numerous social science research agendas. Analytical tools have been created in the last 10 years that model dyadic interactions. In particular, this article focuses on the dyadic models of Fienberg and Wasserman [Fienberg, S.E., Wasserman, S., 1981. Categorical data analysis of single sociometric relations. In: Leinhardt, S. (Ed.), Sociological Methodology. Jossey-Bass, San Francisco.], Holland and Leinhardt [Holland, P.W., Leinhardt, S., 1981. An exponential family of probability densities for directed graphs. Journal of the American Statistical Association 76 (1981) 33-51.], Iacobucci and Wasserman [Iacobucci, D., Wasserman, S., 1988. A general framework for the statistical analysis of sequential dyadic interaction data Psychological Bulletin 103 (1988) 379-390.] and Wasserman and Iacobucci [Wasserman, S., Iacobucci, D., 1986. Statistical analysis of discrete relational data. British Journal of Mathematical and Statistical Psychology 39 (1986) 41-64.]. However, measurement issues like reliability and validity, as discussed by Alien and Yen [Allen, M.J., Yen, W.M., 1979. Introduction to Measurement Theory. Brooks/Cole, Monterey, CA, 1979.], Nunnally [Nunnally, J., 1978. Psychometric Theory, 2nd edn. McGraw-Hill, New York, NY, 1978.] and Uebersax [Uebersax, J.S., 1988. Validity inferences from interobserver agreement. Psychological Bulletin 104 (1988) 405-416.], have not been considered in conjunction with these models, and little is known about the empirical performance of the dyadic models under sub-optimal measurement quality conditions. We offer two essential approaches to ascertaining the level of measurement error in the observed indicators of social ties and relationships. The first approach combines latent class and social network models in one integrated framework: and allows for the simultaneous study of measurement and dyadic structural issues. The second approach is an alternative that may be more useful to social science researchers, both because the method is more accessible and because researchers could apply the techniques to data they have already partially analyzed. This approach is a two-staged procedure whereby in the first stage, a probability model based on latent class analysis is estimated which provides an indication of the measurement quality in the data In the second stage, traditional social network models are estimated. To investigate the implications of different levels of measurement error for interpreting the nature of the network ties and the dyadic parametric performance, we also designed a Monte Carlo experiment. Measurement error is simulated as the likelihood of a binary relational choice (for simplicity) being inaccurately classified, where incorrect diagnoses can result from poor interitem agreement (i.e., unreliability) or poor interrater agreement. The simulation can be used by researchers in combination with the two-stage approach. The results of the simulation provide guidelines for situations when social network models can withstand a reasonable degree of sub-optimal measurement quality and highlight adverse conditions which can significantly affect the performance of the modeling approach. Further, the simulation shows that sample size assists in reducing the chances of making Type II errors, but it does not compensate for biases in parameter estimates in the presence of increasing error. Finally, the measurement and dyadic analytical methods are applied to a real dataset describing interorganizational relational activity using multiple raters. Recommendations are offered to guide the researcher in making decisions about research design when using dyadic models. (C) 1999 Elsevier Science B.V. All rights reserved.
+WOS:000084385700001
+</snippet>
+</document>
+
+<document id="6">
+<title>Informal lending networks in rural Ethiopia</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.07.003</url>
+<snippet>Economic development in emergent nations is tied to smallholder subsistence populations whose livelihoods are vulnerable to exogenous shocks. When shocks occur, individuals often rely on resources embedded within informal insurance networks. Resource access is related to network position and reflected in properties such as centrality and reachability. We analyze a complete informal lending network (188 nodes, 295 ties) among the Sidama, an agro-pastoralist population in southwestern Ethiopia. Results indicate that culturally salient indicators of wealth, such as cattle ownership and gender, largely account for network structure. Analysis of a complete network further allows us to discuss the impact of global network properties, such as overall typology, on a communities response to different types of shocks (covariate and idiosyncratic). These findings extend our understanding of how individuals and communities engage informal lending networks in response to exogenous shocks. Published by Elsevier B.V.
+WOS:000347585500004
+</snippet>
+</document>
+
+<document id="7">
+<title>Finding roles in sparse economic hierarchies: Going beyond regular equivalence</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.10.005</url>
+<snippet>We examine mapping latent roles to reveal meaningful structures of social relations with a focus on substance. Equivalence types are discussed in relation to data and the match (or not) between them. An argument for considering row-regular blocks when studying sparse economic networks is provided. A clear distinction is made between the concepts of inconsistencies and errors when assessing fitted block models. A case is made for examining the patterns of inconsistencies for discerning empirical block types. Three empirical economic networks are considered. Two are rice trading networks in Vietnam with the third being a network of foreign direct investments between countries. Attention is focused on formulating and testing three rival blockmodels for the rice trading networks. Established blockmodels have clear substantive interpretations. The analysis of the investment network is more tentative but extends the idea of examining inconsistencies to two-mode networks. Some implications for blockmodeling by using substantive and empirical knowledge are discussed. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000371362600001
+</snippet>
+</document>
+
+<document id="8">
+<title>Social capital in Singapore: Gender differences, ethnic hierarchies, and their intersection</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.06.004</url>
+<snippet>Our inquiry probes the association of the ascriptive categories of gender and ethnicity with different kinds and amounts of social capital in Singapore. For both forms of inequality, people most easily meet contacts in occupations dominated by their own categories (e.g., women are more likely to meet nurses as they are overrepresented in nursing; likewise, dominant ethnic groups are more likely to meet managers and CEOs, being overrepresented in high-status roles). Yet we also find distinctive patterns: childcare is a major factor influencing womens contact with teachers, cashiers, and cleaners. Education is a major factor affecting ethnic groups unequal access to contacts such as professors and bankers, cleaners and taxi drivers. Examining the intersection of gender and ethnicity, we find Malay men have less access to contacts in high-status occupations compared with Malay women, Non-Malay men, and Non-Malay women. Moreover, a university education accrues social capital at a slower rate for Malay men than for the other combinations of gender and ethnicity. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000382592500013
+</snippet>
+</document>
+
+<document id="9">
+<title>The microstructures of network recall: How social networks are encoded and represented in human memory</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.11.003</url>
+<snippet>A growing number of studies indicate that aspects of psychology and cognition influence network structure, but much remains to be learned about how network information is stored and retrieved from memory. Are networks recalled as dyads, as triads, or more generally as sub-groups? We employ an experimental design coupled with exponential random graph models to address this issue. We find that respondents flexibly encode social information as triads or groups, depending on the network, but not as dyads. This supports prior research showing that networks are stored using "compression heuristics", but also provides evidence of cognitive flexibility in the process of encoding relational information. (C) 2014 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/3.0/).
+WOS:000351979100010
+</snippet>
+</document>
+
+<document id="10">
+<title>Change we can believe in: Comparing longitudinal network models on consistency, interpretability and predictive power</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.08.001</url>
+<snippet>While several models for analysing longitudinal network data have been proposed, their main differences, especially regarding the treatment of time, have not been discussed extensively in the literature. However, differences in treatment of time strongly impact the conclusions that can be drawn from data. In this article we compare auto-regressive network models using the example of TERGMs - a temporal extensions of ERGMs - and process-based models using SAOs as an example. We conclude that the TERGM has, in contrast to the ERGM, no consistent interpretation on tie-level probabilities, as well as no consistent interpretation on processes of network change. Further, parameters in the TERGM are strongly dependent on the interval length between two time-points. Neither limitation is true for process -based network models such as the SAOM. Finally, both compared models perform poorly in out-of-sample prediction compared to trivial predictive models. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300017
+</snippet>
+</document>
+
+<document id="11">
+<title>Introduction to stochastic actor-based models for network dynamics</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2009.02.004</url>
+<snippet>Stochastic actor-based models are models for network dynamics that can represent a wide variety of influences on network change, and allow to estimate parameters expressing such influences, and test corresponding hypotheses. The nodes in the network represent social actors, and the collection of ties represents a social relation. The assumptions posit that the network evolves as a stochastic process driven by the actors, i.e., the model lends itself especially for representing theories about how actors change their outgoing ties. The probabilities of tie changes are in part endogenously determined, i.e., as a function of the current network structure itself, and in part exogenously, as a function of characteristics of the nodes (actor covariates) and of characteristics of pairs of nodes (dyadic covariates). In an extended form, stochastic actor-based models can be used to analyze longitudinal data on social networks jointly with changing attributes of the actors: dynamics of networks and behavior. This paper gives an introduction to stochastic actor-based models for dynamics of directed networks, using only a minimum of mathematics. The focus is on understanding the basic principles of the model, understanding the results, and on sensible rules for Model selection. Crown Copyright (C) 2009 Published by Elsevier B.V. All rights reserved.
+WOS:000274948700005
+</snippet>
+</document>
+
+<document id="12">
+<title>Overlapping crime: Stability and specialization of co-offending relationships</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.03.008</url>
+<snippet>Dyadic analyses of relationships between criminals have mostly ignored the multiplex nature of criminal ties. This study attempts to provide a more complete assessment of co-offending networks by incorporating the different types of crime that relate individuals with each other. Drawing on a large dataset of arrests in Quebec between 2003 and 2009, we focus on co-offending stability and specialization and illustrate how co-offending networks based on different types of criminal activities overlap. We portray a pattern of co-offending, which extends.debate of criminal specialization/versatility to the dyadic level. Our study illustrates the ways in which the frequency and spectrum of crime include a relational component. More generally, the article emphasizes the need to consider the semantics of network ties, and further, the association between different types of networks, which ultimately offers a reassessment of social structure. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000411771300003
+</snippet>
+</document>
+
+<document id="13">
+<title>Some days are better than others: Examining time-specific variation in the structuring of interorganizational relations</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.10.001</url>
+<snippet>The generative mechanisms controlling change in interorganizational relations are typically assumed to be time- independent, i.e., operate homogeneously and synchronously over time. In this paper we consider some of the implications of violating this assumption. We adopt and extend statistical models for relational events to reveal time-specific variations in mechanisms underlying interorganizational relations observed within a small community of health care organizations. We find that aggregate estimates of parameters associated with mechanisms of theoretical interest mask fine-grained temporal variation in relational events sequences. We discuss the implications of this result for studies of interorganizational relations - and social networks snore generally.
+WOS:000458224300002
+</snippet>
+</document>
+
+<document id="14">
+<title>Consensus, cohesion and connectivity</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.06.001</url>
+<snippet>Social life clusters into groups held together by ties that also transmit information. When collective problems occur, group members use their ties to discuss what to do and to establish an agreement, to be reached quick enough to prevent discounting the value of the group decision. The speed at which a group reaches consensus can be predicted by the algebraic connectivity of the network, which also imposes a lower bound on the groups cohesion. This specific measure of connectivity is put to the test by re-using experimental data, which confirm the prediction. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300011
+</snippet>
+</document>
+
+<document id="15">
+<title>Ethnic segregation of friendship networks in school: Testing a rational-choice argument of differences in ethnic homophily between classroom- and grade-level networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.02.002</url>
+<snippet>Adolescents school-based friendship networks tend to be segregated along ethnic lines. But few studies have examined whether variation in network boundaries affects the degree of ethnic friendship segregation. We use rational-choice theory to argue that ethnic homophily is more pronounced for friendships between classrooms than for those within classrooms. We empirically test this hypothesis using two-wave German panel data (N=1258) and stochastic actor-oriented models (RSiena). In line with our theoretical argument, we find that the tendency to form same-ethnic friendships is indeed stronger at the grade level, which translates into stronger ethnic segregation in friendship networks at the grade level than at the classroom level. Implications for research on ethnic segregation in school-based friendship networks are discussed. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000355050600003
+</snippet>
+</document>
+
+<document id="16">
+<title>Avoidance in negative ties: Inhibiting closure, reciprocity, and homophily</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.07.003</url>
+<snippet>Theorising of negative ties has focused on simplex negative tie networks or multiplex signed tie networks. We examine the fundamental differences between positive and negative tie networks measured on the same set of actors. We test six mechanisms of tie formation on face-to-face positive (affect/esteem) and negative (dislike/disesteem) networks of 282 university students. While popularity, activity, and entrainment are present in both networks, closure, reciprocity, and homophily are largely absent from negative tie networks. We argue this arises because avoidance is inherent to negative sentiments. Avoidance reduces information transfer through negative ties and short-circuits cumulative causation. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200011
+</snippet>
+</document>
+
+<document id="17">
+<title>Multiplexity and strategic alliances: The relational embeddedness of coalitions in social movement organisational fields</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.02.007</url>
+<snippet>While scholars have embraced the notion of social movements as networks, there has been little empirical exploration of the emergence of coalitions within these multilayered systems. Here I explore the role of overlapping relations in alliance formation amongst a group of 55 health-related professional social movement organisations mobilised against austerity. Using cross-sectional bivariate exponential random graph models, I find dependencies between digital proxies for alliance, shared allies, information exchange, positive nomination and offline colobbying activity at the dyadic, degree and triadic levels. Cross-network associations indicate that multiplexity plays a non-trivial role in the formation of alliances and, more generally, social movement organisational fields, necessitating increased attention from scholars of social movements. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000355050600005
+</snippet>
+</document>
+
+<document id="18">
+<title>Embeddedness as a multilevel problem: A case study in economic sociology</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.03.005</url>
+<snippet>Economic sociology has established the interdependencies between economic and social structures using the notion of embeddedness of the former in the latter. However research usually studies inter-organizational commercial networks and inter-individual informal networks separately. In this article we use a multilevel framework to analyze jointly economic networks between firms and informal networks between their members in order to reframe this embeddedness hypothesis. Based on a network study of a trade fair for television programmes in Eastern Europe we show that while each level has its own specific processes they are partly nested. Beyond this result, we observe that these levels of agency emerge in different contexts and in different temporalities. To conclude, we show that in order to understand performance on a market one needs to look at this dual positioning of individuals and organizations. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900029
+</snippet>
+</document>
+
+<document id="19">
+<title>Models of core/periphery structures</title>
+<url>http://dx.doi.org/</url>
+<snippet>A common but informal notion in social network analysis and other fields is the concept of a core/periphery structure. The intuitive conception entails a dense, cohesive core and a sparse, unconnected periphery. This paper seeks to formalize the intuitive notion of a core/periphery structure and suggests algorithms for detecting this structure, along with statistical tests for testing a priori hypotheses. Different models are presented for different kinds of graphs (directed and undirected, valued and nonvalued). In addition, the close relation of the continuous models developed to certain centrality measures is discussed. (C) 1999 Elsevier Science B.V. All rights reserved.
+WOS:000085200300004
+</snippet>
+</document>
+
+<document id="20">
+<title>Exponential random graph models of preschool affiliative networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2012.11.002</url>
+<snippet>Exponential random graph models were used to assess the relevance of reciprocity, popularity, transitivity controlling for effects based upon ego and alter sex, and sex homophily, on the formation of affiliative ties in 19 Portuguese preschool peer groups. The number of times two children were recorded as nearest neighbors in focal samples was used as an indicator of the relationships strength. Independent parameter estimates of the different models (one for each group) were summarized, separately for the three age groups ("3-year-olds", "4-year-olds" and "5-year-olds") using a multi-level approach to meta-analysis. Results showed that affiliative ties between children were sex segregated, highly reciprocal, more likely to be directed to a restricted number of children and with a tendency to create transitive triads. The structural processes underlying the formation of affiliative ties were quite stable between classrooms. 
+WOS:000317943100003
+</snippet>
+</document>
+
+<document id="21">
+<title>Resistance distance, closeness, and betweenness</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.05.003</url>
+<snippet>In a seminal paper Stephenson and Zelen (1989) rethought centrality in networks proposing an information-theoretic distance measure among nodes in a network. The suggested information distance diverges from the classical geodesic metric since it is sensible to all paths (not just to the shortest ones) and it diminishes as soon as there are more routes between a pair of nodes. Interestingly, information distance has a clear interpretation in electrical network theory that was missed by the proposing authors. When a fixed resistor is imagined on each edge of the graph, information distance, known as resistance distance in this context, corresponds to the effective resistance between two nodes when a battery is connected across them. Here, we review resistance distance, showing once again, with a simple proof, that it matches information distance. Hence, we interpret both current-flow closeness and current-flow betweenness centrality in terms of resistance distance. We show that this interpretation has semantic, theoretical, and computational benefits. 
+WOS:000322692600017
+</snippet>
+</document>
+
+<document id="22">
+<title>Stochastic weighted graphs: Flexible model specification and simulation</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.11.002</url>
+<snippet>In most domains of network analysis researchers consider networks that arise in nature with weighted edges. Such networks are routinely dichotomized in the interest of using available methods for statistical inference with networks. The generalized exponential random graph model (GERGM) is a recently proposed method used to simulate and model the edges of a weighted graph. The GERGM specifies a joint distribution for an exponential family of graphs with continuous-valued edge weights. However, current estimation algorithms for the GERGM only allow inference on a restricted family of model specifications. To address this issue, we develop a Metropolis-Hastings method that can be used to estimate any GERGM specification, thereby significantly extending the family of weighted graphs that can be modeled with the GERGM. We show that new flexible model specifications are capable of avoiding likelihood degeneracy and efficiently capturing network structure in applications where such models were not previously available. We demonstrate the utility of this new class of GERGMs through application to two real network data sets, and we further assess the effectiveness of our proposed methodology by simulating non-degenerate model specifications from the well-studied two-stars model. A working R version of the GERGM code is available in the supplement and is incorporated in the GERGM CRAN package. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000395601700004
+</snippet>
+</document>
+
+<document id="23">
+<title>Friends in locked places: An investigation of prison inmate network structure</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.12.006</url>
+<snippet>The current study investigates informal social structure among prison inmates. Data come from the Prison Inmate Network Study (PINS), a project focused on a unit of a Pennsylvania medium security mens prison. We focus on 205 inmates and their "get along with" network - an approximation of friendship in other settings. We find a weak subgroup structure dominated by two groups of "old heads" and characterized by moderate (non gang-based) race/ethnic clustering. Structurally, the network resembles adolescents in schools, suggesting that prison inmates are capable, of successfully building peer associations. We conclude that under the right conditions self-organizing inmate society can foster social integration reminiscent of other social settings. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000411771300008
+</snippet>
+</document>
+
+<document id="24">
+<title>The dual-projection approach for two-mode networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2012.05.004</url>
+<snippet>There have been two distinct approaches to two-mode data. The first approach is to project the data to one-mode and then analyze the projected network using standard single-mode techniques, also called the conversion method. The second approach has been to extend methods and concepts to the two-mode case and analyze the network directly with the two modes considered jointly. The direct approach in recent years has been the preferred method since it is assumed that the conversion method loses important structural information. Here we argue that this is not the case, provided both projections are used together in any analysis. We illustrate how this approach works using core/periphery, structural equivalence and centrality as examples. (C) 2012 Elsevier B.V. All rights reserved.
+WOS:000320479500006
+</snippet>
+</document>
+
+<document id="25">
+<title>The network autocorrelation model using two-mode data: Affiliation exposure and potential bias in the autocorrelation parameter</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2011.06.001</url>
+<snippet>The network autocorrelation model has been a workhorse for modeling network influences on individual behavior. The standard network approaches to mapping social influence using network measures, however, are limited to specifying an influence weight matrix (W) based on a single mode network. Additionally, it has been demonstrated that the estimate of the autocorrelation parameter rho of the network effect tends to be negatively biased as the density in W matrix increases. The current study introduces a two-mode version of the network autocorrelation model. We then conduct simulations to examine conditions under which bias might exist. We show that the estimate for the affiliation autocorrelation parameter (rho) tends to be negatively biased as density increases, as in the one-mode case. Inclusion of the diagonal of W, the count of the number of events participated in, as one of the variables in the regression model helps to attenuate such bias, however. We discuss the implications of these results. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000294520200006
+</snippet>
+</document>
+
+<document id="26">
+<title>A real-coded genetic algorithm for two-mode &lt;i&gt;KL&lt;/i&gt;-means partitioning with application to homogeneity blockmodeling</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.11.007</url>
+<snippet>The two-mode KL-means partitioning (TMKLMP) problem has a number of important applications in the social and physical sciences. For example, the intra-block variability measure associated with TMKLMP underscores its direct relevance to two-mode homogeneity blockmodeling of binary and real-valued social networks. We present a real-coded genetic algorithm for obtaining TMKLMP solutions. A simulation study showed that the new algorithm compares favorably to a multistart implementation of a two-mode KL-means heuristic, which is recognized as a top-performing method for TMKLMP. The merit of the proposed method is demonstrated via an application to the blockmodeling of social network data associated with signing of environmental advertisements in the New York Times as a part of the Turning Point Project. (C) 2014 Elsevier B.V. All rights reserved.
+WOS:000351979100003
+</snippet>
+</document>
+
+<document id="27">
+<title>Conditionally exponential random models for individual properties and network structures: Method and application</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.09.001</url>
+<snippet>Exponential random models have been widely adopted as a general probabilistic framework for complex networks and recently extended to embrace broader statistical settings such as dynamic networks, valued networks or two-mode networks. Our aim is to provide a further step into the generalization of this class of models by considering sample spaces which involve both families of networks and nodal properties verifying combinatorial constraints. We propose a class of probabilistic models for the joint distribution of nodal properties (demographic and behavioral characteristics) and network structures (friendship and professional partnership). It results in a general and flexible modeling framework to account for homophily in social structures. We present a Bayesian estimation method based on the full characterization of their sample spaces by systems of linear constraints. This provides an exact simulation scheme to sample from the likelihood, based on linear programming techniques. After a detailed analysis of the proposed statistical methodology, we illustrate our approach with an empirical analysis of co-authorship of journal articles in the field of neuroscience between 2009 and 2013. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200017
+</snippet>
+</document>
+
+<document id="28">
+<title>Duality of departmental specializations and PhD exchange: A Weberian analysis of status in interaction using multilevel exponential random graph models (mERGM)</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.07.005</url>
+<snippet>Weber proposes that lifestyle similarities preserve status by producing interactional closure between status similar actors. I investigate this theory on academic status hierarchies by conceptualizing sub-disciplinary specializations as departmental lifestyles and PhD exchange networks as interdepartmental interactions. Multilevel exponential random graph models (mERGM) reveal that the more specializations departments share, the more likely they are to exchange personnel. On the flip side, departments that do not share specializations are less likely to exchange doctoral candidates. Moreover, shared specializations are key determinants of closure between elite departments. These results support Webers theory and suggest that shared specializations preserve existing patterns of inequality between elite and non-elite departments.
+WOS:000444666300019
+</snippet>
+</document>
+
+<document id="29">
+<title>Audience structure and status multiplicity</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.07.008</url>
+<snippet>This paper investigates status multiplicity, an under-theorized concept in sociological research. We assert that actors status can vary both within and across audience segments and argue that embracing status multiplicity is important as it is local status, i.e., status as perceived by the actors audience members, that drives action. We introduce a network-based conceptualization and measure of status multiplicity, and then use this measure to test our predictions in the setting of academic journal rankings and fragmentation in the field of management. The results show that (a) greater audience fragmentation corresponds to higher status multiplicity; (b) local status is a better predictor of actions than global status. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900004
+</snippet>
+</document>
+
+<document id="30">
+<title>Covariate-defined latent space random effects model</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.03.005</url>
+<snippet>Latent factor models are a useful and intuitive class of models; one limitation is their inability to predict links in a dynamic network. We propose a latent space random effects model with a covariate-defined social space, where the social space is a linear combination of the covariates as estimated by an MCMC algorithm. The model allows for the prediction of links in a network; it also provides an interpretable framework to explain why people connect. We fit the model using the Adolescent Health Network dataset and three simulated networks to illustrate its effectiveness in recognizing patterns in the data. 
+WOS:000322692600007
+</snippet>
+</document>
+
+<document id="31">
+<title>Gender homophily from spatial behavior in a primary school: A sociometric study</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.08.003</url>
+<snippet>We investigate gender homophily in the spatial proximity of children (6-12 years old) in a French primary school, using time-resolved data on face-to-face proximity recorded by means of wearable sensors. For strong ties, i.e., for pairs of children who interact more than a defined threshold, we find statistical evidence of gender preference that increases with grade. For weak ties, conversely, gender homophily is negatively correlated with grade for girls, and positively correlated with grade for boys. This different evolution with grade of weak and strong ties exposes a contrasted picture of gender homophily. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000328713500009
+</snippet>
+</document>
+
+<document id="32">
+<title>Evaluation of strategies to mitigate contagion spread using social network characteristics</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.01.002</url>
+<snippet>Computer simulation is an effective tool for assessing mitigation strategies, with recent trends concentrating on agent-based techniques. These methods require high computational efforts in order to simulate enough scenarios for statistical significance. The population individuals and their contacts determined by agent-based simulations form a social network. For some network structures it is possible to gain high accuracy estimates of contagion spread based on the connection structure of the network, an idea that is utilized in this work. A representative social network constructed from the 2006 census of the Greater Toronto Area (Ontario, Canada) of 5 million individuals in 1.8 million households is used to demonstrate the efficacy of our approach. We examine the effects of six mitigation strategies with respect to their ability to contain disease spread as indicated by pre- and post-vaccination reproduction numbers, mean local clustering coefficients and degree distributions. One outcome of the analysis provides evidence supporting the design of mitigation strategies that aim to fragment the population into similarly sized components. While our analysis is framed in the context of pandemic disease spread, the approach is applicable to any contagion such as computer viruses, rumours, social trends, and so on. 
+WOS:000317943100007
+</snippet>
+</document>
+
+<document id="33">
+<title>Structural effects of network sampling coverage I: Nodes missing at random</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.09.003</url>
+<snippet>Network measures assume a census of a well-bounded population. This level of coverage is rarely achieved in practice, however, and we have only limited information on the robustness of network measures to incomplete coverage. This paper examines the effect of node-level missingness on 4 classes of network measures: centrality, centralization, topology and homophily across a diverse sample of 12 empirical networks. We use a Monte Carlo simulation process to generate data with known levels of missingness and compare the resulting network scores to their known starting values. As with past studies (Borgatti et al., 2006; Kossinets, 2006), we find that measurement bias generally increases with more missing data. The exact rate and nature of this increase, however, varies systematically across network measures. For example, betweenness and Bonacich centralization are quite sensitive to missing data while closeness and in-degree are robust. Similarly, while the tau statistic and distance are difficult to capture with missing data, transitivity shows little bias even with very high levels of missingness. The results are also clearly dependent on the features of the network. Larger, more centralized networks are generally more robust to missing data, but this is especially true for centrality and centralization measures. More cohesive networks are robust to missing data when measuring topological features but not when measuring centralization. Overall, the results suggest that missing data may have quite large or quite small effects on network measurement, depending on the type of network and the question being posed. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000328713500013
+</snippet>
+</document>
+
+<document id="34">
+<title>Socio-material network analysis: A mixed method study of five European artistic collectives</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.02.003</url>
+<snippet>In this paper, I argue that we can better understand the relationship between social structure and materiality by combining qualitative analysis of practices in shared physical space with statistical analysis. Drawing on the two-mode approach, I treat social and material structures together with the relationship between them as a two-level socio-material network. In a mixed method study, formalized ethnographic data on such networks in five European artistic collectives are subjected to multilevel exponential random graph modelling. It sheds light on how different kinds of interpersonal ties condition the engagement of individuals with similar materiality over time. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000432768600016
+</snippet>
+</document>
+
+<document id="35">
+<title>Familial groups in social networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.05.001</url>
+<snippet>Many structural definitions for social community have been proposed in attempt to characterize and further understand the structure of social relationships. Algorithms using quantitative concepts such as centrality measures, spectral methods and other clustering measures have been used to compute social communities. While these methods have had much success in extracting meaningful subgroups in social and biological (and other) networks, they do not necessarily reveal the defining structure of social attraction. We propose a new definition here for social community with a very clear and simple graph-theoretic structure which can also be realized as a new clique-relaxation. This structure evolved from Freeman's definition of social community, and this definition is further supported by long-standing sociometric principles such as Granovetter's weak-tie hypothesis or Faust's and others' studies on how global structure can be inferred from a complete understanding of local structures (although our definition goes beyond dyadic and triadic configurations). We provide computational results that show our simply-stated structural definition reveals communities that correspond almost identically to, and sometimes are better than, the widely used centrality-based methods. We name these new communities familial groups, inspired by the network structures resulting from inheritance or blood-line relations. These structures form naturally in hierarchical arrangements such as in corporate settings. Using results from graph theory, our structural definition for familial groups also immediately implies a ranking of the individuals within the group, easily identifying leaders and subcommunities. 
+WOS:000322692600015
+</snippet>
+</document>
+
+<document id="36">
+<title>Introduction to the special issue on advances in two-mode social networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.03.002</url>
+<snippet>
+WOS:000320479500001
+</snippet>
+</document>
+
+<document id="37">
+<title>Exploratory blockmodeling for one-mode, unsigned, deterministic networks using integer programming and structural equivalence</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.05.005</url>
+<snippet>Although there are well-known heuristics for the blockmodeling of one-mode, unsigned, deterministic networks using structural equivalence, the potential benefits of exact algorithms that generate globally optimal solutions are many. In this paper we extend the applicability of one such method - integer programming - to exploratory blockmodeling. Specifically, leveraging the work of Brusco and Steinley (2009), we use the isomorphic properties of the image matrix to develop a minimal, representative set of image matrices with P positions. Not only does this drastically reduce the total number of image matrices the researcher must fit, but it also simultaneously solves all blockmodels with less than P positions. We demonstrate and prove the latter using the structural equivalence of positions, and we subsequently develop a minimal set of image matrices for four or fewer positions. These developments are illustrated using Fines well-known Sharpstone Auto Little League Team network (1987), and we use the results to discover new structural features. In our account, competing, globally optimal alternatives are embraced as equally compelling, coexisting representations of a complex culture. Published by Elsevier B.V.
+WOS:000382592500009
+</snippet>
+</document>
+
+<document id="38">
+<title>Assessing respondent-driven sampling: A simulation study across different networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.05.004</url>
+<snippet>The purpose was to assess RDS estimators in populations simulated with diverse connectivity characteristics, incorporating the putative influence of misreported degrees and transmission processes. Four populations were simulated using different random graph models. Each population was "infected" using four different transmission processes. From each combination of population x transmission, one thousand samples were obtained using a RDS-like sampling strategy. Three estimators were used to predict the population-level prevalence of the "infection". Several types of misreported degrees were simulated. Also, samples were generated using the standard random sampling method and the respective prevalence estimates, using the classical frequentist estimator. Estimation biases in relation to population parameters were assessed, as well as the variance. Variability was associated with the connectivity characteristics of each simulated population. Clustered populations yield greater variability and no RDS-based strategy could address the estimation biases. Misreporting degrees had modest effects, especially when RDS estimators were used. The best results for RDS-based samples were observed when the "infection" was randomly attributed, without any relation with the underlying network structure. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300006
+</snippet>
+</document>
+
+<document id="39">
+<title>Social selection models for multilevel networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.12.003</url>
+<snippet>Social selection models (SSMs) incorporate nodal attributes as explanatory covariates for modelling network ties (Robins et al., 2001). The underlying assumption is that the social processes represented by the graph configurations without attributes are not homogenous, and the network heterogeneity maybe captured by nodal level exogenous covariates. In this article, we propose SSMs for multilevel networks as extensions to exponential random graph models (ERGMs) for multilevel networks (Wang et al., 2013). We categorize the proposed model configurations by their similarities in interpretations arising from complex dependencies among ties within and across levels as well as the different types of nodal attributes. The features of the proposed models are illustrated using a network data set collected among French elite cancer researchers and their affiliated laboratories with attribute information about both researchers and laboratories (Lazega et al., 2006, 2008). Comparisons between the models with and without nodal attributes highlight the importance of attribute effects across levels, where the attributes of nodes at one level affect the network structure at the other level. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900031
+</snippet>
+</document>
+
+<document id="40">
+<title>Two-mode brokerage in policy networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.11.005</url>
+<snippet>Gould and Fernandez (1989) developed a widely used operationalization of brokerage for one-mode networks. The basic idea of brokerage is that the central actor or broker benefits from spanning the gap (or structural hole) between two disconnected parties. However, it is not always advantageous to limit the systems studied to only one mode. We develop an operationalization of two-mode brokerage in which we can classify the structures according to the heterogeneity of the types of actors involved. We apply this conception to water policy networks in the San Joaquin Sacramento River Delta in California where two-mode networks represent organizations participating in multiple policy institutions. The potential benefits of brokerage are high in these types of fragmented systems where multiple institutions and organizations are involved with policy decisions. Of particular interest is the role of collaborative partnership institutions, which are hypothesized to broker the most heterogeneous structures. We use our two-mode version of brokerage to construct a scale of brokerage from most homogeneous to most heterogeneous. This scale lets us categorize both the role of these collaborative partnerships as well as the nature of brokerage in the system overall. (C) 2014 Elsevier B.V. All rights reserved.
+WOS:000351979100004
+</snippet>
+</document>
+
+<document id="41">
+<title>Focused model selection for social networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.03.002</url>
+<snippet>We present a focused selection method for social networks. The procedure is driven by a focus, the main quantity we want to estimate well. It represents the statistical translation of a research hypothesis into parameters of interest. Given a collection of models, the procedure estimates for each model the mean squared error of the estimator of the focus. The model with the smallest such value is selected. We present focused model selection for (i) exponential random graph models, (ii) network autocorrelation models and (iii) network regression models to investigate existing relations in social networks. Worked -out examples illustrate the methodology. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000375887800006
+</snippet>
+</document>
+
+<document id="42">
+<title>Homophily and prestige: An assessment of their relative strength to explain link formation in the online climate change debate</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.05.001</url>
+<snippet>Previous work has shown that hyperlinks reflect actors strategic choices; these dyadic relationships depend on the actors exogenous attributes (e.g., homophily) and the networks endogenous features (e.g., prestige distribution among actors). We combine these factors as explanatory variables in different exponential random graph models (ERGMs) to assess the relative strength of prestige and homophily for the actors link formation. We analyze the climate change discourse in a hyperlink network formed by US civil society actors from November 2014 and test how relevant the different factors are, including variables such as actor type, country, position, and topic. We find that both prestige and various aspects of homophily influence link formation online. With regard to the importance of the different factors, positional homophily stands out, followed by prestige and other homophily effects. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000444666300005
+</snippet>
+</document>
+
+<document id="43">
+<title>The strength of family ties: A meta-analysis and meta-regression of self-reported social support and mortality</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.08.004</url>
+<snippet>Perceived social support has long been recognized as associated with better health and longevity. However, important factors that may moderate this relationship have not been sufficiently explored. The authors used meta-analyses and meta-regressions to examine 178 all-cause mortality risk estimates from 50 publications, providing data on more than 100,000 persons. The mean hazard ratio (HR) for mortality among those with lower levels of perceived social support was 1.11(95&#37; confidence interval [CI]: 1.05, 1.17) among multivariate-adjusted HRs. Meta-regressions suggest that support from family members was more beneficial than support provided by friends, and that a moderate level of support may be enough to achieve positive results. The results also show that the importance of having support increases with age. No substantial difference was found between men and women with respect to the relationship between support and mortality. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000328713500011
+</snippet>
+</document>
+
+<document id="44">
+<title>Effects of competition on collective learning in advice networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.04.001</url>
+<snippet>This paper looks at the effect of identifying alters as direct competitors on their selection as advisors. We differentiate between two kinds of competition: cut-throat vs friendly. We argue that, unlike cut-throat competition, friendly competition makes collective learning possible as a social process: when knowledge is built in interactions that are able to mitigate the negative effects of status competition and take place in homophilous social niches; and when the quality of this knowledge is guaranteed by members with epistemic status in these niches. Social niches and status facilitate advice seeking and collective learning because advice seeking between direct competitors is not obvious even when members have a common interest in sharing advice - a learning-related dilemma of collective action. We apply this reasoning to a network dataset combining identification of direct competitors and selection of advisors among the elite of cancer researchers in France. We use a procedure of multiplex stochastic block-modeling designed by Barbillon et al. (2015) to measure the effect of these identifications of direct competitors on the structure of the advice network. Results obtained with this dataset support our theory. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000382592500001
+</snippet>
+</document>
+
+<document id="45">
+<title>&lt;i&gt;Linked Ego Networks&lt;/i&gt;: Improving estimate reliability and validity with respondent-driven sampling</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.10.001</url>
+<snippet>Respondent-driven sampling (RDS) is currently widely used for the study of HIV/AIDS-related high risk populations. However, recent studies have shown that traditional RDS methods are likely to generate large variances and may be severely biased since the assumptions behind RDS are seldom fully met in real life. To improve estimation in RDS studies, we propose a new method to generate estimates with ego network data, which is collected by asking respondents about the composition of their personal networks, such as "what proportion of your friends are married?". By simulations on an extracted real-world social network of gay men as well as on artificial networks with varying structural properties, we show that the precision of estimates for population characteristics is greatly improved. The proposed estimator shows superior advantages over traditional RDS estimators, and most importantly, the method exhibits strong robustness to the recruitment preference of respondents and degree reporting error, which commonly happen in RDS practice and may generate large estimate biases and errors for traditional RDS estimators. The positive results henceforth encourage researchers to collect ego network data for variables of interests by RDS, for both hard-to-access populations and general populations when random sampling is not applicable. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000328713500014
+</snippet>
+</document>
+
+<document id="46">
+<title>Peripheries of cohesive subsets</title>
+<url>http://dx.doi.org/</url>
+<snippet>Network analysts have developed a number of techniques for identifying cohesive subgroups in networks. In general, however, no consideration is given to actors that do not belong to a given group. In this paper, we explore ways of identifying actors that are not members of a given cohesive subgroup, but who are sufficiently well tied to the group to be considered peripheral members. We then use this information to explore the structure of the network as a whole. (C) 1999 Elsevier Science B.V. All rights reserved.
+WOS:000085200300005
+</snippet>
+</document>
+
+<document id="47">
+<title>Who are the objects of positive and negative gossip at work? A social network perspective on workplace gossip</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2011.11.003</url>
+<snippet>Gossip is informal talking about colleagues. Taking a social network perspective, we argue that group boundaries and social status in the informal workplace network determine who the objects of positive and negative gossip are. Gossip networks were collected among 36 employees in a public child care organization, and analyzed using exponential random graph modeling (ERGM). As hypothesized, both positive and negative gossip focuses on colleagues from the own gossipers work group. Negative gossip is relatively targeted, with the objects being specific individuals, particularly those low in informal status. Positive gossip, in contrast, is spread more evenly throughout the network. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000302394600005
+</snippet>
+</document>
+
+<document id="48">
+<title>Modelling a disease-relevant contact network of people who inject drugs</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.06.003</url>
+<snippet>This study uses social network analysis to model a contact network of people who inject drugs (PWID) relevant for investigating the spread of an infectious disease (hepatitis C). Using snowball sample data, parameters for an exponential random graph model (ERGM) including social circuit dependence and four attributes (location, age, injecting frequency, gender) are estimated using a conditional estimation approach that respects the structure of snowball sample designs. Those network parameter estimates are then used to create a novel, model-dependent estimate of network size. Simulated PWID contact networks are created and compared with Bernoulli graphs. Location, age and injecting frequency are shown to be statistically significant attribute parameters in the ERGM. Simulated ERGM networks are shown to fit the collected data very well across a number of metrics. In comparison with Bernoulli graphs, simulated networks are shown to have longer paths and more clustering. Results from this study make possible simulation of realistic networks for investigating treatment and intervention strategies for reducing hepatitis C prevalence. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000328713500016
+</snippet>
+</document>
+
+<document id="49">
+<title>"Trust Me": Differences in expressed and perceived trust relations in an organization</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2012.01.004</url>
+<snippet>The possibility of resolving the tension between trust as a psychological condition and trust as a general organizing principle depends on assumptions about the convergence of expressed and perceived trust relations. In empirical organizational research these assumptions are frequently left implicit and only rarely modeled directly. Using data that we have collected on trust relations within the top management team of a multiunit industrial group we specify and estimate multivariate exponential random graph models (ERGMs) that reveal important differences in the structural logics underlying networks of expressed and perceived trust relations. Results confirm that trust induces awareness and produces expectations of reciprocity - features that are consistent with the view of trust as a general organizing principle. Results also show that networks of perceived trust relations are characterized by tendencies toward reciprocity and generalized giving of trust. When multivariate network effects are introduced, however, expressed trust relations no longer show a significant tendency toward reciprocation. Interpreted together these results suggest that: (i) the distribution of expressed and perceived trust relations differs; (ii) expressed trust relations in organizations are more hierarchical than are perceived trust relations, and (iii) expressed and perceived trust relations need to be modeled jointly. These findings suggest caution in the adoption and interpretation of trust only as a general organizing principle, and suggest that psychological mechanisms also play an important role in the making and breaking of trust relations within organizations. (C) 2012 Elsevier B.V. All rights reserved.
+WOS:000313304100005
+</snippet>
+</document>
+
+<document id="50">
+<title>orr Network formation in the interbank money market: An application of the actor-oriented model</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.11.005</url>
+<snippet>This paper investigates the driving forces behind banks link formation in the interbank market by applying the stochastic actor oriented model (SAOM). Our data consists of quarterly networks constructed from the transactions on an electronic trading platform (e-MID) for interbank credit over the period from 2001 to 2010. The analysis strongly supports the hypothesis that the existence and extent of past credit relationships is a major determinant of credit provision (i.e., link formation) in subsequent periods. We also find explanatory power of size-related characteristics, but little influence of past interest rates. The actor based analysis, thus, confirms the prevalent view that interbank credit is mainly determined by lasting business relationships and less so by competition for the best price (interest rate). Our findings also show that topological features exert a certain influence on the network formation process. The major changes found for the period after the onset of the financial crisis are that: (1) large banks and those identified as core intermediaries became even more sought of as counterparties and (2) indirect counterparty risk appeared to be more of a concern as we find a higher tendency to avoid indirect exposure as indicated by clustering effects. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200019
+</snippet>
+</document>
+
+<document id="51">
+<title>Analytic strategies for longitudinal networks with missing data</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.02.001</url>
+<snippet>Missing data are often problematic when analyzing complete longitudinal social network data. We review approaches for accommodating missing data when analyzing longitudinal network data with stochastic actor-based models. One common practice is to restrict analyses to participants observed at most or all time points, to achieve model convergence. We propose and evaluate an alternative, more inclusive approach to sub-setting and analyzing longitudinal network data, using data from a school friendship network observed at four waves (N=694). Compared to standard practices, our approach retained more information from partially observed participants, generated a more representative analytic sample, and led to less biased model estimates for this case study. The implications and potential applications for longitudinal network analysis are discussed. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000403527900003
+</snippet>
+</document>
+
+<document id="52">
+<title>Personal networks in Saudi Arabia: The role of ascribed and achieved characteristics</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.10.007</url>
+<snippet>This study examines how ascribed characteristics (gender and nationality) and achieved characteristics (SES) are related to the extensity and occupational resources of personal networks in Saudi Arabia. Using large-scale survey data from Jeddah, results show that networks of women are smaller and less occupational resourceful, due to fewer non-family connections. Non-Saudi have more non-family ties and resources, but less resourceful family members. Higher SES individuals have larger and more resourceful personal networks. The study suggests that achieved status is more important in getting access to a wider variety of social ties and a more resourceful network than ascribed categories. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000371362600004
+</snippet>
+</document>
+
+<document id="53">
+<title>How social exclusion distorts social network perceptions</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.09.002</url>
+<snippet>In two studies we investigate whether social exclusion a well-studied, common and quite painful social experience-influences peoples perceptions of novel social networks. In a first study, exclusion experiences led people to report that novel networks were more dense relative to those who had not been excluded. As predicted, this was true only for social networks; exclusion had no impact on perceptions when networks were described as geographical. In a follow-up experiment, participants watched a custom-created video, depicting avatars interacting in social scenes and they were asked to report the ties among the avatars in the video. Exclusion experiences led people to see network ties where none exist (i.e., false positives), though there was no effect for exclusion (versus inclusion) on reports of false negatives. Results indicate that common social experiences systematically shape network perceptions, leading people to seeing novel social networks as more densely connected than they are. 
+WOS:000347585500012
+</snippet>
+</document>
+
+<document id="54">
+<title>The network of global migration 1990-2013 Using ERGMs to test theories of migration between countries</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.08.006</url>
+<snippet>For the period 1990-2013, 202 countries are analysed as nodes linked by in- or out-migration of substantial shares of the sending countrys population. The resulting network shows regional, but also "cultural" clustering. Variants of ERGMs are used to determine geographic, demographic, economic, religious, linguistic as well as historical factors of migration between countries. Results are in line with gravity models, theories of global inequality, hegemonic languages and religious homophily, even though not all effects are fully consistent across all models. Moreover, former colonies show higher out-degree and there are strong network-structural effects indicating a hierarchy in attractiveness between countries for unobserved reasons. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000427340000003
+</snippet>
+</document>
+
+<document id="55">
+<title>The next steps in the study of missing individuals in networks: a comment on Smith et al. (2017)</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.05.002</url>
+<snippet>Social network analysis is now used widely to study social behaviour in humans and non-human animals, and missing individuals can represent a problem for network studies. This problem is becoming especially frequent in studies using bio-logging to collect interaction data, which is an approach used particularly frequently in the construction of animal networks. This therefore represents an important audience for Smith et al. (2017) who investigate how sub-sampling from networks impacts the outcome of subsequent analysis. Here I take advantage of the progress made by this paper to outline key issues that still require addressing to understand the effect of missing individuals on social network analysis. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300004
+</snippet>
+</document>
+
+<document id="56">
+<title>Information seeking in secondary schools: A multilevel network approach</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.03.006</url>
+<snippet>In this study, we investigate information seeking interactions in secondary schools from a multilevel network approach. Based on network-related theories, we examine the facilitating role of format subunits. We apply exponential random graph models for multilevel networks and summarize our findings by using a meta-analysis technique. Our results indicate that formal subunits (e.g. subject departments) can, to some extent, facilitate interactions, in loosely coupled organizations (e.g. secondary schools). Finally, this study shows that a multilevel network approach can provide a more informative representation of information seeking ties in knowledge-intensive organizations. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000403527900005
+</snippet>
+</document>
+
+<document id="57">
+<title>A concept for measuring network proximity of regions in R&amp;D networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.10.003</url>
+<snippet>This paper proposes a new measure for assessing the network proximity between aggregated units, based on disaggregated information on the network distance of actors. Specific focus is on R&amp;D network structures between regions. We introduce a weighted version of the proximity measure, related to the idea that direct and indirect linkages carry different types of knowledge. First-order proximity arising from direct cross-regional linkages is distinguished from higher-order network proximity, resulting from indirect linkages in the R&amp;D network. We use an macroeconomic application in which we analyse the productivity effects of R&amp;D network spillovers across regions to illustrate the usefulness of a proximity measure for aggregated units. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000432768600026
+</snippet>
+</document>
+
+<document id="58">
+<title>International production and trade in a high-tech industry: A multilevel network analysis</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.05.003</url>
+<snippet>We propose a multilevel network approach as an alternative framework to analyse the international organisation of an industrial sector. We present a novel application of a multilevel Exponential Random Graph Model to a multilevel network of firms linked by ownership at the micro level, countries linked by trade at the macro level, and a firm-county affiliation network linking the two in a high-tech industry. The results from the multilevel ERGM reveal a complex interplay between firm-level activity and international trade patterns. The approach can be extended to other industries to improve understanding of the international organisation of production, to map global value chains and to compare industries.
+WOS:000487171000006
+</snippet>
+</document>
+
+<document id="59">
+<title>Pathways to happiness: From personality to social networks and perceived support</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.04.005</url>
+<snippet>The present study attempts to incorporate individual personality into a social network account of subjective wellbeing (SWB) by proposing and testing a path model in which social relationships (egocentric social networks and perceived social support, PSS) mediate the relationship between personality and SWB. We found that network characteristics (including network size, emotional closeness, and proportion of new contacts) are related to SWB largely via the mediation of PSS. Additionally, network size and proportion of new contacts function as important mediating mechanisms linking extraversion, agreeableness and openness to PSS and SWB. 
+WOS:000322692600011
+</snippet>
+</document>
+
+<document id="60">
+<title>Seeing and being seen: Predictors of accurate perceptions about classmates' relationships</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.07.002</url>
+<snippet>This study examines predictors of observer accuracy (i.e. seeing) and target accuracy (i.e. being seen) in perceptions of classmates relationships in a predominantly African American sample of 420 second through fourth graders (ages 7-11). Girls, children in higher grades, and children in smaller classrooms were more accurate observers. Targets (i.e. pairs of children) were more accurately observed when they occurred in smaller classrooms of higher grades and involved same-sex, high-popularity, and similar-popularity children. Moreover, relationships between pairs of girls were more accurately observed than relationships between pairs of boys. As a set, these findings suggest the importance of both observer and target characteristics for childrens accurate perceptions of classroom relationships. Moreover, the substantial variation in observer accuracy and target accuracy has methodological implications for both peer-reported assessments of classroom relationships and the use of stochastic actor-based models to understand peer selection and socialization processes. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900001
+</snippet>
+</document>
+
+<document id="61">
+<title>Criminal collaboration and risk: The drivers of Al Qaeda's network structure before and after 9/11</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.01.005</url>
+<snippet>A groups resilience is often linked to its network structure. While decentralized network properties have been associated with resilience at the group-level, little is known about the individual-level factors that lead groups to adopt these structures. Criminal groups, consistently faced with unexpected external disruptions, provide an opportunity to examine individual decisions to collaborate across periods of increased risk. Using data on 118 terrorist offenders across six attacks we test whether individual decisions to collaborate are influenced by variation in law enforcement activity. Results from exponential random graph models demonstrate that many of the processes that drive collaboration between offenders differ when faced with greater risk. Connectivity was maximized in periods of decreased enforcement activity, with offenders more likely to collaborate in dense, local triads. Following an increase in interdictions, triad closure had no impact on co-offending. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000411771300015
+</snippet>
+</document>
+
+<document id="62">
+<title>Multilevel network data facilitate statistical inference for curved ERGMs with geometrically weighted terms</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.11.003</url>
+<snippet>Multilevel network data provide two important benefits for ERG modeling. First, they facilitate estimation of the decay parameters in geometrically weighted terms for degree and triad distributions. Estimating decay parameters from a single network is challenging, so in practice they are typically fixed rather than estimated. Multilevel network data overcome that challenge by leveraging replication. Second, such data make it possible to assess out-of-sample performance using traditional cross-validation techniques. We demonstrate these benefits by using a multilevel network sample of classroom networks from Poland. We show that estimating the decay parameters improves in-sample performance of the model and that the out-of-sample performance of our best model is strong, suggesting that our findings can be generalized to the population of interest.
+WOS:000487171000009
+</snippet>
+</document>
+
+<document id="63">
+<title>A new criterion function for exploratory blockmodeling for structural and regular equivalence</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2012.12.001</url>
+<snippet>We present a new criterion function for blockmodeling two-way two-mode relation matrices when the number of blocks as well as the equivalence relation are unknown. For this, we specify a measure of fit based on data compression theory, which allows for the comparison of blockmodels of different sizes and block types from different equivalence relations. We arm an alternating optimization algorithm with this criterion and demonstrate that the method reproduces consensual blockings of three datasets without any pre-specification. We perform a simulation study where we compare our compression-based criterion to the commonly used criterion that measures the number of inconsistencies with an ideal blockmodel. 
+WOS:000317943100004
+</snippet>
+</document>
+
+<document id="64">
+<title>Algorithms for diversity and clustering in social networks through dot product graphs</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.01.001</url>
+<snippet>In this paper, we investigate a graph-theoretical model of social networks. The dot product model assumes that two individuals are connected in the social network if their attributes or opinions are similar. In the model, a d-dimensional vector a(v) represents the extent to which individual v has each of a set of d attributes or opinions. Then two individuals u and v are assumed to be friends, that is, they are connected in the graph model, if and only if a(u) . a(v) &gt;= t, for some fixed, positive threshold t. The resulting graph is called a d-dot product graph. We consider diversity and clustering in social networks by using a d-dot product graph model for the network. Diversity is considered through the size of the largest independent set of the graph, and clustering through the size of the largest clique. We present both positive and negative results on the potential of this model. We obtain a tight result for the diversity problem, namely that it is polynomial-time solvable for d = 2, but NP-hard for d &gt;= 3. We show that the clustering problem is polynomial-time solvable for d = 2. To our knowledge, these results are also the first on the computational complexity of combinatorial optimization problems on dot product graphs. We also give new insights into the structure of dot product graphs. We also consider the situation when two individuals u and v are connected if and only if their preferences are not antithetical, that is, if and only if a(u) . a(v) &gt;= 0, and the situation when two individuals u and v are connected if and only if their preferences are neither antithetical nor "orthogonal", that is, if and only if a(u) . a(v) &gt;= 0. For these two cases we prove that the diversity problem is polynomial-time solvable for any fixed d and that the clustering problem is polynomial-time solvable for d &lt;= 3. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000351979100005
+</snippet>
+</document>
+
+<document id="65">
+<title>Fuzzy duocentric community detection model in social networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.04.009</url>
+<snippet>The main goal of this paper is to present a clustering model to identify duocentric communities in the complex networks. A duocentric community is built around two central nodes which are as close as possible to other nodes, while the central nodes are connected enough to each other to shape the center of the community. To detect such communities, we develop a new objective function based clustering model. The networks nodes are assigned to the duocentric communities by the type-2 fuzzy numbers which indicate the degrees of belonging to the communities by upper and lower membership values. Generated interval type-2 fuzzy membership values by our proposed model are able to determine how much each node belongs to the both central nodes and how it is shared among communities. Also, the compatible verification index with the proposed model is introduced to evaluate and compare the results of the proposed model with the existing approach in the literature. Finally, the performance of the proposed algorithm is validated by detecting duocentric communities in three artificial networks and two real social networks. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000358626400016
+</snippet>
+</document>
+
+<document id="66">
+<title>A rational choice model of network status</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(96)00294-8</url>
+<snippet>This paper models network relations as inter-individual investments. Accordingly, actors choose, in a competitive setting, their investments into others to realize their interests in control over network ties. The central model outcome is the equilibrium price vector of (relations with) network members. It represents, from a structural point of view, a new status index. The latter reduces, for specific conditions, to Bonacichs two-parametric centrality measure and, thereby, provides a way to estimate the parameters of that measure.
+WOS:A1997XF61900003
+</snippet>
+</document>
+
+<document id="67">
+<title>Time as a limited resource: Communication strategy in mobile phone networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.01.003</url>
+<snippet>We used a large database of 9 billion calls from 20 million mobile users to examine the relationships between aggregated time spent on the phone, personal network size, tie strength and the way in which users distributed their limited time across their network (disparity). Compared to those with smaller networks, those with large networks did not devote proportionally more time to communication and had on average weaker ties (as measured by time spent communicating). Further, there were not substantially different levels of disparity between individuals, in that mobile users tend to distribute their time very unevenly across their network, with a large proportion of calls going to a small number of individuals. Together, these results suggest that there are time constraints which limit tie strength in large personal networks, and that even high levels of mobile communication do not fundamentally alter the disparity of time allocation across networks. 
+WOS:000317943100008
+</snippet>
+</document>
+
+<document id="68">
+<title>From neighbors to school friends? How adolescents' place of residence relates to same-ethnic school friendships</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.07.004</url>
+<snippet>This study examines to what extent adolescents place of residence is related to the opportunities and the preferences to befriend same-ethnic classmates. Analyzing 3345 students within 158 German and Dutch school classes, we find that sharing a neighborhood provides additional meeting opportunities to become friends in class as adolescents are likely to befriend classmates who live nearby them or who live nearby a friend of them (propinquity mechanism). However, this hardly explains why adolescent friendship networks in school classes tend to be ethnically homogeneous. Also, we find no convincing evidence that an adolescents preference for same-ethnic friends in class varies with the share of outgroup members in his/her neighborhood (exposure mechanism). (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900012
+</snippet>
+</document>
+
+<document id="69">
+<title>Analyzing multiplex networks using factorial methods</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.07.005</url>
+<snippet>Multiplex networks arise when more than one source of relationships exists for a common set of nodes. Many approaches to deal with this kind of complex network data structure are reported in the literature. In this paper, we propose the use of factorial methods to visually explore the complex structure of multiplex networks. Specifically, the adjacency matrices derived from multiplex networks are analyzed using the DISTATIS technique, an extension of multidimensional scaling to three-way data. This technique allows the representation of the different types of relationships in both separate spaces for each layer and a compromise space. The analytical procedure is illustrated using a real world example and simulated data.
+WOS:000487171000013
+</snippet>
+</document>
+
+<document id="70">
+<title>Omission and commission errors in network cognition and network estimation using ROC curve</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.03.007</url>
+<snippet>Network studies on cognitive social structures collect relational data on respondents direct ties and their perception of ties among all other individuals in the network. When reporting their perception networks, respondents commit two types of errors, namely, omission (false negatives) and commission (false positives) errors. We first assess the relationship between these two error types, and their contributions on overall respondent accuracy. Next we propose a method for estimating networks based on perceptions of a random sample of respondents from a bounded social network, which utilizes the receiver operator characteristic curve for balancing the tradeoffs between omission and commission errors. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000403527900004
+</snippet>
+</document>
+
+<document id="71">
+<title>When is brokerage negatively associated with economic benefits? Ethnic diversity, competition, and common-pool resources</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.11.004</url>
+<snippet>There is a growing body of literature positively linking dimensions of social capital to economic benefits. Yet recent research also points to a potential "dark side" of social capital, where over-embeddedness in networks and the pressures associated with brokerage are hypothesized to constrain actors, having a negative effect on economic outcomes. This dichotomy suggests that context is important, yet the overwhelming majority of existing empirical evidence stems from socially homogenous populations in corporate and organizational settings, limiting a broader understanding of when and how context matters. We advance this discourse to a socially fragmented, ethnically diverse common-pool resource system where information is highly valuable and competition is fierce. Merging several unique datasets from Hawaiis pelagic tuna fishery, we find that network prominence, i.e., being well connected locally, has a significant, positive effect on economic productivity. In contrast, we find that brokerage, defined here as ties that bridge either structurally distinct or ethnically distinct groups, has a significant, negative effect. Taken together, our results provide empirical support to widespread claims of the value of information access in common-pool resource systems, yet suggest that in ethnically diverse, competitive environments, brokers may be penalized for sharing information across social divides. Our results thus contribute to an emerging theory on the fragile nature of brokerage that recognizes its potential perils and the importance of context. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000371362600005
+</snippet>
+</document>
+
+<document id="72">
+<title>What drives participatory policy processes: Grassroot activities, scientific knowledge or donor money? - A comparative policy network approach</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.03.001</url>
+<snippet>A policy network approach has been developed to assess participatory policy processes in Ghana, Senegal, and Uganda. Theoretically, political influence measures correspond to two different influence mechanisms: vote buying and informational lobbying. For each mechanism, separate measures were defined and empirically derived from corresponding policy networks. Exponential random graph models were used to assess the network generating process, which allows for analysis of the robustness of the derived influence measures and the determinants of network structure. The results imply that participatory policy processes are dominated by donor and research organizations, while farm interests and civil society organizations have only a negligible influence. The design of stakeholder systems appears to be difficult since the observed network structures are mainly determined by relational factors that result from organizations social networking activities or other organizational attributes, such as reputation power, which cannot be easily controlled. Institutional factors such as membership in committees have only a minor impact.
+WOS:000472813200007
+</snippet>
+</document>
+
+<document id="73">
+<title>Old friends and new acquaintances: Tie formation mechanisms in an interorganizational network generated by employee mobility</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.02.005</url>
+<snippet>This study investigates mechanisms of tie formation in an interorganizational network generated by the mobility of employees between organizations. We analyze a data set that contains information on all organizations in the Stockholm metropolitan area between 1990 and 2003. We show that the formation of new ties is contingent upon the direction of past ties, and that most connections occur at an intermediate geodesic distance of 2 and 3. The findings highlight the importance of tie direction and indirect connections in research on network dynamics and knowledge exchanges stemming from the mobility of employees across organizations. 
+WOS:000322692600002
+</snippet>
+</document>
+
+<document id="74">
+<title>Statistical adjustment of network degree in respondent-driven sampling estimators: Venue attendance as a proxy for network size among young MSM</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.01.003</url>
+<snippet>We introduce a new venue-informed network degree measure, which we applied to respondent-driven sampling (RDS) estimators. Using data collected from 746 young MSM in 2014-2016 in Chicago, IL, and Houston, TX, we estimated the population seroprevalence of HIV and syphilis and risk/protective behaviors, using RDS estimates with self-reported network size as a standard degree measure as well as our proposed venue-informed degree measure. The results indicate that the venue-informed degree measure tended to be more efficient (smaller variance) and less biased than the other measure in both cities sampled. Venue attendance-adjusted network size may provide a more reliable and accurate degree measure for RDS estimates of the outcomes of interest. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000432768600011
+</snippet>
+</document>
+
+<document id="75">
+<title>Introduction to multilevel social networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.10.006</url>
+<snippet>
+WOS:000367423900024
+</snippet>
+</document>
+
+<document id="76">
+<title>Empirical reference distributions for networks of different size</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.03.004</url>
+<snippet>Network analysis has become an increasingly prevalent research tool across a vast range of scientific fields. Here, we focus on the particular issue of comparing network statistics, i.e. graph-level measures of network structural features, across multiple networks that differ in size. Although "normalized" versions of some network statistics exist, we demonstrate via simulation why direct comparison is often inappropriate. We consider normalizing network statistics relative to a simple fully parameterized reference distribution and demonstrate via simulation how this is an improvement over direct comparison, but still sometimes problematic. We propose a new adjustment method based on a reference distribution constructed as a mixture model of random" graphs which reflect the dependence structure exhibited in the observed networks. We show that using simple Bernoulli models as mixture components in this reference distribution can provide adjusted network statistics that are relatively comparable across different network sizes but still describe interesting features of networks, and that this can be accomplished at relatively low computational expense. Finally, we apply this methodology to a collection of ecological networks derived from the Los Angeles Family and Neighborhood Survey activity location data. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000382592500003
+</snippet>
+</document>
+
+<document id="77">
+<title>Unpacking reputational power: Intended and unintended determinants of the assessment of actors' power</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.02.008</url>
+<snippet>The idea behind the reputational measure for assessing power of political actors is that actors involved in a decision-making process have the best view of their fellows power. There has been, however, no systematic examination of why actors consider other actors as powerful. Consequently, it is unclear whether reputational power measures what it ought to. The paper analyzes the determinants of power attribution and distinguishes intended from unintended determinants in a data-set of power assessment covering 10 political decision-making processes in Switzerland. Results are overall reassuring, but nevertheless point toward self-promotion or misperception biases, as informants systematically attribute more power to actors with whom they collaborate. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000355050600006
+</snippet>
+</document>
+
+<document id="78">
+<title>Efficient Bayesian inference for exponential random graph models by correcting the pseudo-posterior distribution</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.03.013</url>
+<snippet>Exponential random graph models are an important tool in the statistical analysis of data. However, Bayesian parameter estimation for these models is extremely challenging, since evaluation of the posterior distribution typically involves the calculation of an intractable normalizing constant. This barrier motivates the consideration of tractable approximations to the likelihood function, such as the pseudolikelihood function, which offers an approach to constructing such an approximation. Naive implementation of what we term a pseudo-posterior resulting from replacing the likelihood function in the posterior distribution by the pseudolikelihood is likely to give misleading inferences. We provide practical guidelines to correct a sample from such a pseudo-posterior distribution so that it is approximately distributed from the target posterior distribution and discuss the computational and statistical efficiency that result from-this approach. We illustrate our methodology through the analysis of real-world graphs. Comparisons against the approximate exchange algorithm of Caimo and Friel (2011) are provided, followed by concluding remarks. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000403527900010
+</snippet>
+</document>
+
+<document id="79">
+<title>Integration and radiality: measuring the extent of an individual's connectedness and reachability in a network</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(97)00007-5</url>
+<snippet>This paper presents two measures, integration and radiality, which indicate the degree an individual is connected and reachable within a network. The measures are created using a reverse distance (geodesic) matrix thus providing a directed closeness measure. Integration and radiality are then correlated with other centrality measures to examine the differences and similarities between each other and these other centrality measures. We then show how integration and radiality are associated with certain demographic and substantive variables. Integration and radiality provide a new index of network structure and our results show how that structure may influence behavior. (C) 1998 Elsevier Science B.V.
+WOS:000071662800005
+</snippet>
+</document>
+
+<document id="80">
+<title>Weak ties and contact initiation in everyday life: Exploring contextual variations from contact diaries</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.02.004</url>
+<snippet>This study examines how the significance of weak ties varies by contact initiation and purposes of contact in everyday life. Based on data from 55 contact diaries, we analyze the extent to which diary keepers judge each of 104,361 specific contacts as beneficial after they occur, by how well they knew the target person beforehand. Our hypothesis testing and bootstrap resampling show that when a diary keeper initiates a contact, weak ties result in more gains. In contrast, when the other party starts the contact, it is strong rather than weak ties that turn out to be more beneficial to the diary keeper. Such effects vary by other contextual factors, however, particularly the purposes of contacts. 
+WOS:000322692600001
+</snippet>
+</document>
+
+<document id="81">
+<title>External exposure, boundary-spanning, and opinion leadership in remote communities: A network experiment</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.08.002</url>
+<snippet>Are boundary spanners opinion leaders in ethnically segregated remote low-income communities or are they shunned? Can external exposure create opinion leaders in such peripheral communities? To answer these questions, we invited randomly selected farmers from 16 randomly selected communities in Sumatra to three-day networking and training events outside of their villages. The substantive purpose of these events was for the farmers to learn new practices from their peers in the visited locations. Eighteen months later, we conducted a sociocentric survey of information-sharing networks in the 16 communities. These 16 networks included 380 members, of which 117 participated in our randomized intervention and 263 were in the control group. We found that participants of our randomized intervention had an average indegree that was double that of the control group (2.8 vs 1.4). We applied Exponential Random Graph Models to the 16 networks to account for endogenous network tendencies. We treated participation in the intervention and the number of boundary spanning links of each actor as node covariates. Results from our models show that actors who participated in the intervention had higher levels of influence in their communities than the control group, and actors with more boundary spanning links were more popular sources of advice. The results suggest that network interventions do not always need to rely on opinion leaders. Under certain conditions, interventions can create opinion leaders by changing local social networks. We conclude with methodological implications for using interventions in social network research.
+WOS:000454966400002
+</snippet>
+</document>
+
+<document id="82">
+<title>The local and global structure of knowledge production in an emergent research field: An exponential random graph analysis</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2010.09.001</url>
+<snippet>Previous research has characterized knowledge networks by diffuse connectivity and/or clusters and the absence of centrality. In contrast, exponential random graph models used in this article demonstrate that the uncertainty and centralized influence typical of an emerging area of research leads to the creation of a densely interconnecting core that acts to cohere the network. Moreover, eclecticism and innovativeness, also characteristic of a developing area, lead to a diffusely connected structure. The data, comprising 2200 authors and 76 papers have been manually coded from articles on the feminization of the labor force in Asia. (C) 2010 Elsevier B.V. All rights reserved.
+WOS:000291962000003
+</snippet>
+</document>
+
+<document id="83">
+<title>The "unfriending" problem: The consequences of homophily in friendship retention for causal estimates of social influence</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2011.05.003</url>
+<snippet>An increasing number of scholars are using longitudinal social network data to try to obtain estimates of peer or social influence effects. These data may provide additional statistical leverage, but they can introduce new inferential problems. In particular, while the confounding effects of homophily in friendship formation are widely appreciated, homophily in friendship retention may also confound causal estimates of social influence in longitudinal network data. We provide evidence for this claim in a Monte Carlo analysis of the statistical model used by Christakis, Fowler. and their colleagues in numerous articles estimating "contagion" effects in social networks. Our results indicate that homophily in friendship retention induces significant upward bias and decreased coverage levels in the Christakis and Fowler model if there is non-negligible friendship attrition over time. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000294520200004
+</snippet>
+</document>
+
+<document id="84">
+<title>Popularity breeds contempt: The evolution of reputational dislike relations and friendships in high school</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.07.006</url>
+<snippet>In this study, we examined the dynamics of the perception of "dislike" ties (reputational dislike) among adolescents within the contexts of friendship, perceived popularity, substance use, and Facebook use. Survey data were collected from a longitudinal sample of 238 adolescents from the 11th and 12th grades in one California high school. We estimated stochastic actor-based network dynamic models, using reports of reputational dislike, friendships, and perceived popularity, to identify factors associated with the maintenance and generation reputational dislike ties. The results showed that high-status adolescents and more frequent Facebook users tended to become perceived as or stay disliked by their peers over time. There was a tendency for friendships to promote the creation and maintenance of reputational disliking but not vice versa. Adolescents tended to perceive others as disliked when their friends also perceived them as disliked. There was no evidence that either cigarette smoking or drinking alcohol affected reputational dislike dynamics. This study highlights the important role that the hierarchical peer system, online peer context, and friendships play in driving information diffusion of negative peer relations among adolescents. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200008
+</snippet>
+</document>
+
+<document id="85">
+<title>Why does everybody hate me? Balance, status, and homophily: The triumvirate of signed tie formation</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.08.002</url>
+<snippet>Despite being one of the foundational theories of signed (positive/negative) tie formation, the evidence for balance theory is far from conclusive. A recent promising alternative is status theory, but a theoretical and explanatory gap still remains, with a dearth of theories and evidence. We put forward and test eight separate theories of signed tie formation on two face-to-face networks of friendship and esteem of 282 students. We use dimension reduction (factor analysis) on the results tables comparing the predictions of these eight theories for 50 ERGM parameters with our estimated models. We find three main paradigms explain the majority of signed network formation: balance, status, and homophily. 
+WOS:000347585500011
+</snippet>
+</document>
+
+<document id="86">
+<title>Birds of a feather scam together: Trustworthiness homophily in a business network</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2018.01.009</url>
+<snippet>Estimating the trustworthiness of a set of actors when all the available information is provided by the actors themselves is a hard problem. When two actors have conflicting reports about each other, how do we establish which of the two (if any) deserves our trust? In this paper, we model this scenario as a network problem: actors are nodes in a network and their reports about each other are the edges of the network. To estimate their trustworthiness levels, we develop an iterative framework which looks at all the reports about each connected actor pair to define its trustworthiness balance. We apply this framework to a customer/supplier business network. We show that our trustworthiness score is a significant predictor of the likelihood a business will pay a fine if audited. We show that the market network is characterized by homophily: businesses tend to connect to partners with similar trustworthiness degrees. This suggests that the topology of the network influences the behavior of the actors composing it, indicating that market regulatory efforts should take into account network theory to prevent further degeneration and failures. (C) 2018 Published by Elsevier B.V.
+WOS:000432768600019
+</snippet>
+</document>
+
+<document id="87">
+<title>Estimating network properties from snowball sampled data</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2012.09.001</url>
+<snippet>This article addresses the estimation of topological network parameters from data obtained with a snowball sampling design. An approximate expression for the probability of a vertex to be included in the sample is derived. Based on this sampling distribution, estimators for the mean degree, the degree correlation, and the clustering coefficient are proposed. The performance of these estimators and their sensitivity with respect to the response rate are validated through Monte Carlo simulations on several test networks. Our approach has no complex computational requirements and is straightforward to apply to real-world survey data. In a snowball sample design, each respondent is typically enquired only once. Different from the widely used estimator for Respondent-Driven Sampling (RDS), which assumes sampling with replacement, the proposed approach relies on sampling without replacement and is thus also applicable for large sample fractions. From the simulation experiments, we conclude that the estimation quality decreases with increasing variance of the network degree distribution. Yet, if the degree distribution is not to broad, our approach results in good estimates for the mean degree and the clustering coefficient, which, moreover, are almost independent from the response rate. The estimates for the degree correlation are of moderated quality. (C) 2012 Elsevier B.V. All rights reserved.
+WOS:000313304100032
+</snippet>
+</document>
+
+<document id="88">
+<title>Substantive implications of unobserved heterogeneity: Testing the frailty approach to exponential random graph models</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.07.002</url>
+<snippet>Exponential Random Graph Models (ERGMs) are an increasingly common tool for inferential network analysis. However, a potential problem for these models is the assumption of correct model specification. Through six substantive applications (Mesa High, Florentine Marriage, Military Alliances, Militarized Interstate Disputes, Regional Planning, Brain Complexity), we illustrate how unobserved heterogeneity and confounding leads to degenerate model specifications, inferential errors, and poor model fit. In addition, we present evidence that a better approach exists in the form of the Frailty Exponential Random Graph Model (FERGM), which extends the ERGM to account for unit or group-level heterogeneity in tie formation. In each case, the ERGM is prone to producing inferential errors and forecasting ties with lower accuracy than the FERGM.
+WOS:000487171000012
+</snippet>
+</document>
+
+<document id="89">
+<title>Eigenvector centrality and structural zeroes and ones: When is a neighbor not a neighbor?</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.04.006</url>
+<snippet>There will be occasions in which a researcher wants to ignore some dyads in the computation of centrality in order to avoid biased or misleading results. This paper presents a principled way of computing eigenvector-like centrality scores when some dyads are not included in the calculations. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000358626400008
+</snippet>
+</document>
+
+<document id="90">
+<title>Social relations in a chronic care hospital: a whole network study of patients, family and employees</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(97)00008-7</url>
+<snippet>Institutionalization is associated with the loss of informal social ties because isolation in the community increases the risk of admission and/or admission to a facility increases the risk that ties will be severed. The literature on social relationships with institutions has been limited by the use of biased samples, simplistic measures and exclusion of patients unable to respond to verbal or written questionnaires. The methodological aspects of a whole network study of chronic care hospital patients are discussed with a particular emphasis on network sampling and non-response bias. The substantive aspects of the present analyses focus in the different patterns of relationships of patients, family and employees in a hospital setting. (C) 1998 Elsevier Science B.V.
+WOS:000074266900003
+</snippet>
+</document>
+
+<document id="91">
+<title>The structure of online social networks mirrors those in the offline world</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.04.005</url>
+<snippet>We use data on frequencies of bi-directional posts to define edges (or relationships) in two Facebook datasets and a Twitter dataset and use these to create ego-centric social networks. We explore the internal structure of these networks to determine whether they have the same kind of layered structure as has been found in offline face-to-face networks (which have a distinctively scaled structure with successively inclusive layers at 5, 15,50 and 150 alters). The two Facebook datasets are best described by a four-layer structure and the Twitter dataset by a five-layer structure. The absolute sizes of these layers and the mean frequencies of contact with alters within each layer match very closely the observed values from offline networks. In addition, all three datasets reveal the existence of an innermost network layer at similar to 1.5 alters. Our analyses thus confirm the existence of the layered structure of ego-centric social networks with a very much larger sample (in total, &gt;185,000 egos) than those previously used to describe them, as well as identifying the existence of an additional network layer whose existence was only hypothesised in offline social networks. In addition, our analyses indicate that online communities have very similar structural characteristics to offline face-to-face networks. Published by Elsevier B.V.
+WOS:000358626400004
+</snippet>
+</document>
+
+<document id="92">
+<title>Power laws and fragility in flow networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.01.005</url>
+<snippet>What makes economic and ecological networks so unlike other highly skewed networks in their tendency toward turbulence and collapse? Here, we explore the consequences of a defining feature of these networks: their nodes are tied together by flow. We show that flow networks tend to the power law degree distribution (PLDD) due to a self-reinforcing process involving position within the global network structure, and thus present the first random graph model for PLDDs that does not depend on a rich-get-richer function of nodal degree. We also show that in contrast to non-flow networks, PLDD flow networks are dramatically more vulnerable to catastrophic failure than non-PLDD flow networks, a finding with potential explanatory power in our age of resource- and financial-interdependence and turbulence. 
+WOS:000317943100010
+</snippet>
+</document>
+
+<document id="93">
+<title>Weak ties and the core discussion network: Why people regularly discuss important matters with unimportant alters</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.05.004</url>
+<snippet>Researchers have paid increasing attention to the core discussion network, the set of friends and family people turn to when discussing important matters. For nearly thirty years, social network researchers have argued that the network is composed of egos closest or most important alters. This assumption, however, has not been tested empirically. Using original data on an online representative quota survey of 2000 respondents, I find that 45&#37; of the core discussion network is composed of people whom respondents do not consider important to them. In fact, the core discussion network includes doctors, co-workers, spiritual leaders, and other alters whom ego confides in without feeling emotionally attached to. I examine what respondents consider important matters and why they approach weak ties to discuss these. Placing emphasis on the process through which ego mobilizes alters, I develop two theoretical perspectives, which focus on how people identify those appropriate to a topic and how they respond to opportunities in interactional contexts. Findings suggest that ego discusses important matters with non-close alters at times because they are known to be knowledgeable (targeted mobilization) and at times because they are available when important issues arise (opportune mobilization). Results suggest that recent findings about changes in the core discussion network of Americans are consistent with several different possibilities about the nature of strong ties, including those in which there has been no change at all. 
+WOS:000322692600018
+</snippet>
+</document>
+
+<document id="94">
+<title>Validation of tie corroboration and reported alter characteristics among a sample of young men who have sex with men</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.10.001</url>
+<snippet>The differences between direct ties (i.e., ties between a respondent and their nominees) and ties between nominees (indirect) are key to understanding network structure, yet remain understudied. Within a sample of 175 young men who have sex with men, we explored the corroboration of sex and drug ties, and factors associated with corroboration. The majority of instances in which there was no corroboration for either sex or drug ties was due to one individual not appearing in another respondents network. When an individual did appear in another respondents network, direct sex and drug ties were corroborated in most cases. We also found that more indirect sex ties were corroborated than direct sex ties (95.7&#37; vs. 88.9&#37;), but the reverse was true for indirect versus direct drug ties (73.1&#37; vs. 84.1&#37;). Strength of relationship and frequency of communication were both associated with confirmed direct ties, but not with indirect ties. Based on these findings, we recommend that direct and indirect ties be treated differently in network analyses. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200020
+</snippet>
+</document>
+
+<document id="95">
+<title>Triadic closure in two-mode networks: Redefining the global and local clustering coefficients</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2011.07.001</url>
+<snippet>As the vast majority of network measures are defined for one-mode networks, two-mode networks often have to be projected onto one-mode networks to be analyzed. A number of issues arise in this transformation process, especially when analyzing ties among nodes' contacts. For example, the values attained by the global and local clustering coefficients on projected random two-mode networks deviate from the expected values in corresponding classical one-mode networks. Moreover, both the local clustering coefficient and constraint (structural holes) are inversely associated to nodes' two-mode degree. To overcome these issues, this paper proposes redefinitions of the clustering coefficients for two-mode networks. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000320479500003
+</snippet>
+</document>
+
+<document id="96">
+<title>Cluster analysis of multiplex networks: Defining composite network measures</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.01.002</url>
+<snippet>Social relations are multiplex by nature: actors in a group are tied together by various types of relationships. To understand and explain group processes it is, therefore, important to study multiple social networks simultaneously in a given group. However, with multiplexity the complexity of data also increases. Although some multivariate network methods (e.g. Exponential Random Graph Models, Stochastic Actor-oriented Models) allow to jointly analyze multiple networks, modeling becomes complicated when it focuses on more than a few (2-4) network dimensions. In such cases, dimension reduction methods are called for to obtain a manageable set of variables. Drawing on existing statistical methods and measures, we propose a procedure to reduce the dimensions of multiplex network data measured in multiple groups. We achieve this by clustering the networks using their pairwise similarities, and constructing composite network measures as combinations of the networks in each resulting cluster. The procedure is demonstrated on a dataset of 21 interpersonal network dimensions in 18 Hungarian high-school classrooms. The results indicate that the network items organize into three well-interpretable clusters: positive, negative, and social role attributions. We show that the composite networks defined on these three relationship groups overlap but do not fully coincide with the network measures most often used in adolescent research, such as friendship and dislike. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000395601700008
+</snippet>
+</document>
+
+<document id="97">
+<title>The rationality of social structure: Cooperation in social dilemmas through investments in and returns on social capital</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.05.006</url>
+<snippet>We develop a game-theoretic model of how social structure in the sense of a network of relations between actors helps to mitigate social dilemmas. We simultaneously endogenize the network by modeling actors incentives to establish the network. Since the network of relations helps to mitigate social dilemmas, it constitutes social capital. We thus analyze investments in and returns on social capital in social dilemmas and characterize the value of social capital. Our model covers a class of social dilemma games including the Trust Game, the Investment Game, the Prisoners Dilemma, the two-actor Public Goods Game, and others. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000328713500018
+</snippet>
+</document>
+
+<document id="98">
+<title>Investor commitment to serial entrepreneurs: A multilayer network analysis</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.10.002</url>
+<snippet>Social networks are complex systems composed of interdependent organizations and people with diverse network structures. Understanding network dynamics, such as exchange commitment, requires a methodological toolkit that does not assume away complexity. In this study, we extend a technique for analyzing longitudinal, multilayer network data called network alignment. We introduce a novel metric - intersect proportions - for analyzing similarity between divergent graphs. We demonstrate the application of network alignment and intersect proportions to the context of investor commitment to startups and entrepreneurs. Using this technique, we are able to disentangle exchange commitment across complex networks. (C) 2016 Published by Elsevier B.V.
+WOS:000389730200021
+</snippet>
+</document>
+
+<document id="99">
+<title>Networks of action and events over time. A multilevel discrete-time event history model for longitudinal network data</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2010.09.003</url>
+<snippet>Longitudinal network data recording the moment at which ties appear, change, or disappear are increasingly available. Event history models can be used to analyze the dynamics of time-stamped network data. This paper adapts the discrete-time event history model to social network data. A discrete-time event history model can easily incorporate a multilevel design and time-varying covariates. A multilevel design is needed to account for dependencies among ties and vertices, which should not be ignored in a small longitudinal network. Time-varying covariates are required to analyze network effects, that is, the impact of previous ties. In addition, a discrete-time event history model handles constraints on who can act or who can be acted upon in a straightforward way. The model can be estimated with multilevel logistic regression analysis, which is illustrated by an application to book reviews, so network evolution can be analyzed with a fairly standard statistical tool. (C) 2010 Elsevier B.V. All rights reserved.
+WOS:000291962000004
+</snippet>
+</document>
+
+<document id="100">
+<title>Considering clustering measures: Third ties, means, and triplets</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.02.007</url>
+<snippet>Measures that estimate the clustering coefficients of ego and overall social networks are important to social network studies. Existing measures differ in how they define and estimate triplet clustering with implications for how network theoretic properties are reflected. In this paper, we propose a novel definition of triplet clustering for weighted and undirected social networks that explicitly considers the relative strength of the tie connecting the two alters of the ego in the triplet. We argue that our proposed definition better reflects theorized effects of the important third tie in the social network literature. We also develop new methods for estimating triplet, local and global clustering. Three different types of mathematical means, i.e. arithmetic, geometric, and quadratic, are used to reflect alternative theoretical assumptions concerning the marginal effect of tie substitution. 
+WOS:000322692600003
+</snippet>
+</document>
+
+<document id="101">
+<title>A model for the multiplex dynamics of two-mode and one-mode networks, with an application to employment preference, friendship, and advice</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2012.05.005</url>
+<snippet>We propose a new stochastic actor-oriented model for the co-evolution of two-mode and one-mode networks. The model posits that activities of a set of actors, represented in the two-mode network, co-evolve with exchanges and interactions between the actors, as represented in the one-mode network. The model assumes that the actors, not the activities, have agency. The empirical value of the model is demonstrated by examining how employment preferences co-evolve with friendship and advice relations in a group of seventy-five MBA students. The analysis shows that activity in the two-mode network, as expressed by number of employment preferences, is related to activity in the friendship network, as expressed by outdegrees. Further, advice ties between students lead to agreement with respect to employment preferences. In addition, considering the multiplexity of advice and friendship ties yields a better understanding of the dynamics of the advice relation: tendencies to reciprocation and homophily in advice relations are mediated to an important extent by friendship relations. The discussion pays attention to the implications of this study in the broader context of current efforts to model the co-evolutionary dynamics of social networks and individual behavior. (C) 2012 Elsevier B.V. All rights reserved.
+WOS:000320479500011
+</snippet>
+</document>
+
+<document id="102">
+<title>Measurement error in network data: A re-classification</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2012.01.003</url>
+<snippet>Research on measurement error in network data has typically focused on missing data. We embed missing data, which we term false negative nodes and edges, in a broader classification of error scenarios. This includes false positive nodes and edges and falsely aggregated and disaggregated nodes. We simulate these six measurement errors using an online social network and a publication citation network, reporting their effects on four node-level measures - degree centrality, clustering coefficient, network constraint, and eigenvector centrality. Our results suggest that in networks with more positively-skewed degree distributions and higher average clustering, these measures tend to be less resistant to most forms of measurement error. In addition, we argue that the sensitivity of a given measure to an error scenario depends on the idiosyncracies of the measures calculation, thus revising the general claim from past research that the more global a measure, the less resistant it is to measurement error. Finally, we anchor our discussion to commonly-used networks in past research that suffer from these different forms of measurement error and make recommendations for correction strategies. (C) 2012 Elsevier B.V. All rights reserved.
+WOS:000313304100004
+</snippet>
+</document>
+
+<document id="103">
+<title>The effect of spatial arrangement on judgments and errors in interpreting graphs</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(96)00299-7</url>
+<snippet>The spatial arrangement of social network data in graphs can influence viewers' perceptions of structural characteristics such as prominence, bridging and grouping. To study the extent of this effect, we conducted an experiment with 80 graduate students. Each student viewed three of five different spatial arrangements of the same network. We found that viewers' perceptions of structural features of the network changed as the spatial arrangement of the network changed. (C) 1997 Elsevier Science B.V.
+WOS:A1997XE81300003
+</snippet>
+</document>
+
+<document id="104">
+<title>Assimilation and differentiation: A multilevel perspective on organizational and network change</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.04.010</url>
+<snippet>This paper builds on recently derived stochastic actor-oriented models (SAOMs) for the coevolution of one-mode and two-mode networks, and extends them to the analysis of how concurrent multilevel processes of (internal) organizational and (external) network change affect one another over time. New effects are presented that afford specification and identification of two apparently conflicting microrelational mechanisms that jointly affect decisions to modify the portfolio of internal organizational activities. The first mechanism, assimilation, makes network partners more similar by facilitating the replication and diffusion of experience. The second mechanism, functional differentiation, operates to maintain and amplify differences between network partners by preventing or limiting internal organizational change. We illustrate the empirical value of the model in the context of data that we have collected on a regional community of hospital organizations connected by collaborative patient transfer relations observed over a period of seven years. We find that processes of social influence conveyed by network ties may lead both to similarity and differences among connected organizations. We discuss the implications of the results in the context of current research on interorganizational networks. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900032
+</snippet>
+</document>
+
+<document id="105">
+<title>Short- and long-term stability in organizational networks: Temporal structures of project teams</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.07.001</url>
+<snippet>Network research focuses on patterns of stable relationships, where stability represents the unfolding of social processes over long time frames. We argue that social interactions exhibit important regularities in different time frames (short and long term), reflecting distinct social processes. We illustrate the value of this distinction through a comparative case study of technology-mediated communication, within two project teams in a digital marketing agency. We examine how the embedding of interpersonal interactions in processes of reciprocity and closure over different time horizons enables the emergence of cohesion in the face of constant compositional changes. We propose that the time frames in which stable patterns of interactions develop are the key to understanding the nature of the underlying social processes with short-term patterns of closure and reciprocity representing adaptation to change while longer term patterns indicate cohesion. Our results are supportive of this argument and show that the two teams exhibit the same regularities in interactions but across different time horizons. We discuss the implication of our findings and argue that distinguishing between short- and long-term stability of social networks offers a novel and promising avenue for network research. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000328713500003
+</snippet>
+</document>
+
+<document id="106">
+<title>Sex and network recall accuracy</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.06.002</url>
+<snippet>How does an individuals sex influence their recall of social relations? Extensive research has shown that social networks differ by sex and has attempted to explain these differences either through structural availability or individual preferences. Addressing the limitations of these explanations, we build on an increasing body of research emphasizing the role of cognition in the formation and maintenance of networks to argue that males and females may exhibit different strategies for encoding and recalling social information in memory. Further, because activating sex roles can alter cognitive performance, we propose that differences in recall may only or primarily appear when respondents are made aware of their sex. We explore differences in male and female network memory using a laboratory experiment asking respondents to memorize and recall a novel social network after receiving either a sex prime or a control prime. We find that sex significantly impacts social network recall, however being made aware of ones sex does not. Our results provide evidence that differences in male and female networks may be partly due to sex-based differences in network cognition. (C) 2015 The Authors. Published by Elsevier B.V.
+WOS:000367423900007
+</snippet>
+</document>
+
+<document id="107">
+<title>The development of adolescents' friendships and antipathies: A longitudinal multivariate network test of balance theory</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.05.003</url>
+<snippet>We examined the interplay between friendship (best friend) and antipathy (dislike) relationships among adolescents (N=480; 11-14 years) in two US middle schools over three years (grades 6, 7, and 8). Using longitudinal multivariate network analysis (RSiena), the effects of friendships on antipathies and vice versa were tested, while structural network effects (e.g., density, reciprocity, and transitivity) and individual (age, gender, and ethnicity) and behavioral (prosocial and antisocial behavior) dispositions were controlled for. Based on (structural) balance theory, it was expected that friendships would be formed or maintained when two adolescents disliked the same person (shared enemy hypothesis), that friends would tend to agree on whom they disliked (friends agreement hypothesis), that adolescents would tend to dislike the friends of those they disliked (reinforced animosity hypothesis), and, finally, that they would become or stay friends with dislikes of dislikes (enemys enemy hypothesis). Support was found for the first three hypotheses, and partially for the fourth hypothesis. Results are discussed in light of adolescents peer relationships. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000358626400015
+</snippet>
+</document>
+
+<document id="108">
+<title>Computing continuous core/periphery structures for social relations data with MINRES/SVD</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2009.09.003</url>
+<snippet>When diagonal values are missing or excluded, MINRES is a natural continuous model for the core/periphery structure of a symmetric social network matrix. Symmetric models, however, are not so useful when dealing with asymmetric data. Singular value decomposition (SVD) is a natural choice to model asymmetry, but this method also requires the presence of diagonal values. In this paper we offer an alternative, more general, approach to continuous core/periphery structures, the minimum residual singular value decomposition (MINRES/SVD), where each node in the network receives two indices, an "in-coreness" and an "out-coreness." The algorithm for computing these coreness vectors is a least squares computation similar to, but distinct from the SVD, again because of the missing diagonal values. And in contrast to the standard, symmetric MINRES algorithm, we can more accurately model asymmetric matrices. This allows us to distinguish, for example, countries in the world economy that are more in the exporting core than they are in the importing core. We propose two nested PRE (proportional reduction of error) measures of fit: (1) the PRE from the MINRES vector with respect to the data and (2) the PRE of the product of the two MINRES/SVD vectors. Applying the resulting method to citations between journals and to international trade in clothing, we illustrate insights gained from being able to model asymmetrical flow patterns. Finally, two permutation tests are introduced to test independently for the MINRES and MINRES/SVD results. (C) 2009 Elsevier B.V. All rights reserved.
+WOS:000276669100003
+</snippet>
+</document>
+
+<document id="109">
+<title>Permutation and randomization tests for network analysis</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.08.001</url>
+<snippet>Permutation tests have a long history in testing hypotheses of independence between nodal attributes and network structure, though they are often thought less informative than parametric modeling techniques. In this paper, we show that when the nodal attribute is random assignment to a treatment condition, permutation tests provide a valid test of the causal effect of treatment. We discuss existing test statistics used in network permutation tests and propose several new statistics. In simulations we find that these statistics perform well compared to parametric tests and that specific statistics can be selected to provide power against common network models. We illustrate the methods with gene-wide association study performed on randomized study participants and an observational study of gender membership on Scandinavian corporate boards.
+WOS:000487171000014
+</snippet>
+</document>
+
+<document id="110">
+<title>Collaboration strategies for publishing articles in international journals - A study of Polish scientists in economics</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.07.001</url>
+<snippet>This study investigates the importance of co-authorship ego-networks to scientific performance. In particular, the focus is on Polish researchers in economics, who need catch-up strategies to aid them in publishing papers in international journals. Brokerage is identified as one of the most important correlatives of publishing success. However, in many cases, the best performers are smart collaborators who take advantage of the benefits of both bridging and bonding social capital. In general, co-authorship itself does not provide an advantage. Instead, a proper collaboration strategy appears to be more important. Additionally, embeddedness of authors within their affiliations should be considered. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900005
+</snippet>
+</document>
+
+<document id="111">
+<title>The embeddedness of organizational performance: Multiple Membership Multiple Classification Models for the analysis of multilevel networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.06.005</url>
+<snippet>We present a Multiple Membership Multiple Classification (MMMC) model for analysing variation in the performance of organizational sub-units embedded in a multilevel network. The model postulates that the performance of organizational sub-units varies across network levels defined in terms of: (i) direct relations between organizational sub-units; (ii) relations between organizations containing the sub-units, and (iii) cross-level relations between sub-units and organizations. We demonstrate the empirical merits of the model in an analysis of inter-hospital patient mobility within a regional community of health care organizations. In the empirical case study we develop, organizational sub-units are departments of emergency medicine (EDs) located within hospitals (organizations). Networks within and across levels are delineated in terms of patient transfer relations between EDs (lower-level, emergency transfers), hospitals (higher-level, elective transfers), and between EDs and hospitals (cross-level, non-emergency transfers). Our main analytical objective is to examine the association of these interdependent and partially nested levels of action with variation in waiting time among EDs - one of the most commonly adopted and accepted measures of ED performance. We find evidence that variation in ED waiting time is associated with various components of the multilevel network in which the EDs are embedded. Before allowing for various characteristics of EDs and the hospitals in which they are located, we find, for the null models, that most of the network variation is at the hospital level. After adding these characteristics to the model, we find that hospital capacity and ED uncertainty are significantly associated with ED waiting time. We also find that the overall variation in ED waiting time is reduced to less than a half of its estimated value from the null models, and that a greater share of the residual network variation for these models is at the ED level and cross level, rather than the hospital level. This suggests that the covariates explain some of the network variation, and shift the relative share of residual variation away from hospital networks. We discuss further extensions to the model for more general analyses of multilevel network dependencies in variables of interest for the lower level nodes of these social structures. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900025
+</snippet>
+</document>
+
+<document id="112">
+<title>Predictors and outcomes of social network compositions: A compositional structural equation modeling approach</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2012.10.002</url>
+<snippet>Proportions of a total, including social network compositions (proportions of partner, family, friends, etc.) lie in a restricted space, which challenges statistical analysis. Network compositions can be both dependent and explanatory variables and are usually measured with error by survey instruments. Structural equation models make it possible to correct measurement error bias. Coenders et al. (2011) fitted a factor analysis model to transformed network compositions. In this article, we use another transformation called an isometric log-ratio and we extend the model to include predictors and outcomes. The findings and hypotheses in the literature can be reformulated with isometric log-ratios in a more interpretable manner. For instance, we find relationships of gender with partner support, of education and extraversion with friend support, and of family support with tie multiplexity and closeness. 
+WOS:000317943100001
+</snippet>
+</document>
+
+<document id="113">
+<title>The acquisition of perceived descriptive norms as social category learning in social networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.06.002</url>
+<snippet>Descriptive norms-what people typically do in a certain setting play a significant role in peoples behavioural decisions. However, little is known about how people acquire descriptive norms in their community. We postulate that acquisition of descriptive norms can be construed as social category learning in social networks, where people learn social information relevant about community descriptive norms from others with whom they are associated through social network ties. We distinguish two routes to norm acquisition: experiential and conceptual. The experiential route suggests people observe the behaviours of their associates in their social networks, and infer what people typically do; the conceptual route suggests people learn about their community from what their associates say people typically do. We used a novel statistical method of autologistic actor attribute models (ALAAM) on survey responses collected by snow ball sampling in a rural city in Australia, and found that people experientially learn descriptive norms about community engagement. Implications of this finding and the limitations of the current study are discussed. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000328713500017
+</snippet>
+</document>
+
+<document id="114">
+<title>Partitioning large signed two-mode networks: Problems and prospects</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2012.01.002</url>
+<snippet>While a substantial amount of attention within social network analysis (SNA) has been given to the study of one-mode networks, there is an increasing consideration of two-mode networks. Recent research on signed networks resulted in the relaxed structural balance (RSB) approach and its subsequent extension to signed two-mode networks involving social actors and social objects. We extend this approach to large signed two-mode networks, and address the methodological issues that arise. We develop tools to partition these types of networks and compare them with other approaches using a recently collected dataset of United Nations General Assembly roll call votes. Although our primary purpose is methodological, we take the first step towards bridging Heiders structural balance theory with recent theorizing in international relations on soft balancing of power processes. (C) 2012 Elsevier B.V. All rights reserved.
+WOS:000320479500005
+</snippet>
+</document>
+
+<document id="115">
+<title>Assessing structural correlates to social capital in Facebook ego networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.01.002</url>
+<snippet>Research in computer-mediated communication has consistently asserted that Facebook use is positively correlated with social capital. This research has drawn primarily on Williams (2006) bridging and bonding scales as well as behavioral attributes such as civic engagement. Yet, as social capital is inherently a structural construct, it is surprising that so little work has been done relating social capital to social structure as captured by social network site (SNS) Friendship networks. Facebook is particularly well-suited to support the examination of structure at the ego level since the networks articulated on Facebook tend to be large, dense, and indicative of many offline foci (e.g., coworkers, friends from high school). Assuming that each one of these foci only partially overlap, we initially present two hypotheses related to Facebook social networks and social capital: more foci are associated with perceptions of greater bridging social capital and more closure is associated with greater bonding social capital. Using a study of 235 employees at a Midwestern American university, we test these hypotheses alongside self-reported measures of activity on the site. Our results only partially confirm these hypotheses. In particular, using a widely used measure of closure (transitivity) we observe a strong and persistent negative relationship to bonding social capital. Although this finding is initially counter-intuitive it is easily explained by considering the topology of Facebook personal networks: networks with primarily closed triads tend to be networks with tightly bound foci (such as everyone from high school knowing each other) and few connections between foci. Networks with primarily open triads signify many crosscutting friendships across foci. Therefore, bonding social capital appears to be less tied to local clustering than to global cohesion. (C) 2014 Elsevier B.V. All rights reserved.
+WOS:000337015400001
+</snippet>
+</document>
+
+<document id="116">
+<title>Inter-ethnic friendship and negative ties in secondary school</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.03.004</url>
+<snippet>This paper investigates several different aspects of inter-ethnic relationships. It focuses on friendships and negative ties between secondary school students from different ethnic backgrounds, introducing and measuring two different aspects of ethnicity: self-declared ethnicity, and ethnicity based on peer perception. These are first applied separately and then together on a sample of secondary school students in Hungary consisting of two ethnic groups: Roma and non-Roma Hungarian (N=420). Friendships and negative ties are modelled using cross-sectional exponential random graph models for sixteen classrooms separately, and then individual models are summarized using meta-analysis. Based on the social identity approach, we predict that inter-ethnic friendships are less likely, and negative ties are more likely, than those within ethnic groups; and that majority students reject their minority peers more than the other way around. Moreover, minority students are expected to exclude those whom they perceive as minorities, but who, at the same time, identify with the majority group, since these classmates might seem to them as "traitors" of their "original" ethnic group. Results mostly confirm our hypotheses, emphasizing the role of perceived ethnicity: majority students tend to dislike peers whom they perceive as minorities, regardless of these peers self-declared ethnicity; on the other hand, minority students are likely to send friendship nominations towards their perceived minority classmates if these also declare themselves as minorities, but, as predicted, negative nominations if these declare themselves as majorities. This supports our general idea that different ethnicity aspects might influence friendships and negative ties in different ways, and inconsistencies in someones ethnic categorization might play an important role in social rejection. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000358626400006
+</snippet>
+</document>
+
+<document id="117">
+<title>Social capital and economic integration of migrants in urban China</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.04.001</url>
+<snippet>Based on data from a 2005 survey conducted in Shanghai, China, this research examines the role of social capital in income inequality between rural migrants and urbanites. We find strong income return on social capital, in particular on social capital from strong ties. We also observe a great disparity in social capital possession between rural migrants and urban local residents. Although social capital from strong ties seems to be more important for rural migrants than for urbanites, local ties and high-status ties do not seem to benefit rural migrants. Hence, migrants not only suffer severe social capital deficits but also capital return deficits. Given the strong income returns on social capital and the substantial differences in access to and return on social capital between migrants and urban residents, social capital is consequently found to explain a large part of the income inequality between the two groups. Overall, our findings reveal macro-structural effects on the role of social capital in labor market stratification. In China, the lack of formal labor market mechanisms continues to create both a strong need for and opportunities for economic actions to be organized around informal channels via social relations. Yet, the long-standing institutional exclusion of migrants caused by the household registration system has resulted in pervasive social exclusion and discrimination which have substantially limited rural migrants accumulation and mobilization of social capital. Under these conditions, social capital reinforces the economic inequality between migrants and urban residents in China. Such empirical evidence adds to our understanding of the role of social capital in the economic integration of migrants and in shaping intergroup inequality in general. 
+WOS:000322692600009
+</snippet>
+</document>
+
+<document id="118">
+<title>Relational collaboration among spatial multipoint competitors</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2010.10.005</url>
+<snippet>The presence of network ties between multipoint competitors is frequently assumed but rarely examined directly. The outcomes of multipoint competition, therefore, are better understood than their underlying relational mechanisms. Using original fieldwork and data that we have collected on an interorganizational network of patient transfer relations within a regional community of hospitals, we report and interpret estimates of Exponential Random Graph Models (ERGM) that specify the probability of observing network ties between organizations as a function of the degree of their spatial multipoint contact. We find that hospitals competing more intensely for patients across multiple geographical segments of their market (spatial multipoint competitors) are significantly more likely to collaborate. This conclusion is robust to alternative explanations for the formation of network ties based on organizational size differences, resource complementarities, performance differentials, and capacity constraints. We show that interorganizational networks between spatial multipoint competitors are characterized by clear tendencies toward clustering and a global core-periphery structure arising as consequences of multiple mechanisms of triadic closure operating simultaneously. We conclude that the effects of competition on the structure of interorganizational fields depends on how markets as physical and social settings are connected by cross-cutting network ties between competitors. (C) 2010 Elsevier B.V. All rights reserved.
+WOS:000300131600009
+</snippet>
+</document>
+
+<document id="119">
+<title>Structural balance in signed networks: Separating the probability to interact from the tendency to fight</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.12.002</url>
+<snippet>Structural balance theory implies hypothetical network effects such as "the enemy of an enemy is a friend" or "the friend of an enemy is an enemy." To statistically test such hypotheses researchers often estimate whether, for instance, actors have an increased probability to collaborate with the enemies of their enemies and/or a decreased probability to fight the enemies of their enemies. Empirically it turns out that the support for balance theory from these tests is mixed at best. We argue that such results are not necessarily a contradiction to balance theory but that they could also be explained by other network effects that influence the probability to interact at all. We propose new and better interpretable models to assess structural balance in signed networks and illustrate their usefulness with networks of international alliances and conflicts. With the new operationalization the support for balance theory in international relations networks is much stronger than suggested by previous work. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000371362600006
+</snippet>
+</document>
+
+<document id="120">
+<title>The determinants of heroin flows in Europe: A latent space approach</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.03.012</url>
+<snippet>This study utilises recent advances in statistical models for social networks to identify the factors shaping heroin trafficking in relation to European countries. First, it estimates the size of the heroin flows among a network of 61 countries, before subsequently using a latent space approach to model the presence of trafficking and the amount of heroin traded between any two given countries. Many networks, such as trade networks, are intrinsically weighted, and ignoring edge weights results in a loss of relevant information. Traditionally, the gravity model has been used to predict legal trade flows, assuming conditional independence among observations. More recently, latent space position models for social networks have been used to analyze legal trade among countries, and, mutatis mutandis, can be applied to the context of illegal trade to count both edge weights and conditional dependence among observations. These models allow for a better understanding of the generative processes and potential evolution of heroin trafficking routes. This study shows that geographical and social proximity provide fertile ground for the formation of heroin flows. Opportunities are also a driver of drug flows towards countries where regulation of corruption is weak. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000411771300009
+</snippet>
+</document>
+
+<document id="121">
+<title>Organizational learning across multi-level networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.03.003</url>
+<snippet>This paper examines organizational learning through a multilevel network lens. We assess how interpersonal knowledge transfer is sustained by the organizational structure of interunit work-flow ties and by the level of specialism of the connected units. To do this, we apply Multilevel Exponential Random Graph Models on data collected in a multiunit government institution in Italy. Results indicate that our approach allows simplifying and better understanding of organizational learning. Units are more likely to retain knowledge transfer ties within their boundaries. Unit boundary-spanning tends to occur only when knowledge transfer ties are sustained by hierarchical interunit work-flow ties. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900027
+</snippet>
+</document>
+
+<document id="122">
+<title>The contagion effects of repeated activation in social networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.11.001</url>
+<snippet>Demonstrations, protests, riots, and shifts in public opinion respond to the coordinating potential of communication networks. Digital technologies have turned interpersonal networks into massive, pervasive structures that constantly pulsate with information. Here, we propose a model that aims to analyze the contagion dynamics that emerge in networks when repeated activation is allowed, that is, when actors can engage recurrently in a collective effort. We analyze how the structure of communication networks impacts on the ability to coordinate actors, and we identify the conditions under which large-scale coordination is more likely to emerge. (C) 2017 The Authors. Published by Elsevier B.V.
+WOS:000432768600027
+</snippet>
+</document>
+
+<document id="123">
+<title>Twitter users change word usage according to conversation-partner social identity</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.07.004</url>
+<snippet>This paper investigates how people express social identity at a large scale on a social network. We looked at communities of users on the Twitter website, and tested two established social-psychology theories that are usually performed at local scale. We found evidence of Communication Accommodation Theory, where community members vary their language characteristics depending on which community they are communicating with. We also found the level of linguistic variation correlated with how isolated a community was: evidence that there is Convergence between linked members. This demonstrates the power of methods which analyse subtle human behaviour on social networks. 
+WOS:000347585500009
+</snippet>
+</document>
+
+<document id="124">
+<title>Does it take &lt;i&gt;three&lt;/i&gt; to dance the Tango? Organizational design, triadic structures and boundary spanning across subunits</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.04.002</url>
+<snippet>In this paper, we investigate the processes of boundary spanning across subunits within organizational networks. We hypothesize that patterns of advice across organizational subunits are explained by different triadic mechanisms depending on the organizational design of the intra-organizational network. In organizational networks characterized by limited hierarchical differentiation among members and horizontal coordination, we found triadic cyclic closure to be positively associated to boundary spanning across subunits; but when the network reflects an organizational structure with formal hierarchical differentiation among members, then we found triadic transitive closure to be associated to boundary spanning across subunits. We test these predictions in two empirical studies consisting of two organizational networks that differ from each other in organizational design. We adopt a Bayesian approach for exponential random graph models specifically designed for the statistical analysis of interpersonal relationships within and across subgroups or subunits. We suggest that the effects of informal, triadic network configurations on boundary spanning are contingent on formal organizational design.
+WOS:000487171000002
+</snippet>
+</document>
+
+<document id="125">
+<title>Heating up the debate? Measuring fragmentation and polarisation in a German climate change hyperlink network</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.10.002</url>
+<snippet>Research into polarisation on the internet has so far primarily focused on contentious issues and yielded contradictory results. Shifting the focus to a non-contentious setting, this article combines community detection with brokerage analysis and exponential random graph models to assess the degree of polarisation at different levels of a German hyperlink network on climate change. Although homophily accounts for a moderate degree of polarisation at the top level of the network, the communities reveal that other factors prove more decisive in shaping its structure and the article thus contributes to a more refined understanding of the nature of online polarisation. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000432768600025
+</snippet>
+</document>
+
+<document id="126">
+<title>The use of different data sources in the analysis of co-authorship networks and scientific performance</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.04.004</url>
+<snippet>Scientific collaboration is usually derived from archival co-authorship data. Several data sources may be examined, but they all have advantages and disadvantages, especially when a specific discipline or community is of interest. The aim of this paper is to explore the effect of the use of three data sources Web of Science, Current Index to Statistics and nationally funded research projects - on the analysis of co-authorship networks among Italian academic statisticians. Results provide evidence of our hypotheses on distinct collaboration patterns among statisticians, as well as distinct effects of scientist network positions on scientific performance, by both Statistics subfield and data source. 
+WOS:000322692600010
+</snippet>
+</document>
+
+<document id="127">
+<title>Neither global nor local: Heterogeneous connectivity in spatial network structures of world migration</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.06.003</url>
+<snippet>For a long time, geographic regions were considered the dominant spatial arbiter of international migration of people. However, since the late 1970s, many scholars have argued that movements reach beyond contiguous regions to connect distant, dispersed, and previously disconnected countries across the globe. The precise structure of world migration, however, remains an open question. We apply network analysis that incorporates spatial information to international migration-stock data to examine what multilateral structures of world migration have emerged from the interplay of regional concentration (local cohesion) and global interconnectedness (global cohesion) for the period 1960-2000. In the world migration network (WMN), nodes represent countries located in geographic space, and edges represent migrants from an origin country who live in a destination country during each decade. We characterize the large-scale structure and evolution of the WMN by algorithmically detecting international migration communities (i.e., sets of countries that are densely connected via migration) using a generalized modularity function for spatial, temporal, and directed networks. Our findings for the whole network suggest that movements in the WMN deviate significantly from the regional boundaries of the world and that international migration communities have become globally interconnected over time. However, we observe a strong variability in the distribution of strengths, neighborhood overlaps, and lengths of migration edges in the WMN. This manifests as three types of communities: global, local, and glocal. We find that long-distance movements in global communities bridge multiple non-contiguous countries, whereas local (and, to a lesser extent, glocal) communities remain trapped in contiguous geographic regions (or neighboring regions) for almost the whole period, contributing to a spatially fragmented WMN. Our findings demonstrate that world migration is neither regionally concentrated nor globally interconnected, but instead exhibits a heterogeneous connectivity pattern that channels unequal migration opportunities across the world. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000427340000002
+</snippet>
+</document>
+
+<document id="128">
+<title>Mixed integer programming formulations for clustering problems related to structural balance</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.09.002</url>
+<snippet>In this work, we study graph clustering problems associated with structural balance. One of these problems is known in computer science literature as the correlation-clustering (CC) problem and another (RCC) can be viewed as its relaxed version. The solution of CC and RCC problems has been previously used in the literature as tools for the evaluation of structural balance in a social network. Our aim is to solve these problems to optimality. We describe integer linear programming formulations for these problems which includes the first mathematical formulation for the RCC problem. We also discuss alternative models for the relaxed structural balance and the solution of clustering problems associated with these new models. Numerical experiments are carried out with each formulation on a set of benchmark instances available in the literature. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000328713500012
+</snippet>
+</document>
+
+<document id="129">
+<title>The affective antecedents of cognitive social network activation</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.01.003</url>
+<snippet>How might peoples moment-to-moment feelings influence the social network contacts they call to mind? Three datasets indicate that experiencing positive affect leads people to cognitively activate larger and more sparsely connected social network structures, while experiencing negative affect leads them to activate smaller, redundant social network structures. A preliminary association emerged between positive affect and activating large, diversified network structures in the General Social Survey. To isolate causality, we then conducted two experiments where we randomly assigned participants to experience either positive or negative affect. Both studies supported the hypothesized relationship between affect and cognitive network activation. These findings contribute to a burgeoning literature examining how psychological states shape the activation of social network structures. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000358626400009
+</snippet>
+</document>
+
+<document id="130">
+<title>Reciprocity, transitivity, and the mysterious three-cycle</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.10.005</url>
+<snippet>Reciprocity and transitivity are the two most important structural mechanisms underlying friendship network evolution. While on their own they are understood in great detail, the relation between them is rarely studied systematically. Are friendships outside of social groups more or less likely to be reciprocated than friendships embedded in a group? Using a theoretical framework that focusses on the situations in which friends interact and the social structures that stabilise one-sided friendships, I propose that the tendency towards reciprocation of friendships within transitive groups is usually lower than outside of transitive groups. In a meta-analysis of two datasets including 29 friendship networks using stochastic actor-oriented models (SAOMs), the interaction between reciprocity and transitivity is analysed. Supporting the theoretical reasoning, the interaction is consistently negative. Second, the tendency against forming three-cycles in friendship networks, which was consistently found in previous studies, is shown to be spurious and a result of neglecting to control for the tendency against reciprocation in transitive groups. The tendency against three-cycles is commonly seen as an indicator that unreciprocated friendships indicate local hierarchy differences between individuals; this proposition has to be re-evaluated in light of the findings of this study. Future studies that analyse the evolution of friendship networks should consider modelling reciprocation in transitive triplets and potentially omit modelling three-cycles. 
+WOS:000347585500016
+</snippet>
+</document>
+
+<document id="131">
+<title>A multi-way analysis of international bilateral claims</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.12.004</url>
+<snippet>The paper presents a new methodology aimed at detecting the modularity structure of an evolving weighted directed network, identifying communities and central nodes inside each of them, and tracking their common activity over time. The method is based on tensor factorization and it is applied to the Consolidated Banking Statistic, provided by the Bank of International Settlements. Findings show that data are well represented by three communities. The temporal pattern of each community varies according to the events involving the member nodes, showing a decrease of activities during crisis periods, such as the 2008 financial crisis and the European sovereign debt crisis. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000395601700007
+</snippet>
+</document>
+
+<document id="132">
+<title>Disentangling the relation between young immigrants' host country identification and their friendships with natives</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.08.001</url>
+<snippet>Immigrants who strongly identify with the host country have more native friends than immigrants with weaker host country identification. However, the mechanisms underlying this correlation are not well understood. Immigrants with strong host country identification might have stronger preferences for native friends, or they might be more often chosen as friends by natives. In turn, having native friends or friends with strong host country identification might increase immigrants host country identification. Using longitudinal network data of 18 Dutch school classes, we test these hypotheses with stochastic actor-oriented models. We find that immigrants host country identification affects friendship selections of natives but not of immigrants. We find no evidence of social influence processes. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900016
+</snippet>
+</document>
+
+<document id="133">
+<title>Competition for foundation patronage and the differential effects of prestige on the grant market success of social movement organisations</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.02.001</url>
+<snippet>Extant models of the financial patronage of Social Movement Organisations (SMOs) by private foundations exclusively use population density to account for competition. However, density fails to reveal how SMOs win grants whilst neglecting the strategic decision-making of foundation-investors. Here I recast patronage as a mutualistic network represented by a dynamic bipartite graph wherein SMOs and foundations cooperate across class whilst SMOs compete within class for financial support. A SMOs competitiveness rests with its position in a network-based prestige hierarchy and a foundations propensity to invest is mediated by its structural position within the grant market. While previous research has predicted a positive monotonic relationship between status and patronage, using Stochastic Actor-Oriented Models I find a tendency for status-based disassortativity in the mutualistic system such that high-status foundations prefer to invest in low-status SMOs. I attribute this counterintuitive finding to foundations preferences for grantees that can innovate around social problems. Relative to their peripheral counterparts, well funded SMOs may suffer a rigidity of goals due to the risk of alienating an existing support-base through organisational change. Data consist of 3261 grants given from 2003 to 2007 by 136 private foundations to 66 professional SMOs with nonprofit status loosely mobilised against the notion of anthropogenic climate change. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000375887800003
+</snippet>
+</document>
+
+<document id="134">
+<title>Geographical variability and network structure</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2011.08.003</url>
+<snippet>In this paper, we explore the potential implications of geographical variability for the structure of social networks. Beginning with some basic simplifying assumptions, we derive a number of ways in which local network structure should be expected to vary across a region whose population is unevenly distributed. To examine the manner in which these effects would be expected to manifest given realistic population distributions, we then perform an exploratory simulation study that examines the features of large-scale interpersonal networks generated using block-level data from the 2000 U.S. Census. Using a stratified sample of micropolitan and metropolitan areas with populations ranging from approximately 1000 to 1,000,000 persons, we extrapolatively simulate network structure using spatial network models calibrated to two fairly proximate social relations. From this sample of simulated networks, we examine the effect of both within-location and between-location heterogeneity on a variety of structural properties. As we demonstrate, geographical variability produces large and distinctive features in the "social fabric" that overlies it; at the same time, however, many aggregate network properties can be fairly well-predicted from relatively simple spatial demographic variables. The impact of geographical variability is thus predicted to depend substantially on the type of network property being assessed, and on the spatial scale involved. (C) 2011 Published by Elsevier B.V.
+WOS:000300131600008
+</snippet>
+</document>
+
+<document id="135">
+<title>Network effects on organizational decision-making: Blended social mechanisms and IPO withdrawal</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.11.004</url>
+<snippet>This paper develops a new approach to the study of network effects in organizations and markets by proposing that structural influences on social and economic action result from contingent blends of well-understood social mechanisms. We emphasize the interplay of three different network processes: resource and information transfer, status signaling and certification, and social influence. Different mixes of these mechanisms characterize disparate networks because the obligations imposed by ties and the capacities of partners result in situations where mechanisms amplify or diminish one another. We test hypotheses about mechanism interactions using four years (1997-2000) of data on high-technology IPOs that situate organizational decisions about whether to withdraw an offering in two distinct networks. We find that network mechanisms exert multiple moderating effects on one another and that those effects vary systematically across venture capital syndicate and director interlock networks. These findings help to explain why different networks exert disparate effects, why the effects of some structures change as their larger contexts shift, and why even very successful organizations can sometimes find themselves hamstrung by their connections. (C) 2014 Elsevier B.V. All rights reserved.
+WOS:000351979100001
+</snippet>
+</document>
+
+<document id="136">
+<title>Exponential random graph models for multilevel networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.01.004</url>
+<snippet>Modern multilevel analysis, whereby outcomes of individuals within groups take into account group membership, has been accompanied by impressive theoretical development (e.g. Kozlowski and Klein, 2000) and sophisticated methodology (e.g. Snijders and Bosker, 2012). But typically the approach assumes that links between groups are non-existent, and interdependence among the individuals derives solely from common group membership. It is not plausible that such groups have no internal structure nor they have no links between each other. Networks provide a more complex representation of interdependence. Drawing on a small but crucial body of existing work, we present a general formulation of a multilevel network structure. We extend exponential random graph models (ERGMs) to multilevel networks, and investigate the properties of the proposed models using simulations which show that even very simple meso effects can create structure at one or both levels. We use an empirical example of a collaboration network about French cancer research elites and their affiliations (Lazega et al., 2006, 2008) to demonstrate that a full understanding of the network structure requires the cross-level parameters. We see these as the first steps in a full elaboration for general multilevel network analysis using ERGMs. 
+WOS:000317943100009
+</snippet>
+</document>
+
+<document id="137">
+<title>The interplay between formal project memberships and informal advice seeking in knowledge-intensive firms: A multilevel network approach</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.02.004</url>
+<snippet>In this study we investigate the interplay between knowledge workers formal project team memberships and their informal interactions from a multilevel network perspective. Conceptualizing knowledge workers affiliation with project teams as a membership network and their interactions as an advice network, we discuss how shared project team memberships as well as multiple memberships influence patterns of informal exchange in knowledge-intensive organizations. To empirically determine the impact of formal organization on informal exchange we apply exponential random graph models for multilevel networks to relational data collected on 434 R&amp;D employees working on 218 project teams in a high-tech firm in Germany. Our results show that employees sharing project memberships create advice ties to each other but do not exchange advice reciprocally. In addition, we find a negative relationship between having a high number of project memberships and informally seeking or providing advice. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900028
+</snippet>
+</document>
+
+<document id="138">
+<title>Univariate and multivariate models of positive and negative networks: Liking, disliking, and bully-victim relationships</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2012.08.001</url>
+<snippet>Three relations between elementary school children were investigated: networks of general dislike and bullying were related to networks of general like. These were modeled using multivariate cross-sectional (statistical) network models. Exponential random graph models for a sample of 18 classrooms, numbering 393 students, were summarized using meta-analyses. Results showed (balanced) network structures with positive ties between those who were structurally equivalent in the negative network. Moreover, essential structural parameters for the univariate network structure of positive (general like) and negative (general dislike and bullying) tie networks were identified. Different structures emerged in positive and negative networks. The results provide a starting point for further theoretical and (multiplex) empirical research about negative ties and their interplay with positive ties. 
+WOS:000313304100027
+</snippet>
+</document>
+
+<document id="139">
+<title>Ask and you shall receive: Social network contacts' provision of help during the job search</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.07.005</url>
+<snippet>Social network contacts the people who are asked to help with others job searches-are key players in the job networking process. Before job seekers can become employed with the help social networks, contacts must first be able and willing to share the social resources job seekers need for their search. Little is known about the factors that affect contacts ability and willingness to do this. Analyses of a unique dataset of contacts show that they typically have access to resources and help job seekers by sharing them. Still, contacts are better able to help when they are male, employed, and better educated than job seekers. They are more willing to help when they perceive job seekers to be "good" workers. In identifying the conditions in which contacts provide social resources, this study illustrates how social networks are a productive job search strategy for some, but not all, job seekers. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000328713500008
+</snippet>
+</document>
+
+<document id="140">
+<title>Snowball sampling for estimating exponential random graph models for large networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.11.003</url>
+<snippet>The exponential random graph model (ERGM) is a well-established statistical approach to modelling social network data. However, Monte Carlo estimation of ERGM parameters is a computationally intensive procedure that imposes severe limits on the size of full networks that can be fitted. We demonstrate the use of snowball sampling and conditional estimation to estimate ERGM parameters for large networks, with the specific goal of studying the validity of inference about the presence of such effects as network closure and attribute homophily. We estimate parameters for snowball samples from the network in parallel, and combine the estimates with a meta-analysis procedure. We assess the accuracy of this method by applying it to simulated networks with known parameters, and also demonstrate its application to networks that are too large (over 40000 nodes) to estimate social circuit and other more advanced ERGM specifications directly. We conclude that this approach offers reliable inference for closure and homophily. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000382592500016
+</snippet>
+</document>
+
+<document id="141">
+<title>Multilevel embeddedness: The case of the global fisheries governance complex</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.03.001</url>
+<snippet>This paper explores how bilateral and multilateral clustering are embedded in a multilevel system of interdependent networks. We argue that in complex systems in which bilateral and multilateral relations are themselves interrelated, such as global fisheries governance, embeddedness cannot be reduced to unipartite or bipartite clustering but implicates multilevel closure. We elaborate expectations for ties multilevel embeddedness based on network theory and substantive considerations and explore them using a multilevel ERGM. We find states bilateral ties are embedded in their shared membership in multilateral fisheries agreements, which is itself clustered around foci represented by similar content and treaty secretariats. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000367423900026
+</snippet>
+</document>
+
+<document id="142">
+<title>Solidarity as a byproduct of professional collaboration: Social support and trust in a coworking space</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.12.002</url>
+<snippet>This article investigates solidarity arising from economic exchange, by studying a multiplex network of collaboration, trust and social support. After a qualitative pre-study, we performed a full-network survey on a group of independent professionals sharing a coworking space and occasionally collaborating with each other. By running multivariate Exponential Random Graph Models, we showed that successful collaboration might not determine expectations of social support. However, these relationships were related to business-based trust ties, which were predicted by collaboration. Our results suggest that solidarity can emerge as a byproduct of peer economic exchange when trust mediates between professional relationships and expressive ties. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000432768600006
+</snippet>
+</document>
+
+<document id="143">
+<title>Motivations for self-assembling into project teams</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.03.001</url>
+<snippet>This study investigates the self-assembly mechanisms of ad hoc project teams using a bipartite network perspective. Individuals and projects are modeled as two types of nodes and team membership as relations between them. This approach enables us to investigate factors that impact voluntary team assembly at the individual, dyadic, and team levels simultaneously. Using Exponential Random Graph Models (ERGM/p*), we study players combat teams in a Massively Multiplayer Online Role-Playing Game (MMORPG) as a case of self-assembled project teams. Empirical results show that individuals are motivated to join ad hoc teams to complete difficult projects but not projects with long durations. We also found that individuals tend to collaborate with specific teammates who have complementary skills, those who have similar age or skill level, and those who are affiliated with the same organizational entity. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000320479500010
+</snippet>
+</document>
+
+<document id="144">
+<title>Network cohesion and social support</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.08.006</url>
+<snippet>This article analyses the effects of personal network cohesion on different types of social support using two dimensions of cohesion: network closure (defined as a tightly knit set of actors around the ego) and cliquishness (defined as the extent to which an actor is connected with a number of cohesive sub-sets of alters). Data were obtained from a personal networks survey conducted in Catalonia (Spain), which was completed by 441 adults and gathered information about exchange of social support in networks made of 30 alters. A multilevel analysis disentangles the effects on support of these two structural dimensions at the network-level from compositional effects at the network and tie-level. The results show that network closure does not play a relevant role in support once confounders at the network and tie levels are controlled for. However, cliquishness has a significant association with labor-related support and housing support, net of statistical controls. Implications of these results in network research are discussed. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000389730200016
+</snippet>
+</document>
+
+<document id="145">
+<title>The devil is in the details: Differences in air traffic networks by scale, species, and season</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.03.003</url>
+<snippet>Although air traffic networks are widely studied examples of complex networks, past research has focused on only one type: the network of routes flown between airports. Although this network is important, other varieties of air traffic networks exist. This paper differentiates air traffic networks on dimensions of scale (airport vs. metropolitan area), species (business vs. leisure), and season (summer vs. winter). Although these networks share similar complex network topologies - they are scale-free, small-world, and modular - they are nonetheless different in substantively important ways. They capture different kinds of social and economic processes, are useful for investigating different kinds of research questions, and lead to different kinds of conclusions about how and where interactions are organized. (C) 2014 Elsevier B.V. All rights reserved.
+WOS:000337015400006
+</snippet>
+</document>
+
+<document id="146">
+<title>Bayesian analysis for partially observed network data, missing ties, attributes and actors</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.07.003</url>
+<snippet>We consider partially observed network data as defined in Handcock and Gile (2010). More specifically we introduce an elaboration of the Bayesian data augmentation scheme of Koskinen et al. (2010) that uses the exchange algorithm (Caimo and Friel, 2011) for inference for the exponential random graph model (ERGM) where tie variables are partly observed. We illustrate the generating of posteriors and unobserved tie-variables with empirical network data where 74&#37; of the tie variables are unobserved under the assumption that some standard assumptions hold true. One of these assumptions is that covariates are fixed and completely observed. A likely scenario is that also covariates might only be partially observed and we propose a further extension of the data augmentation algorithm for missing attributes. We provide an illustrative example of parameter inference with nearly 30&#37; of dyads affected by missing attributes (e.g. homophily effects). The assumption that all actors are known is another assumption that is liable to be violated so that there are "covert actors". We briefly discuss various aspects of this problem with reference to the Sageman (2004) data set on suspected terrorists. We conclude by identifying some areas in need of further research. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000328713500002
+</snippet>
+</document>
+
+<document id="147">
+<title>Peer, school, and country variations in adolescents' health behaviour: A multilevel analysis of binary response variables in six European cities</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2019.05.004</url>
+<snippet>Adolescents often display similar health behaviour to their peers. Peer effects on health behaviour may be influenced by the school context, and by the country of residence. According to the complex contagion theory, these effects for risky health behaviour may be different from protective health behaviour. This paper combines social network analysis and multilevel analysis to estimate the relative share of variation of risky and protective health behaviours at different levels of the population structure: individuals, peer (friendship) networks, and schools. To achieve these aims, multiple membership models are applied to estimate variations in smoking, drinking, cannabis use, and physical activity at the individual, peer, and school levels, taking into account the differences between countries. The data come from a social network survey carried out in 50 schools in six medium-sized European cities. Networks of peers were found to have similar risky health behaviour when it comes to smoking, drinking, and cannabis use. This was not true, however, for positive health behaviour, i.e. physical activity. For smoking, drinking, and cannabis use, the peer network accounted for almost half of the total behaviour variance. In comparison, the school variance was quite small for all health behaviour. The results suggest that interventions are best carried out at the peer-network level, particularly for behaviour vulnerable to complex contagion, such as smoking and cannabis use.
+WOS:000487171000004
+</snippet>
+</document>
+
+<document id="148">
+<title>What makes a network go round? Exploring the structure of a strong component with exponential random graph models</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2013.06.004</url>
+<snippet>A strong component is a subgraph in a directed network where, following the direction of ties, all nodes in the graph are reachable from one another. Mutual reachability implies that every node in the graph is theoretically able to send materials to and/or influence every other node suggesting that strong components are amongst the more egalitarian network structures. Despite this intriguing feature, they remain understudied. Using exponential random graph models (ERGM) for directed networks, we investigate the social and structural processes underlying the generation of strong components. We illustrate our argument using a network of 301 nodes and 703 personal lending ties from Renaissance Florence. ERGM shows that our strong component arises from triadic clustering alongside an absence of higher-order star structures. We contend that these processes produce a strong component with a hierarchical, rather than an egalitarian structure: while some nodes are deeply embedded in a dense network of exchange, the involvement of others is more tenuous. More generally, we argue that such tiered core-periphery strong components will predominate in networks where the social context creates conditions for an absence of preferential attachment alongside the presence of localized closure. Although disparate social processes can give rise to hierarchical strong components linked to these two structural mechanisms, in Florence they are associated with the presence of multiple dimensions of social status and the connectedness of participants across disparate network domains. (C) 2013 Elsevier B.V. All rights reserved.
+WOS:000328713500001
+</snippet>
+</document>
+
+<document id="149">
+<title>Bayesian exponential random graph models with nodal random effects</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.01.002</url>
+<snippet>We extend the well-known and widely used exponential random graph model (ERGM) by including nodal random effects to compensate for heterogeneity in the nodes of a network. The Bayesian framework for ERGMs proposed by Caimo and Friel (2011) yields the basis of our modelling algorithm. A central question in network models is the question of model selection and following the Bayesian paradigm we focus on estimating Bayes factors. To do so we develop an approximate but feasible calculation of the Bayes factor which allows one to pursue model selection. Three data examples and a small simulation study illustrate our mixed model approach and the corresponding model selection. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000375887800002
+</snippet>
+</document>
+
+<document id="150">
+<title>Simultaneous-direct blockmodeling for multiple relations in Pajek</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2014.06.003</url>
+<snippet>The foundational research on blockmodeling focused on theorizing and identifying social roles and positions across multiple networks (White et al., 1976). Generalized blockmodeling provided a breakthrough in theory and research by permitting ideal block types that implement a wider class of role equivalence within a network (Doreian et al., 2005). Notwithstanding these successes and related progress that we discuss, a direct approach for the blockmodeling of multiple relations remains an open problem in the generalized blockmodeling literature (Doreian, 2006). With this in mind, we propose a simple and novel means of formulating and fitting generalized blockmodels for multiple relations. We make use of existing capabilities of the open-source network analysis software Pajek (Batagelj and Mrvar, 2011; Mrvar and Batagelj, 2013). In particular, by constructing an appropriate augmented adjacency matrix and carefully crafted constraints and penalties, Pajeks criterion function can be simultaneously minimized over multiple relations. This technique is first described in detail using a hypothetical friendship network, and then its value is reinforced through reanalysis of a classic, real world example. Published by Elsevier B.V.
+WOS:000347585500001
+</snippet>
+</document>
+
+<document id="151">
+<title>Multilevel models for social networks: Hierarchical Bayesian approaches to exponential random graph modeling</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.11.002</url>
+<snippet>In many applications, researchers may be interested in studying patterns of dyadic relationships that involve multiple groups, with a focus on modeling the systematic patterns within groups and how these structural patterns differ across groups. A number of different models - many of them potentially quite powerful - have been developed that allow for researchers to study these differences. However, as with any set of models, these are limited in ways that constrain the types of questions researchers may ask, such as those involving the variance in group-wise structural features. In this paper, we demonstrate some of the ways in which multilevel models based on a hierarchical Bayesian approach might be used to further develop and extend existing exponential random graph models to address such constraints. These include random coefficient extensions to the standard ERGM for sets of multiple unconnected or connected networks and examples of multilevel models that allow for the estimation of structural entrainment among connected groups. We demonstrate the application of these models to real-world and simulated data sets. Published by Elsevier B.V.
+WOS:000367423900030
+</snippet>
+</document>
+
+<document id="152">
+<title>Relational event models for social learning in MOOCs</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2015.05.001</url>
+<snippet>We propose three extensions for the relational event framework to model the co-evolution of multiple network event streams which are increasingly available thanks to the explosive growth of online applications. Firstly, a flexible stratification approach is considered to allow for more complex data structures with many types of nodes and events. Secondly, an inference method that combines nested case-control sampling with stratification is discussed to scale the approach to very large data sets. Finally, a suite of new temporal and network statistics is introduced to reflect the potentially complex dependencies among events and observed heterogeneities on nodes and edges. The empirical value of new extensions is demonstrated through an analysis of social learning in Massive Open Online Courses (MOOCs). In particular, three modeling problems are considered from the network perspective: (1) the utility of social factors, performance indicators, and clickstream behaviors in the prediction of course dropout, (2) the social and temporal structure of learner interactions across discussion threads, and (3) the forms of mutual dependence of social learning interactions on prior learning success, and future learning success on forms of prior social learning interaction. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000358626400012
+</snippet>
+</document>
+
+<document id="153">
+<title>Core-periphery or decentralized? Topological shifts of specialized information on Twitter</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2017.09.006</url>
+<snippet>In this paper we investigate shifts in Twitter network topology resulting from the type of information being shared. We identified communities matching areas of agricultural expertise and measured the core-periphery centralization of network formations resulting from users sharing generic versus specialized information. We found that centralization increases when specialized information is shared and that the network adopts decentralized formations as conversations become more generic. The results are consistent with classical diffusion models positing that specialized information comes with greater centralization, but they also show that users favor decentralized formations, which can foster community cohesion, when spreading specialized information is secondary. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000416496300026
+</snippet>
+</document>
+
+<document id="154">
+<title>Stable exponential random graph models with non-parametric components for large dense networks</title>
+<url>http://dx.doi.org/10.1016/j.socnet.2016.12.002</url>
+<snippet>Exponential random graph models (ERGM) behave peculiar in large networks with thousand(s) of actors (nodes). Standard models containing 2-star or triangle counts as statistics are often unstable leading to completely full or empty networks. Moreover, numerical methods break down which makes it complicated to apply ERGMs to large networks. In this paper we propose two strategies to circumvent these obstacles. First, we use a subsampling scheme to obtain (conditionally) independent observations for model fitting and secondly, we show how linear statistics (like 2-stars etc.) can be replaced by smooth functional components. These two steps in combination allow to fit stable models to large network data, which is illustrated by a data example including a residual analysis. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000395601700006
+</snippet>
+</document>
+
+</searchresult>

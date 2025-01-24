@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>GRAPH COLORINGS AND POWER IN EXPERIMENTAL EXCHANGE NETWORKS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(92)90006-S</url>
+<snippet>The principal goal of studying experimental exchange networks is to understand the relationship between power and network position. In this paper we provide a formal definition of the appropriate notion of position, and explore some of the consequences of assuming that power is a function of position. It is shown that, in highly structured graphs, the space of possible power outcomes is significantly reduced if power is entirely structural. Drawing on the notion of role colorings (Everett and Borgatti 1991), we formalize the frequently expressed intuitive idea that a nodes power is a function of the powers of its neighbors, just as their power is determined by the powers of their neighbors, and so on. We use a combination of two role colorings to express this idea. One, called ecological coloring, states that if two nodes have the same power neighborhoods (i.e. distinct levels of power exhibited by their neighbors), then they must have equal power. The other, called regular coloring, states that if two nodes have equal power, then we can infer that they have the same power neighborhoods. Together, these colorings imply a one-to-one relationship between the power of a node, and the power(s) of its neighbors. It is found that applying these colorings in addition to assuming power is a function of position, radically reduces the sample space of possible power outcomes, leaving only a few possibilities. With two revealing exceptions, the reduced space of possible power outcomes always contains the experimentally observed result.
+WOS:A1992JV35600007
+</snippet>
+</document>
+
+<document id="2">
+<title>DEMARCATING THE BOUNDARIES BETWEEN SELF AND THE SOCIAL - THE ANATOMY OF CENTRALITY IN SOCIAL NETWORKS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(89)90013-0</url>
+<snippet>
+WOS:A1989CA81400003
+</snippet>
+</document>
+
+<document id="3">
+<title>A LINEAR ALGORITHM FOR COMPUTING AUTOMORPHIC EQUIVALENCE CLASSES - THE NUMERICAL SIGNATURES APPROACH</title>
+<url>http://dx.doi.org/10.1016/0378-8733(93)90003-4</url>
+<snippet>An efficient method for computing role (automorphic) equivalences in large networks is described. Numerical signatures (real numbers) are generated for each node. Role-identical nodes share common numerical signatures. The decomposition of the node set into classes by reference to the numerical signatures helps determine the automorphic equivalence classes of a network. The technique is applicable to symmetric and directed networks, and to graphs with multiple link types. The algorithm is linear with respect to the number of links in the network. Its theoretical foundation exploits properties of transcendental numbers.
+WOS:A1993LF74200003
+</snippet>
+</document>
+
+<document id="4">
+<title>THE APPLICATION OF NETWORK ANALYSIS TO CRIMINAL INTELLIGENCE - AN ASSESSMENT OF THE PROSPECTS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(91)90008-H</url>
+<snippet>This paper explores the opportunities for the application of network analytic techniques to the problems of criminal intelligence analysis, paying particular attention to the identification of vulnerabilities in different types of criminal organization - from terrorist groups to narcotics supply networks. A variety of concepts from the network analysis literature are considered in terms of the promise they hold for helping law enforcement agencies extract useful information from existing collections of link data. For example, six different notions of "centrality" and the three major notions of "equivalence" are examined for their relevance in revealing the mechanics and vulnerabilities of criminal enterprises.
+WOS:A1991GW01000003
+</snippet>
+</document>
+
+<document id="5">
+<title>THE CLASS OF ALL REGULAR EQUIVALENCES - ALGEBRAIC STRUCTURE AND COMPUTATION</title>
+<url>http://dx.doi.org/10.1016/0378-8733(89)90018-X</url>
+<snippet>
+WOS:A1989AJ22000003
+</snippet>
+</document>
+
+<document id="6">
+<title>Mapping interactions within and between cohesive subgroups</title>
+<url>http://dx.doi.org/10.1016/0378-8733(95)00257-X</url>
+<snippet>
+WOS:A1996UC91700001
+</snippet>
+</document>
+
+<document id="7">
+<title>DETECTING ROLE EQUIVALENCE</title>
+<url>http://dx.doi.org/10.1016/0378-8733(90)90023-3</url>
+<snippet>
+WOS:A1990CY19300004
+</snippet>
+</document>
+
+<document id="8">
+<title>MEASURING AGE AS A STRUCTURAL CONCEPT</title>
+<url>http://dx.doi.org/10.1016/0378-8733(91)90011-H</url>
+<snippet>
+WOS:A1991FY71900001
+</snippet>
+</document>
+
+<document id="9">
+<title>Notes on blockmodeling</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(96)00297-3</url>
+<snippet>We attempt to develop further the blockmodeling of networks, so as better to capture the network structure. For this purpose a richer structure than ordinary (valued) graphs has to be used for a model. Such structures are valued graphs with typified (complete, dominant, regular, etc.) connections. Based on the proposed formalization, the blockmodeling is cast as an optimization problem.
+WOS:A1997XF61900004
+</snippet>
+</document>
+
+<document id="10">
+<title>ECOLOGICAL AND PERFECT COLORINGS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(94)90010-8</url>
+<snippet>A recent study (Hummon and Carley 1992) has indicated that one of the main research paths in the discipline of social networks is the study of roles and positions. Several key positional concepts have been elucidated, including regular colorings (White and Reitz 1983), automorphic colorings (Everett 1985), and structural colorings (Lorrain and White 1971). Regular colorings in particular have been seen as formalizations of the intuitive concept of social role. However, in this paper we suggest that regular colorings only incorporate one half of the intuitive role concept. The other half, which we formalize as ecological colorings, is equally important. We therefore introduce perfect colorings, which are both regular and ecological, and are consequently more complete models of the role concept. Perfect colorings have a number of interesting mathematical properties, which we describe briefly.
+WOS:A1994MR27900002
+</snippet>
+</document>
+
+<document id="11">
+<title>SPECIAL ISSUE ON BLOCKMODELS - INTRODUCTION</title>
+<url>http://dx.doi.org/10.1016/0378-8733(92)90012-V</url>
+<snippet>
+WOS:A1992HR57100001
+</snippet>
+</document>
+
+<document id="12">
+<title>CORRECTION</title>
+<url>http://dx.doi.org/</url>
+<snippet>
+WOS:A1992JV35600010
+</snippet>
+</document>
+
+<document id="13">
+<title>Cliques, Galois lattices, and the structure of human social groups</title>
+<url>http://dx.doi.org/10.1016/0378-8733(95)00271-5</url>
+<snippet>
+WOS:A1996UT55400002
+</snippet>
+</document>
+
+<document id="14">
+<title>POWER IN EXCHANGE NETWORKS - A POWER-DEPENDENCE FORMULATION</title>
+<url>http://dx.doi.org/10.1016/0378-8733(92)90004-Q</url>
+<snippet>Recent developments in exchange network theory include new formalizations of techniques for specifying the distribution of power in exchange networks. In this article we present a theory-based procedure for identifying power positions in negatively connected exchange networks. This development grows out of earlier work by Emerson on power-dependence relations. The procedure for determining the distribution of power is applied to various common networks also addressed in other articles in this special issue. We compare this approach with the formal method developed by Markovsky, Patton and Willer (1988), commenting on similarities and differences. In conclusion, we discuss the limitations of our procedure and indicate topics in need of further empirical research.
+WOS:A1992JV35600005
+</snippet>
+</document>
+
+<document id="15">
+<title>AN EXTENSION OF REGULAR COLORING OF GRAPHS TO DIGRAPHS, NETWORKS AND HYPERGRAPHS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(93)90007-8</url>
+<snippet>The use of regular graph colouring as an equivalent simple definition for regular equivalence is extended from graphs to digraphs and networks. In addition new concepts of regular equivalence for edges and hypergraphs are presented using the new terminology.
+WOS:A1993MA39900002
+</snippet>
+</document>
+
+<document id="16">
+<title>THE DEVELOPMENT OF A SCIENTIFIC SPECIALTY AS DIFFUSION THROUGH SOCIAL-RELATIONS - THE CASE OF ROLE ANALYSIS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(93)90006-7</url>
+<snippet>This research considers whether the development of a scientific specialty can be understood as a diffusion process in which social relations and mass media are alternative sources of information and influence. The kinds of modifying adoptions of innovations observed during the development of a scientific specialty are compared with the straightforward adoptions that occur during ordinary diffusion processes. The developments of two innovations in role analysis, a specialty of social network analysis, are examined as a case study. It is shown that these adoptions are, in some ways, similar to the straightforward adoptions occurring in ordinary diffusion. Specifically, social relations were sources of information and influence, and qualities of the innovations affected the rates of adoption. Differences between the development of role analysis and ordinary diffusion processes also are illustrated. The availability of mass media sources of information and influence depends on the number of adopters during the development of a scientific specialty, but not during ordinary diffusion processes. This difference has further implications for the effect of qualities of the innovation on the development of scientific specialties.
+WOS:A1993MA39900001
+</snippet>
+</document>
+
+<document id="17">
+<title>CORRECTION</title>
+<url>http://dx.doi.org/</url>
+<snippet>
+WOS:A1992JV35600001
+</snippet>
+</document>
+
+<document id="18">
+<title>RITUAL AS ACTION IN A JAVANESE COMMUNITY - A NETWORK PERSPECTIVE ON RITUAL AND SOCIAL-STRUCTURE</title>
+<url>http://dx.doi.org/10.1016/0378-8733(93)90020-L</url>
+<snippet>This social network study of ritual celebrations in a Javanese village analyzes the organizational pattern inherent in the ritual activities. In the network perspective repeated participation in rituals creates order among actors fusing them into subsets by way of joint involvement in the same events. Quantitative analysis revealed that basically neighborhood units are established. Religious factions are mapped onto these fundamental structures. Social class does not influence participation in rituals, although it is at work in the size and performance of celebrations. Participation in rituals can be interpreted as the establishment of implicit contracts for support in a social security network.
+WOS:A1993KU29800002
+</snippet>
+</document>
+
+<document id="19">
+<title>A COMMENT ON DOREIAN REGULAR EQUIVALENCE IN SYMMETRIC STRUCTURES</title>
+<url>http://dx.doi.org/10.1016/0378-8733(88)90016-0</url>
+<snippet>
+WOS:A1988R459400004
+</snippet>
+</document>
+
+<document id="20">
+<title>CENTRALITY IN VALUED GRAPHS - A MEASURE OF BETWEENNESS BASED ON NETWORK FLOW</title>
+<url>http://dx.doi.org/10.1016/0378-8733(91)90017-N</url>
+<snippet>
+WOS:A1991GN66600002
+</snippet>
+</document>
+
+<document id="21">
+<title>SOCIAL NETWORKS AS NORMAL SCIENCE</title>
+<url>http://dx.doi.org/10.1016/0378-8733(93)90022-D</url>
+<snippet>Social network analysis has emerged as an integrated scientific specialty concerned with the structural analysis of social interaction. Historical evidence suggests that members of this specialty are connected by an invisible college, a shared paradigm and a primary journal. The journal Social Networks is a Primary outlet for researchers in this specialty, particularly those concerned with methodological issues. By examining the pattern of citations within this journal we are able to confirm this historical evidence and gain insight into bow science is being conducted by members of this specialty. Using main path analysis, we examined the pattern in the citation network in the first 12 volumes of the journal. We found six main path structures of connected articles that define and describe core developments in the specialty. The most important of these structures focuses on role analysis, and spans all 12 volumes of Social Networks. We find a high density of multiple citations, both to articles within the journal and to key articles outside the journal, and many authors who have published more than a single article in the journal. In addition, the main path tree structures extend through much of the total network, have a single identifiable coherent substantive concern, and are incremental in nature. The pattern of these main paths, and the overall citation pattern, is consistent with a pattern of scientific development labeled by Kuhn as 'normal science'.
+WOS:A1993KU29800004
+</snippet>
+</document>
+
+<document id="22">
+<title>A TESTING EXAMPLE FOR POSITIONAL ANALYSIS TECHNIQUES</title>
+<url>http://dx.doi.org/10.1016/0378-8733(90)90008-W</url>
+<snippet>
+WOS:A1990EF81800004
+</snippet>
+</document>
+
+<document id="23">
+<title>BUILDING STOCHASTIC BLOCKMODELS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(92)90017-2</url>
+<snippet>The literature devoted to the construction of stochastic blockmodels is relatively rare compared to that of the deterministic variety. In this paper, a general definition of a stochastic blockmodel is given and a number of techniques for building such blockmodels are presented. In the statistical approach, the likelihood ratio statistic provides a natural index to evaluate the fit of the model to the data. The model itself consists of a set of actors partitioned into positions with respect to a definition of equivalence, and a representation based on estimated probabilities. The specific statistical model that is used to illustrate the techniques is p1, which was first introduced as a method for stochastic blockmodeling by Fienberg and Wasserman (1981), and developed by Holland et al. (1983) and Wasserman and Anderson (1987).
+WOS:A1992HR57100006
+</snippet>
+</document>
+
+<document id="24">
+<title>IDENTIFYING COHESIVE SUBGROUPS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(94)00247-8</url>
+<snippet>
+WOS:A1995QM57300002
+</snippet>
+</document>
+
+<document id="25">
+<title>The effect of spatial arrangement on judgments and errors in interpreting graphs</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(96)00299-7</url>
+<snippet>The spatial arrangement of social network data in graphs can influence viewers' perceptions of structural characteristics such as prominence, bridging and grouping. To study the extent of this effect, we conducted an experiment with 80 graduate students. Each student viewed three of five different spatial arrangements of the same network. We found that viewers' perceptions of structural features of the network changed as the spatial arrangement of the network changed. (C) 1997 Elsevier Science B.V.
+WOS:A1997XE81300003
+</snippet>
+</document>
+
+<document id="26">
+<title>RETHINKING CENTRALITY - METHODS AND EXAMPLES</title>
+<url>http://dx.doi.org/10.1016/0378-8733(89)90016-6</url>
+<snippet>
+WOS:A1989AJ22000001
+</snippet>
+</document>
+
+<document id="27">
+<title>2 ALGORITHMS FOR COMPUTING REGULAR EQUIVALENCE</title>
+<url>http://dx.doi.org/10.1016/0378-8733(93)90012-A</url>
+<snippet>In this paper we present two algorithms for computing the extent of regular equivalence among pairs of nodes in a network. The first algorithm, REGE, is well known, but has not previously been described in the literature. The second algorithm, CATREGE, is new. Whereas REGE is applicable to quantitative data, CATREGE is used for categorical data. For binary data, either algorithm may be used, though the CATREGE algorithm is significantly faster and its output similarity coefficients have better metric properties. The CATREGE algorithm is also useful pedagogically, because it is easier to grasp.
+WOS:A1993MN52100002
+</snippet>
+</document>
+
+<document id="28">
+<title>AN OPTIMIZATIONAL APPROACH TO REGULAR EQUIVALENCE</title>
+<url>http://dx.doi.org/10.1016/0378-8733(92)90016-Z</url>
+<snippet>
+WOS:A1992HR57100005
+</snippet>
+</document>
+
+<document id="29">
+<title>THE RELATIONSHIP BETWEEN THE SCHEIBLECHNER MODEL AND THE HOLLAND LEINHARDT P1 MODEL</title>
+<url>http://dx.doi.org/10.1016/0378-8733(91)90020-T</url>
+<snippet>
+WOS:A1991GN66600005
+</snippet>
+</document>
+
+<document id="30">
+<title>COHESION, EQUIVALENCE, AND SIMILARITY OF BEHAVIOR - A THEORETICAL AND EMPIRICAL-ASSESSMENT</title>
+<url>http://dx.doi.org/10.1016/0378-8733(93)90009-A</url>
+<snippet>Network analysts have debated the extent to which cohesion versus structural equivalence serves as a source of similar behavior among actors. More recently, role equivalence has emerged as an alternative to structural equivalence. Using data on the contribution patterns of corporate political action committees, I examine the effect of various indicators of cohesion, structural equivalence, and role equivalence on the extent to which firms behave similarly. Although various operationalizations of all three concepts are correlated with similar behavior, the most consistent predictor is the joint prominence of two firms in the network. I argue that this common location in central positions is a form of role equivalence, but one that is distinct from conventional definitions of the concept. I then suggest a distinction between what I term central and peripheral role equivalence.
+WOS:A1993MA39900004
+</snippet>
+</document>
+
+<document id="31">
+<title>Exact colorations of graphs and digraphs</title>
+<url>http://dx.doi.org/10.1016/0378-8733(95)00286-3</url>
+<snippet>A coloration is an exact regular coloration if whenever two vertices are colored the same they have identically colored neighborhoods. For example, if one of the two vertices that are colored the same is connected to three yellow vertices, two white and red, then the other vertex is as well. Exact regular colorations have been discussed informally in the social network literature. However they have been part of the mathematical literature for some time, though in a different format. We explore this concept in terms of social networks and illustrate some important results taken from the mathematical literature. In addition we show how the concept can be extended to ecological and perfect colorations, and discuss how the CATREGE algorithm can be extended to find the maximal exact regular coloration of a graph.
+WOS:A1996VM16900001
+</snippet>
+</document>
+
+<document id="32">
+<title>A NOTE ON REGULAR COLORINGS OF 2 MODE DATA</title>
+<url>http://dx.doi.org/10.1016/0378-8733(93)90016-E</url>
+<snippet>This note follows an earlier suggestion by Borgatti (1989), and Everett and Borgatti (1992a). Here, we extend their notion of regular colorings to bipartite graphs.
+WOS:A1993MN52100006
+</snippet>
+</document>
+
+<document id="33">
+<title>DEFINING AND LOCATING CORES AND BOUNDARIES OF SOCIAL NETWORKS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(94)90013-2</url>
+<snippet>We propose a general procedure for locating the boundary of a network and a second, related, procedure for discerning the boundaries within a network.  The first is an expanding (snowball) selection procedure.  The second requires the specification of two critical parameters:  the value of k for a k-core and the threshold, w, for the quantitative magnitude of network ties.  The use of these parameters generates a sequence of nested cores.  Single sector and multi-sector social service inter-agency networks are used to illustrate the procedures.
+WOS:A1994PK84800001
+</snippet>
+</document>
+
+<document id="34">
+<title>DIRECT AND INDIRECT METHODS FOR STRUCTURAL EQUIVALENCE</title>
+<url>http://dx.doi.org/10.1016/0378-8733(92)90014-X</url>
+<snippet>
+WOS:A1992HR57100003
+</snippet>
+</document>
+
+<document id="35">
+<title>A partitioning approach to structural balance</title>
+<url>http://dx.doi.org/10.1016/0378-8733(95)00259-6</url>
+<snippet>The classic formulation of structural balance by Cartwright and Harary (Psychological Review, 63, 1956, 277-293) had the basic structural theorem that a balanced structure could be partitioned into two mutually antagonistic subgroups each having internal solidarity. Davis (Human Relations, 20, 1967, 181-187) extended this theorem for cases where there can be more than two such mutually antagonistic subgroups. We use these theorems to construct a criterion function for a local optimization partitioning procedure for signed digraphs. For any signed digraph, this procedure yields those partitions with the smallest number of errors, a measure of the imbalance in the graph, and an identification of those links inconsistent with both generalized and structural balance. These methods are applied to some artificial data and to the affect data from Sampson (A novitiate in a period of change: An experimental and case study of social relationships, Dissertation, Cornell University, 1968). The latter provides a positive test of a basic tenet of balance theory, that there is a tendency towards balance with signed relations in human groups. While these methods can be applied to all signed digraphs and signed graphs, the balance hypothesis is relevant only for affect ties.
+WOS:A1996UC91700003
+</snippet>
+</document>
+
+<document id="36">
+<title>AN ALGORITHM FOR FINDING THE STRUCTURE OF SOCIAL-GROUPS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(94)90002-7</url>
+<snippet>Unlike the most widely used methods of researching equivalent vertices in network analysis (structural or regular equivalences), the one which we propose in.this paper is based upon a new definition of equivalence meeting the following requirements: (1) analyzing the data from a double point of view: local and global; (2) conserving the specificity of discrete data. Applying our algorithm in the context of a sociability survey allows us to pinpoint groups with sociological coherence. The study shows that network differences correspond to socio-demographic differences.
+WOS:A1994NG53300002
+</snippet>
+</document>
+
+<document id="37">
+<title>Network analysis of 2-mode data</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(96)00301-2</url>
+<snippet>Network analysis is distinguished from traditional social science by the dyadic nature of the standard data set. Whereas in traditional social science we study monadic attributes of individuals, in network analysis we study dyadic attributes of pairs of individuals. These dyadic attributes (e.g, social relations) may be represented in matrix form by a square 1-mode matrix, In contrast, the data in traditional social science are represented as 2-mode matrices. However, network analysis is not completely divorced from traditional social science, and often has occasion to collect and analyze 2-mode matrices, Furthermore, some of the methods developed in network analysis have uses in analysing non-network data, This paper presents and discusses ways of applying and interpreting traditional network analytic techniques to 2-mode data, as well as developing new techniques, Three areas are covered in detail: displaying 2-mode data as networks, detecting clusters and measuring centrality.
+WOS:A1997XE81300004
+</snippet>
+</document>
+
+<document id="38">
+<title>INFLUENCES ON AND FROM THE SEGMENTATION OF NETWORKS - HYPOTHESES AND TESTS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(94)90006-X</url>
+<snippet>This article discusses (a) the influence of network structure on the diffusion of (new) cultural behavior within the network and (b) the influence of external events, especially of social programs, on the diffusion of (new) cultural behavior, and on the network structure.  Hypotheses are formulated and tested on data from a study on the diffusion of petty crime in pupils networks in high schools. To test these hypotheses we propose and use a new measure of network structure: the segmentation index.
+WOS:A1994NY15500002
+</snippet>
+</document>
+
+<document id="39">
+<title>BLOCKMODELS - INTERPRETATION AND EVALUATION</title>
+<url>http://dx.doi.org/10.1016/0378-8733(92)90013-W</url>
+<snippet>Many methods for the description of social network structural properties are concerned with the dual notions of social position and social role. Common goals of these methods are to represent patterns in complex social network data in simplified form, to reveal sets of actors who are similarly embedded in networks of relations, and to describe the associations among relations in multirelational social networks. Often these representations take the form of a blockmodel. In a blockmodel actors are assigned to positions and network relations are presented among positions, rather than among actors. The literature on blockmodels is extensive and is overflowing with computation and applications of blockmodels. However, there is a surprising lack of attention to two very important aspects of block-model analyses: the interpretation and evaluation of the results. The purpose of this paper is to focus on these topics, primarily reviewing and synthesizing the approaches to interpretation and evaluation currently in use.
+WOS:A1992HR57100002
+</snippet>
+</document>
+
+<document id="40">
+<title>REGULAR BLOCKMODELS OF MULTIWAY, MULTIMODE MATRICES</title>
+<url>http://dx.doi.org/10.1016/0378-8733(92)90015-Y</url>
+<snippet>Blockmodels are used to collapse redundant elements in a system in order to clarify the patterns of relationships among the elements. Traditional blockmodels define redundancy in terms of structural equivalence. This choice serves many analytic purposes very well, but is inadequate for others. In particular, role systems would be better modeled by blockmodels based on regular equivalence. The first goal of this paper is to generalize blockmodels to incorporate both structural and regular equivalence. Another limitation of traditional blockmodels is that they are defined only for (collections of) 2-way 1-mode adjacency matrices. This excludes common datasets such as actor-by-event, actor-by-organization, item-by-use and case-by-variable matrices. It also excludes 3-way data such as actor-by-actor-by-time or subject-by-verb-by-object matrices. The second goal of this paper is to define blockmodels for multiway, multimode matrices in general. In so doing, we also shift the focus of attention away from the blocking of actors (or other entities) and toward the blocking of ties (or multiway cells).
+WOS:A1992HR57100004
+</snippet>
+</document>
+
+<document id="41">
+<title>NETWORK STRUCTURE AND DELINQUENT ATTITUDES WITHIN A JUVENILE GANG</title>
+<url>http://dx.doi.org/10.1016/0378-8733(93)90008-9</url>
+<snippet>The literature reveals that delinquency is a group phenomenon. However, there is controversy regarding the explanation of this finding. Subcultural theorists argue that youths become delinquent through peer socialization in youth gangs. Control theorists, by contrast, argue that adolescents become delinquent and associate with delinquent others because they have weakened bonds to the conventional order. Our paper examines the role of social bonds and group structure in the generation of delinquency through the application of social network analysis. Our findings support the control explanation; those members who have the weakest bonds, regardless of gang participation, are the most delinquent (as measured by delinquent attitudes). While our results indicate that companionship (by itself) does not lead youths to become delinquent, we argue that it is still important in the explanation of delinquency.
+WOS:A1993MA39900003
+</snippet>
+</document>
+
+<document id="42">
+<title>BORGATTI TOPPINGS ON DOREIAN SPLITS - REFLECTIONS ON REGULAR EQUIVALENCE</title>
+<url>http://dx.doi.org/10.1016/0378-8733(88)90017-2</url>
+<snippet>
+WOS:A1988R459400005
+</snippet>
+</document>
+
+<document id="43">
+<title>Are personal communities local? A Dumptarian reconsideration</title>
+<url>http://dx.doi.org/10.1016/0378-8733(95)00282-0</url>
+<snippet>Are local ties important in personal community networks? Since local ties only make up a minority of peoples active ties, network analysts have argued for decades that the neighborhood is not very important. Re-analysis of the Toronto data shows that when contacts become the unit of analysis instead of ties, the percentage of local relationships in active networks nearly doubles. Moreover, when we also take into account active contacts with coworkers, who like neighbors are physically proximate, we find that two-thirds of all contacts are local. As Humpty-Dumpty has cogently reminded us, a network can be anything we want it to be. It depends on how we define it. When we change the definition, the conclusions change too.
+WOS:A1996VM16900003
+</snippet>
+</document>
+
+<document id="44">
+<title>ACCURACY AND RELIABILITY OF SELF-REPORTED DATA IN INTERORGANIZATIONAL NETWORKS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(93)90013-B</url>
+<snippet>
+WOS:A1993MN52100003
+</snippet>
+</document>
+
+</searchresult>

@@ -1,0 +1,1513 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Borgatti, SP
+   Everett, MG
+TI GRAPH COLORINGS AND POWER IN EXPERIMENTAL EXCHANGE NETWORKS
+SO SOCIAL NETWORKS
+AB The principal goal of studying experimental exchange networks is to understand the relationship between power and network position. In this paper we provide a formal definition of the appropriate notion of position, and explore some of the consequences of assuming that power is a function of position. It is shown that, in highly structured graphs, the space of possible power outcomes is significantly reduced if power is entirely structural. Drawing on the notion of role colorings (Everett and Borgatti 1991), we formalize the frequently expressed intuitive idea that a nodes power is a function of the powers of its neighbors, just as their power is determined by the powers of their neighbors, and so on. We use a combination of two role colorings to express this idea. One, called ecological coloring, states that if two nodes have the same power neighborhoods (i.e. distinct levels of power exhibited by their neighbors), then they must have equal power. The other, called regular coloring, states that if two nodes have equal power, then we can infer that they have the same power neighborhoods. Together, these colorings imply a one-to-one relationship between the power of a node, and the power(s) of its neighbors. It is found that applying these colorings in addition to assuming power is a function of position, radically reduces the sample space of possible power outcomes, leaving only a few possibilities. With two revealing exceptions, the reduced space of possible power outcomes always contains the experimentally observed result.
+C1 THAMES POLYTECH,LONDON SE18 6PF,ENGLAND.
+RP BORGATTI, SP (corresponding author), UNIV S CAROLINA,DEPT SOCIOL,COLUMBIA,SC 29208, USA.
+FU EPSRC [EP/H023135/1] Funding Source: UKRI
+CR BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   BORGATTI SP, 1989, SOC NETWORKS, V11, P65, DOI 10.1016/0378-8733(89)90018-X
+   BORGATTI SP, 1992, IN PRESS SOCIOLOGICA, V0, P0
+   EVERETT MG, 1991, MATH SOC SCI, V21, P183, DOI 10.1016/0165-4896(91)90080-B
+   MARKOVSKY B, 1987, SOCIOLOGICAL THEORY, V5, P100
+   MARKOVSKY B, 1988, AM SOCIOL REV, V53, P220, DOI 10.2307/2095689
+   MARKOVSKY BD, 1991, 1991 AM SOC ASS M, V0, P0
+   MARSDEN PV, 1987, SOCIAL EXCHANGE THEO, V0, P130
+   STOLTE JF, 1988, SOC PSYCHOL QUART, V51, P357, DOI 10.2307/2786762
+NR 9
+TC 18
+Z9 0
+U1 0.0
+U2 3.0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1992
+VL 14
+BP 287
+EP 308
+DI 10.1016/0378-8733(92)90006-S
+PG 22
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1992JV35600007
+PM 
+ER
+
+PT J
+AU Tam, T
+TI DEMARCATING THE BOUNDARIES BETWEEN SELF AND THE SOCIAL - THE ANATOMY OF CENTRALITY IN SOCIAL NETWORKS
+SO SOCIAL NETWORKS
+C1 TECH UNIV BERLIN,INST SOCIOL,W-1000 BERLIN 10,GERMANY.
+RP SCHWEIZER, T (corresponding author), UNIV COLOGNE,INST ETHNOL,ALBERTUS MAGNUS PL,W-5000 COLOGNE 41,GERMANY.
+FU US Department of Education, Institute of Education Sciences
+CR BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   MIZRUCHI MS, 1986, SOCIOL METHODOL, V0, P26
+NR 2
+TC 8
+Z9 0
+U1 1.0
+U2 4.0
+J9 SOCIAL NETWORKS
+PD DEC
+PY 1989
+VL 11
+BP 387
+EP 401
+DI 10.1016/0378-8733(89)90013-0
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1989CA81400003
+PM 
+ER
+
+PT J
+AU Sparrow, MK
+TI A LINEAR ALGORITHM FOR COMPUTING AUTOMORPHIC EQUIVALENCE CLASSES - THE NUMERICAL SIGNATURES APPROACH
+SO SOCIAL NETWORKS
+AB An efficient method for computing role (automorphic) equivalences in large networks is described. Numerical signatures (real numbers) are generated for each node. Role-identical nodes share common numerical signatures. The decomposition of the node set into classes by reference to the numerical signatures helps determine the automorphic equivalence classes of a network. The technique is applicable to symmetric and directed networks, and to graphs with multiple link types. The algorithm is linear with respect to the number of links in the network. Its theoretical foundation exploits properties of transcendental numbers.
+C1 HARVARD UNIV,CAMBRIDGE,MA 02138.
+RP Feld, SL (corresponding author), LOUISIANA STATE UNIV,DEPT SOCIOL,BATON ROUGE,LA 70803, USA.
+FU Division Of Behavioral and Cognitive Sci; Direct For Social, Behav &
+CR BORGATTI S, 1988, SOC NETWORKS, V10, P265, DOI 10.1016/0378-8733(88)90016-0
+   BURT RS, 1988, SOC NETWORKS, V10, P1, DOI 10.1016/0378-8733(88)90008-1
+   BURT RS, 1990, SOC NETWORKS, V12, P83, DOI 10.1016/0378-8733(90)90023-3
+   DOREIAN P, 1988, SOC NETWORKS, V10, P273, DOI 10.1016/0378-8733(88)90017-2
+   EVERETT MG, 1988, SOC NETWORKS, V10, P77, DOI 10.1016/0378-8733(88)90011-1
+   EVERETT MG, 1990, SOC NETWORKS, V12, P253, DOI 10.1016/0378-8733(90)90008-W
+   FAUST K, 1988, SOC NETWORKS, V10, P313, DOI 10.1016/0378-8733(88)90002-0
+   HUMMON NP, 1990, SOC NETWORKS, V12, P273, DOI 10.1016/0378-8733(90)90011-W
+NR 8
+TC 6
+Z9 0
+U1 0.0
+U2 2.0
+J9 SOCIAL NETWORKS
+PD JUN
+PY 1993
+VL 15
+BP 151
+EP 170
+DI 10.1016/0378-8733(93)90003-4
+PG 20
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1993LF74200003
+PM 
+ER
+
+PT J
+AU Sparrow, MK
+TI THE APPLICATION OF NETWORK ANALYSIS TO CRIMINAL INTELLIGENCE - AN ASSESSMENT OF THE PROSPECTS
+SO SOCIAL NETWORKS
+AB This paper explores the opportunities for the application of network analytic techniques to the problems of criminal intelligence analysis, paying particular attention to the identification of vulnerabilities in different types of criminal organization - from terrorist groups to narcotics supply networks. A variety of concepts from the network analysis literature are considered in terms of the promise they hold for helping law enforcement agencies extract useful information from existing collections of link data. For example, six different notions of "centrality" and the three major notions of "equivalence" are examined for their relevance in revealing the mechanics and vulnerabilities of criminal enterprises.
+C1 Penn State Univ, University Pk, PA 16802 USA.
+RP SPARROW, MK (corresponding author), HARVARD UNIV,JOHN F KENNEDY SCH GOVT,79 JOHN F KENNEDY ST,CAMBRIDGE,MA 02138, USA.
+FU NICHD NIH HHS [R01 HD041877-01, R01 HD041877] Funding Source: Medline;
+CR BAYSE WA, 1987, SIGNAL MAGAZINE MAY, V0, P0
+   BORGATTI SP, 1989, SOC NETWORKS, V11, P65, DOI 10.1016/0378-8733(89)90018-X
+   BURT RS, 1990, SOC NETWORKS, V12, P83, DOI 10.1016/0378-8733(90)90023-3
+   DOREIAN P, 1988, SOC NETWORKS, V10, P273, DOI 10.1016/0378-8733(88)90017-2
+   EVERETT MG, 1988, SOC NETWORKS, V10, P77, DOI 10.1016/0378-8733(88)90011-1
+   FAUST K, 1988, SOC NETWORKS, V10, P313, DOI 10.1016/0378-8733(88)90002-0
+   GOULD RV, 1987, SOC NETWORKS, V9, P277, DOI 10.1016/0378-8733(87)90023-2
+   KENNEDY DM, 1990, KINDNESS STRANGERS O, V0, P0
+   SPARROW MK, 1990, EVALUATION POTENTIAL, V0, P0
+   STEPHENSON K, 1989, SOC NETWORKS, V11, P1, DOI 10.1016/0378-8733(89)90016-6
+   WASSERMAN S, 1987, SOC NETWORKS, V9, P1, DOI 10.1016/0378-8733(87)90015-3
+   WILSOND RJ, 1986, INFORMAL TECHNICAL N, V0, P0
+NR 12
+TC 325
+Z9 0
+U1 2.0
+U2 39.0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1991
+VL 13
+BP 251
+EP 274
+DI 10.1016/0378-8733(91)90008-H
+PG 24
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1991GW01000003
+PM 
+ER
+
+PT J
+AU Borgatti, SP
+   Everett, MG
+TI THE CLASS OF ALL REGULAR EQUIVALENCES - ALGEBRAIC STRUCTURE AND COMPUTATION
+SO SOCIAL NETWORKS
+C1 THAMES POLYTECH,SCH MATH STAT & COMP,LONDON SE18 6PF,ENGLAND.
+RP BORGATTI, SP (corresponding author), UNIV CALIF IRVINE,SCH SOCIAL SCI,IRVINE,CA 92717, USA.
+FU NIDA NIH HHS [R01 DA013459] Funding Source: Medline
+CR BORGATTI S, 1988, SOC NETWORKS, V10, P265, DOI 10.1016/0378-8733(88)90016-0
+   BORGATTI SP, 1987, USERS MANUAL AL ANAL, V0, P0
+   BREIGER RL, 1986, SOC NETWORKS, V8, P215, DOI 10.1016/0378-8733(86)90006-7
+   DOREIAN P, 1987, SOC NETWORKS, V9, P89, DOI 10.1016/0378-8733(87)90008-6
+   EVERETT MG, 1985, SOC NETWORKS, V7, P353, DOI 10.1016/0378-8733(85)90013-9
+   EVERETT MG, 1988, SOC NETWORKS, V10, P71
+   FAUST K, 1988, SOC NETWORKS, V10, P313, DOI 10.1016/0378-8733(88)90002-0
+   WHITE DR, 1984, UNPUB REGE REGULAR G, V0, P0
+   WHITE DR, 1985, UNPUB MEASURING ROLE, V0, P0
+NR 9
+TC 67
+Z9 0
+U1 0.0
+U2 1.0
+J9 SOCIAL NETWORKS
+PD MAR
+PY 1989
+VL 11
+BP 65
+EP 88
+DI 10.1016/0378-8733(89)90018-X
+PG 24
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1989AJ22000003
+PM 
+ER
+
+PT J
+AU Frank, KA
+TI Mapping interactions within and between cohesive subgroups
+SO SOCIAL NETWORKS
+C1 San Jose State Univ, Coll Business, Dept Org & Management, San Jose, CA 95192 USA.
+RP Rodan, S (corresponding author), San Jose State Univ, Coll Business, Dept Org & Management, 1 Washington Sq, San Jose, CA 95192 USA.
+FU University of Victoria; Ministry of Education of China; Hunan Province
+CR ANDERSON CJ, 1992, SOC NETWORKS, V14, P137, DOI 10.1016/0378-8733(92)90017-2
+   BORGATTI P, 1992, UCINET 4 VERSION 1 0, V0, P0
+   BURT RS, 1991, STRUCTURE, V0, P0
+   Borgatti StephenP, 1992, SOCIOL METHODOL, V22, P1
+   Burawoy M, 2001, CONTEMP SOCIOL, V30, P453, DOI 10.2307/3089314
+   Burt RS, 1992, STRUCTURAL HOLES, V0, P0
+   DALUDVINCENT M, 1994, SOC NETWORKS, V16, P137, DOI 10.1016/0378-8733(94)90002-7
+   DOREIAN P, 1994, J MATH SOCIOL, V19, P1, DOI 10.1080/0022250X.1994.9990133
+   FRANK KA, 1993, IDENTIFYING COHESIVE, V0, P0
+   FRANK KA, 1995, SOC NETWORKS, V17, P27, DOI 10.1016/0378-8733(94)00247-8
+   FREEMAN LC, 1992, AM J SOCIOL, V98, P152, DOI 10.1086/229972
+   FREEMAN LC, 1993, J MATH SOCIOL, V17, P227, DOI 10.1080/0022250X.1993.9990109
+   Freeman Linton, 1992, BULLETIN OF SOCIOLOGICAL METHODOLOGY/BULLETIN DE METHODOLOGIE SOCIOLOGIQUE, V37, P3
+   Friedkin NE, 1994, ADVANCES IN SOCIAL NETWORK ANALYSIS, V0, P1
+   KADUSHIN C, 1995, AM SOCIOL REV, V60, P202, DOI 10.2307/2096384
+   Krackhardt D, 1994, CONNECTIONS, V17, P53
+   MIZRUCHI M, 1993, COHESION EQUIVALENCE, V0, P0
+   NAKAO K, 1993, SOC NETWORKS, V15, P109, DOI 10.1016/0378-8733(93)90001-2
+   QUIROZ P, 1991, ANN M AM ED RES ASS, V0, P0
+   SNIJDERS T, 1994, 931129EX, V0, P0
+   WASSERMAN S, 1994, ANN M PSYCH SOC CHAM, V0, P0
+   Wasserman Stanley, 1994, SOCIAL NETWORKS ANALYSIS, V0, P0
+NR 22
+TC 64
+Z9 0
+U1 1.0
+U2 16.0
+J9 SOCIAL NETWORKS
+PD APR
+PY 1996
+VL 18
+BP 93
+EP 119
+DI 10.1016/0378-8733(95)00257-X
+PG 27
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1996UC91700001
+PM 
+ER
+
+PT J
+AU Burt, RS
+TI DETECTING ROLE EQUIVALENCE
+SO SOCIAL NETWORKS
+C1 COLUMBIA UNIV,GRAD SCH BUSINESS,NEW YORK,NY 10027.   
+COLUMBIA UNIV,CTR FORENS MED,NEW YORK,NY 10027.
+RP BURT, RS (corresponding author), COLUMBIA UNIV,DEPT SOCIOL,NEW YORK,NY 10027, USA.
+FU Leverhulme Trust
+CR BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667
+   BURT RS, 1988, SOC NETWORKS, V10, P10
+   DOREIAN P, 1987, SOC NETWORKS, V9, P89, DOI 10.1016/0378-8733(87)90008-6
+   FAUST K, 1988, SOC NETWORKS, V10, P313, DOI 10.1016/0378-8733(88)90002-0
+   HUMMELL H, 1987, METHODEN NETZWERKANA, V0, P0
+   WINSHIP C, 1988, SOC NETWORKS, V10, P209, DOI 10.1016/0378-8733(88)90013-5
+NR 6
+TC 42
+Z9 0
+J9 SOCIAL NETWORKS
+PD MAR
+PY 1990
+VL 12
+BP 83
+EP 97
+DI 10.1016/0378-8733(90)90023-3
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1990CY19300004
+PM 
+ER
+
+PT J
+AU Burt, RS
+TI MEASURING AGE AS A STRUCTURAL CONCEPT
+SO SOCIAL NETWORKS
+C1 COLUMBIA UNIV,GRAD SCH BUSINESS,NEW YORK,NY 10027.
+RP BURT, RS (corresponding author), COLUMBIA UNIV,DEPT SOCIOL,NEW YORK,NY 10027, USA.
+FU ESRC [ES/G007543/1] Funding Source: UKRI; MRC [G0501806] Funding Source:
+CR BURT RS, 1988, SOC NETWORKS, V10, P1, DOI 10.1016/0378-8733(88)90008-1
+   BURT RS, 1989, AM J SOCIOL, V95, P723, DOI 10.1086/229331
+   Burt RS, 1990, STRUCTURES POWER CON, V0, P0
+   GARGIULO M, 1991, IN PRESS SOCIAL NETW, V13, P0
+   MARSDEN PV, 1987, AM SOCIOL REV, V52, P122, DOI 10.2307/2095397
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   MORRIS M, 1989, UNPUB SELECTIVE MIXI, V0, P0
+   RILEY MW, 1987, AM SOCIOL REV, V52, P1, DOI 10.2307/2095388
+   Riley MW, 1988, HANDBOOK OF SOCIOLOGY, V0, P0
+NR 9
+TC 44
+Z9 0
+U1 1.0
+U2 4.0
+J9 SOCIAL NETWORKS
+PD MAR
+PY 1991
+VL 13
+BP 1
+EP 34
+DI 10.1016/0378-8733(91)90011-H
+PG 34
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1991FY71900001
+PM 
+ER
+
+PT J
+AU Batagelj, V
+TI Notes on blockmodeling
+SO SOCIAL NETWORKS
+DE blockmodels; types of connection; averaging rules; optimization
+AB We attempt to develop further the blockmodeling of networks, so as better to capture the network structure. For this purpose a richer structure than ordinary (valued) graphs has to be used for a model. Such structures are valued graphs with typified (complete, dominant, regular, etc.) connections. Based on the proposed formalization, the blockmodeling is cast as an optimization problem.
+C1 Univ Minnesota, Dept Sociol, Minneapolis, MN 55455 USA.
+RP Batagelj, V (corresponding author), UNIV LJUBLJANA,DEPT MATH,JADRANSKA 19,LJUBLJANA 1000,SLOVENIA.
+FU Swiss National Science Foundation [146763]
+CR BATAGELJ V, 1992, SOC NETWORKS, V14, P121, DOI 10.1016/0378-8733(92)90016-Z
+   BATAGELJ V, 1992, SOC NETWORKS, V14, P63, DOI 10.1016/0378-8733(92)90014-X
+   DOREIAN P, 1994, J MATH SOCIOL, V19, P1, DOI 10.1080/0022250X.1994.9990133
+   Doreian P, 1996, SOC NETWORKS, V18, P149, DOI 10.1016/0378-8733(95)00259-6
+   Hlebec V, 1993, DEV. STAT. METHODOL., V0, P121
+NR 5
+TC 28
+Z9 0
+U1 1.0
+U2 2.0
+J9 SOCIAL NETWORKS
+PD APR
+PY 1997
+VL 19
+BP 143
+EP 155
+DI 10.1016/S0378-8733(96)00297-3
+PG 13
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1997XF61900004
+PM 
+ER
+
+PT J
+AU Borgatti, SP
+   Everett, MG
+TI ECOLOGICAL AND PERFECT COLORINGS
+SO SOCIAL NETWORKS
+AB A recent study (Hummon and Carley 1992) has indicated that one of the main research paths in the discipline of social networks is the study of roles and positions. Several key positional concepts have been elucidated, including regular colorings (White and Reitz 1983), automorphic colorings (Everett 1985), and structural colorings (Lorrain and White 1971). Regular colorings in particular have been seen as formalizations of the intuitive concept of social role. However, in this paper we suggest that regular colorings only incorporate one half of the intuitive role concept. The other half, which we formalize as ecological colorings, is equally important. We therefore introduce perfect colorings, which are both regular and ecological, and are consequently more complete models of the role concept. Perfect colorings have a number of interesting mathematical properties, which we describe briefly.
+C1 UNIV GREENWICH,SCH MATH STAT & COMP,LONDON SE18 6PF,ENGLAND.
+RP BORGATTI, SP (corresponding author), UNIV S CAROLINA,DEPT SOCIOL,COLUMBIA,SC 29208, USA.
+CR BORGATTI SP, 1989, SOC NETWORKS, V11, P159, DOI 10.1016/0378-8733(89)90010-5
+   BORGATTI SP, 1989, SOC NETWORKS, V11, P65, DOI 10.1016/0378-8733(89)90018-X
+   BORGATTI SP, 1989, THESIS U CALIFORNIA, V0, P0
+   BORGATTI SP, 1992, SOC NETWORKS, V14, P287, DOI 10.1016/0378-8733(92)90006-S
+   BORGATTI SP, 1992, SOC NETWORKS, V14, P91, DOI 10.1016/0378-8733(92)90015-Y
+   BORGATTI SP, 1993, IN PRESS SOCIAL NETW, V0, P0
+   EVERETT MG, 1991, MATH SOC SCI, V21, P1
+   EVERETT MG, 1993, SOC NETWORKS, V15, P237, DOI 10.1016/0378-8733(93)90007-8
+   HUMMON N, 1992, 1992 ANN SUNB SOC NE, V0, P0
+NR 9
+TC 10
+Z9 0
+U1 1.0
+U2 1.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 1994
+VL 16
+BP 43
+EP 55
+DI 10.1016/0378-8733(94)90010-8
+PG 13
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1994MR27900002
+PM 
+ER
+
+PT J
+AU Borgatti, SP
+TI SPECIAL ISSUE ON BLOCKMODELS - INTRODUCTION
+SO SOCIAL NETWORKS
+C1 Univ Chicago, Dept Sociol, Chicago, IL 60637 USA.
+RP UNIV STOCKHOLM, DEPT STAT, STOCKHOLM, SWEDEN.
+FU NSF [DMS-1505136]
+CR ARABIE P, 1990, SOC NETWORKS, V12, P99, DOI 10.1016/0378-8733(90)90001-P
+   PATTISON PE, 1988, SOC NETWORKS, V10, P383, DOI 10.1016/0378-8733(88)90005-6
+   WASSERMAN S, 1987, SOC NETWORKS, V9, P1, DOI 10.1016/0378-8733(87)90015-3
+NR 3
+TC 3
+Z9 0
+U1 0.0
+U2 1.0
+J9 SOCIAL NETWORKS
+PD MAR
+PY 1992
+VL 14
+BP 1
+EP 3
+DI 10.1016/0378-8733(92)90012-V
+PG 3
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1992HR57100001
+PM 
+ER
+
+PT J
+AU Faust, K
+TI CORRECTION
+SO SOCIAL NETWORKS
+RP Freeman, LC (corresponding author), Univ Calif Irvine, Sch Social Sci, Irvine, CA 92697 USA.
+CR BORGATTI SP, 1992, SOC NETWORKS, V14, P91, DOI 10.1016/0378-8733(92)90015-Y
+   FAUST K, 1992, SOC NETWORKS, V14, P5, DOI 10.1016/0378-8733(92)90013-W
+NR 2
+TC 0
+Z9 0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1992
+VL 14
+BP 345
+EP 345
+PG 1
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1992JV35600010
+PM 
+ER
+
+PT J
+AU Freeman, LC
+TI Cliques, Galois lattices, and the structure of human social groups
+SO SOCIAL NETWORKS
+C1 Univ Chicago, Dept Hlth Studies, Chicago, IL 60637 USA.
+RP Sohn, MW (corresponding author), Univ Chicago, Dept Hlth Studies, 5841 S Maryland Ave,MC 2007, Chicago, IL 60637 USA.
+FU University of Maryland; National Science Foundation (NSF) [DBI-1052875,
+CR FREEMAN LC, 1992, AM J SOCIOL, V98, P152, DOI 10.1086/229972
+   FREEMAN LC, 1993, IN PRESS B METHODOLO, V0, P0
+   ROETHLISBERGER FJ, 1993, MANAGEMENT WORKER, V0, P0
+NR 3
+TC 56
+Z9 0
+U1 1.0
+U2 3.0
+J9 SOCIAL NETWORKS
+PD AUG
+PY 1996
+VL 18
+BP 173
+EP 187
+DI 10.1016/0378-8733(95)00271-5
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1996UT55400002
+PM 
+ER
+
+PT J
+AU Cook, KS
+   Yamagishi, T
+TI POWER IN EXCHANGE NETWORKS - A POWER-DEPENDENCE FORMULATION
+SO SOCIAL NETWORKS
+AB Recent developments in exchange network theory include new formalizations of techniques for specifying the distribution of power in exchange networks. In this article we present a theory-based procedure for identifying power positions in negatively connected exchange networks. This development grows out of earlier work by Emerson on power-dependence relations. The procedure for determining the distribution of power is applied to various common networks also addressed in other articles in this special issue. We compare this approach with the formal method developed by Markovsky, Patton and Willer (1988), commenting on similarities and differences. In conclusion, we discuss the limitations of our procedure and indicate topics in need of further empirical research.
+C1 [Doreian, Patrick] Univ Pittsburgh, Dept Sociol, Pittsburgh, PA 15260 USA.   
+[Mrvar, Andrej] Univ Ljubljana, Fac Social Sci, Ljubljana 61000, Slovenia.
+RP COOK, KS (corresponding author), UNIV WASHINGTON,DEPT SOCIOL,SEATTLE,WA 98195, USA.
+FU Deutsche Forschungsgemeinschaft (DFG) [Br 2158/6-1]
+CR BONACICH P, 1987, AM J SOCIOL, V92, P1110
+   MARKOVSKY B, 1988, AM SOCIOL REV, V53, P220, DOI 10.2307/2095689
+   MARKOVSKY BD, 1991, 86TH ANN M AM SOC AS, V0, P0
+   Molm L, 1987, ADVANCES IN GROUP PROCESSES, V4, P0
+   STOLTE JF, 1988, SOC PSYCHOL QUART, V51, P357, DOI 10.2307/2786762
+   Willer David, 1987, THEORY EXPT INVESTIG, V0, P0
+   YAMAGISHI T, 1988, AM J SOCIOL, V93, P833, DOI 10.1086/228826
+   YAMAGISHI T, 1990, AM SOCIOL REV, V55, P297, DOI 10.2307/2095634
+NR 8
+TC 142
+Z9 0
+U1 0.0
+U2 25.0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1992
+VL 14
+BP 245
+EP 265
+DI 10.1016/0378-8733(92)90004-Q
+PG 21
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1992JV35600005
+PM 
+ER
+
+PT J
+AU Everett, MG
+   Borgatti, SP
+TI AN EXTENSION OF REGULAR COLORING OF GRAPHS TO DIGRAPHS, NETWORKS AND HYPERGRAPHS
+SO SOCIAL NETWORKS
+AB The use of regular graph colouring as an equivalent simple definition for regular equivalence is extended from graphs to digraphs and networks. In addition new concepts of regular equivalence for edges and hypergraphs are presented using the new terminology.
+C1 UNIV S CAROLINA,COLUMBIA,SC 29208.
+RP EVERETT, MG (corresponding author), UNIV GREENWICH,SCH MATH STAT & COMP,WELLINGTON ST,LONDON SE18 6PF,ENGLAND.
+FU FNRS [24927961]
+CR BORGATTI SP, 1989, THESIS U CALIFORNIA, V0, P0
+   EVERETT MG, 1991, MATH SOC SCI, V21, P183, DOI 10.1016/0165-4896(91)90080-B
+   REITZ KP, 1989, RES METHODS SOCIAL N, V0, P0
+NR 3
+TC 13
+Z9 0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1993
+VL 15
+BP 237
+EP 254
+DI 10.1016/0378-8733(93)90007-8
+PG 18
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1993MA39900002
+PM 
+ER
+
+PT J
+AU Michaelson, AG
+TI THE DEVELOPMENT OF A SCIENTIFIC SPECIALTY AS DIFFUSION THROUGH SOCIAL-RELATIONS - THE CASE OF ROLE ANALYSIS
+SO SOCIAL NETWORKS
+AB This research considers whether the development of a scientific specialty can be understood as a diffusion process in which social relations and mass media are alternative sources of information and influence. The kinds of modifying adoptions of innovations observed during the development of a scientific specialty are compared with the straightforward adoptions that occur during ordinary diffusion processes. The developments of two innovations in role analysis, a specialty of social network analysis, are examined as a case study. It is shown that these adoptions are, in some ways, similar to the straightforward adoptions occurring in ordinary diffusion. Specifically, social relations were sources of information and influence, and qualities of the innovations affected the rates of adoption. Differences between the development of role analysis and ordinary diffusion processes also are illustrated. The availability of mass media sources of information and influence depends on the number of adopters during the development of a scientific specialty, but not during ordinary diffusion processes. This difference has further implications for the effect of qualities of the innovation on the development of scientific specialties.
+C1 UNIV ILLINOIS,DEPT PSYCHOL,CHAMPAIGN,IL 61820.
+RP UNIV CALIF IRVINE, SCH SOCIAL SCI, IRVINE, CA 92717 USA.
+CR BURKHARDT ME, 1990, ADMIN SCI QUART, V35, P104, DOI 10.2307/2393552
+   CARLEY K, 1990, 10TH ANN INT SUNB SO, V0, P0
+   CARLEY K, 1992, 12TH ANN INT SUNB SO, V0, P0
+   FAUST K, 1988, SOC NETWORKS, V10, P313, DOI 10.1016/0378-8733(88)90002-0
+   FRIEDKIN NE, 1990, SOCIOL METHOD RES, V19, P122, DOI 10.1177/0049124190019001006
+   MICHAELSON A, 1991, CONNECTIONS, V14, P10
+   WASSERMAN S, 1992, SOCIAL NETWORKS ANAL, V0, P0
+NR 7
+TC 19
+Z9 0
+U1 1.0
+U2 10.0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1993
+VL 15
+BP 217
+EP 236
+DI 10.1016/0378-8733(93)90006-7
+PG 20
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1993MA39900001
+PM 
+ER
+
+PT J
+AU Borgatti, SP
+TI CORRECTION
+SO SOCIAL NETWORKS
+C1 Univ Calif Irvine, Sch Social Sci, Irvine, CA 92697 USA.
+RP Freeman, LC (corresponding author), Univ Calif Irvine, Sch Social Sci, Irvine, CA 92697 USA.
+FU US Centers for Disease Control and Prevention [5 U01 CK00053102, 1 U01
+CR BORGATTI SP, 1992, SOC NETWORKS, V14, P91, DOI 10.1016/0378-8733(92)90015-Y
+NR 1
+TC 0
+Z9 0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1992
+VL 14
+BP U187
+EP U187
+PG 1
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1992JV35600001
+PM 
+ER
+
+PT J
+AU Schweizer, T
+   Klemm, E
+   Schweizer, M
+TI RITUAL AS ACTION IN A JAVANESE COMMUNITY - A NETWORK PERSPECTIVE ON RITUAL AND SOCIAL-STRUCTURE
+SO SOCIAL NETWORKS
+AB This social network study of ritual celebrations in a Javanese village analyzes the organizational pattern inherent in the ritual activities. In the network perspective repeated participation in rituals creates order among actors fusing them into subsets by way of joint involvement in the same events. Quantitative analysis revealed that basically neighborhood units are established. Religious factions are mapped onto these fundamental structures. Social class does not influence participation in rituals, although it is at work in the size and performance of celebrations. Participation in rituals can be interpreted as the establishment of implicit contracts for support in a social security network.
+C1 TECH UNIV BERLIN,INST SOCIOL,W-1000 BERLIN 10,GERMANY.
+RP SCHWEIZER, T (corresponding author), UNIV COLOGNE,INST ETHNOL,ALBERTUS MAGNUS PL,W-5000 COLOGNE 41,GERMANY.
+FU US Department of Education, Institute of Education Sciences
+CR BARRAUD C, 1989, BIJDRAGEN TOT TAAL L, V145, P0
+   BARRAUD C, 1989, BIJDRAGEN TOT TAAL L, V146, P0
+   BURT RS, 1988, SOC NETWORKS, V10, P1, DOI 10.1016/0378-8733(88)90008-1
+   Bloch Maurice, 1989, RITUAL HIST POWER SE, V0, P0
+   COLEMAN J, 1990, F SOCIAL THEORY, V0, P0
+   Freeman L, 1989, RESEARCH METHODS IN SOCIAL NETWORK ANALYSIS, V0, P0
+   GORLICH J, 1989, NETZWERKANALYSE ETHN, V0, P133
+   Kertzer David, 1988, RITUAL, V0, Politics and Power
+   Kuper Adam, 2015, ANTHR ANTHR BRIT SCH, V0, P4
+   MITCHELL JC, 1989, NETZWERKANALYSE ETHN, V0, P77
+   Reid A, 1988, LANDS WINDS, V1, P0
+   SCHWEIZER M, 1988, DTSCH MALAIOLOGIE F, V1, P213
+   SCHWEIZER T, 1988, AM ANTHROPOL, V90, P944, DOI 10.1525/aa.1988.90.4.02a00130
+   SCHWEIZER T, 1989, MOD ASIAN STUD, V23, P277, DOI 10.1017/S0026749X00001074
+   SCHWEIZER T, 1989, REISANBAU EINEM JAVA, V0, P0
+   SCHWEIZER T, 1991, J QUANTITATIVE ANTHR, V3, P19
+   Unknown -, 1988, SOCIAL STRUCTURES: A NETWORK APPROACH, V0, P0
+   Unknown -, 2021, WORLD GOODS, V0, P0
+NR 18
+TC 8
+Z9 0
+U1 1.0
+U2 5.0
+J9 SOCIAL NETWORKS
+PD MAR
+PY 1993
+VL 15
+BP 19
+EP 48
+DI 10.1016/0378-8733(93)90020-L
+PG 30
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1993KU29800002
+PM 
+ER
+
+PT J
+AU Borgatti, S
+TI A COMMENT ON DOREIAN REGULAR EQUIVALENCE IN SYMMETRIC STRUCTURES
+SO SOCIAL NETWORKS
+RP BORGATTI, SP (corresponding author), UNIV CALIF IRVINE,SCH SOCIAL SCI,IRVINE,CA 92717, USA.
+CR Burt RS, 1983, TOWARD A STRUCTURAL THEORY OF ACTION: NETWORK MODELS OF SOCIAL STRUCTURE, V0, PPERCEPTION
+   DOREIAN P, 1987, SOC NETWORKS, V9, P89, DOI 10.1016/0378-8733(87)90008-6
+   EVERETT MG, 1985, SOC NETWORKS, V7, P353, DOI 10.1016/0378-8733(85)90013-9
+   FAUST K, 1985, COMP EVALUATION METH, V0, P0
+   WHITE DR, 1983, SOC NETWORKS, V5, P143
+   WHITE DR, 1984, UNPUB REGGE REGULAR, V0, P0
+NR 6
+TC 8
+Z9 0
+U1 0.0
+U2 1.0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1988
+VL 10
+BP 265
+EP 271
+DI 10.1016/0378-8733(88)90016-0
+PG 7
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1988R459400004
+PM 
+ER
+
+PT J
+AU Freeman, LC
+   Borgatti, SP
+   White, DR
+TI CENTRALITY IN VALUED GRAPHS - A MEASURE OF BETWEENNESS BASED ON NETWORK FLOW
+SO SOCIAL NETWORKS
+C1 UNIV S CAROLINA, DEPT SOCIOL, COLUMBIA, SC 29208 USA.
+RP UNIV CALIF IRVINE, SCH SOCIAL SCI, IRVINE, CA 92717 USA.
+CR BOLLAND JM, 1988, SOC NETWORKS, V10, P233, DOI 10.1016/0378-8733(88)90014-7
+   BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   FRIEDKIN NE, 1991, IN PRESS AM J SOCIOL, V0, P0
+   MIZRUCHI MS, 1986, SOCIOLOGICAL METHODO, V0, P0
+   STEPHENSON K, 1989, SOC NETWORKS, V11, P1, DOI 10.1016/0378-8733(89)90016-6
+   Unknown -, 2015, FLOWS IN NETWORKS, V0, P0
+   YAN XY, 1988, J MATH SOCIOL, V13, P359
+NR 7
+TC 648
+Z9 0
+U1 3.0
+U2 84.0
+J9 SOCIAL NETWORKS
+PD JUN
+PY 1991
+VL 13
+BP 141
+EP 154
+DI 10.1016/0378-8733(91)90017-N
+PG 14
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1991GN66600002
+PM 
+ER
+
+PT J
+AU Hummon, NP
+   Carley, K
+TI SOCIAL NETWORKS AS NORMAL SCIENCE
+SO SOCIAL NETWORKS
+AB Social network analysis has emerged as an integrated scientific specialty concerned with the structural analysis of social interaction. Historical evidence suggests that members of this specialty are connected by an invisible college, a shared paradigm and a primary journal. The journal Social Networks is a Primary outlet for researchers in this specialty, particularly those concerned with methodological issues. By examining the pattern of citations within this journal we are able to confirm this historical evidence and gain insight into bow science is being conducted by members of this specialty. Using main path analysis, we examined the pattern in the citation network in the first 12 volumes of the journal. We found six main path structures of connected articles that define and describe core developments in the specialty. The most important of these structures focuses on role analysis, and spans all 12 volumes of Social Networks. We find a high density of multiple citations, both to articles within the journal and to key articles outside the journal, and many authors who have published more than a single article in the journal. In addition, the main path tree structures extend through much of the total network, have a single identifiable coherent substantive concern, and are incremental in nature. The pattern of these main paths, and the overall citation pattern, is consistent with a pattern of scientific development labeled by Kuhn as 'normal science'.
+C1 CARNEGIE MELLON UNIV,DEPT SOCIAL & DECIS SCI,PITTSBURGH,PA 15213.
+RP HUMMON, NP (corresponding author), UNIV PITTSBURGH,DEPT SOCIOL,PITTSBURGH,PA 15260, USA.
+FU NICHD NIH HHS [R24 HD058486] Funding Source: Medline
+CR CARLEY K, 1991, FEB INT SUNB SOC NET, V0, P0
+   CARLEY K, 1991, KNOWLEDGE, V12, P406, DOI 10.1177/107554709101200405
+   HUMMON NP, 1989, SOC NETWORKS, V11, P39, DOI 10.1016/0378-8733(89)90017-8
+   HUMMON NP, 1990, KNOWLEDGE, V11, P459, DOI 10.1177/107554709001100405
+   HUMMON NP, 1990, SOC NETWORKS, V12, P273, DOI 10.1016/0378-8733(90)90011-W
+   Kuhn TS, 2012, THE STRUCTURES OF SCIENTIFIC REVOLUTIONS, V0, P0
+   MICHAELSON A, 1989, SHARED IDEAS CITATIO, V0, P0
+   MICHAELSON A, 1991, CONNECTIONS, V14, P10
+   MICHAELSON AG, 1990, THESIS U CALIFORNIA, V0, P0
+NR 9
+TC 80
+Z9 0
+U1 2.0
+U2 39.0
+J9 SOCIAL NETWORKS
+PD MAR
+PY 1993
+VL 15
+BP 71
+EP 106
+DI 10.1016/0378-8733(93)90022-D
+PG 36
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1993KU29800004
+PM 
+ER
+
+PT J
+AU Everett, MG
+   Borgatti, S
+TI A TESTING EXAMPLE FOR POSITIONAL ANALYSIS TECHNIQUES
+SO SOCIAL NETWORKS
+C1 UNIV S CAROLINA,DEPT SOCIOL,COLUMBIA,SC 29208.
+RP EVERETT, MG (corresponding author), THAMES POLYTECH,SCH MATH STAT & COMP,LONDON SE18 6PF,ENGLAND.
+CR BORGATTI S, 1988, SOC NETWORKS, V10, P265, DOI 10.1016/0378-8733(88)90016-0
+   BORGATTI S, 1988, SOC NETWORKS, V11, P65
+   DOREIAN P, 1987, SOC NETWORKS, V9, P89, DOI 10.1016/0378-8733(87)90008-6
+   DOREIAN P, 1988, J MATH SOCIOL, V3, P243
+   DOREIAN P, 1988, SOC NETWORKS, V10, P287, DOI 10.1016/0378-8733(88)90001-9
+   EVERETT MG, 1988, SOC NETWORKS, V10, P77, DOI 10.1016/0378-8733(88)90011-1
+   FAUST K, 1988, SOC NETWORKS, V10, P313, DOI 10.1016/0378-8733(88)90002-0
+   WINSHIP C, 1988, SOC NETWORKS, V10, P209, DOI 10.1016/0378-8733(88)90013-5
+NR 8
+TC 5
+Z9 0
+U1 1.0
+U2 3.0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1990
+VL 12
+BP 253
+EP 260
+DI 10.1016/0378-8733(90)90008-W
+PG 8
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1990EF81800004
+PM 
+ER
+
+PT J
+AU Anderson, CJ
+   Wasserman, S
+   Faust, K
+TI BUILDING STOCHASTIC BLOCKMODELS
+SO SOCIAL NETWORKS
+AB The literature devoted to the construction of stochastic blockmodels is relatively rare compared to that of the deterministic variety. In this paper, a general definition of a stochastic blockmodel is given and a number of techniques for building such blockmodels are presented. In the statistical approach, the likelihood ratio statistic provides a natural index to evaluate the fit of the model to the data. The model itself consists of a set of actors partitioned into positions with respect to a definition of equivalence, and a representation based on estimated probabilities. The specific statistical model that is used to illustrate the techniques is p1, which was first introduced as a method for stochastic blockmodeling by Fienberg and Wasserman (1981), and developed by Holland et al. (1983) and Wasserman and Anderson (1987).
+C1 UNIV ILLINOIS,DEPT STAT,URBANA,IL 61801.   
+UNIV S CAROLINA,DEPT SOCIOL,COLUMBIA,SC 29208.
+RP ANDERSON, CJ (corresponding author), UNIV ILLINOIS,DEPT PSYCHOL,URBANA,IL 61801, USA.
+FU German Research Council (DFG) [882]; Spanish Ministry of Science and
+CR FAUST K, 1991, UNPUB CENTRALITY PRE, V0, P0
+   FAUST K, 1992, SOC NETWORKS, V14, P5, DOI 10.1016/0378-8733(92)90013-W
+   IACOBUCCI D, 1990, PSYCHOMETRIKA, V55, P707, DOI 10.1007/BF02294618
+   WANG YJ, 1987, J AM STAT ASSOC, V82, P8, DOI 10.2307/2289119
+   WASSERMAN S, 1987, SOC NETWORKS, V9, P1, DOI 10.1016/0378-8733(87)90015-3
+   WASSERMAN S, 1990, J MATH SOCIOL, V15, P11, DOI 10.1080/0022250X.1990.9990060
+   WASSERMAN SS, 1989, SOCIOL METHODOL, V0, P1
+   WONG GY, 1989, UNPUB COMPUTATION AS, V0, P0
+NR 8
+TC 85
+Z9 0
+U1 1.0
+U2 10.0
+J9 SOCIAL NETWORKS
+PD MAR
+PY 1992
+VL 14
+BP 137
+EP 161
+DI 10.1016/0378-8733(92)90017-2
+PG 25
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1992HR57100006
+PM 
+ER
+
+PT J
+AU Frank, KA
+TI IDENTIFYING COHESIVE SUBGROUPS
+SO SOCIAL NETWORKS
+C1 Michigan State Univ, Dept Psychol, E Lansing, MI 48824 USA.
+RP Neal, Z (corresponding author), Michigan State Univ, Dept Psychol, 316 Phys Rd, E Lansing, MI 48824 USA.
+FU NICHD NIH HHS [R21 HD068317, P01 HD031921, R01 HD075712] Funding Source:
+CR ANDERSON CJ, 1992, SOC NETWORKS, V14, P137, DOI 10.1016/0378-8733(92)90017-2
+   ARABIE P, 1990, IEEE T SYST MAN CYB, V20, P268, DOI 10.1109/21.47829
+   BORGATTI P, 1992, UCINET 4 VERSION 1 0, V0, P0
+   BORGATTI SP, 1990, SOC NETWORKS, V12, P337, DOI 10.1016/0378-8733(90)90014-Z
+   Bryk A, 1992, HIERARCHICAL LINEAR MODELS IN SOCIAL AND BEHAVIORAL RESEARCH: APPLICATIONS AND DATA ANALYSIS METHODS, V0, P0
+   FRANK KA, 1993, IDENTIFYING COHESIVE, V0, P0
+   FREEMAN LC, 1992, AM J SOCIOL, V98, P152, DOI 10.1086/229972
+   Johnson SM, 1990, TEACHERS AT WORK: ACHIEVING SUCCESS IN OUR SCHOOLS, V0, P0
+   MCLAUGHLIN MW, 1992, TEACHERS WORK, V0, P79
+   MOREY NC, 1991, HUM RELAT, V44, P597, DOI 10.1177/001872679104400605
+   QUIROZ P, 1991, ANN M AM ED RES ASS, V0, P0
+   SKVORETZ J, 1991, SOC NETWORKS, V13, P275, DOI 10.1016/0378-8733(91)90009-I
+   SNIJDERS T, 1994, HEYMANS B PSYCHOL, V93, P1
+   STRAUSS D, 1990, J AM STAT ASSOC, V85, P204, DOI 10.2307/2289546
+   WASSERMAN S, 1994, ANN M PSYCHOMETRIC S, V0, P0
+   Wasserman Stanley, 1994, SOCIAL NETWORKS ANALYSIS, V0, P0
+NR 16
+TC 123
+Z9 0
+U1 3.0
+U2 18.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 1995
+VL 17
+BP 27
+EP 56
+DI 10.1016/0378-8733(94)00247-8
+PG 30
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1995QM57300002
+PM 
+ER
+
+PT J
+AU Mcgrath, C
+   Blythe, J
+   Krackhardt, D
+TI The effect of spatial arrangement on judgments and errors in interpreting graphs
+SO SOCIAL NETWORKS
+DE spatial arrangements; graphs; perceptions; experiment
+AB The spatial arrangement of social network data in graphs can influence viewers' perceptions of structural characteristics such as prominence, bridging and grouping. To study the extent of this effect, we conducted an experiment with 80 graduate students. Each student viewed three of five different spatial arrangements of the same network. We found that viewers' perceptions of structural features of the network changed as the spatial arrangement of the network changed. (C) 1997 Elsevier Science B.V.
+C1 CARNEGIE MELLON UNIV,SCH COMP SCI,PITTSBURGH,PA 15213.
+RP McGrath, C (corresponding author), CARNEGIE MELLON UNIV,HEINZ SCH PUBL POLICY & MANAGEMENT,5000 FORBES AVE,PITTSBURGH,PA 15213, USA.
+FU NICHD NIH HHS [R21 HD051776, R24 HD050924] Funding Source: Medline;
+CR BORGATTI SP, 1992, SOC NETWORKS, V14, P91, DOI 10.1016/0378-8733(92)90015-Y
+   DIBATTISTA G, 1994, COMP GEOM-THEOR APPL, V4, P235, DOI 10.1016/0925-7721(94)00014-X
+   Scott J, 2017, SOCIAL NETWORK ANALYSIS, V0, P0
+NR 3
+TC 49
+Z9 0
+U1 1.0
+U2 9.0
+J9 SOCIAL NETWORKS
+PD AUG
+PY 1997
+VL 19
+BP 223
+EP 242
+DI 10.1016/S0378-8733(96)00299-7
+PG 20
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1997XE81300003
+PM 
+ER
+
+PT J
+AU Stephenson, K
+   Zelen, M
+TI RETHINKING CENTRALITY - METHODS AND EXAMPLES
+SO SOCIAL NETWORKS
+C1 HARVARD UNIV, SCH PUBL HLTH, DEPT BIOSTAT, BOSTON, MA 02115 USA.
+RP STEPHENSON, K (corresponding author), HARVARD UNIV, FAC ARTS & SCI, DEPT ANTHROPOL, CAMBRIDGE, MA 02138 USA.
+CR AUERBACH DM, 1984, AM J MED, V76, P487, DOI 10.1016/0002-9343(84)90668-5
+   BARNETT GA, 1985, SOC NETWORKS, V7, P263
+   BONACICH P, 1987, AM J SOCIOL, V92, P1170, DOI 10.1086/228631
+   CUNNINGHAM WH, 1985, J ACM, V32, P549, DOI 10.1145/3828.3829
+   DONNINGER C, 1986, SOC NETWORKS, V8, P191, DOI 10.1016/S0378-8733(86)80003-X
+   FROMBRUN C, 1986, ADM SCI Q, V31, P403
+   Johanisson B, 1987, INT STUDIES MANAGEME, V17, P3
+   KLOVDAHL AS, 1985, SOC SCI MED, V21, P1203, DOI 10.1016/0277-9536(85)90269-2
+   MIZRUCHI MS, 1984, SOC NETWORKS, V6, P193, DOI 10.1016/0378-8733(84)90017-0
+   PARTRIDGE WL, 1987, APPLIED ANTHR AM, V0, P0
+   PETERMAN TA, 1988, JAMA-J AM MED ASSOC, V259, P55, DOI 10.1001/jama.259.1.55
+   TUTZAUER F, 1985, SOC NETWORKS, V7, P263, DOI 10.1016/0378-8733(85)90017-6
+NR 12
+TC 601
+Z9 0
+U1 1.0
+U2 39.0
+J9 SOCIAL NETWORKS
+PD MAR
+PY 1989
+VL 11
+BP 1
+EP 37
+DI 10.1016/0378-8733(89)90016-6
+PG 37
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1989AJ22000001
+PM 
+ER
+
+PT J
+AU Borgatti, SP
+   Everett, MG
+TI 2 ALGORITHMS FOR COMPUTING REGULAR EQUIVALENCE
+SO SOCIAL NETWORKS
+AB In this paper we present two algorithms for computing the extent of regular equivalence among pairs of nodes in a network. The first algorithm, REGE, is well known, but has not previously been described in the literature. The second algorithm, CATREGE, is new. Whereas REGE is applicable to quantitative data, CATREGE is used for categorical data. For binary data, either algorithm may be used, though the CATREGE algorithm is significantly faster and its output similarity coefficients have better metric properties. The CATREGE algorithm is also useful pedagogically, because it is easier to grasp.
+C1 THAMES POLYTECH,SCH MATH STAT & COMP,LONDON SE18 6PF,ENGLAND.
+RP BORGATTI, SP (corresponding author), UNIV S CAROLINA,DEPT SOCIOL,COLUMBIA,SC 29208, USA.
+FU USA National Science Foundation [1059282]; Direct For Social, Behav &
+CR BATAGELJ V, 1992, SOC NETWORKS, V14, P121, DOI 10.1016/0378-8733(92)90016-Z
+   BORGATTI SP, 1989, SOC NETWORKS, V11, P65, DOI 10.1016/0378-8733(89)90018-X
+   BORGATTI SP, 1992, SOC NETWORKS, V14, P91, DOI 10.1016/0378-8733(92)90015-Y
+   BORGATTI SP, 1992, UCINET 4 REFERENCE M, V0, P0
+   EVERETT MG, 1993, SOC NETWORKS, V15, P237, DOI 10.1016/0378-8733(93)90007-8
+   REITZ K, 1989, RES METHODS SOCIAL N, V0, P429
+NR 6
+TC 74
+Z9 0
+U1 0.0
+U2 2.0
+J9 SOCIAL NETWORKS
+PD DEC
+PY 1993
+VL 15
+BP 361
+EP 376
+DI 10.1016/0378-8733(93)90012-A
+PG 16
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1993MN52100002
+PM 
+ER
+
+PT J
+AU Batagelj, V
+   Doreian, P
+   Ferligoj, A
+TI AN OPTIMIZATIONAL APPROACH TO REGULAR EQUIVALENCE
+SO SOCIAL NETWORKS
+C1 UNIV PITTSBURGH,DEPT SOCIOL,PITTSBURGH,PA 15260.
+RP BATAGELJ, V (corresponding author), EDVARD KARDELJ UNIV,INST MATH PHYS & MECH,DEPT MATH,JADRANSKA 19,YU-61111 LJUBLJANA,YUGOSLAVIA.
+FU University of Maryland; National Science Foundation (NSF) [DBI-1052875,
+CR BATAGELJ V, 1992, SOC NETWORKS, V14, P63, DOI 10.1016/0378-8733(92)90014-X
+   BORGATTI SP, 1989, SOC NETWORKS, V11, P65, DOI 10.1016/0378-8733(89)90018-X
+   DOREIAN P, 1988, J MATH SOCIOL, V13, P243, DOI 10.1080/0022250X.1988.9990034
+   FAUST K, 1988, SOC NETWORKS, V10, P313, DOI 10.1016/0378-8733(88)90002-0
+   PATTISON PE, 1988, SOC NETWORKS, V10, P383, DOI 10.1016/0378-8733(88)90005-6
+NR 5
+TC 54
+Z9 0
+U1 0.0
+U2 2.0
+J9 SOCIAL NETWORKS
+PD MAR
+PY 1992
+VL 14
+BP 121
+EP 135
+DI 10.1016/0378-8733(92)90016-Z
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1992HR57100005
+PM 
+ER
+
+PT J
+AU Iacobucci, D
+   Hopkins, N
+TI THE RELATIONSHIP BETWEEN THE SCHEIBLECHNER MODEL AND THE HOLLAND LEINHARDT P1 MODEL
+SO SOCIAL NETWORKS
+RP Freeman, LC (corresponding author), Univ Calif Irvine, Sch Social Sci, Irvine, CA 92697 USA.
+CR ELSAS DA, 1990, SOC NETWORKS, V1, P57
+   IACOBUCCI D, 1990, PSYCHOMETRIKA, V55, P707, DOI 10.1007/BF02294618
+   WASSERMAN S, 1986, BRIT J MATH STAT PSY, V39, P41, DOI 10.1111/j.2044-8317.1986.tb00844.x
+   WASSERMAN S, 1987, SOC NETWORKS, V9, P1, DOI 10.1016/0378-8733(87)90015-3
+NR 4
+TC 0
+Z9 0
+U1 1.0
+U2 4.0
+J9 SOCIAL NETWORKS
+PD JUN
+PY 1991
+VL 13
+BP 187
+EP 201
+DI 10.1016/0378-8733(91)90020-T
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1991GN66600005
+PM 
+ER
+
+PT J
+AU Mizruchi, MS
+TI COHESION, EQUIVALENCE, AND SIMILARITY OF BEHAVIOR - A THEORETICAL AND EMPIRICAL-ASSESSMENT
+SO SOCIAL NETWORKS
+AB Network analysts have debated the extent to which cohesion versus structural equivalence serves as a source of similar behavior among actors. More recently, role equivalence has emerged as an alternative to structural equivalence. Using data on the contribution patterns of corporate political action committees, I examine the effect of various indicators of cohesion, structural equivalence, and role equivalence on the extent to which firms behave similarly. Although various operationalizations of all three concepts are correlated with similar behavior, the most consistent predictor is the joint prominence of two firms in the network. I argue that this common location in central positions is a form of role equivalence, but one that is distinct from conventional definitions of the concept. I then suggest a distinction between what I term central and peripheral role equivalence.
+C1 UNIV GRONINGEN,ICS,DEPT STAT & MEASUREMENT THEORY,NL-9712 TS GRONINGEN,NETHERLANDS.
+RP MIZRUCHI, MS (corresponding author), UNIV MICHIGAN,DEPT SOCIOL,3012 LITERATURE SCI & ARTS BLDG,ANN ARBOR,MI 48109, USA.
+FU NSF [HSD 0624158]; NIH [1R21HD068317-01]; NSF/HSD [0624158]; W.T. Grant
+CR BORGATTI S, 1988, SOC NETWORKS, V10, P265, DOI 10.1016/0378-8733(88)90016-0
+   BORGATTI SP, 1989, SOC NETWORKS, V11, P65, DOI 10.1016/0378-8733(89)90018-X
+   BORGATTI SP, 1990, 10TH ANN SUNB SOC NE, V0, P0
+   BORGATTI SP, 1991, UCINET 4, V0, P0
+   BURT RS, 1988, SOC NETWORKS, V10, P1, DOI 10.1016/0378-8733(88)90008-1
+   BURT RS, 1990, SOC NETWORKS, V12, P83, DOI 10.1016/0378-8733(90)90023-3
+   BURT RS, 1992, STRUCTURE VERSION 4, V0, P0
+   DOREIAN P, 1988, SOC NETWORKS, V10, P273, DOI 10.1016/0378-8733(88)90017-2
+   EVERETT MG, 1988, SOC NETWORKS, V10, P77, DOI 10.1016/0378-8733(88)90011-1
+   FAUST K, 1988, SOC NETWORKS, V10, P313, DOI 10.1016/0378-8733(88)90002-0
+   GALASKIEWICZ J, 1991, ADMIN SCI QUART, V36, P88, DOI 10.2307/2393431
+   KRACKHARDT D, 1988, SOC NETWORKS, V10, P359, DOI 10.1016/0378-8733(88)90004-4
+   KRACKHARDT D, 1990, UNPUB NETWORK ANAL S, V0, P0
+   LITWAK E, 1989, AM SOCIOL REV, V54, P49, DOI 10.2307/2095661
+   MIZRUCHI MS, 1989, AM J SOCIOL, V95, P401, DOI 10.1086/229274
+   Mizruchi MarkS, 1990, SOCIOLOGICAL THEORY, V8, P16
+   Mizruchi MarkS, 1992, THE STRUCTURE OF CORPORATE POLITICAL ACTION: INTERFIRM RELATIONS AND THEIR CONSEQUENCES, V0, P0
+   NEUSTADTL A, 1988, AM SOCIOL REV, V53, P172, DOI 10.2307/2095686
+   Unknown -, 1995, MICHELANGELOS MEDICICHAPEL: A NEW INTERPRETATION, V0, P0
+   WINSHIP C, 1988, SOC NETWORKS, V10, P209, DOI 10.1016/0378-8733(88)90013-5
+   Wellman Barry, 1988, SOCIAL STRUCTURES: A NETWORK APPROACH, V0, P130
+NR 21
+TC 96
+Z9 0
+U1 1.0
+U2 19.0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1993
+VL 15
+BP 275
+EP 307
+DI 10.1016/0378-8733(93)90009-A
+PG 33
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1993MA39900004
+PM 
+ER
+
+PT J
+AU Everett, MG
+   Borgatti, SP
+TI Exact colorations of graphs and digraphs
+SO SOCIAL NETWORKS
+AB A coloration is an exact regular coloration if whenever two vertices are colored the same they have identically colored neighborhoods. For example, if one of the two vertices that are colored the same is connected to three yellow vertices, two white and red, then the other vertex is as well. Exact regular colorations have been discussed informally in the social network literature. However they have been part of the mathematical literature for some time, though in a different format. We explore this concept in terms of social networks and illustrate some important results taken from the mathematical literature. In addition we show how the concept can be extended to ecological and perfect colorations, and discuss how the CATREGE algorithm can be extended to find the maximal exact regular coloration of a graph.
+C1 COLUMBIA UNIV,DEPT SOCIOL,COLUMBIA,SC.
+RP Everett, MG (corresponding author), UNIV GREENWICH,SCH COMP & MATH SCI,WELLINGTON ST,LONDON SE18 6PF,ENGLAND.
+FU Deanship of Scientific Research (DSR), King Abdulaziz University, Jeddah
+CR BATAGELJ V, 1992, SOC NETWORKS, V14, P121, DOI 10.1016/0378-8733(92)90016-Z
+   BORGATTI SP, 1992, SOC NETWORKS, V14, P287, DOI 10.1016/0378-8733(92)90006-S
+   BORGATTI SP, 1992, UCINET 4 VERSION 1, V0, P0
+   BORGATTI SP, 1993, SOC NETWORKS, V15, P361, DOI 10.1016/0378-8733(93)90012-A
+   BORGATTI SP, 1994, SOC NETWORKS, V16, P43, DOI 10.1016/0378-8733(94)90010-8
+   Borgatti SP, 1994, CONNECTIONS, V17, P75
+   EVERETT MG, 1991, MATH SOC SCI, V21, P183, DOI 10.1016/0165-4896(91)90080-B
+   EVERETT MG, 1994, IMA C APPL DISCR MAT, V0, P0
+   EVERETT MG, 1994, J MATH SOCIOL, V19, P29, DOI 10.1080/0022250X.1994.9990134
+   SPARROW MK, 1993, SOC NETWORKS, V15, P151, DOI 10.1016/0378-8733(93)90003-4
+NR 10
+TC 12
+Z9 0
+U1 2.0
+U2 2.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 1996
+VL 18
+BP 319
+EP 331
+DI 10.1016/0378-8733(95)00286-3
+PG 13
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1996VM16900001
+PM 
+ER
+
+PT J
+AU Freeman, LC
+   Duquenne, V
+TI A NOTE ON REGULAR COLORINGS OF 2 MODE DATA
+SO SOCIAL NETWORKS
+AB This note follows an earlier suggestion by Borgatti (1989), and Everett and Borgatti (1992a). Here, we extend their notion of regular colorings to bipartite graphs.
+C1 CNRS,F-75006 PARIS,FRANCE.   
+EHESS,CAMS,F-75006 PARIS,FRANCE.
+RP FREEMAN, LC (corresponding author), UNIV CALIF IRVINE,INST MATH BEHAV SCI,IRVINE,CA 92717, USA.
+FU Budapesti Kozep-Europai Egyetem Alapitvany (CEU BPF)
+CR BORGATT SP, 1989, THESIS, V0, P0
+   EVERETT MG, 1991, MATH SOC SCI, V21, P183, DOI 10.1016/0165-4896(91)90080-B
+   EVERETT MG, 1992, IN PRESS SOCIAL NETW, V0, P0
+   FREEMAN LC, 1993, IN PRESS SOCIOLOGICA, V0, P0
+   Wasserman S, 1993, SOCIAL NETWORK ANAL, V0, P0
+NR 5
+TC 7
+Z9 0
+J9 SOCIAL NETWORKS
+PD DEC
+PY 1993
+VL 15
+BP 437
+EP 441
+DI 10.1016/0378-8733(93)90016-E
+PG 5
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1993MN52100006
+PM 
+ER
+
+PT J
+AU Doreian, P
+   Woodard, KL
+TI DEFINING AND LOCATING CORES AND BOUNDARIES OF SOCIAL NETWORKS
+SO SOCIAL NETWORKS
+AB We propose a general procedure for locating the boundary of a network and a second, related, procedure for discerning the boundaries within a network.  The first is an expanding (snowball) selection procedure.  The second requires the specification of two critical parameters:  the value of k for a k-core and the threshold, w, for the quantitative magnitude of network ties.  The use of these parameters generates a sequence of nested cores.  Single sector and multi-sector social service inter-agency networks are used to illustrate the procedures.
+C1 UNIV PITTSBURGH,CTR SOCIAL & URBAN RES,PITTSBURGH,PA 15260.   
+UNIV WYOMING,DEPT SOCIAL WORK,LARAMIE,WY 82071.
+RP DOREIAN, P (corresponding author), UNIV PITTSBURGH,DEPT SOCIOL,PITTSBURGH,PA 15260, USA.
+FU University of Maryland; National Science Foundation (NSF) [DBI-1052875,
+CR DOREIAN P, 1992, SOC SCI RES, V21, P216, DOI 10.1016/0049-089X(92)90016-A
+   FREEMAN LC, 1992, AM J SOCIOL, V98, P152, DOI 10.1086/229972
+   GILLESPIE DF, 1991, INT J MASS EMERGENCI, V9, P201
+   Scott J, 2017, SOCIAL NETWORK ANALYSIS, V0, P0
+   WOODARD KL, 1992, PROVIDING MENTAL HLT, V0, P0
+NR 5
+TC 57
+Z9 0
+U1 1.0
+U2 4.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 1994
+VL 16
+BP 267
+EP 293
+DI 10.1016/0378-8733(94)90013-2
+PG 27
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1994PK84800001
+PM 
+ER
+
+PT J
+AU Batagelj, V
+   Ferligoj, A
+   Doreian, P
+TI DIRECT AND INDIRECT METHODS FOR STRUCTURAL EQUIVALENCE
+SO SOCIAL NETWORKS
+C1 UNIV PITTSBURGH,DEPT SOCIOL,PITTSBURGH,PA 15260.
+RP BATAGELJ, V (corresponding author), EDVARD KARDELJ UNIV,INST MATH PHYS & MECH,DEPT MATH,JADRANSKA 19,YU-61111 LJUBLJANA,YUGOSLAVIA.
+FU Hungarian Scientific Research Fund (OTKA) [K-881336]; Economic and
+CR BATAGELJ V, 1990, UNPUB DISSIMILARITIE, V0, P0
+   BATAGELJ V, 1992, SOC NETWORKS, V14, P121, DOI 10.1016/0378-8733(92)90016-Z
+   BORGATTI SP, 1989, SOC NETWORKS, V11, P65, DOI 10.1016/0378-8733(89)90018-X
+   BURT RS, 1988, SOC NETWORKS, V10, P1, DOI 10.1016/0378-8733(88)90008-1
+   BURT RS, 1990, SOC NETWORKS, V12, P83, DOI 10.1016/0378-8733(90)90023-3
+   DOREIAN P, 1988, J MATH SOCIOL, V13, P243, DOI 10.1080/0022250X.1988.9990034
+   FAUST K, 1988, SOC NETWORKS, V10, P313, DOI 10.1016/0378-8733(88)90002-0
+   HUMMON NP, 1990, KNOWLEDGE, V11, P459, DOI 10.1177/107554709001100405
+   PATTISON PE, 1988, SOC NETWORKS, V10, P383, DOI 10.1016/0378-8733(88)90005-6
+   PETKOVSEK M, 1991, E MAIL MESSAGE, V0, P0
+NR 10
+TC 73
+Z9 0
+U1 1.0
+U2 9.0
+J9 SOCIAL NETWORKS
+PD MAR
+PY 1992
+VL 14
+BP 63
+EP 90
+DI 10.1016/0378-8733(92)90014-X
+PG 28
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1992HR57100003
+PM 
+ER
+
+PT J
+AU Doreian, P
+   Mrvar, A
+TI A partitioning approach to structural balance
+SO SOCIAL NETWORKS
+AB The classic formulation of structural balance by Cartwright and Harary (Psychological Review, 63, 1956, 277-293) had the basic structural theorem that a balanced structure could be partitioned into two mutually antagonistic subgroups each having internal solidarity. Davis (Human Relations, 20, 1967, 181-187) extended this theorem for cases where there can be more than two such mutually antagonistic subgroups. We use these theorems to construct a criterion function for a local optimization partitioning procedure for signed digraphs. For any signed digraph, this procedure yields those partitions with the smallest number of errors, a measure of the imbalance in the graph, and an identification of those links inconsistent with both generalized and structural balance. These methods are applied to some artificial data and to the affect data from Sampson (A novitiate in a period of change: An experimental and case study of social relationships, Dissertation, Cornell University, 1968). The latter provides a positive test of a basic tenet of balance theory, that there is a tendency towards balance with signed relations in human groups. While these methods can be applied to all signed digraphs and signed graphs, the balance hypothesis is relevant only for affect ties.
+C1 UNIV LJUBLJANA, FAC SOCIAL SCI, LJUBLJANA 61109, SLOVENIA.
+RP Doreian, P (corresponding author), UNIV PITTSBURGH, DEPT SOCIOL, PITTSBURGH, PA 15260 USA.
+FU NICHD NIH HHS [R01 HD052887] Funding Source: Medline
+CR BATAGELJ V, 1992, SOC NETWORKS, V14, P121, DOI 10.1016/0378-8733(92)90016-Z
+   BATAGELJ V, 1992, SOC NETWORKS, V14, P63, DOI 10.1016/0378-8733(92)90014-X
+   BATAGELJ V, 1994, J MATH SOCIOL, V19, P53, DOI 10.1080/0022250X.1994.9990135
+   DOREIAN P, 1994, J MATH SOCIOL, V19, P1, DOI 10.1080/0022250X.1994.9990133
+   DOREIAN P, 1995, UNPUB GEN BLOCKMODEL, V0, P0
+   FERLIGOJ A, 1994, REC RES PSY, V0, P329
+NR 6
+TC 186
+Z9 0
+U1 1.0
+U2 15.0
+J9 SOCIAL NETWORKS
+PD APR
+PY 1996
+VL 18
+BP 149
+EP 168
+DI 10.1016/0378-8733(95)00259-6
+PG 20
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1996UC91700003
+PM 
+ER
+
+PT J
+AU Daludvincent, M
+   Forse, M
+   Auray, JP
+TI AN ALGORITHM FOR FINDING THE STRUCTURE OF SOCIAL-GROUPS
+SO SOCIAL NETWORKS
+AB Unlike the most widely used methods of researching equivalent vertices in network analysis (structural or regular equivalences), the one which we propose in.this paper is based upon a new definition of equivalence meeting the following requirements: (1) analyzing the data from a double point of view: local and global; (2) conserving the specificity of discrete data. Applying our algorithm in the context of a sociability survey allows us to pinpoint groups with sociological coherence. The study shows that network differences correspond to socio-demographic differences.
+C1 UNIV LILLE 1,CLERSE,F-59655 VILLENEUVE DASCQ,FRANCE.
+RP DALUDVINCENT, M (corresponding author), UNIV LYON 1,43 BLVD 11 NOVEMBRE 1918,BATIMENT 101,F-69622 VILLEURBANNE,FRANCE.
+FU KU Leuven grant [GOA/12/14]; IAP Research Network of the Belgian Science
+CR BORGATTI SP, 1989, SOC NETWORKS, V11, P65, DOI 10.1016/0378-8733(89)90018-X
+   DALUDVINCENT M, 1991, 2ND EUR C SOC NETW A, V0, P0
+   DALUDVINCENT M, 1993, THESIS U LYON 1, V0, P0
+   DEGENNE A, 1990, C THEORIE RESEAUX LE, V0, P0
+   FORSE M, 1991, SOC CONT, V5, P43
+NR 5
+TC 2
+Z9 0
+U1 1.0
+U2 3.0
+J9 SOCIAL NETWORKS
+PD APR
+PY 1994
+VL 16
+BP 137
+EP 162
+DI 10.1016/0378-8733(94)90002-7
+PG 26
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1994NG53300002
+PM 
+ER
+
+PT J
+AU Borgatti, SP
+   Everett, MG
+TI Network analysis of 2-mode data
+SO SOCIAL NETWORKS
+DE networks; clusters; centrality
+AB Network analysis is distinguished from traditional social science by the dyadic nature of the standard data set. Whereas in traditional social science we study monadic attributes of individuals, in network analysis we study dyadic attributes of pairs of individuals. These dyadic attributes (e.g, social relations) may be represented in matrix form by a square 1-mode matrix, In contrast, the data in traditional social science are represented as 2-mode matrices. However, network analysis is not completely divorced from traditional social science, and often has occasion to collect and analyze 2-mode matrices, Furthermore, some of the methods developed in network analysis have uses in analysing non-network data, This paper presents and discusses ways of applying and interpreting traditional network analytic techniques to 2-mode data, as well as developing new techniques, Three areas are covered in detail: displaying 2-mode data as networks, detecting clusters and measuring centrality.
+C1 UNIV GREENWICH, LONDON SE18 6PF, ENGLAND.
+RP Borgatti, SP (corresponding author), BOSTON COLL, CARROLL SCH MANAGEMENT, DEPT ORGANIZAT STUDIES, CHESTNUT HILL, MA 02167 USA.
+CR BORGATTI SP, 1992, SOC NETWORKS, V14, P91, DOI 10.1016/0378-8733(92)90015-Y
+   CHUNG CY, 1994, INT SOC NETW C NEW O, V0, P0
+   Crystal David, 2010, THE CAMBRIDGE ENCYCLOPEDIA LANGUAGE, V3rd, P0
+   FREEMAN LC, 1993, SOCIOL METHODOL, V23, P127, DOI 10.2307/271008
+   Goldberg DE, 2013, GENETIC ALGORITHMS, V0, P0
+   JONES C, 1996, UNPUB INTANGIBLE ASS, V0, P0
+   Krackhardt D, 1994, CONNECTIONS, V17, P53
+NR 7
+TC 624
+Z9 0
+U1 3.0
+U2 80.0
+J9 SOCIAL NETWORKS
+PD AUG
+PY 1997
+VL 19
+BP 243
+EP 269
+DI 10.1016/S0378-8733(96)00301-2
+PG 27
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1997XE81300004
+PM 
+ER
+
+PT J
+AU Baerveldt, C
+   Snijders, T
+TI INFLUENCES ON AND FROM THE SEGMENTATION OF NETWORKS - HYPOTHESES AND TESTS
+SO SOCIAL NETWORKS
+AB This article discusses (a) the influence of network structure on the diffusion of (new) cultural behavior within the network and (b) the influence of external events, especially of social programs, on the diffusion of (new) cultural behavior, and on the network structure.  Hypotheses are formulated and tested on data from a study on the diffusion of petty crime in pupils networks in high schools. To test these hypotheses we propose and use a new measure of network structure: the segmentation index.
+C1 UNIV GRONINGEN,DEPT STAT & MEASUREMENT THEORY,ICS,9712 TS GRONINGEN,NETHERLANDS.
+RP BAERVELDT, C (corresponding author), UNIV UTRECHT,DEPT YOUTH FAMILY & LIFE,HEIDELBERGLAAN 2,3584 CS UTRECHT,NETHERLANDS.
+FU ESRC [ES/L000113/1] Funding Source: UKRI
+CR BAERVELDT C, 1990, SCH BROEDPLAATS BROE, V0, P0
+   BORGATTI SP, 1990, SOC NETWORKS, V12, P337, DOI 10.1016/0378-8733(90)90014-Z
+   Baerveldt C, 1992, J QUANT CRIMINOL, V8, P79, DOI DOI 10.1007/BF01062760
+   FREEMAN LC, 1992, AM J SOCIOL, V98, P152, DOI 10.1086/229972
+   SPRENGER CJA, 1989, GRADAP USERS MANUAL, V0, P0
+NR 5
+TC 40
+Z9 0
+U1 2.0
+U2 5.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 1994
+VL 16
+BP 213
+EP 232
+DI 10.1016/0378-8733(94)90006-X
+PG 20
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1994NY15500002
+PM 
+ER
+
+PT J
+AU Faust, K
+   Wasserman, S
+TI BLOCKMODELS - INTERPRETATION AND EVALUATION
+SO SOCIAL NETWORKS
+AB Many methods for the description of social network structural properties are concerned with the dual notions of social position and social role. Common goals of these methods are to represent patterns in complex social network data in simplified form, to reveal sets of actors who are similarly embedded in networks of relations, and to describe the associations among relations in multirelational social networks. Often these representations take the form of a blockmodel. In a blockmodel actors are assigned to positions and network relations are presented among positions, rather than among actors. The literature on blockmodels is extensive and is overflowing with computation and applications of blockmodels. However, there is a surprising lack of attention to two very important aspects of block-model analyses: the interpretation and evaluation of the results. The purpose of this paper is to focus on these topics, primarily reviewing and synthesizing the approaches to interpretation and evaluation currently in use.
+C1 UNIV ILLINOIS,DEPT PSYCHOL,CHAMPAIGN,IL 61820.
+RP FAUST, K (corresponding author), UNIV S CAROLINA,DEPT SOCIOL,COLUMBIA,SC 29208, USA.
+CR ANDERSON CJ, 1992, SOC NETWORKS, V14, P137, DOI 10.1016/0378-8733(92)90017-2
+   ARABIE P, 1990, SOC NETWORKS, V12, P99, DOI 10.1016/0378-8733(90)90001-P
+   BATAGELJ V, 1992, SOC NETWORKS, V14, P121, DOI 10.1016/0378-8733(92)90016-Z
+   BATAGELJ V, 1992, SOC NETWORKS, V14, P63, DOI 10.1016/0378-8733(92)90014-X
+   BORGATTI SP, 1991, UNPUB UCINET 4 0, V0, P0
+   BREEDLOVE WL, 1988, INT J CONT SOCIOLOGY, V25, P105
+   EVERETT MG, 1992, SOC NETWORKS, V14, P91
+   FAUST K, 1988, SOC NETWORKS, V10, P313, DOI 10.1016/0378-8733(88)90002-0
+   Hubert L, 1989, APPLIED STOCHASTIC M, V5, P273, DOI [10.1002/asm.3150050309, DOI 10.1002/ASM.3150050309]
+   Hubert LawrenceJ, 1987, ASSIGNMENT METHODS IN COMBINATORIAL DATA ANALYSIS, V0, P0
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P171, DOI 10.1016/0378-8733(87)90012-8
+   KRACKHARDT D, 1988, SOC NETWORKS, V10, P359, DOI 10.1016/0378-8733(88)90004-4
+   Marsden P, 1989, RESEARCH METHODS IN SOCIAL NETWORK ANALYSIS, V0, P489
+   NOLAN PD, 1987, INT J COMP SOCIOL, V28, P69, DOI 10.1177/002071528702800106
+   NOLAN PD, 1988, SOCIOL FOCUS, V21, P9, DOI 10.1080/00380237.1988.10570966
+   PATTISON PE, 1988, SOC NETWORKS, V10, P383, DOI 10.1016/0378-8733(88)90005-6
+   RICHARDS WD, 1989, UNPUB NECOPY ANAL PR, V0, P0
+   SMITH D, 1988, UNPUB STRUCTURE DYNA, V0, P0
+   WANG YJ, 1987, J AM STAT ASSOC, V82, P8, DOI 10.2307/2289119
+   WASSERMAN S, 1987, PSYCHOMETRIKA, V52, P3, DOI 10.1007/BF02293953
+   WASSERMAN S, 1987, SOC NETWORKS, V9, P1, DOI 10.1016/0378-8733(87)90015-3
+   WHITE DR, 1989, RES METHODS SOCIAL N, V0, P429
+   WILKINSON L, 1987, SYSTAT SYSTEM STATIS, V0, P0
+   WINSHIP C, 1988, SOC NETWORKS, V10, P209, DOI 10.1016/0378-8733(88)90013-5
+   Wasserman S, 1992, SOCIAL NETWORK ANAL, V0, P0
+NR 26
+TC 89
+Z9 0
+U1 0.0
+U2 22.0
+J9 SOCIAL NETWORKS
+PD MAR
+PY 1992
+VL 14
+BP 5
+EP 61
+DI 10.1016/0378-8733(92)90013-W
+PG 57
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1992HR57100002
+PM 
+ER
+
+PT J
+AU Borgatti, SP
+   Everett, MG
+TI REGULAR BLOCKMODELS OF MULTIWAY, MULTIMODE MATRICES
+SO SOCIAL NETWORKS
+AB Blockmodels are used to collapse redundant elements in a system in order to clarify the patterns of relationships among the elements. Traditional blockmodels define redundancy in terms of structural equivalence. This choice serves many analytic purposes very well, but is inadequate for others. In particular, role systems would be better modeled by blockmodels based on regular equivalence. The first goal of this paper is to generalize blockmodels to incorporate both structural and regular equivalence. Another limitation of traditional blockmodels is that they are defined only for (collections of) 2-way 1-mode adjacency matrices. This excludes common datasets such as actor-by-event, actor-by-organization, item-by-use and case-by-variable matrices. It also excludes 3-way data such as actor-by-actor-by-time or subject-by-verb-by-object matrices. The second goal of this paper is to define blockmodels for multiway, multimode matrices in general. In so doing, we also shift the focus of attention away from the blocking of actors (or other entities) and toward the blocking of ties (or multiway cells).
+C1 THAMES POLYTECH, SCH MATH STAT & COMP, LONDON SE18 6PF, ENGLAND.
+RP UNIV S CAROLINA, DEPT SOCIOL, COLUMBIA, SC 29208 USA.
+CR BATAGELJ V, 1992, SOC NETWORKS, V14, P121, DOI 10.1016/0378-8733(92)90016-Z
+   BATAGELJ V, 1992, SOC NETWORKS, V14, P63, DOI 10.1016/0378-8733(92)90014-X
+   BORGATTI SP, 1989, SOC NETWORKS, V11, P159, DOI 10.1016/0378-8733(89)90010-5
+   BORGATTI SP, 1989, SOC NETWORKS, V11, P65, DOI 10.1016/0378-8733(89)90018-X
+   BORGATTI SP, 1989, THESIS U CALIFORNIA, V0, P0
+   BORGATTI SP, 1991, UCINET 4, V0, P0
+   BORGATTI SP, 1992, IN PRESS SOCIOLOGICA, V0, P0
+   DOREIAN P, 1987, SOC NETWORKS, V9, P89, DOI 10.1016/0378-8733(87)90008-6
+   DOREIAN P, 1988, J MATH SOCIOL, V13, P243, DOI 10.1080/0022250X.1988.9990034
+   DOREIAN P, 1988, SOC NETWORKS, V10, P287, DOI 10.1016/0378-8733(88)90001-9
+   EVERETT MG, 1990, J MATH SOCIOL, V15, P163, DOI 10.1080/0022250X.1990.9990067
+   EVERETT MG, 1991, MATH SOC SCI, V21, P183, DOI 10.1016/0165-4896(91)90080-B
+   FAUST K, 1988, SOC NETWORKS, V10, P313, DOI 10.1016/0378-8733(88)90002-0
+   FAUST K, 1992, SOC NETWORKS, V14, P5, DOI 10.1016/0378-8733(92)90013-W
+   PATTISON PE, 1988, SOC NETWORKS, V10, P383, DOI 10.1016/0378-8733(88)90005-6
+   REITZ KP, 1989, RES METHODS SOCIAL N, V0, P0
+   STARK R, 1989, SOCIOLOGY, V0, P0
+   Unknown -, 2013, SCRIPTS, V0, P0
+NR 18
+TC 53
+Z9 0
+U1 3.0
+U2 7.0
+J9 SOCIAL NETWORKS
+PD MAR
+PY 1992
+VL 14
+BP 91
+EP 120
+DI 10.1016/0378-8733(92)90015-Y
+PG 30
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1992HR57100004
+PM 
+ER
+
+PT J
+AU Baron, SW
+   Tindall, DB
+TI NETWORK STRUCTURE AND DELINQUENT ATTITUDES WITHIN A JUVENILE GANG
+SO SOCIAL NETWORKS
+AB The literature reveals that delinquency is a group phenomenon. However, there is controversy regarding the explanation of this finding. Subcultural theorists argue that youths become delinquent through peer socialization in youth gangs. Control theorists, by contrast, argue that adolescents become delinquent and associate with delinquent others because they have weakened bonds to the conventional order. Our paper examines the role of social bonds and group structure in the generation of delinquency through the application of social network analysis. Our findings support the control explanation; those members who have the weakest bonds, regardless of gang participation, are the most delinquent (as measured by delinquent attitudes). While our results indicate that companionship (by itself) does not lead youths to become delinquent, we argue that it is still important in the explanation of delinquency.
+C1 UNIV TORONTO,DEPT SOCIOL,TORONTO M5S 1A1,ONTARIO,CANADA.
+RP BARON, SW (corresponding author), UNIV ALBERTA,DEPT SOCIOL,CTR CRIMINOL RES,EDMONTON T6G 2H4,ALBERTA,CANADA.
+FU Social Sciences and Humanities Research Council of Canada
+CR Erickson BH, 1988, SOCIAL STRUCTURES NE, V0, P99
+   Gottfredson MR, 1990, A GENERAL THEORY OF CRIME, V0, P0
+   Sarnecki J, 1990, J QUANT CRIMINOL, V6, P31, DOI [10.1007/BF01065288, DOI 10.1007/BF01065288]
+   Unknown -, 1988, SOCIAL STRUCTURES: A NETWORK APPROACH, V0, P0
+   Whyte W, 1993, STREET CORNER SOC, V4th, P0
+   Willis P, 1997, LEARNING LABOUR, V0, P0
+NR 6
+TC 23
+Z9 0
+U1 0.0
+U2 15.0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1993
+VL 15
+BP 255
+EP 273
+DI 10.1016/0378-8733(93)90008-9
+PG 19
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1993MA39900003
+PM 
+ER
+
+PT J
+AU Doreian, P
+TI BORGATTI TOPPINGS ON DOREIAN SPLITS - REFLECTIONS ON REGULAR EQUIVALENCE
+SO SOCIAL NETWORKS
+C1 UNIV S CAROLINA,DEPT SOCIOL,COLUMBIA,SC 29208.
+RP EVERETT, MG (corresponding author), THAMES POLYTECH,SCH MATH STAT & COMP,LONDON SE18 6PF,ENGLAND.
+FU NSF [OIA-1028394, IIS-1251267]; Office of Naval Research
+CR BARNES JA, 1983, SOC NETWORKS, V5, P235, DOI 10.1016/0378-8733(83)90026-6
+   BORGATTI S, 1988, SOC NETWORKS, V10, P265, DOI 10.1016/0378-8733(88)90016-0
+   DOREIAN P, 1987, SOC NETWORKS, V9, P89, DOI 10.1016/0378-8733(87)90008-6
+   EVERETT MG, 1985, SOC NETWORKS, V7, P353, DOI 10.1016/0378-8733(85)90013-9
+   WHITE DR, 1983, SOC NETWORKS, V5, P193, DOI 10.1016/0378-8733(83)90025-4
+NR 5
+TC 5
+Z9 0
+U1 0.0
+U2 1.0
+J9 SOCIAL NETWORKS
+PD SEP
+PY 1988
+VL 10
+BP 273
+EP 285
+DI 10.1016/0378-8733(88)90017-2
+PG 13
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1988R459400005
+PM 
+ER
+
+PT J
+AU Wellman, B
+TI Are personal communities local? A Dumptarian reconsideration
+SO SOCIAL NETWORKS
+AB Are local ties important in personal community networks? Since local ties only make up a minority of peoples active ties, network analysts have argued for decades that the neighborhood is not very important. Re-analysis of the Toronto data shows that when contacts become the unit of analysis instead of ties, the percentage of local relationships in active networks nearly doubles. Moreover, when we also take into account active contacts with coworkers, who like neighbors are physically proximate, we find that two-thirds of all contacts are local. As Humpty-Dumpty has cogently reminded us, a network can be anything we want it to be. It depends on how we define it. When we change the definition, the conclusions change too.
+C1 Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.
+RP Wellman, B (corresponding author), UNIV TORONTO,CTR URBAN & COMMUNITY STUDIES,455 SPADINA AVE,TORONTO,ON M5S 2G8,CANADA.
+CR FERNANDEZ RM, 1993, CONTEMP SOCIOL, V22, P365, DOI 10.2307/2074502
+   FREEMAN LC, 1992, AM J SOCIOL, V98, P152, DOI 10.1086/229972
+   Massey D, 1998, AM APARTHEID SEGREGA, V0, P0
+   WELLMAN B, 1992, MENS FRIENDSHIPS, V0, P74
+   WELLMAN B, 1993, SOC NETWORKS, V15, P423, DOI 10.1016/0378-8733(93)90015-D
+   WELLMAN B, 1996, IN PRESS SOCIAL NETW, V0, P0
+   WETHERELL C, 1994, J INTERDISCIPL HIST, V24, P639, DOI 10.2307/205629
+   Wasserman S, 1993, SOCIAL NETWORK ANAL, V0, P0
+   Wellman B, 1992, ADV GROUP PROCESSES, V9, P207
+   Wellman B, 1993, PROGRESS IN COMMUNICATION SCIENCES, V12, P63
+NR 10
+TC 181
+Z9 0
+U1 2.0
+U2 18.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 1996
+VL 18
+BP 347
+EP 354
+DI 10.1016/0378-8733(95)00282-0
+PG 8
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1996VM16900003
+PM 
+ER
+
+PT J
+AU Calloway, M
+   Morrissey, JP
+   Paulson, RI
+TI ACCURACY AND RELIABILITY OF SELF-REPORTED DATA IN INTERORGANIZATIONAL NETWORKS
+SO SOCIAL NETWORKS
+C1 PORTLAND STATE UNIV,REG RES LAB HUMAN SERV,PORTLAND,OR 97207.
+RP CALLOWAY, M (corresponding author), UNIV N CAROLINA,CECIL G SHEPS CTR HLTH SERV RES,CHAPEL HILL,NC 27599, USA.
+FU Deans Research Initiative, at the University of Maryland, USA
+CR BORGATTI SM, 1992, UCINET 5 VERSION 1 0, V0, P0
+   DOREIAN P, 1988, SOC NETWORKS, V10, P273, DOI 10.1016/0378-8733(88)90017-2
+   DOREIAN P, 1992, SOC SCI RES, V21, P216, DOI 10.1016/0049-089X(92)90016-A
+   FAUST K, 1988, SOC NETWORKS, V10, P313, DOI 10.1016/0378-8733(88)90002-0
+   GOLDMAN HH, 1990, HOSP COMMUNITY PSYCH, V41, P1217
+   MARSDEN PV, 1990, ANNU REV SOCIOL, V16, P435, DOI 10.1146/annurev.so.16.080190.002251
+   MORRISSEY JP, 1990, SYSTEM CARE CHILDREN, V0, P0
+   OLIVER C, 1990, ACAD MANAGE REV, V15, P241, DOI 10.2307/258156
+   SHORE MF, 1990, HOSP COMMUNITY PSYCH, V41, P1212
+   WHITE DR, 1988, SOCIAL STRUCTURE NET, V0, P0
+   Wellman B, 1988, SOCIAL STRUCTURES: A NETWORK APPROACH, V0, P1
+NR 11
+TC 37
+Z9 0
+U1 1.0
+U2 9.0
+J9 SOCIAL NETWORKS
+PD DEC
+PY 1993
+VL 15
+BP 377
+EP 398
+DI 10.1016/0378-8733(93)90013-B
+PG 22
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:A1993MN52100003
+PM 
+ER
+

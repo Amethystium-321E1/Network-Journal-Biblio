@@ -1,0 +1,87 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Mcdonald, S
+TI What's in the "old boys" network? Accessing social capital in gendered and racialized networks
+SO SOCIAL NETWORKS
+DE networks; social capital; gender; race; inequality; job search
+AB Network processes have long been implicated in the reproduction of labor market inequality, but it remains unclear whether white male networks provide more social capital resources than female and minority networks. Analysis of nationally representative survey data reveals that people in white male networks receive twice as many job leads as people in female/minority networks. White male networks are also comprised of higher status connections than female/minority networks. The information and status benefits of membership in these old boy networks accrue to all respondents and not just white men. Furthermore, gender homophilous contacts offer greater job finding assistance than other contacts. The results specify how social capital flows through gendered and racialized networks. (C) 2011 Elsevier B.V. All rights reserved.
+C1 N Carolina State Univ, Dept Sociol & Anthropol, Raleigh, NC 27695 USA.
+RP McDonald, S (corresponding author), N Carolina State Univ, Dept Sociol & Anthropol, Campus Box 8107, Raleigh, NC 27695 USA.
+FU NICHD NIH HHS [R01 HD052887] Funding Source: Medline
+CR Day JC, 2010, SOCIOL SPECTRUM, V30, P138, DOI 10.1080/02732170903495937
+   Fernandez RM, 2006, AM SOCIOL REV, V71, P42, DOI 10.1177/000312240607100103
+   Fernandez RM, 2008, SOC SCI RES, V37, P1061, DOI 10.1016/j.ssresearch.2007.10.003
+   Kmec JA, 2009, SOC SCI RES, V38, P266, DOI 10.1016/j.ssresearch.2009.01.003
+   Lin Nan, 2008, SOCIAL CAPITAL INT R, V0, P107
+   McDonald S, 2006, SOC FORCES, V85, P521, DOI 10.1353/sof.2006.0133
+   McDonald S, 2009, SOC PROBL, V56, P385, DOI 10.1525/sp.2009.56.3.385
+   McDonald S, 2010, SOCIOL COMPASS, V4, P532, DOI 10.1111/j.1751-9020.2010.00298.x
+   McDonald S, 2011, AM SOC ASS ANN M LAS, V0, P0
+   Mouw T, 2006, ANNU REV SOCIOL, V32, P79, DOI 10.1146/annurev.soc.32.061604.123150
+   Parks-Yancy R, 2006, SOCIOL SPECTRUM, V26, P85, DOI 10.1081/02732170500269651
+   Parks-yancy Rochelle, 2010, EQUAL WORK, V0, P0
+   Smith SS, 2010, ANN AM ACAD POLIT SS, V629, P30, DOI 10.1177/0002716210366532
+   Smith SandraSusan, 2007, LONE PURSUIT DISTRUS, V0, P0
+   Stainback K, 2008, SOC FORCES, V87, P857
+   Unknown -, 2008, SOCIAL CAPITAL INT R, V0, P0
+   Unknown -, 2009, SURVEY METHODOLOGY, V0, P0
+   Weber M, 2013, ECONOMY AND SOCIETY, V0, P0
+   Wilson William J, 2012, THE TRULY DISADVANTAGED: THE INNER CITY, V0, P0
+NR 19
+TC 189
+Z9 0
+U1 1.0
+U2 109.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2011
+VL 33
+BP 317
+EP 330
+DI 10.1016/j.socnet.2011.10.002
+PG 14
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000298122200007
+PM 
+ER
+
+PT J
+AU Chua, V
+TI Social networks and labour market outcomes in a meritocracy
+SO SOCIAL NETWORKS
+DE education and labour market systems; job searches; meritocracy; personal contacts; varieties of capitalism
+AB This paper examines the significance of personal contacts in job searches, in the context of Singapores meritocratic system. I show that in certain sectors, such as the state bureaucracy, social networking brings no distinct advantages as appointments are made exclusively on the basis of the academic credentials of the candidates. Thus, personal contacts are not always useful, especially in labour markets that rely heavily on the signalling role of academic credentials to match persons to jobs and allocate rewards. In contrast, personal contacts are more useful among less qualified job searchers in the private sector. (C) 2010 Elsevier B.V. All rights reserved.
+C1 Univ Toronto, Dept Sociol, Toronto, ON M5S 2J4, Canada.
+RP Chua, V (corresponding author), Univ Toronto, Dept Sociol, 725 Spadina Ave, Toronto, ON M5S 2J4, Canada.
+CR Antoninis M, 2006, J ECON BEHAV ORGAN, V59, P133, DOI 10.1016/j.jebo.2004.02.005
+   Barr MD, 2006, ASIAN STUD REV, V30, P1, DOI [10.1080/10357820500537021, DOI 10.1080/10357820500537021]
+   Barr Michael, 2008, CONSTRUCTING SINGAPO, V0, P0
+   Behtoui A, 2008, J ETHN MIGR STUD, V34, P411, DOI 10.1080/13691830701880251
+   Bolles RichardNelson, 2009, WHAT COLOUR IS YOUR PARACHUTE? 2009, V0, P0
+   Loury LD, 2006, J LABOR ECON, V24, P299, DOI 10.1086/499974
+   Neo BS, 2007, DYNAMIC GOVERNANCE E, V0, P0
+   Pereira AA, 2008, THIRD WORLD Q, V29, P1189, DOI 10.1080/01436590802201162
+   SCHMIDT VH, 2006, CURRENT SOCIOLOGY, V0054, P0
+   Schuman M, 2009, THE MIRACLE: THE EPIC STORY OF ASIAS QUEST FOR WEALTH, V0, P0
+   Stainback K, 2008, SOC FORCES, V87, P857
+   Visscher Sikko, 2007, BUSINESS POLITICS ET, V0, P0
+   Zakaria F, 2008, THE POST-AMERICAN WORLD, V0, P0
+NR 13
+TC 58
+Z9 0
+U1 3.0
+U2 41.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2011
+VL 33
+BP 1
+EP 11
+DI 10.1016/j.socnet.2010.08.001
+PG 11
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000291962000001
+PM 
+ER
+

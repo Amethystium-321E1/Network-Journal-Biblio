@@ -1,0 +1,40 @@
+Coming into relations: How communication reveals and persuades relational decisions
+Co-evolution of a socio-cognitive scientific network: A case study of citation dynamics among astronomers
+Generators or diffusers? Examining differences in the dynamic coupling of context and social ties across multiple types of foci
+Improving ERGM starting values using simulated annealing
+Networks from culture: Mechanisms of tie-formation follow institutionalized rules in social fields
+Gender homophily and gender distribution in social networks: The case of older adults in long term care settings
+The Swiss StudentLife Study: Investigating the emergence of an undergraduate community through dynamic, multidimensional social network data (Reprinted from vol 65, pages 71-84, 2021)
+Digital networks: Elements of a theoretical framework
+Network formation in organizational settings: Exploring the importance of local social processes and team-level contextual variables in small groups using bayesian hierarchical ERGMs
+How does socioeconomic homophily emerge? Testing for the contribution of different processes to socioeconomic segregation in adolescent friendships
+Cross-sectional social network study of adolescent peer group variation in substance use and mental wellbeing: The importance of the meso level
+Not all friends are created equal: Friendship ties across different social contexts in South Korea
+A network centrality bias: Central individuals in workplace networks have more supportive coworkers
+Symbolic association networks: A case study of orchestral programming's effect on the reputation of composers
+Network ecology: Tie fitness in social context(s)
+Understanding networks with exponential-family random network models
+The development of stratification and segregation in a new scientific field: A study of collaboration among scientists in neuroblastoma research between 1975 and 2016
+Kudos make you run! How runners influence each other on the online social network Strava
+Network dynamics and its impact on innovation outcomes: R&D consortia in the Dutch water sector
+Scaling bias in pooled exponential random graph models
+Trust, quality, and the network collection experience: A tale of two studies on the Democratic Republic of the Congo (Reprinted from vol 68, pages 237-255, 2022)
+Knowing me, knowing you: Socio-economic status and (segregation in) peer and parental networks in primary school
+Collecting survey-based social network information in work organizations
+Parameter estimation procedures for exponential-family random graph models on count-valued networks: A comparative simulation study
+Lost in translation: Collecting and coding data on social relations from audio-visual recordings
+Collecting network data from documents to reach non-participatory populations
+Networks from archives: Reconstructing networks of official correspondence in the early modern Portuguese empire
+Multilevel network interventions: Goals, actions, and outcomes
+Name order effects in measuring adolescent social networks using rosters
+She Must Be Seeing Things! Gender disparity in camera department networks
+How adolescents' popularity perceptions change: Measuring interactions between popularity and friendship networks
+Stochastic actor oriented model with random effects
+Limited opportunities: Adolescents' access to social capital in secondary schools in three European countries
+Trust, quality, and the network collection experience: A tale of two studies on the Democratic Republic of the Congo
+Categorical closure: Transitivity and identities in longitudinal networks
+Network ecology: Tie fitness in social context(s)
+Networks of context: Three-layer socio-cultural mapping for a <i>Verstehende</i> network analysis
+Status, cognitive overload, and incomplete information in advice-seeking networks: An agent-based model
+Too many options: How to identify coalitions in a policy network?
+Re-print of: Contextualizing oppositional cultures: A multilevel network analysis of status orders in schools

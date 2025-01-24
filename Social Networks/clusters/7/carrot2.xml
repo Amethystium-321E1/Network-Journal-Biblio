@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>A &lt;i&gt;p&lt;/i&gt;* primer:: logit models for social networks</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(98)00012-4</url>
+<snippet>A major criticism of the statistical models for analyzing social networks developed by Holland, Leinhardt, and others [Holland, P.W., Leinhardt, S., 1977. Notes on the statistical analysis of social network data; Holland, P.W., Leinhardt, S., 1981. An exponential family of probability distributions for directed graphs. Journal of the American Statistical Association. 76, pp. 33-65 (with discussion); Fienberg, S.E., Wasserman, S., 1981. Categorical data analysis of single sociometric relations. In: Leinhardt,S. (Ed.), Sociological Methodology 1981, San Francisco: Jossey-Bass, pp. 156-192; Fienberg, S.E., Meyer, M.M., Wasserman, S., 1985. Statistical analysis of multiple sociometric relations. Journal of the American Statistical Association, 80, pp. 51-67; Wasserman, S., Weaver, S., 1985. Statistical analysis of binary relational data: Parameter estimation. Journal of Mathematical Psychology. 29, pp. 406-427; Wasserman, S., 1987. Conformity of two sociometric relations. Psychometrika. 52, pp. 3-18] is the very strong independence assumption made on interacting individuals or units within a network or group. This limiting assumption is no longer necessary given recent developments on models for random graphs made by Frank and Strauss [Frank, O., Strauss, D., 1986. Markov graphs. Journal of the American Statistical Association. 81, pp. 832-842] and Strauss and Ikeda [Strauss, D., Ikeda, M., 1990. Pseudolikelihood estimation for social networks. Journal of the American Statistical Association. 85, pp. 204-212]. The resulting models are extremely flexible and easy to fit to data. Although Wasserman and Pattison [Wasserman, S., Pattison, P., 1996. Logit models and logistic regressions for social networks: I. An introduction to Markov random graphs and p*. Psychometrika. 60, pp. 401-426] present a derivation and extension of these models, this paper is a primer on how to use these important breakthroughs to model the relationships between actors (individuals, units) within a single network and provides an extension of the models to multiple networks. The models for multiple networks permit researchers to study how groups are similar and/or how they are different. The models for single and multiple networks and the modeling process are illustrated using friendship data from elementary school children from a study by Parker and Asher [Parker, J.G., Asher, S.R., 1993. Friendship and friendship quality in middle childhood: Links with peer group acceptance and feelings of loneliness and social dissatisfaction. Developmental Psychology. 29, pp. 611-621].(C) 1999 Elsevier Science B.V. All rights reserved.
+WOS:000080763300003
+</snippet>
+</document>
+
+<document id="2">
+<title>Multiplexity, generalized exchange and cooperation in organizations: a case study</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(99)00002-7</url>
+<snippet>Cooperation in an organization can be studied empirically by examining the routine transfers or exchanges among members of various kinds of resources. We argue that local regularities in the form of these transfers and exchanges shape the structure of cooperation. Using a case study of resource networks in a corporate law firm, we model the structure of cooperation in a specific work environment, one that is characterized by multifunctional and sometimes multidisciplinary work groups in which status competition is argued to be a particularly strong motivation driving participation. Specific statistical tools, p* models, are used to identify local regularities in the interplay between exchanges and transfers of three types of social resource (coworkers goodwill, advice and friendship). We propose that these regularities help to provide structural solutions for the problems of collective participation and status competition in such organizations. (C) 1999 Elsevier Science B.V. All rights reserved.
+WOS:000080763300004
+</snippet>
+</document>
+
+<document id="3">
+<title>Peripheries of cohesive subsets</title>
+<url>http://dx.doi.org/</url>
+<snippet>Network analysts have developed a number of techniques for identifying cohesive subgroups in networks. In general, however, no consideration is given to actors that do not belong to a given group. In this paper, we explore ways of identifying actors that are not members of a given cohesive subgroup, but who are sufficiently well tied to the group to be considered peripheral members. We then use this information to explore the structure of the network as a whole. (C) 1999 Elsevier Science B.V. All rights reserved.
+WOS:000085200300005
+</snippet>
+</document>
+
+<document id="4">
+<title>ECCENTRICITY AND CENTRALITY IN NETWORKS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(94)00248-9</url>
+<snippet>The classic concept of centrality discovered by Camille Jordan in the 19th century is introduced as a model for social network analysis. It is generalized to include the path center of a graph and illustrated with an application to two island networks in Oceania. It is shown to be a necessary addition to the concepts of degree, closeness and betweenness centrality as distinguished by Freeman.
+WOS:A1995QM57300003
+</snippet>
+</document>
+
+<document id="5">
+<title>Measurement quality issues in dyadic models of relationships</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(99)00010-6</url>
+<snippet>Interpersonal relationships are an important and integral part of numerous social science research agendas. Analytical tools have been created in the last 10 years that model dyadic interactions. In particular, this article focuses on the dyadic models of Fienberg and Wasserman [Fienberg, S.E., Wasserman, S., 1981. Categorical data analysis of single sociometric relations. In: Leinhardt, S. (Ed.), Sociological Methodology. Jossey-Bass, San Francisco.], Holland and Leinhardt [Holland, P.W., Leinhardt, S., 1981. An exponential family of probability densities for directed graphs. Journal of the American Statistical Association 76 (1981) 33-51.], Iacobucci and Wasserman [Iacobucci, D., Wasserman, S., 1988. A general framework for the statistical analysis of sequential dyadic interaction data Psychological Bulletin 103 (1988) 379-390.] and Wasserman and Iacobucci [Wasserman, S., Iacobucci, D., 1986. Statistical analysis of discrete relational data. British Journal of Mathematical and Statistical Psychology 39 (1986) 41-64.]. However, measurement issues like reliability and validity, as discussed by Alien and Yen [Allen, M.J., Yen, W.M., 1979. Introduction to Measurement Theory. Brooks/Cole, Monterey, CA, 1979.], Nunnally [Nunnally, J., 1978. Psychometric Theory, 2nd edn. McGraw-Hill, New York, NY, 1978.] and Uebersax [Uebersax, J.S., 1988. Validity inferences from interobserver agreement. Psychological Bulletin 104 (1988) 405-416.], have not been considered in conjunction with these models, and little is known about the empirical performance of the dyadic models under sub-optimal measurement quality conditions. We offer two essential approaches to ascertaining the level of measurement error in the observed indicators of social ties and relationships. The first approach combines latent class and social network models in one integrated framework: and allows for the simultaneous study of measurement and dyadic structural issues. The second approach is an alternative that may be more useful to social science researchers, both because the method is more accessible and because researchers could apply the techniques to data they have already partially analyzed. This approach is a two-staged procedure whereby in the first stage, a probability model based on latent class analysis is estimated which provides an indication of the measurement quality in the data In the second stage, traditional social network models are estimated. To investigate the implications of different levels of measurement error for interpreting the nature of the network ties and the dyadic parametric performance, we also designed a Monte Carlo experiment. Measurement error is simulated as the likelihood of a binary relational choice (for simplicity) being inaccurately classified, where incorrect diagnoses can result from poor interitem agreement (i.e., unreliability) or poor interrater agreement. The simulation can be used by researchers in combination with the two-stage approach. The results of the simulation provide guidelines for situations when social network models can withstand a reasonable degree of sub-optimal measurement quality and highlight adverse conditions which can significantly affect the performance of the modeling approach. Further, the simulation shows that sample size assists in reducing the chances of making Type II errors, but it does not compensate for biases in parameter estimates in the presence of increasing error. Finally, the measurement and dyadic analytical methods are applied to a real dataset describing interorganizational relational activity using multiple raters. Recommendations are offered to guide the researcher in making decisions about research design when using dyadic models. (C) 1999 Elsevier Science B.V. All rights reserved.
+WOS:000084385700001
+</snippet>
+</document>
+
+<document id="6">
+<title>Centrality in affiliation networks</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(96)00300-0</url>
+<snippet>This paper discusses the conceptualization, measurement, and interpretation of centrality in affiliation networks. Although centrality is a well-studied topic in social network analysis, and is one of the most widely used properties for studying affiliation networks, virtually all discussions of centrality and centralization have concerned themselves with one-mode networks. Bonacichs work on simultaneous group and individual centralities is a notable exception (Social Networks, 1991, 13, 155-168). I begin by outlining the distinctive features of affiliation networks and describe four motivations for centrality indices in affiliation networks. I then consider properties of some existing centrality indices for affiliation networks, including the relationship between centralities for actors and events in these networks, and present a new conceptualization of centrality that builds on the formal properties of affiliation networks and captures important theoretical insights about the positions of actors and events in these networks. These centralities are then illustrated on Galaskiewiczs data on club and board memberships of a sample of corporate executive officers (Social Organization of an Urban Grants Economy. New York: Academic Press, 1985). The conclusion to this paper discusses strengths and weaknesses of centrality indices when applied to affiliation networks. (C) 1997 Elsevier Science B.V.
+WOS:A1997XF61900005
+</snippet>
+</document>
+
+<document id="7">
+<title>MODELS FOR EVOLVING FIXED NODE NETWORKS - MODEL-FITTING AND MODEL TESTING</title>
+<url>http://dx.doi.org/10.1016/0378-8733(94)00249-A</url>
+<snippet>Researchers in social networks are becoming increasingly interested in how networks evolve over time.  There are theories that bear on the evolution of networks, but virtually no statistical methodology which supports the comparative evaluation of these theories.  In this paper, we present explicit probability models for networks that change over time, covering a range of simple but significant qualitative behavior.  Maximum likelihood estimates of model parameters which describe the rate of change of the network are derived, and some of their sampling properties are elucidated.  To calculate these estimates the researcher must have measurements upon the trajectory of a network - these are the values of the network at successive time points.  We also describe goodness-of-fit tests for assessing model adequacy, and use Newcombs dataset to illustrate the methodology.
+WOS:A1995QM57300004
+</snippet>
+</document>
+
+<document id="8">
+<title>Exploring dynamic networks: hypotheses and conjectures</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(00)00025-3</url>
+<snippet>Previously, theories of network exchange and their applications focused only on static configurations. The purpose of this paper is to show that exchange networks with dynamic structures can be analyzed using Network Exchange Theory (NET) even though that theory was developed with only static networks in mind. The Exchange Seek Likelihood (ESL) and Optimal-Seek methods of NET are used. Hypotheses, which focus on network dynamics from the perspective of the network as a whole and from the perspective of individual actors, are both considered. The only previous paper on exchange networks with dynamic structures is that of Leik [Leik, Robert K. 1992. New directions for NET: stategic manipulation of network linkages. Social Networks. 14: 309 - 324.]. Since the issues he considered continue to be significant, we use his paper to guide our analysis, offering new hypotheses and conjectures for the issues he considered. (C) 2000 Elsevier Science B.V. All rights reserved.
+WOS:000088184600003
+</snippet>
+</document>
+
+<document id="9">
+<title>PERSONAL NETWORK CHARACTERISTICS AS ANTECEDENTS TO NEEDLE-SHARING AND SHOOTING GALLERY ATTENDANCE</title>
+<url>http://dx.doi.org/10.1016/0378-8733(95)00263-N</url>
+<snippet>Sharing of contaminated needles is one of the primary modes of HIV transmission in the US. This study sought to examine social contextual factors antecedent to needle-sharing in a sample of inner-city drug users in Baltimore, Maryland. Drug users social context was assessed through an analysis of individuals personal networks. The sample, 330 individuals participating in an HIV-prevention study, were interviewed twice, an average of 5.2 months apart. An examination of the association between personal network characteristics at baseline and needle-sharing at follow-up revealed that higher total personal network density and larger drug network size were positively associated with reports of sharing needles. Attending shooting galleries was positively associated with size of positive feedback network, and negatively associated with size of material aid network. These data suggest that needle-sharing and injecting in shooting galleries is influenced by ecological and resource factors. The findings indicate the potential utility of network-oriented strategies for reducing needle-sharing among injecting drug users.
+WOS:A1995RZ52400004
+</snippet>
+</document>
+
+<document id="10">
+<title>Seeing things clearly: social structure, personality, and accuracy in social network perception</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(98)00008-2</url>
+<snippet>People differ in their ability to perceive accurately the informal patterns of interpersonal relationships in their social groups, i.e., the groups network structure. Existing research leaves us largely unable to explain the variation in accuracy in social network perception. This paper argues that the study of accuracy in social network perception should consider the effect of both situational factors and individual differences. To explore this claim, three research centers in an Italian university were studied. Perceptions of the friendship and the work-related advice networks in the organization were compared to the actual network. The results indicate that both an observers position in the formal and informal social structure of the organization, and his or her personality traits contribute to determining accuracy in social network perception. (C) 1998 Elsevier Science B.V. All rights reserved.
+WOS:000078562100003
+</snippet>
+</document>
+
+<document id="11">
+<title>Mapping interactions within and between cohesive subgroups</title>
+<url>http://dx.doi.org/10.1016/0378-8733(95)00257-X</url>
+<snippet>
+WOS:A1996UC91700001
+</snippet>
+</document>
+
+<document id="12">
+<title>A note on social capital and network content</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(97)00003-8</url>
+<snippet>As a guide to selecting name generators for social capital research, I use network data on a probability sample of heterogeneous senior managers to describe how they sort relations into kinds, and how the kinds vary in contributing to social capital. Managers sort relations on two dimensions of strength - intimacy (especially close versus distant) versus activity (frequent contact with new acquaintances versus rare contact with old friends) - and with respect to two contents - personal discussion (confiding and socializing relations) versus corporate authority (the formal authority of the boss and informal authority of essential buy-in). Comparing name generators for their construct validity as indicators of social capital, I compute network constraint from different kinds of relations, and correlate constraint with early promotion. The correlation is strong for the network of personal relations, zero for the network of authority relations, and strongest for personal and authority relations together. I close with research design recommendations for selecting name generators. (C) 1997 Elsevier Science B.V.
+WOS:A1997XM03000004
+</snippet>
+</document>
+
+<document id="13">
+<title>Forgetting of friends and its effects on measuring friendship networks</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(99)00018-0</url>
+<snippet>
+WOS:000085200300003
+</snippet>
+</document>
+
+<document id="14">
+<title>Personality correlates of structural holes</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(97)00005-1</url>
+<snippet>We use survey network and personality profile data to explore the idea that personality varies systematically with structural holes. We draw two conclusions from the analysis: (1) Personality does vary with structural holes. The association is concentrated in a few items, but those few personality items describe three-fourths of the variance in network constraint. (2) The association is consistent with the structural hole argument. People in the least constrained networks claim the personality of an entrepreneurial outsider (versus conforming and obedient insider), in search of authority (versus security), thriving on advocacy and change (versus stability). We summarize with a network entrepreneur personality index that defines a surprisingly accurate probability of the respondent having an entrepreneurial network We conclude with cautionary evidence from a survey of corporate staff in a large financial organization. Where the personality index is associated with entrepreneurial networks (lower ranks), neither the index nor the networks are associated with manager performance. Where manager performance is significantly linked with entrepreneurial networks (more senior ranks), the personality index is not associated with network structure, and performance is not higher for managers with more entrepreneurial personalities. The personality data are an interesting correlate, but no substitute for sociometric data. (C) 1998 Elsevier Science B.V.
+WOS:000071662800004
+</snippet>
+</document>
+
+<document id="15">
+<title>Peer influence groups: identifying dense clusters in large networks</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(01)00042-9</url>
+<snippet>Sociologists have seen a dramatic increase in the size and availability of social network data. This represents a poverty of riches, however, since many of our analysis techniques cannot handle the resulting large (tens to hundreds of thousands of nodes) networks. In this paper, I provide a method for identifying dense regions within large networks based on a peer influence model. Using software familiar to most sociologists, the method reduces the network to a set of in position variables that can then be used in fast cluster analysis programs. The method is tested against simulated networks with a known small-world structure showing that the underlying clusters can be accurately recovered. I then compare the performance of the procedure with other subgroup detection algorithms on the MacRea and Gagnon prison friendship data and a larger adolescent friendship network, showing that the algorithm replicates other procedures for small networks and outperforms them on the larger friendship network. (C) 2001 Elsevier Science B.V. All rights reserved.
+WOS:000171391200002
+</snippet>
+</document>
+
+<document id="16">
+<title>Cohesive group detection in a social network by the segregation matrix index</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(96)00295-X</url>
+<snippet>The number and intensity of. the interactions between cohesive group members are higher than those with other actors. The segregation matrix index (SMI), which is based on the relative number and intensity of inward to outward interactions, serves as a measure of the cohesiveness of a group (Fershtman and Chen, 1993, Megamot, 34: 563-581). Based on the SMI, the paper proposes an operational definition of a cohesive group and an algorithm for detecting cohesive groups in (binary or valued) social networks. Examination of two actual cases demonstrates the efficiency of the algorithm.
+WOS:A1997XE81300001
+</snippet>
+</document>
+
+<document id="17">
+<title>Decay functions</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(99)00015-5</url>
+<snippet>The tendency for relationships to weaken and disappear I discuss as decay, and functions describing the rate of decay over time I discuss as decay functions. Three conclusions are supported with 4 years of network data on a study population of bankers and their colleagues in a financial organization. (1) Factors known from cross-sectional evidence to be associated with strong relationships are associated with slow decay; decay is slower in relations between colleagues with a strong prior relationship (inertia), working in the same corporate division (homophily), prominent in the social hierarchy of bankers (status), or connected indirectly through many third parties (embedding). (2) Regardless of slower decay in certain relations, decay has a pattern over time similar to the population ecology "liability of newness" attributed to selection and learning, with the added complication of networks and people aging simultaneously. Decay is a power function of time in which the probability of decay decreases with tie age (years for which a relationship has existed) and node age (years for which a banker has been in the study population). (3) Embedding stability is responsible for the greater stability of older relationships. The decay-inhibiting effects of age occur where embedding is disrupted but not where embedding is continuous. The third conclusion is interesting in highlighting the first derivative of social structure as a causal variable: embedding has to be measured for its change, rather than level, to see both of its distinct effects on relationship decay. (C) 2000 Elsevier Science B.V. All rights reserved.
+WOS:000087144500001
+</snippet>
+</document>
+
+<document id="18">
+<title>Matrix methods for calculating the triad census</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(98)00006-9</url>
+<snippet>The triad census, T, of a directed network summarizes much of the structural information in a network. Thus, it has been very useful in analyzing structural properties within social networks. This paper presents a set of simple matrix formulas for calculating T. Previous work with the triad census has required enumerating each triad in the graph, which can be time consuming for very large networks. The formulas presented in this paper increase the efficiency of calculating T by an order of magnitude. Thus, these formulas provide researchers with very large networks, or the need to calculate T many times, an efficient tool for studying underlying structural patterns. (C) 1998 Elsevier Science B.V. All rights reserved.
+WOS:000078562100001
+</snippet>
+</document>
+
+<document id="19">
+<title>Modeling social influence through network autocorrelation: constructing the weight matrix</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(01)00049-1</url>
+<snippet>Many physical and social phenomena are embedded within networks of interdependencies, the so-called context of these phenomena. In network analysis, this type of process is typically modeled as a network autocorrelation model. Parameter estimates and inferences based on autocorrelation models, hinge upon the chosen specification of weight matrix W, the elements of which represent the influence pattern present in the network. In this paper I discuss how social influence processes can be incorporated in the specification of W. Theories of social influence center around communication and comparison; it is discussed how these can be operationalized in a network analysis context. Starting from that, a series of operationalizations of W is discussed. Finally, statistical tests are presented that allow an analyst to test various specifications against one another or pick the best fitting model from a set of models. (C) 2002 Elsevier Science B.V. All rights reserved.
+WOS:000174169100002
+</snippet>
+</document>
+
+<document id="20">
+<title>Norm formation in social influence networks</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(01)00036-3</url>
+<snippet>I propose a mechanism of norm formation and maintenance that combines classical theory in social psychology on attitudes and social comparisons with a formal network theory of social influence. Underlying the formation of norms is the ubiquitous belief that there is a correct response for every situation and an abiding interest for persons to base their responses on these correct foundations. Given such a belief, a normative evaluation of a feeling, thought or action is likely to arise when persons perceive that their positive or negative attitudinal evaluation is shared by one or more influential others. If interpersonal agreements validate attitudes and transform attitudes into norms, then the development of a theory of norm formation may draw on extant "combinatorial" theories of consensus production that describe how shared attitudes are produced and maintained in groups. The network theory of social influence that I employ is one such combinatorial approach. An important sociological implication of this network theory is that the content of norms must be consistent with the social stratification (or more general pattern of inequality) of interpersonal influences in a group. I illustrate the theory with an analysis of Roethlisberger and Dicksons (1939) classic observations on the Bank Wiring Observation Room. (C) 2001 Elsevier Science B.V. All rights reserved.
+WOS:000170148200001
+</snippet>
+</document>
+
+<document id="21">
+<title>CHOOSING A CENTRALITY MEASURE - EPIDEMIOLOGIC CORRELATES IN THE COLORADO-SPRINGS STUDY OF SOCIAL NETWORKS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(95)00267-R</url>
+<snippet>
+WOS:A1995RZ52400008
+</snippet>
+</document>
+
+<document id="22">
+<title>Comparing three simultaneous measurements of a sociocognitive network</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(02)00007-2</url>
+<snippet>Three data collection strategies are compared in their ability to measure a globally shared cognitive network representation, i.e. a sociocognitive network. Participant performances in data production using each of the three strategies are also assessed. Data were collected from 22 students in a graduate program. Each participant reported k out of 22 "ordinary" ties (Task 1, 0 less than or equal to k less than or equal to 22), in out of k "close" ties (Task 2, 0 less than or equal to m less than or equal to k), and "top three" ties (Task 3) for every actor in the network. Results revealed that each of the three tasks were quite similar to each other in measuring the sociocognitive network. The estimated average shared information among the actors about the networks structure, as revealed by each task, was highest for Task 2 and lowest for Task 1. Individual differences in performance indicate that the amount of shared knowledge as revealed by each task is not consistent across tasks. Overall, three-way data structures are shown to be sufficiently rich in information that any of the tasks are sufficient to capture the main features of a sociocognitive network. (C) 2002 Elsevier Science B.V. All rights reserved.
+WOS:000176643300005
+</snippet>
+</document>
+
+<document id="23">
+<title>MEASURING A LARGE NETWORK QUICKLY</title>
+<url>http://dx.doi.org/10.1016/0378-8733(94)90001-9</url>
+<snippet>We describe work in which we used three days of interviewing to identify and measure the network among 200 people significant in a complex production process. The capture-recapture strategy should be useful in other settings: (1) Conduct survey network interviews with people (informants) positioned in the study population such that their contacts overlap to provide recaptured relations. (2) Estimate reliability from data consistency across recaptures. (3) Triangulate relation response categories to assign quantitative scores to the categories. (4) Use reliability correlates to weight recaptured relations in the final network pooled across interviews. (5) Extrapolate from the known strengths of the captured relations to define the uncaptured relations.
+WOS:A1994NG53300001
+</snippet>
+</document>
+
+<document id="24">
+<title>STREET-LEVEL DRUG MARKETS - NETWORK STRUCTURE AND HIV RISK</title>
+<url>http://dx.doi.org/10.1016/0378-8733(95)00264-O</url>
+<snippet>Ethnographic and formal social network methods are used to define and situate three categories of injecting drug users - a core, an inner periphery and an outer periphery - in a street-level drug market scene. Different locations in these network structures are shown to be associated with different levels of AIDS risk behaviors and of HIV infection rates. A network perspective helps to understand HIV risks and to devise appropriate interventions.
+WOS:A1995RZ52400005
+</snippet>
+</document>
+
+<document id="25">
+<title>The distant core: social solidarity, social distance and interpersonal ties in core-periphery structures</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(01)00033-8</url>
+<snippet>We examine three hypotheses at the foundation of theories concerned with the organization of social space and social solidarity in differentiated groups. The most important of these hypotheses is that interpersonal ties between actors in different positions of a social structure foster social solidarity; however, the theories are silent on the question of whether this effect of interpersonal ties is maintained regardless of the distance that separates the positions of two actors in the groups social space. In addition, the current zeitgeist on the organization of social space hypothesizes that interpersonal solidarity and ties are negatively associated with the distance that separates the positions of actors in social space. Although interpersonal ties foster solidarity, social distance reduces the likelihood of interpersonal ties and solidarity. Our evidence suggests unqualified support only for the first hypothesis. Surprisingly, the expected negative effects of social distance on interpersonal ties and solidarity appear to be properties of particular forms of social organization and are not ubiquitous implications of social differentiation. These negative effects are more or less pronounced (even reversible) in core-periphery structures depending upon the distance between the core and peripheral positions in the social space of the group. (C) 2001 Elsevier Science B.V. All rights reserved.
+WOS:000171391200001
+</snippet>
+</document>
+
+<document id="26">
+<title>Models of core/periphery structures</title>
+<url>http://dx.doi.org/</url>
+<snippet>A common but informal notion in social network analysis and other fields is the concept of a core/periphery structure. The intuitive conception entails a dense, cohesive core and a sparse, unconnected periphery. This paper seeks to formalize the intuitive notion of a core/periphery structure and suggests algorithms for detecting this structure, along with statistical tests for testing a priori hypotheses. Different models are presented for different kinds of graphs (directed and undirected, valued and nonvalued). In addition, the close relation of the continuous models developed to certain centrality measures is discussed. (C) 1999 Elsevier Science B.V. All rights reserved.
+WOS:000085200300004
+</snippet>
+</document>
+
+<document id="27">
+<title>Proximity and threats in highland ponies</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(98)00002-1</url>
+<snippet>Re-analysis of highland pony data of Clutton-Brock et al. [Clutton-Brock, T.H., Greenwood, P.J., Poweil, R.P., 1976. Ranks and relationships in highland ponies and highland cows. Z. Tierpsychol. 41, 202-216.] suggests that rank- and age-like ponies tend to have similar patterns of physical spatial proximity to others. This may also be the case for patterns of threat involvement, but it is less clear. Beyond individuals overall tendencies to be near others, proximity is greater for pairs with less difference in age and in which there is frequent grooming; effects of rank and height difference and kinship do not significantly improve fit. Beyond individuals overall tendencies to be involved in threats, threats are more frequent in pairs with less difference in age, more difference in rank, and more grooming; effects of height difference or kinship do not significantly improve fit. Results illuminate the connection between demographic characteristics and social relations. (C) 1998 Elsevier Science B.V. All rights reserved.
+WOS:000076172600002
+</snippet>
+</document>
+
+<document id="28">
+<title>Predictors of accuracy in perceiving informal social networks</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(98)00007-0</url>
+<snippet>Ones ability to accurately perceive the existence of informal social networks, referred to as cognitive accuracy, has recently been shown to play an important role in explaining various social phenomena. This paper addresses the research question of what predicts cognitive accuracy by developing a simple theory which links ones accuracy to the amount of information one exchanges with co-workers. To test the predictions of my theory, I analyze friendship and advice network data from a small entrepreneurial firm. The results of the analysis show that predictors of accuracy tend to be workers degree centrality in the friendship or advice network and demographic and social distances between workers. (C) 1998 Elsevier Science B.V. All rights reserved.
+WOS:000078562100002
+</snippet>
+</document>
+
+<document id="29">
+<title>A rational choice model of network status</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(96)00294-8</url>
+<snippet>This paper models network relations as inter-individual investments. Accordingly, actors choose, in a competitive setting, their investments into others to realize their interests in control over network ties. The central model outcome is the equilibrium price vector of (relations with) network members. It represents, from a structural point of view, a new status index. The latter reduces, for specific conditions, to Bonacichs two-parametric centrality measure and, thereby, provides a way to estimate the parameters of that measure.
+WOS:A1997XF61900003
+</snippet>
+</document>
+
+<document id="30">
+<title>Testing transitivity in graphs</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(97)00001-4</url>
+<snippet>The situation is considered whether a graph can be assumed to have been generated by a random model capturing more transitivity than a simple uniform model. Three different test quantities based on induced triad counts and local densities are used. A simulation study is made in order to estimate critical values of the tests for different significance levels. The powers of the tests are estimated against the Bernoulli triangle model, a simple random graph model in which the clustering and transitivity is higher than in the uniform model. The test based on the proportion of transitive triads has the highest power in most cases, but the test based on density difference (the difference between mean local density and overall graph density) is more powerful against models with high transitivity. The tests are applied to a large set of school class sociograms. In this situation, uniform randomness is rejected in favor of transitivity most frequently when the test based on the proportion of transitive triads out of the non-vacuously transitive triads is used. It is concluded that this test, which also performed reasonably well when applied to random data, is the best at detecting transitivity. Although the Bernoulli triangle model fits to the empirical data set better than the uniform model, there are fewer truly intransitive triads in the data than could be expected under either of the models. (C) 1997 Elsevier Science B.V.
+WOS:A1997XM03000002
+</snippet>
+</document>
+
+<document id="31">
+<title>Centrality measures for disease transmission networks</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(98)00010-0</url>
+<snippet>This paper addresses the issue of the applicability of various network measures (provided by analysis programs such as UCINET) for the analysis of a disease transmission network. A simulation was conducted to estimate HIV transmission probabilities within an empirical network of cocaine injectors. The results of the simulation were then used as a criterion to evaluate network measures of disease vulnerability and infectivity. The analysis concludes that, for the type of disease transmission network studied, relatively simple ego-network-based network measures can be adequate to the measurement of vulnerability to disease and infectivity. (C) 1999 Elsevier Science B.V. All rights reserved.
+WOS:000080763300001
+</snippet>
+</document>
+
+<document id="32">
+<title>The social structure of trust</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(98)00005-7</url>
+<snippet>This paper addresses the way in which the level of trust in cooperative relations depends on network structures. The study is an elaboration of models developed in earlier papers using iterated games [Weesie, J., Buskens, V., Raub, W., 1998. The management of trust relations via institutional and structural embeddedness. Journal of Mathematical Sociology (in press); Buskens, V., 1995. Social Networks and the Effect of Reputation on Cooperation. ISCORE Paper No. 42, Utrecht University]. We distinguish individual and group network measures. Applying a combination of approximation methods to the game-theoretic solution to the model, we derive hypotheses on the effects of density, outdegree centrality, and centralization on the level of trust a truster can have in a trustee. We conclude that higher density and outdegree induce more trust. Centralization increases trust if it is well organized, i.e., actors who can place more trust are central in the network. Furthermore, we discuss theoretical evidence that the relative importance of density compared to outdegree increases if the trust problem at the dyadic level is large. Finally, we show that, in many situations, a few simple network measures explain most of the effects of the network structure as a whole. (C) 1998 Elsevier Science B.V. All rights reserved.
+WOS:000076172600005
+</snippet>
+</document>
+
+<document id="33">
+<title>Differences in social difference: examining third party effects on relational stability</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(97)00011-7</url>
+<snippet>
+WOS:000074266900005
+</snippet>
+</document>
+
+<document id="34">
+<title>Clique structure in school class data</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(96)00296-1</url>
+<snippet>A probability model for friendship networks is introduced that is based on a random choice structure and an unknown underlying clique structure. Two different approaches for estimating the clique structure are discussed, the maximum likelihood approach and the Bayesian approach. The model is applied to data consisting of a number of friendship networks, obtained from a large study of school classes in sixth grade.
+WOS:A1997XE81300006
+</snippet>
+</document>
+
+<document id="35">
+<title>Network models for social selection processes</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(01)00029-6</url>
+<snippet>We present network models for social selection processes, based on the p* class of models. Social selection occurs when individuals form social relationships on the basis of certain characteristics they possess. Similarity is a common hypothesis for selection processes, but one that is usually framed dyadically. Structural balance approaches move beyond dyadic conceptualizations and require more sophisticated modeling. The two-block chain graph approach of p* social influence models is adapted to allow individual attribute variables to be predictors of network ties. Using a range of dependence assumptions, we present a hierarchy of increasingly complex selection models, including models for continuous attribute measures, which in their simplest form may be assumed to be linear. The models have scope, however, for more complex functional formulations so that more specific hypotheses may be investigated by postulating a particular functional form. Our empirical examples illustrate how dyadic selection may be transmuted into structural effects, and how the absence of dyadic selection may still mask a subtle higher order selection effect as individuals position" themselves within a wider social environment. In conclusion, we discuss the links between social influence and social selection models. (C) 2001 Elsevier Science B.V. All rights reserved.
+WOS:000168534500001
+</snippet>
+</document>
+
+<document id="36">
+<title>The interaction of size and density with graph-level indices</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(99)00011-8</url>
+<snippet>The size and density of graphs interact powerfully and subtly with other graph-level indices (GLIs), thereby complicating their interpretation. Here we examine these interactions by plotting changes in the distributions of several popular graph measures across graphs of varying sizes and densities. We provide a generalized framework for hypothesis testing as a means of controlling for size and density effects, and apply this method to several well-known sets of social network data; implications of our findings for methodology and substantive theory are discussed. (C) 1999 Elsevier Science B.V. All rights reserved.
+WOS:000084385700002
+</snippet>
+</document>
+
+<document id="37">
+<title>Centrality and power revisited: actor success in group decision making</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(98)00009-4</url>
+<snippet>For many years, network analysts viewed positional centrality as a source of social power. More recently, laboratory studies of exchange networks have called the centrality-power link into question: under zero-sum exchange conditions, the ability of certain actors to directly exploit others has been found to account for power independent of actors centrality. But most observers believe that in non-zero-sum communication networks, centrality should positively affect power. In this study we examine the effect of centrality on power in a communication network involving group voting on political issues. Using a model in which actors votes are determined by the strength of their initial positions and the social;pressures to which they are subjected, we conduct computer simulations to examine the extent to which actors in various network positions achieve favorable political outcomes. Our findings indicate that the link between centrality and power is highly contingent on the structure of the network. In networks with a central actor and an odd number of subgroups, central actors fail to dominate. In fact, in these networks, when peripheral actors are able to directly influence one another, the central actor becomes the least powerful in the network. In networks with a central actor and an even number of subgroups, however, the central actor dominates even in situations with connected peripherals. The highly contingent effect of centrality on power accords with the findings of exchange theorists who have studied power under zero-sum conditions. This raises questions about the nature of the distinction between communication and exchange networks. (C) 1998 Elsevier Science B.V. All rights reserved.
+WOS:000078562100004
+</snippet>
+</document>
+
+<document id="38">
+<title>A subquadratic triad census algorithm for large sparse networks with small maximum degree</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(01)00035-1</url>
+<snippet>In the paper a subquadratic (O (m), m is the number of arcs) triad census algorithm for large and sparse networks with small maximum degree is presented. The algorithm is implemented in the program Pajek. (C) 2001 Elsevier Science B.V. All rights reserved.
+WOS:000170148200005
+</snippet>
+</document>
+
+<document id="39">
+<title>Structures of power in naturally occurring communities</title>
+<url>http://dx.doi.org/</url>
+<snippet>This paper uses the sample of communes from Zablockis study [Zablocki, Benjamin, 1980. Alienation and Charisma: A Study of Contemporary American Communes. The Free Press, New York] to test formal models of how interpersonal power relations are structured. Three alternative possibilities are explored-that observed power relations are derived from a single underlying status dimension, that they are derived from a differentiated status structure, and that there is no underlying structure at all. Some communes have latent status dimensions, others do not, but none have differentiated structures. Gel-rain causes and effects of the production of such status orders are explored. (C) 1998 Elsevier Science B.V. All rights reserved.
+WOS:000076172600001
+</snippet>
+</document>
+
+<document id="40">
+<title>The sign of affection - Balance-theoretic models and incomplete signed digraphs</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(99)00012-X</url>
+<snippet>
+WOS:000084385700003
+</snippet>
+</document>
+
+<document id="41">
+<title>Integration and radiality: measuring the extent of an individual's connectedness and reachability in a network</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(97)00007-5</url>
+<snippet>This paper presents two measures, integration and radiality, which indicate the degree an individual is connected and reachable within a network. The measures are created using a reverse distance (geodesic) matrix thus providing a directed closeness measure. Integration and radiality are then correlated with other centrality measures to examine the differences and similarities between each other and these other centrality measures. We then show how integration and radiality are associated with certain demographic and substantive variables. Integration and radiality provide a new index of network structure and our results show how that structure may influence behavior. (C) 1998 Elsevier Science B.V.
+WOS:000071662800005
+</snippet>
+</document>
+
+<document id="42">
+<title>Control loss and Fayol's gangplanks</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(02)00012-6</url>
+<snippet>
+WOS:000177947300006
+</snippet>
+</document>
+
+<document id="43">
+<title>Position in formal structure, personal characteristics and choices of advisors in a law firm: A logistic regression model for dyadic network data</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(97)00006-3</url>
+<snippet>This paper presents a statistical model for the analysis of binary sociometric choice data, the p(2) model, which provides a flexible way for using explanatory variables to model network structure. It is applied to examine the influence of the formal structure of an organization on interactions among its members. It is shown to provide a general and precise method for addressing this substantive issue. We identify the respective effects of position in the formal structure (status, seniority, division of work and office membership) and selected personal characteristics of members of a corporate law firm on their choices of advisors. Flows of advice are shown to be consistently shaped by status games and the pecking order in the firm. Other dimensions help members in mitigating the effect of this strong rule. This approach ultimately provides more understanding of how members of such firms try to balance cooperation and competition in terms of access to and management of key resources. (C) 1997 Elsevier Science B.V.
+WOS:A1997XM03000005
+</snippet>
+</document>
+
+<document id="44">
+<title>Spatial arrangement of social and economic networks among villages in Nang Rong District, Thailand</title>
+<url>http://dx.doi.org/</url>
+<snippet>This paper examines the spatial arrangement of social and economic networks among villages in Nang Rong district, Thailand. We use spatial information from a geographic information system (GIS) for the district to help interpret the patterns of movement of agricultural equipment (large tractors) between villages, of people into villages for temporary labor, and of people to village temples and to elementary and secondary schools within the district. Once social networks have been incorporated into the GIS they can be mapped in relation to geographic features of the district, such as topography, landcover, and locations of roads, rivers, and villages. Not only does geographic information about village locations allow us to properly orient the graphs of these networks, bur the resulting visual displays reveal strikingly different spatial arrangements for the five networks. Networks of shared temples and elementary schools link small sets of villages in close geographic proximity whereas tractor hiring, labor movement, and secondary school networks bring together larger sets of villages and span longer distances. Information on landcover from satellite digital data provides insights into the patterns of network ties throughout the district and shows a clear relationship between tractor hiring networks and type of agricultural activity in the district. The spatial analytic capabilities of the GIS also allow us to assess the impact of the administratively defined district boundary on our measured relations and to evaluate whether rivers and perennial streams create barriers to network ties between villages. (C) 1999 Elsevier Science B.V. All rights reserved.
+WOS:000085200300001
+</snippet>
+</document>
+
+<document id="45">
+<title>Eigenvector-like measures of centrality for asymmetric relations</title>
+<url>http://dx.doi.org/10.1016/S0378-8733(01)00038-7</url>
+<snippet>Eigenvectors of adjacency matrices are useful as measures of centrality or of status. However, they are misapplied to asymmetric networks in which some positions are unchosen. For these networks, an alternative measure of centrality is suggested that equals an eigenvector when eigenvectors can be used and provides meaningfully comparable results when they cannot. (C) 2001 Elsevier Science B.V. All rights reserved.
+WOS:000170148200002
+</snippet>
+</document>
+
+<document id="46">
+<title>CONCURRENT PARTNERSHIPS AND TRANSMISSION DYNAMICS IN NETWORKS</title>
+<url>http://dx.doi.org/10.1016/0378-8733(95)00268-S</url>
+<snippet>Network structure plays a critical role in channeling person-to-person transmission of infectious disease agents like HIV. Stochastic simulations are used here to examine the effect of two structural attributes: concurrent partnerships (degree) and mixing patterns (degree-based homophily bias). Four alternative partnership scenarios are compared: (1) sequential monogamy, and concurrent partnerships with (2) random (3) assortative and (4) disassortative mixing by degree. Concurrent partnerships are found to dramatically increase the speed and pervasiveness of epidemic spread, and the implications for HIV transmission are discussed.
+WOS:A1995RZ52400009
+</snippet>
+</document>
+
+<document id="47">
+<title>Popularity structure in friendship networks</title>
+<url>http://dx.doi.org/</url>
+<snippet>A model of popularity structure in social networks is introduced where popularity is viewed as a latent attribute of the individuals in the network. The group of individuals is assumed to have a latent popularity structure, composed of individuals from different popularity groups. An individual is assumed to choose other individuals within its own group or within groups of more popular individuals. The model is illustrated using a data set where sociometric choices are measured on children in a number of school classes. (C) 1999 Elsevier Science B.V. All rights reserved.
+WOS:000085200300002
+</snippet>
+</document>
+
+</searchresult>
