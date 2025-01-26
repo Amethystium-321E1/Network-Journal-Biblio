@@ -1,0 +1,296 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Sur, S
+   Ganguly, Niloy
+   Mukherjee, Animesh
+TI Brokerage-based attack on real world temporal networks
+SO NETWORK SCIENCE
+DE temporal networks; attack tolerance; temporal brokerage
+AB In this paper, we attempt to investigate the attack tolerance of human mobility networks where the mobility is restricted to some extent, for instance, in a hospital, one is not allowed to access all locations. Similar situations also arise in schools. In such a network, we will show that people need to rely upon some intermediate agents, popularly known as the brokers to disseminate information. In order to establish this fact, we have followed the approach of attack in a network which in turn helps to identify important nodes in the network in order to maintain the overall connectivity. In this direction, we have proposed, a new temporal metric, brokerage frequency which significantly outperforms all other state-of-the-art attack strategies reported in Trajanovski et al. (2012), Sur et al. (2015).
+C1 [Sur, Souvik] Indian Inst Technol, Sch Telecommun, Kharagpur 721302, W Bengal, India.   
+[Ganguly, Niloy; Mukherjee, Animesh] Indian Inst Technol, Dept Comp Sci & Engn, Kharagpur 721302, W Bengal, India.
+RP Sur, S (corresponding author), Indian Inst Technol, Sch Telecommun, Kharagpur 721302, W Bengal, India.
+FU Royal Society University Research Fellowship
+CR Fournet J, 2014, PLOS ONE, V9, P0, DOI 10.1371/journal.pone.0107878
+   Grabowicz PA, 2012, PLOS ONE, V7, P0, DOI 10.1371/journal.pone.0029358
+   Heemskerk EM, 2013, PLOS ONE, V8, P0, DOI 10.1371/journal.pone.0068581
+   Hui P, 2011, IEEE T MOBILE COMPUT, V10, P1576, DOI 10.1109/TMC.2010.246
+   Isella L, 2011, J THEOR BIOL, V271, P166, DOI 10.1016/j.jtbi.2010.11.033
+   Jiao QJ, 2013, PLOS ONE, V8, P0, DOI 10.1371/journal.pone.0066020
+   Pietilainen AK, 2012, CRAWDAD DATA SET THL, V0, P0
+   Scellato S, 2011, IEEE INFOCOM SER, V0, PP1, DOI 10.1109/INFCOM.2011.5935006
+   Sur S, 2015, PHYSICA A, V420, P98, DOI 10.1016/j.physa.2014.08.074
+   Trajanovski S, 2012, PHYS REV E, V85, P0, DOI 10.1103/PhysRevE.85.066105
+   Vanhems P, 2013, PLOS ONE, V8, P0, DOI 10.1371/journal.pone.0073970
+NR 11
+TC 0
+Z9 0
+J9 NETWORK SCIENCE
+PD DEC
+PY 2016
+VL 4
+BP 446
+EP 459
+DI 10.1017/nws.2016.18
+PG 14
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000392128300003
+PM 
+ER
+
+PT J
+AU Harling, G
+   Onnela, Jukka-Pekka
+TI Impact of degree truncation on the spread of a contagious process on networks
+SO NETWORK SCIENCE
+DE social networks; contact networks; epidemics; truncation; spreading processes; validity; fixed choice design; network epidemiology
+AB Understanding how person-to-person contagious processes spread through a population requires accurate information on connections between population members. However, such connectivity data, when collected via interview, is often incomplete due to partial recall, respondent fatigue, or study design, e.g. fixed choice designs (FCD) truncate out-degree by limiting the number of contacts each respondent can report. Research has shown how FCD affects network properties, but its implications for predicted speed and size of spreading processes remain largely unexplored. To study the impact of degree truncation on predictions of spreading process outcomes, we generated collections of synthetic networks containing specific properties (degree distribution, degree-assortativity, clustering), and used empirical social network data from 75 villages in Karnataka, India. We simulated FCD using various truncation thresholds and ran a susceptible-infectious-recovered (SIR) process on each network. We found that spreading processes on truncated networks resulted in slower and smaller epidemics, with a sudden decrease in prediction accuracy at a level of truncation that varied by network type. Our results have implications beyond FCD to truncation due to any limited sampling from a larger network. We conclude that knowledge of network structure is important for understanding the accuracy of predictions of process spread on degree truncated networks.
+C1 [Harling, Guy] Harvard TH Chan Sch Publ Hlth, Dept Global Hlth & Populat, 655 Huntington Ave, Boston, MA 02115 USA.   
+[Onnela, Jukka-Pekka] Harvard TH Chan Sch Publ Hlth, Dept Biostat, 677 Huntington Ave, Boston, MA 02115 USA.
+RP Harling, G (corresponding author), Harvard TH Chan Sch Publ Hlth, Dept Global Hlth & Populat, 655 Huntington Ave, Boston, MA 02115 USA.
+FU [P30 AG034420]
+CR Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Blondel VD, 2015, EPJ DATA SCI, V4, P0, DOI 10.1140/epjds/s13688-015-0046-0
+   Ebbes P, 2016, INT J RES MARK, V33, P578, DOI 10.1016/j.ijresmar.2015.09.009
+   Goyal R, 2014, NETW SCI, V2, P107, DOI 10.1017/nws.2014.2
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   Staples PC, 2015, SCI REP-UK, V5, P0, DOI 10.1038/srep17581
+   Unknown -, 2013, THE DIFFUSION OF MICROFINANCE, V0, P0
+NR 7
+TC 6
+Z9 0
+U1 0.0
+U2 5.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2018
+VL 6
+BP 34
+EP 53
+DI 10.1017/nws.2017.30
+PG 20
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000427005000002
+PM 29686868
+ER
+
+PT J
+AU Henry, AD
+   Mitsche, Dieter
+   Pralat, Pawel
+TI Homophily, influence and the decay of segregation in self-organizing networks
+SO NETWORK SCIENCE
+DE network dynamics; network segregation; community structure; homophily;influence; graph theory; differential equation method; agent-based models
+AB We study the persistence of network segregation in networks characterized by the co-evolution of vertex attributes and link structures, in particular where individual vertices form linkages on the basis of similarity with other network vertices (homophily), and where vertex attributes diffuse across linkages, making connected vertices more similar over time (influence). A general mathematical model of these processes is used to examine the relative influence of homophily and influence in the maintenance and decay of network segregation in self-organizing networks. While prior work has shown that homophily is capable of producing strong network segregation when attributes are fixed, we show that adding even minute levels of influence is sufficient to overcome the tendency towards segregation even in the presence of relatively strong homophily processes. This result is proven mathematically for all large networks and illustrated through a series of computational simulations that account for additional network evolution processes. This research contributes to a better theoretical understanding of the conditions under which network segregation and related phenomenon-such as community structure-may emerge, which has implications for the design of interventions that may promote more efficient network structures.
+C1 [Henry, Adam Douglas] Univ Arizona, Sch Govt & Publ Policy, Tucson, AZ USA.   
+[Mitsche, Dieter] Univ Nice Sophia Antipolis, Lab JA Dieudonne, Parc Valrose, F-06108 Nice 02, France.   
+[Pralat, Pawel] Ryerson Univ, Dept Math, Toronto, ON, Canada.
+RP Henry, AD (corresponding author), Univ Arizona, Sch Govt & Publ Policy, Tucson, AZ USA.; Mitsche, D (corresponding author), Univ Nice Sophia Antipolis, Lab JA Dieudonne, Parc Valrose, F-06108 Nice 02, France.; Pralat, P (corresponding author), Ryerson Univ, Dept Math, Toronto, ON, Canada.
+FU U.S. National Science Foundation (NSF) [1124172]; University of
+CR Aral Sinan, 2013, NETWORK SCIENCE, V1, P125, DOI 10.1017/nws.2013.6
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Boardman JD, 2012, P NATL ACAD SCI USA, V109, P17377, DOI 10.1073/pnas.1208975109
+   Boucher V, 2015, INT ECON REV, V56, P235, DOI 10.1111/iere.12101
+   Bramoullé Y, 2012, J ECON THEORY, V147, P1754, DOI 10.1016/j.jet.2012.05.007
+   Butts CT, 2012, SNA: TOOLS FOR SOCIAL NETWORK ANALYSIS (VERSION 2.2) R PACKAGE, V0, P0
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Cooper C, 2011, RANDOM STRUCT ALGOR, V38, P396, DOI 10.1002/rsa.20318
+   Cooper C, 2014, INTERNET MATH, V10, P116, DOI 10.1080/15427951.2013.796301
+   Dandekar P, 2013, P NATL ACAD SCI USA, V110, P5791, DOI 10.1073/pnas.1217220110
+   Dietz T, 2013, P NATL ACAD SCI USA, V110, P14081, DOI 10.1073/pnas.1212740110
+   Durrett R, 2012, P NATL ACAD SCI USA, V109, P3682, DOI 10.1073/pnas.1200709109
+   Friedkin NE, 2011, SOCIAL INFLUENCE NET, V0, PP367, DOI DOI 10.1017/CBO9780511976735
+   Gerber ER, 2013, AM J POLIT SCI, V57, P598, DOI 10.1111/ajps.12011
+   Girard Y, 2015, J ECON BEHAV ORGAN, V115, P197, DOI 10.1016/j.jebo.2014.12.005
+   Golub B, 2012, REV NETW ECON, V11, P0, DOI 10.1515/1446-9022.1367
+   Henry AD, 2011, J PUBL ADM RES THEOR, V21, P419, DOI 10.1093/jopart/muq042
+   Henry AD, 2011, P NATL ACAD SCI USA, V108, P8605, DOI 10.1073/pnas.1014486108
+   Henry AD, 2011, POLICY STUD J, V39, P361, DOI 10.1111/j.1541-0072.2011.00413.x
+   Henry AD, 2013, INTERNET MATH, V9, P33, DOI 10.1080/15427951.2012.678157
+   Jackson MO, 2013, NETWORK SCIENCE, V1, P49, DOI 10.1017/nws.2012.7
+   Jackson MO, 2014, J ECON PERSPECT, V28, P3, DOI 10.1257/jep.28.4.3
+   Janson S, 2011, WIL INT S D, V0, P0, DOI 10.1002/9781118032718
+   Kleinbaum AM, 2013, ORGAN SCI, V24, P1316, DOI 10.1287/orsc.1120.0804
+   Lewis K, 2012, P NATL ACAD SCI USA, V109, P68, DOI 10.1073/pnas.1109739109
+   Unknown -, 2012, R: A LANGUAGE AND ENVIRONMENT FOR STATISTICAL COMPUTING, V0, P0
+NR 26
+TC 1
+Z9 0
+U1 0.0
+U2 12.0
+J9 NETWORK SCIENCE
+PD DEC
+PY 2016
+VL 4
+BP 81
+EP 116
+DI 10.1017/nws.2016.1
+PG 36
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000373401500004
+PM 
+ER
+
+PT J
+AU Barabasi, AL
+TI Network Science
+SO NETWORK SCIENCE
+CR Ahn YY, 2011, SCI REP-UK, V1, P0, DOI 10.1038/srep00196
+   Aral S, 2011, MANAGE SCI, V57, P1623, DOI 10.1287/mnsc.1110.1421
+   Backstrom L, 2012, PROCEEDINGS OF THE 3RD ANNUAL ACM WEB SCIENCE CONFERENCE, V0, P33
+   Bajardi P, 2011, PLOS ONE, V6, P0, DOI 10.1371/journal.pone.0016591
+   Bakshy E, 2011, P FORTH INT C WEB SE, V0, PP65, DOI [10.1145/1935826.1935845, DOI 10.1145/1935826.1935845, 10.1145/1935826, DOI 10.1145/1935826]
+   Barabási AL, 2011, NAT REV GENET, V12, P56, DOI 10.1038/nrg2918
+   Barabási AL, 2012, NATURE, V489, P507, DOI 10.1038/nature11486
+   Barabási AL, 2012, NATURE, V491, P40, DOI 10.1038/491040a
+   Barrat A, 2012, DYNAMICAL PROCESSES, V0, P0
+   Barzel B, 2013, NAT PHYS, V9, P673, DOI [10.1038/NPHYS2741, 10.1038/nphys2741]
+   Bauke H, 2011, EUR PHYS J B, V83, P519, DOI 10.1140/epjb/e2011-20346-0
+   Berger J, 2012, J MARKETING RES, V49, P192, DOI 10.1509/jmr.10.0353
+   Brockmann D, 2013, SCIENCE, V342, P1337, DOI 10.1126/science.1245200
+   Chen MM, 2014, IEEE T COMPUT SOC SY, V1, P46, DOI 10.1109/TCSS.2014.2307458
+   Christakis NA, 2011, CONNECTED SURPRISING, V0, P0
+   Comin CH, 2011, PHYS REV E, V84, P0, DOI 10.1103/PhysRevE.84.056105
+   Cooper C, 2011, RANDOM STRUCT ALGOR, V38, P396, DOI 10.1002/rsa.20318
+   Del Genio CI, 2011, PHYS REV LETT, V107, P0, DOI 10.1103/PhysRevLett.107.178701
+   Droitcour B, 2014, ART AM, V102, P92
+   Ellis BK, 2011, P NATL ACAD SCI USA, V108, P1070, DOI 10.1073/pnas.1013006108
+   Eom YH, 2011, PLOS ONE, V6, P0, DOI 10.1371/journal.pone.0024926
+   Fioriti Vincenzo, 2012, APPLIED MATHEMATICAL SCIENCES, V0, P0
+   Fleurquin P, 2013, SCI REP-UK, V3, P0, DOI 10.1038/srep01159
+   Ghoshal T, 2013, SCI REP-UK, V3, P0, DOI 10.1038/srep02772
+   Grabowicz PA, 2012, PLOS ONE, V7, P0, DOI 10.1371/journal.pone.0029358
+   Haldane AG, 2011, NATURE, V469, P0, DOI 10.1038/nature09659
+   Helbing D, 2013, NATURE, V497, P51, DOI 10.1038/nature12047
+   Hric D, 2014, PHYS REV E, V90, P0, DOI 10.1103/PhysRevE.90.062805
+   Isella L, 2011, J THEOR BIOL, V271, P166, DOI 10.1016/j.jtbi.2010.11.033
+   Kahng AB, 2011, VLSI PHYSICAL DESIGN: FROM GRAPH PARTITIONING TO TIMING CLOSURE, V0, PP1, DOI 10.1007/978-90-481-9591-6
+   Karsai M, 2011, PHYS REV E, VE83, P0
+   Kuhn T, 2012, THE STRUCTURE OF SCIENTIFIC REVOLUTIONS, V0, P0
+   Lokhov AY, 2014, PHYS REV E, V90, P0, DOI 10.1103/PhysRevE.90.012801
+   Masuda Naoki, 2013, F1000PRIME REP, V5, P6, DOI 10.12703/P5-6
+   Medo M, 2011, PHYS REV LETT, V107, P0, DOI 10.1103/PhysRevLett.107.238701
+   Meirelles Isabel, 2013, DESIGN FOR INFORMATION, V0, P0
+   Moll VH, 2012, NUMBERS FUNCTIONS CL, V0, P0
+   Mones E, 2012, PLOS ONE, V7, P0, DOI 10.1371/journal.pone.0033799
+   Normile D, 2013, SCIENCE, V339, P1269, DOI 10.1126/science.339.6125.1272
+   Obrist HU, 2014, MAPPING IT OUT: AN ALTERNATIVE ATLAS OF CONTEMPORARY CARTOGRAPHIES, V0, P0
+   Oh SW, 2014, NATURE, V508, P207, DOI 10.1038/nature13186
+   Papadopoulos F, 2012, NATURE, V489, P537, DOI 10.1038/nature11459
+   Pinto PC, 2012, PHYS REV LETT, V109, P0, DOI 10.1103/PhysRevLett.109.068702
+   Prakash BA, 2012, IEEE DATA MINING, V0, PP11, DOI 10.1109/ICDM.2012.136
+   Pósfai M, 2013, SCI REP-UK, V3, P0, DOI 10.1038/srep01067
+   Roukny T, 2013, SCI REP-UK, V3, P0, DOI 10.1038/srep02759
+   Schneider CM, 2013, SCI REP-UK, V3, P0, DOI 10.1038/srep01969
+   Shah D, 2011, IEEE T INFORM THEORY, V57, P5163, DOI 10.1109/TIT.2011.2158885
+   Simini F, 2012, NATURE, V484, P96, DOI 10.1038/nature10856
+   Stauffer D, 2018, INTRODUCTION TO PERCOLATION THEORY, V0, P0
+   Stehlé J, 2011, PLOS ONE, V6, P0, DOI 10.1371/journal.pone.0023176
+   Tedeschi G, 2012, PLOS ONE, V7, P0, DOI 10.1371/journal.pone.0052749
+   Tizzoni M, 2012, BMC MED, V10, P0, DOI 10.1186/1741-7015-10-165
+   Ugander J, 2011, THE ANATOMY OF THE FACEBOOK SOCIAL GRAPH, V0, P1
+   Unknown -, 2012, PHYS REP, V0, P0
+   Wacker D, 2013, SCIENCE, V340, P615, DOI 10.1126/science.1232808
+   Weng L, 2012, SCI REP-UK, V2, P1, DOI 10.1038/srep00335
+   Weng L, 2013, SCI REP-UK, V3, P0, DOI [10.1038/srep02304, 10.1038/srep02522]
+   Zhao K, 2011, PHYS REV E, V83, P0, DOI 10.1103/PhysRevE.83.056109
+   Zhu K, 2013, 2013 INFORMATION THEORY AND APPLICATIONS WORKSHOP (ITA), V0, P0
+NR 60
+TC 901
+Z9 0
+U1 4.0
+U2 10.0
+J9 NETWORK SCIENCE
+PD 
+PY 2016
+VL 
+BP 1
+EP 456
+PG 456
+SC COMPUTER SCIENCE
+UT WOS:000402245700013
+PM 
+ER
+
+PT J
+AU Anderson, KA
+TI A model of collaboration network formation with heterogeneous skills
+SO NETWORK SCIENCE
+DE theoretical models; network formation; degree distribution;collaboration; science of science; individual heterogeneity;knowledge-based production
+AB Collaboration networks provide a method for examining the highly heterogeneous structure of collaborative communities. However, we still have limited theoretical understanding of how individual heterogeneity relates to network heterogeneity. The model presented here provides a framework linking an individuals skill set to her position in the collaboration network, and the distribution of skills in the population to the structure of the collaboration network as a whole. This model suggests that there is a non-trivial relationship between skills and network position: individuals with a useful combination of skills will have a disproportionate number of links in the network. Indeed, in some cases, an individuals degree is non-monotonic in the number of skills she has-an individual with very few skills may outperform an individual with many. Special cases of the model suggest that the degree distribution of the network will be skewed, even when the distribution of skills is uniform in the population. The degree distribution becomes more skewed as problems become more difficult, leading to a community dominated by a few high-degree superstars. This has striking implications for labor market outcomes in industries where production is largely the result of collaborative effort.
+C1 [Anderson, Katharine A.] Carnegie Mellon Univ, Tepper Sch Business, 5000 Forbes Ave, Pittsburgh, PA 15213 USA.
+RP Anderson, KA (corresponding author), Carnegie Mellon Univ, Tepper Sch Business, 5000 Forbes Ave, Pittsburgh, PA 15213 USA.
+CR Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Åstebro T, 2011, RES POLICY, V40, P637, DOI 10.1016/j.respol.2011.01.010
+NR 2
+TC 3
+Z9 0
+U1 0.0
+U2 9.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2016
+VL 4
+BP 188
+EP 215
+DI 10.1017/nws.2015.33
+PG 28
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000376791800003
+PM 
+ER
+
+PT J
+AU Brot, H
+   Muchnik, Lev
+   Goldenberg, Jacob
+   Louzoun, Yoram
+TI Evolution through bursts: Network structure develops through localized bursts in time and space
+SO NETWORK SCIENCE
+DE homophily; simultaneous events; individual traits; coupling; bursts;network dynamics; livejournal; triadic closure; feedback
+AB Models of network evolution are based on the implicit assumption that network growth is continuous, uniform, and steady. Using the data collected from a large online-blogging platform, we show that the addition and removal of network ties by users do not occur sporadically at isolated nodes spread all over the network, as assumed by the vast majority of stochastic network models, but rather occur in brief bursts of intense local activity. These bursts of network growth and attrition (addition and removal of network ties) are highly localized around focal nodes. Such network changes coincide with nearly instantaneous densification of the ties between the affected nodes, resulting in an increase of local clustering. Furthermore, we find that these network changes are tightly coupled to the dynamics of individual attributes, particularly the increase in homology between neighboring nodes (homophily) within the scope of the burst. Coincidence of the localized network change with the increase in homophily suggests a strong coupling between the selection and influence processes that lead to simultaneous elevation of assortativity and clustering.
+C1 [Brot, Hilla] Boston Univ, Ctr Polymer Studies, Boston, MA 02215 USA.   
+[Brot, Hilla] Boston Univ, Dept Phys, 590 Commonwealth Ave, Boston, MA 02215 USA.   
+[Brot, Hilla] Northwestern Univ, Kellogg Sch Management, Evanston, IL 60208 USA.   
+[Muchnik, Lev] Hebrew Univ Jerusalem, Sch Business Adm, IL-91905 Jerusalem, Israel.   
+[Goldenberg, Jacob] IDC Herzliya, Sch Business Adm, IL-46150 Herzliyya, Israel.   
+[Louzoun, Yoram] Bar Ilan Univ, Dept Math, IL-52900 Ramat Gan, Israel.   
+[Louzoun, Yoram] Bar Ilan Univ, Gonda Brain Res Ctr, IL-52900 Ramat Gan, Israel.
+RP Brot, H (corresponding author), Boston Univ, Ctr Polymer Studies, Boston, MA 02215 USA.; Brot, H (corresponding author), Boston Univ, Dept Phys, 590 Commonwealth Ave, Boston, MA 02215 USA.; Brot, H (corresponding author), Northwestern Univ, Kellogg Sch Management, Evanston, IL 60208 USA.
+CR Aiello LM, 2012, ACM T WEB, V6, P0, DOI 10.1145/2180861.2180866
+   Aral S, 2013, NETWORK SCI, V1, P1
+   Brot H, 2012, PHYSICA A, V391, P6645, DOI 10.1016/j.physa.2012.07.051
+   Brot H, 2015, EUR PHYS J B, V88, P0, DOI 10.1140/epjb/e2014-50220-4
+   Centola D, 2015, SOC SCI MED, V125, P19, DOI 10.1016/j.socscimed.2014.05.019
+   Figueiredo F, 2014, ACM T INTERNET TECHN, V14, P0, DOI 10.1145/2665065
+   Fu F, 2012, SCI REP-UK, V2, P0, DOI 10.1038/srep00845
+   Gabel A, 2013, J STAT MECH-THEORY E, V0, P0, DOI 10.1088/1742-5468/2013/02/P02043
+   Gallos LK, 2012, PHYS REV X, V2, P0, DOI 10.1103/PhysRevX.2.031014
+   Golosovsky M, 2012, PHYS REV LETT, V109, P0, DOI 10.1103/PhysRevLett.109.098701
+   Grund T, 2014, WILEY SER COMPU QUAN, V0, P299
+   Kämpf M, 2012, PHYSICA A, V391, P6101, DOI 10.1016/j.physa.2012.07.004
+   Min Byungjoon, 2013, TEMPORAL NETWORKS, V0, P41
+   Muchnik L, 2013, SCI REP-UK, V3, P0, DOI 10.1038/srep01783
+   Papadopoulos F, 2012, NATURE, V489, P537, DOI 10.1038/nature11459
+   Perc M, 2014, J R SOC INTERFACE, V11, P0, DOI 10.1098/rsif.2014.0378
+   Sayama H, 2013, COMPUT MATH APPL, V65, P1645, DOI 10.1016/j.camwa.2012.12.005
+   Unknown -, 2014, P 23 INT C WORLD WID, V0, P0
+NR 18
+TC 3
+Z9 0
+U1 0.0
+U2 4.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2016
+VL 4
+BP 293
+EP 313
+DI 10.1017/nws.2016.13
+PG 21
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000383885200002
+PM 
+ER
+

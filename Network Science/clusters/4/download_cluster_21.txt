@@ -1,0 +1,539 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Jeub, LGS
+   Mahoney, Michael W
+   Mucha, Peter J
+   Porter, Mason A
+TI A local perspective on community structure in multilayer networks
+SO NETWORK SCIENCE
+DE community structure; clustering; multilayer networks; random walks;network community profiles; spectral graph theory; personalized pagerank
+AB The analysis of multilayer networks is among the most active areas of network science, and there are several methods to detect dense "communities" of nodes in multilayer networks. One way to define a community is as a set of nodes that trap a diffusion-like dynamical process (usually a random walk) for a long time. In this view, communities are sets of nodes that create bottlenecks to the spreading of a dynamical process on a network. We analyze the local behavior of different random walks on multiplex networks (which are multilayer networks in which different layers correspond to different types of edges) and show that they have very different bottlenecks, which correspond to rather different notions of what it means for a set of nodes to be a good community. This has direct implications for the behavior of community-detection methods that are based on these random walks.
+C1 [Jeub, Lucas G. S.; Porter, Mason A.] Univ Oxford, Math Inst, Oxford Ctr Ind & Appl Math, Oxford OX2 6GG, England.   
+[Jeub, Lucas G. S.] Indiana Univ, Ctr Complex Networks & Syst Res, Sch Informat & Comp, Bloomington, IN 47408 USA.   
+[Mahoney, Michael W.] Int Comp Sci Inst, Berkeley, CA 94704 USA.   
+[Mahoney, Michael W.] Univ Calif Berkeley, Dept Stat, Berkeley, CA 94720 USA.   
+[Mucha, Peter J.] Univ N Carolina, Dept Math, Carolina Ctr Interdisciplinary Appl Math, Chapel Hill, NC 27599 USA.   
+[Porter, Mason A.] Univ Oxford, CABDyN Complex Ctr, Oxford OX1 1HP, England.   
+[Porter, Mason A.] Univ Calif Los Angeles, Dept Math, Los Angeles, CA 90095 USA.
+RP Jeub, LGS (corresponding author), Univ Oxford, Math Inst, Oxford Ctr Ind & Appl Math, Oxford OX2 6GG, England.; Jeub, LGS (corresponding author), Indiana Univ, Ctr Complex Networks & Syst Res, Sch Informat & Comp, Bloomington, IN 47408 USA.
+FU EPSRC [BK/10/039, EP/J001759/1]; James S. McDonnell Foundation 21st
+CR Boccaletti S, 2014, PHYS REP, V544, P1, DOI 10.1016/j.physrep.2014.07.001
+   Cardillo A, 2013, SCI REP-UK, V3, P0, DOI 10.1038/srep01344
+   Cranmer SJ, 2015, P NATL ACAD SCI USA, V112, P11812, DOI 10.1073/pnas.1509423112
+   Csermely P, 2013, J COMPLEX NETW, V1, P93, DOI 10.1093/comnet/cnt016
+   De Domenico M, 2014, P NATL ACAD SCI USA, V111, P8351, DOI 10.1073/pnas.1318469111
+   De Domenico M, 2015, PHYS REV X, V5, P0, DOI 10.1103/PhysRevX.5.011027
+   De Domenico M, 2016, NAT PHYS, V12, P901, DOI 10.1038/nphys3865
+   Fortunato S, 2016, PHYS REP, V659, P1, DOI 10.1016/j.physrep.2016.09.002
+   Ghosh R, 2014, PROCEEDINGS OF THE 20TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD14), V0, PP1406, DOI 10.1145/2623330.2623738
+   Gleich DF, 2015, SIAM REV, V57, P321, DOI 10.1137/140976649
+   Gleich DF, 2016, EUR J APPL MATH, V27, P812, DOI 10.1017/S0956792516000280
+   Hmimida M, 2015, NETW HETEROG MEDIA, V10, P71, DOI 10.3934/nhm.2015.10.71
+   Holme P, 2012, PHYS REP, V519, P97, DOI 10.1016/j.physrep.2012.03.001
+   Holme P, 2015, EUR PHYS J B, V88, P0, DOI 10.1140/epjb/e2015-60657-4
+   Jaewon Yang, 2015, KNOWLEDGE AND INFORMATION SYSTEMS, V42, P181, DOI 10.1007/s10115-013-0693-z
+   Jeub LGS, 2015, PHYS REV E, V91, P0, DOI 10.1103/PhysRevE.91.012821
+   Kanawati Rushed, 2014, SOCIAL COMPUTING AND SOCIAL MEDIA. 6TH INTERNATIONAL CONFERENCE, V0, P0, DOI 10.1007/978-3-319-07632-4, 19
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Kloumann I, 2016, ARXIV160703483, V0, P0
+   Kuncheva Z, 2015, PROCEEDINGS OF THE 2015 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2015), V0, PP1308, DOI 10.1145/2808797.2808852
+   Lambiotte R, 2012, PHYS REV E, V85, P0, DOI 10.1103/PhysRevE.85.056107
+   Peixoto TP, 2015, PHYS REV E, V92, P0, DOI 10.1103/PhysRevE.92.042807
+   Rosvall M, 2014, NAT COMMUN, V5, P0, DOI 10.1038/ncomms5630
+   Salehi M, 2015, IEEE T NETW SCI ENG, V2, P65, DOI 10.1109/TNSE.2015.2425961
+   Unknown -, 2016, PEERJ COMP. SCI, V0, P0
+   Whang JJ, 2016, IEEE T KNOWL DATA EN, V28, P1272, DOI 10.1109/TKDE.2016.2518687
+NR 26
+TC 37
+Z9 0
+U1 1.0
+U2 18.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2017
+VL 5
+BP 144
+EP 163
+DI 10.1017/nws.2016.22
+PG 20
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000402960800002
+PM 
+ER
+
+PT J
+AU Sohn, Y
+   Park, Jong Hee
+TI Bayesian approach to multilayer stochastic blockmodel and network changepoint detection
+SO NETWORK SCIENCE
+DE multilayer network; stochastic blockmodel; network changepoint detection; tensor decomposition; network time series; hidden markov model
+AB Network scholars commonly encounter multiple networks, each of which is possibly governed by distinct generation rules while sharing a node group structure. Although the stochastic blockmodeling-detecting such latent group structures with group-specific connection profiles- has been a major topic of recent research, the focus has been given to the assortative group discovery of a single network. Despite its universality, concepts, and techniques for simultaneous characterization of node traits of multilayer networks, constructed by stacking multiple networks into layers, have been limited. Here, we propose a Bayesian multilayer stochastic blockmodeling framework that uncovers layer-common node traits and factors associated with layer-specific network generating functions. Without assuming a priori layerspecific generation rules, our fully Bayesian treatment allows probabilistic inference of latent traits. We extend the approach to detect changes in block structures embedded in temporal layers of network time series. We demonstrate the method using synthetic multilayer networks with assortative, disassortative, core-periphery, and overlapping community structures. Finally, we apply the method to empirical social network datasets, and find that it detects significant latent traits and structural changepoints. In particular, we uncover endogenous historical regimes associated with distinct constellations of states in United States Senate roll call vote similarity patterns.
+C1 [Sohn, Yunkyu] Princeton Univ, Dept Polit, Princeton, NJ 08540 USA.   
+[Sohn, Yunkyu] Univ Calif San Diego, Dept Polit Sci, La Jolla, CA 92093 USA.   
+[Park, Jong Hee] Seoul Natl Univ, Dept Polit Sci & Int Relat, Seoul 151742, South Korea.
+RP Sohn, Y (corresponding author), Princeton Univ, Dept Polit, Princeton, NJ 08540 USA.; Sohn, Y (corresponding author), Univ Calif San Diego, Dept Polit Sci, La Jolla, CA 92093 USA.
+FU Next-Generation Information Computing Development Program through the
+CR Akoglu L, 2015, DATA MIN KNOWL DISC, V29, P626, DOI 10.1007/s10618-014-0365-y
+   Araujo M, 2014, PAC AS C KNOWL DISC, V8444, P271, DOI 10.1007/978-3
+   Boccaletti S, 2014, PHYS REP, V544, P1, DOI 10.1016/j.physrep.2014.07.001
+   Chaudhuri K, 2012, P MACHINE LEARNING R, V0, P0
+   Fishkind DE, 2013, SIAM J MATRIX ANAL A, V34, P23, DOI 10.1137/120875600
+   Gopalan PK, 2013, P NATL ACAD SCI USA, V110, P14534, DOI 10.1073/pnas.1221839110
+   Han QY, 2015, PR MACH LEARN RES, V37, P1511
+   Holme P, 2012, PHYS REP, V519, P97, DOI 10.1016/j.physrep.2012.03.001
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Krzakala F, 2013, P NATL ACAD SCI USA, V110, P20935, DOI 10.1073/pnas.1312486110
+   Lei J, 2015, ANN STAT, V43, P215, DOI 10.1214/14-AOS1274
+   Magnani M, 2013, PREPRINT, V0, P0
+   Nadakuditi RR, 2013, PHYS REV E, V87, P0, DOI 10.1103/PhysRevE.87.012803
+   Newman MEJ, 2013, PHYS REV E, V88, P0, DOI 10.1103/PhysRevE.88.042822
+   Paul S, 2016, ELECTRON J STAT, V10, P3807, DOI 10.1214/16-EJS1211
+   Peel L, 2015, AAAI CONF ARTIF INTE, V0, P2914
+   Peixoto TP, 2013, PHYS REV LETT, V111, P0, DOI 10.1103/PhysRevLett.111.098701
+   Peixoto TP, 2015, PHYS REV E, V92, P0, DOI 10.1103/PhysRevE.92.042807
+   Riolo MA, 2014, J COMPLEX NETW, V2, P121, DOI 10.1093/comnet/cnt021
+   Stanley N, 2016, IEEE T NETW SCI ENG, V3, P95, DOI 10.1109/TNSE.2016.2537545
+   Sussman DL, 2012, J AM STAT ASSOC, V107, P1119, DOI 10.1080/01621459.2012.699795
+   Ward MD, 2013, NETW SCI, V1, P95, DOI [DOI 10.1017/NWS.2013.1, 10.1017/nws.2013.1]
+NR 22
+TC 5
+Z9 0
+U1 0.0
+U2 9.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2017
+VL 5
+BP 164
+EP 186
+DI 10.1017/nws.2017.13
+PG 23
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000402960800003
+PM 
+ER
+
+PT J
+AU Armbruster, B
+   Wang, Li
+   Morris, Martina
+TI Forward reachable sets: Analytically derived properties of connected components for dynamic networks
+SO NETWORK SCIENCE
+DE networks; dynamic network; network transmission; reachable set;reachability; epidemic size
+AB Formal analysis of the emergent structural properties of dynamic networks is largely uncharted territory. We focus here on the properties of forward reachable sets (FRS) as a function of the underlying degree distribution and edge duration. FRS are defined as the set of nodes that can be reached from an initial seed via a path of temporally ordered edges; a natural extension of connected component measures to dynamic networks. Working in a stochastic framework, we derive closed-form expressions for the mean and variance of the exponential growth rate of the FRS for temporal networks with both edge and node dynamics. For networks with node dynamics, we calculate thresholds for the growth of the FRS. The effects of finite population size are explored via simulation and approximation. We examine how these properties vary by edge duration and different cross-sectional degree distributions that characterize a range of scientifically interesting normative outcomes (Poisson and Bernoulli). The size of the forward reachable set gives an upper bound for the epidemic size in disease transmission network models, relating this work to epidemic modeling (Ferguson, 2000; Eames, 2004).
+C1 [Armbruster, Benjamin] Northwestern Univ, Ind Engn & Management Sci, Evanston, IL 60208 USA.   
+[Wang, Li; Morris, Martina] Univ Washington, Stat, Seattle, WA 98195 USA.
+RP Armbruster, B (corresponding author), Northwestern Univ, Ind Engn & Management Sci, Evanston, IL 60208 USA.
+FU U.S. Department of Defense [W911NF-15-1-0502]
+CR Bender-deMoll S, 2015, TSNA TOOLS TEMPORAL, V0, P0
+   Britton T, 2014, B MATH BIOL, V76, P985, DOI 10.1007/s11538-014-9942-x
+   Eaton JW, 2014, P NATL ACAD SCI USA, V111, P16202, DOI 10.1073/pnas.1323007111
+   Goodreau SM, 2012, AIDS BEHAV, V16, P312, DOI 10.1007/s10461-010-9858-x
+   Holme P, 2012, PHYS REP, V519, P97, DOI 10.1016/j.physrep.2012.03.001
+   KARLIN S, 2012, 1 COURSE STOCHASTIC, V0, P0
+   Leung KY, 2012, THEOR POPUL BIOL, V82, P229, DOI 10.1016/j.tpb.2012.07.001
+   Leung KY, 2015, AIDS, V29, P1097, DOI 10.1097/QAD.0000000000000676
+   Leung KY, 2015, J MATH BIOL, V71, P1, DOI 10.1007/s00285-014-0808-5
+   Miller JC, 2012, J R SOC INTERFACE, V9, P890, DOI 10.1098/rsif.2011.0403
+   Nicosia V, 2012, CHAOS, V22, P0, DOI 10.1063/1.3697996
+NR 11
+TC 7
+Z9 0
+U1 0.0
+U2 5.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2017
+VL 5
+BP 328
+EP 354
+DI 10.1017/nws.2017.10
+PG 27
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000408564600005
+PM 36061102
+ER
+
+PT J
+AU Omodei, E
+   De domenico, Manlio
+   Arenas, Alex
+TI Evaluating the impact of interdisciplinary research: A multilayer network approach
+SO NETWORK SCIENCE
+DE citation networks; interconnected multilayer networks;interdisciplinarity
+AB Nowadays, scientific challenges usually require approaches that cross traditional boundaries between academic disciplines, driving many researchers towards interdisciplinarity. Despite its obvious importance, there is a lack of studies on how to quantify the influence of interdisciplinarity on the research impact, posing uncertainty in a proper evaluation for hiring and funding purposes. Here, we propose a method based on the analysis of bipartite interconnected multilayer networks of citations and disciplines, to assess scholars, institutions, and countries interdisciplinary importance. Using data about physics publications and US patents, we show that our method allows to reward, using a quantitative approach, scholars and institutions that have carried out interdisciplinary work and have had an impact in different scientific areas. The proposed method could be used by funding agencies, universities and scientific policy decision makers for hiring and funding purposes, and to complement existing methods to rank universities and countries.
+C1 [Omodei, Elisa; De Domenico, Manlio; Arenas, Alex] Rovira i Virgili Univ, Dept Math & Comp Sci, Av Paisos Catalans 26, Tarragona 43007, Spain.
+RP Omodei, E (corresponding author), Rovira i Virgili Univ, Dept Math & Comp Sci, Av Paisos Catalans 26, Tarragona 43007, Spain.
+FU Spanish government [FIS2015-38266]; Spanish program Juan de la Cierva
+CR De Domenico M, 2013, PHYS REV X, V3, P0, DOI 10.1103/PhysRevX.3.041022
+   De Domenico M, 2015, NAT COMMUN, V6, P0, DOI 10.1038/ncomms7868
+   Deville P, 2014, SCI REP-UK, V4, P0, DOI 10.1038/srep04770
+   Jensen P, 2014, SCIENTOMETRICS, V98, P619, DOI 10.1007/s11192-013-1129-y
+   Kaur J, 2013, J INFORMETR, V7, P924, DOI 10.1016/j.joi.2013.09.002
+   Ke Q, 2015, P NATL ACAD SCI USA, V112, P7426, DOI 10.1073/pnas.1424329112
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Larivière V, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0122565
+   Li YR, 2013, J INFORMETR, V7, P746, DOI 10.1016/j.joi.2013.06.001
+   Pan L, 2015, A REVIEW OF THE UKS INTERDISCIPLINARY RESEARCH USING A CITATIONBASED APPROACH: REPORT TO THE UK HE FUNDING BODIES AND MRC, V0, P0
+   Penner O, 2013, SCI REP-UK, V3, P0, DOI 10.1038/srep03052
+   Sinatra R, 2015, NAT PHYS, V11, P791, DOI 10.1038/nphys3494
+   Unknown -, 2015, NATURE, V525, P289, DOI 10.1038/525289b
+   Uzzi B, 2013, SCIENCE, V342, P468, DOI 10.1126/science.1240474
+   Wang DS, 2013, SCIENCE, V342, P127, DOI 10.1126/science.1237825
+   Wang J, 2013, SCIENTOMETRICS, V94, P851, DOI 10.1007/s11192-012-0775-9
+   Zhang Q, 2013, SCI REP-UK, V3, P0, DOI 10.1038/srep01640
+NR 17
+TC 22
+Z9 0
+U1 1.0
+U2 35.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2017
+VL 5
+BP 235
+EP 246
+DI 10.1017/nws.2016.15
+PG 12
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000402960800006
+PM 
+ER
+
+PT J
+AU Cape, J
+   Minh Tang
+   Priebe, Carey E
+TI On spectral embedding performance and elucidating network structure in stochastic blockmodel graphs
+SO NETWORK SCIENCE
+DE stochastic blockmodel; laplacian matrix; adjacency matrix; spectral embedding; network structure; core-periphery; chernoff information
+AB Statistical inference on graphs often proceeds via spectral methods involving low-dimensional embeddings of matrix-valued graph representations such as the graph Laplacian or adjacency matrix. In this paper, we analyze the asymptotic information-theoretic relative performance of Laplacian spectral embedding and adjacency spectral embedding for block assignment recovery in stochastic blockmodel graphs by way of Chernoff information. We investigate the relationship between spectral embedding performance and underlying network structure (e.g., homogeneity, affinity, core-periphery, and (un)balancedness) via a comprehensive treatment of the two-block stochastic blockmodel and the class of K-blockmodels exhibiting homogeneous balanced affinity structure. Our findings support the claim that, for a particular notion of sparsity, loosely speaking, "Laplacian spectral embedding favors relatively sparse graphs, whereas adjacency spectral embedding favors not-too-sparse graphs." We also provide evidence in support of the claim that "adjacency spectral embedding favors core-periphery network structure."
+C1 [Cape, Joshua] Univ Michigan, Dept Stat, 1085 South Univ Ave,323 West Hall, Ann Arbor, MI 48109 USA.   
+[Minh Tang] North Carolina State Univ, Dept Stat, 2311 Stinson Dr,5109 SAS Hall,Campus Box 8203, Raleigh, NC 27695 USA.   
+[Priebe, Carey E.] Johns Hopkins Univ, Dept Appl Math & Stat, 3400 North Charles St,Whitehead Mall 100, Baltimore, MD 21218 USA.
+RP Cape, J (corresponding author), Univ Michigan, Dept Stat, 1085 South Univ Ave,323 West Hall, Ann Arbor, MI 48109 USA.
+FU XDATA program of the Defense Advanced Research Projects Agency (DARPA);
+CR Abbe E, 2018, J MACH LEARN RES, V18, P0
+   Athreya A, 2016, SANKHYA SER A, V78, P1
+   Athreya A, 2018, J MACH LEARN RES, V18, P0
+   Jeub LGS, 2015, PHYS REV E, V91, P0, DOI 10.1103/PhysRevE.91.012821
+   Lei J, 2015, ANN STAT, V43, P215, DOI 10.1214/14-AOS1274
+   Lyzinski V, 2017, IEEE T NETW SCI ENG, V4, P13, DOI 10.1109/TNSE.2016.2634322
+   Priebe CE, 2019, P NATL ACAD SCI USA, V116, P5995, DOI 10.1073/pnas.1814462116
+   Rubin-Delanchy P, 2017, ARXIV170905506, V0, P0
+   Sarkar P, 2015, ANN STAT, V43, P962, DOI 10.1214/14-AOS1285
+   Sussman DL, 2014, J AM STAT ASSOC, V107, P1119
+   Tang M, 2017, BERNOULLI, V23, P1599, DOI 10.3150/15-BEJ789
+   Tang M, 2017, J COMPUT GRAPH STAT, V26, P344, DOI 10.1080/10618600.2016.1193505
+   Tang M, 2018, ANN STAT, V46, P2360, DOI 10.1214/17-AOS1623
+   Zhang X, 2015, PHYS REV E, V91, P0, DOI 10.1103/PhysRevE.91.032803
+NR 14
+TC 11
+Z9 0
+U1 1.0
+U2 6.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2019
+VL 7
+BP 269
+EP 291
+DI 10.1017/nws.2019.23
+PG 23
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000491273900001
+PM 
+ER
+
+PT J
+AU Magnani, M
+   Wasserman, Stanley
+TI Introduction to the special issue on multilayer networks
+SO NETWORK SCIENCE
+C1 [Magnani, Matteo] Uppsala Univ, Comp Sci Div, IT Dept, Uppsala, Sweden.   
+[Wasserman, Stanley] Indiana Univ, Dept Psychol & Brain Sci, Bloomington, IN 47405 USA.   
+[Wasserman, Stanley] Indiana Univ, Dept Stat, Bloomington, IN 47405 USA.   
+[Wasserman, Stanley] Natl Res Univ, Higher Sch Econ, Moscow, Russia.
+RP Magnani, M (corresponding author), Uppsala Univ, Comp Sci Div, IT Dept, Uppsala, Sweden.
+FU Budapest Kozep-Europai Egyetem Alapitvany (CEU BPF); Department of
+CR DAgostino G, 2014, UNDERST COMPLEX SYST, V0, PVII
+   Dickison M, 2012, PHYS REV E, V85, P0, DOI 10.1103/PhysRevE.85.066109
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Lazega E, 2016, MULTILEVEL NETWORK ANALYSIS FOR THE SOCIAL SCIENCES: THEORY, V0, P0
+   Sun Y, 2012, MINING HETEROGENEOUS INFORMATION NETWORKS: PRINCIPLES AND METHODOLOGIES, V0, P0, DOI DOI 10.1007/978-3-031-01902-9
+NR 5
+TC 10
+Z9 0
+U1 0.0
+U2 6.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2017
+VL 5
+BP 141
+EP 143
+DI 10.1017/nws.2017.15
+PG 3
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000402960800001
+PM 
+ER
+
+PT J
+AU Komolafe, T
+   Quevedo, A Valeria
+   Sengupta, Srijan
+   Woodall, William H
+TI Statistical evaluation of spectral methods for anomaly detection in static networks
+SO NETWORK SCIENCE
+DE residual matrix; spectral methods; r-mat model; principal components
+AB The topic of anomaly detection in networks has attracted a lot of attention in recent years, especially with the rise of connected devices and social networks. Anomaly detection spans a wide range of applications, from detecting terrorist cells in counter-terrorism efforts to identifying unexpected mutations during ribonucleic acid transcription. Fittingly, numerous algorithmic techniques for anomaly detection have been introduced. However, to date, little work has been done to evaluate these algorithms from a statistical perspective. This work is aimed at addressing this gap in the literature by carrying out statistical evaluation of a suite of popular spectral methods for anomaly detection in networks. Our investigation on the statistical properties of these algorithms reveals several important and critical shortcomings that we make methodological improvements to address. Further, we carry out a performance evaluation of these algorithms using simulated networks and extend the methods from binary to count networks.
+C1 [Komolafe, Tomilayo; Quevedo, A. Valeria; Sengupta, Srijan; Woodall, William H.] Virginia Polytech Inst & State Univ, Dept Stat, Blacksburg, VA 24061 USA.   
+[Quevedo, A. Valeria] Univ Piura, Fac Engn, Piura, Peru.
+RP Komolafe, T (corresponding author), Virginia Polytech Inst & State Univ, Dept Stat, Blacksburg, VA 24061 USA.
+FU European Research Council under the European Unions Seventh Framework
+CR Akoglu L, 2015, DATA MIN KNOWL DISC, V29, P626, DOI 10.1007/s10618-014-0365-y
+   Azarnoush B, 2016, J QUAL TECHNOL, V48, P28, DOI 10.1080/00224065.2016.11918149
+   Dahan M, 2017, ARXIV170500349, V0, P0
+   Farahani EM, 2017, COMMUN STAT-THEOR M, V46, P11272, DOI 10.1080/03610926.2016.1263741
+   Lei J, 2015, ANN STAT, V43, P215, DOI 10.1214/14-AOS1274
+   Miller BA, 2015, IEEE T SIGNAL PROCES, V63, P4191, DOI 10.1109/TSP.2015.2437841
+   Newman M, 2016, ARXIV160602319, V0, P0
+   Ranshous S, 2015, WIRES COMPUT STAT, V7, P223, DOI 10.1002/wics.1347
+   Savage D, 2014, SOC NETWORKS, V39, P62, DOI 10.1016/j.socnet.2014.05.002
+   Sengupta S, 2015, STAT SINICA, V25, P1081, DOI 10.5705/ss.2013.231
+   Sengupta S, 2018, ARXIV180708925, V0, P0
+   Woodall WH, 2017, IISE TRANS, V49, P354, DOI 10.1080/0740817X.2016.1213468
+NR 12
+TC 6
+Z9 0
+U1 0.0
+U2 1.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2019
+VL 7
+BP 319
+EP 352
+DI 10.1017/nws.2019.14
+PG 34
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000491273900003
+PM 
+ER
+
+PT J
+AU Hollway, J
+   Lomi, Alessandro
+   Pallotti, Francesca
+   Stadtfeld, Christoph
+TI Multilevel social spaces: The network dynamics of organizational fields
+SO NETWORK SCIENCE
+DE affiliation network; collaboration; competition; goodness-of-fit;interorganizational network; multilevel network; multilevel triad census; organizational change; organizational fields; social space
+AB In this paper, we seek to advance an updated concept of social space that integrates the multilayer and dynamic statistical network methods currently at the disposal of social network researchers. We demonstrate the analytic value of the new concept of social space that we propose with the help of an illustrative analysis of an organizational field involving organizations external and internal decisions that congeal into a multilevel system of action that shapes the space of possibilities for other participants in the field. Through these internal and external decisions, organizations seek certain positions in their social space while simultaneously modifying that social space over time. We conclude by arguing that network researchers choices of goodness-of-fit statistics should reflect a consideration about the dimensions of social space of most interest to the nodes involved.
+C1 [Hollway, James] Grad Inst Int & Dev Studies, Dept Int Relat Polit Sci, Chemin Eugene Rigot 2A, CH-1211 Geneva, Switzerland.   
+[Lomi, Alessandro] Univ Italian Switzerland, Via Buffi 13, CH-6900 Lugano, Switzerland.   
+[Pallotti, Francesca] Univ Greenwich, Dept Int Business & Econ, Old Royal Naval Coll, Pk Row, London SE10 9LS, England.   
+[Stadtfeld, Christoph] ETH, Chair Social Networks, Clausiusstr 50, CH-8092 Zurich, Switzerland.
+RP Hollway, J (corresponding author), Grad Inst Int & Dev Studies, Dept Int Relat Polit Sci, Chemin Eugene Rigot 2A, CH-1211 Geneva, Switzerland.
+FU Swiss National Science Foundation [146763]
+CR Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Brunson JC, 2015, NETW SCI, V3, P480, DOI 10.1017/nws.2015.38
+   Conaldi G, 2012, ORGAN RES METHODS, V15, P385, DOI 10.1177/1094428111430541
+   Daraganova G, 2012, SOC NETWORKS, V34, P6, DOI 10.1016/j.socnet.2010.12.001
+   Hollway J, 2016, METHODS SER, V12, P315, DOI 10.1007/978-3-319-24520-1, 13
+   Iwashyna TJ, 2012, CRIT CARE MED, V40, P2470, DOI 10.1097/CCM.0b013e318254516f
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Lomi A, 2012, SOC NETWORKS, V34, P101, DOI 10.1016/j.socnet.2010.10.005
+   Lomi A, 2014, KOLNER Z SOZIOL SOZ, V66, P395, DOI 10.1007/s11577-014-0271-8
+   Lomi A, 2014, MED CARE, V52, P407, DOI 10.1097/MLR.0000000000000107
+   Lomi A, 2016, SOC NETWORKS, V44, P266, DOI 10.1016/j.socnet.2015.10.006
+   Lospinoso JA, 2012, STATISTICAL MODELS FOR SOCIAL NETWORK DYNAMICS, V0, P0
+   Padgett JF, 2012, EMERGENCE OF ORGANIZATIONS AND MARKETS, V0, P1
+   Pallotti F, 2015, EUR MANAG REV, V12, P189, DOI 10.1111/emre.12052
+   Ripley RM, 2015, MANUAL RSIENA, V0, P0
+   Sethi D, 2014, SAUDI J ANAESTH, V8, P104, DOI 10.4103/1658-354X.125964
+   Snijders TAB, 2013, SOC NETWORKS, V35, P265, DOI 10.1016/j.socnet.2012.05.005
+   Snijders TAB, 2016, METHODS SER, V12, P15, DOI 10.1007/978-3-319-24520-1, 2
+   Stadtfeld C, 2016, SOC NETWORKS, V44, P363, DOI 10.1016/j.socnet.2015.04.010
+   Veinot TC, 2012, SOC SCI MED, V75, P1800, DOI 10.1016/j.socscimed.2012.07.011
+   Wagner J, 2013, J CRIT CARE, V28, P202, DOI 10.1016/j.jcrc.2012.07.027
+   Wang P, 2013, SOC NETWORKS, V35, P96, DOI 10.1016/j.socnet.2013.01.004
+NR 22
+TC 22
+Z9 0
+U1 0.0
+U2 21.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2017
+VL 5
+BP 187
+EP 212
+DI 10.1017/nws.2017.8
+PG 26
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000402960800004
+PM 
+ER
+
+PT J
+AU Sabrin, KM
+   Dovrolis, Constantine
+TI The hourglass effect in hierarchical dependency networks
+SO NETWORK SCIENCE
+DE modularity; hierarchy; evolvability; robustness; complexity; centrality;core-periphery networks; hourglass networks; bow-tie networks;dependency networks
+AB Many hierarchically modular systems are structured in a way that resembles an hourglass. This "hourglass effect" means that the system generates many outputs from many inputs through a relatively small number of intermediate modules that are critical for the operation of the entire system, referred to as the waist of the hourglass. We investigate the hourglass effect in general, not necessarily layered, hierarchical dependency networks. Our analysis focuses on the number of source-to-target dependency paths that traverse each vertex, and it identifies the core of a dependency network as the smallest set of vertices that collectively cover almost all dependency paths. We then examine if a given network exhibits the hourglass property or not, comparing its core size with a "flat" (i.e., non-hierarchical) network that preserves the source dependencies of each target in the original network. As a possible explanation for the hourglass effect, we propose the Reuse Preference model that captures the bias of new modules to reuse intermediate modules of similar complexity instead of connecting directly to sources or low complexity modules. We have applied the proposed framework in a diverse set of dependency networks from technological, natural, and information systems, showing that all these networks exhibit the general hourglass property but to a varying degree and with different waist characteristics.
+C1 [Sabrin, Kaeser M.; Dovrolis, Constantine] Georgia Inst Technol, Sch Comp Sci, Atlanta, GA 30332 USA.
+RP Sabrin, KM (corresponding author), Georgia Inst Technol, Sch Comp Sci, Atlanta, GA 30332 USA.
+FU National Science Foundation (NSF) [CNS-1319549]
+CR Akhshabi S, 2014, F1000RESEARCH, V3, P0, DOI 10.12688/f1000research.4583.2
+   Bhattacharya P, 2012, PROC INT CONF SOFTW, V0, PP419, DOI 10.1109/ICSE.2012.6227173
+   Clune J, 2013, P ROY SOC B-BIOL SCI, V280, P0, DOI 10.1098/rspb.2012.2863
+   Corominas-Murtra B, 2013, P NATL ACAD SCI USA, V110, P13316, DOI 10.1073/pnas.1300832110
+   Csermely P, 2013, J COMPLEX NETW, V1, P93, DOI 10.1093/comnet/cnt016
+   Friedlander T, 2015, PLOS COMPUT BIOL, V11, P0, DOI 10.1371/journal.pcbi.1004055
+   Gorman M, 2015, CODEVIZ CALLGRAPH VI, V0, P0
+   Gousios G, 2015, JAVA CALLGRAPH JAVA, V0, P0
+   Ishakian V, 2012, P 2012 SIAM INT C DA, V0, PP427, DOI [10.1137/1.9781611972825.37, DOI 10.1137/1.9781611972825.37]
+   Kanehisa M, 2014, NUCLEIC ACIDS RES, V42, PD199, DOI 10.1093/nar/gkt1076
+   Legal Information Institute Cornell University Law School., 2015, HIST SUPR COURT DEC, V0, P0
+   Mengistu H, 2016, PLOS COMPUT BIOL, V12, P0, DOI 10.1371/journal.pcbi.1004829
+   Palsson BO, 2015, SYSTEMS BIOLOGY: CONSTRAINT-BASED RECONSTRUCTION AND ANALYSIS, V0, PP1, DOI 10.1017/CBO9781139854610
+   Quint M, 2012, NATURE, V490, P98, DOI 10.1038/nature11394
+   Rombach MP, 2014, SIAM J APPL MATH, V74, P167, DOI 10.1137/120881683
+   Siyari P, 2016, KDD16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP1185, DOI 10.1145/2939672.2939741
+NR 16
+TC 11
+Z9 0
+U1 0.0
+U2 6.0
+J9 NETWORK SCIENCE
+PD DEC
+PY 2017
+VL 5
+BP 490
+EP 528
+DI 10.1017/nws.2017.22
+PG 39
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000416732200005
+PM 
+ER
+
+PT J
+AU Reiffers-masson, A
+   Labatut, Vincent
+TI Opinion-based centrality in multiplex networks: A convex optimization approach
+SO NETWORK SCIENCE
+DE complex networks; centrality measures; multiplex networks; opinion diffusion; convex optimization and stochastic process
+AB Most people simultaneously belong to several distinct social networks, in which their relations can be different. They have opinions about certain topics, which they share and spread on these networks, and are influenced by the opinions of other persons. In this paper, we build upon this observation to propose a new nodal centrality measure for multiplex networks. Our measure, called Opinion centrality, is based on a stochastic model representing opinion propagation dynamics in such a network. We formulate an optimization problem consisting in maximizing the opinion of the whole network when controlling an external influence able to affect each node individually. We find a mathematical closed form of this problem, and use its solution to derive our centrality measure. According to the opinion centrality, the more a node is worth investing external influence, and the more it is central. We perform an empirical study of the proposed centrality over a toy network, as well as a collection of real-world networks. Our measure is generally negatively correlated with existing multiplex centrality measures, and highlights different types of nodes, accordingly to its definition.
+C1 [Reiffers-Masson, Alexandre; Labatut, Vincent] Lab Informat Avignon LIA EA 4128, Avignon, France.
+RP Reiffers-Masson, A (corresponding author), Lab Informat Avignon LIA EA 4128, Avignon, France.
+CR Battiston F, 2014, PHYS REV E, V89, P0, DOI 10.1103/PhysRevE.89.032804
+   Bimpikis K, 2016, OPER RES, V64, P705, DOI 10.1287/opre.2015.1430
+   Boccaletti S, 2014, PHYS REP, V544, P1, DOI 10.1016/j.physrep.2014.07.001
+   Cardillo A, 2013, SCI REP-UK, V3, P0, DOI 10.1038/srep01344
+   Chakraborty T, 2016, PROC INT CONF DATA, V0, PP397, DOI 10.1109/ICDE.2016.7498257
+   Coscia Michele, 2013, 2013 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), V0, P434
+   De Domenico M, 2013, PHYS REV X, V3, P0, DOI 10.1103/PhysRevX.3.041022
+   De Domenico M, 2014, P NATL ACAD SCI USA, V111, P8351, DOI 10.1073/pnas.1318469111
+   De Domenico M, 2015, J COMPLEX NETW, V3, P159, DOI 10.1093/comnet/cnu038
+   De Domenico M, 2015, NAT COMMUN, V6, P0, DOI 10.1038/ncomms7864
+   De Domenico M, 2015, PHYS REV X, V5, P0, DOI 10.1103/PhysRevX.5.011027
+   Halu A, 2013, PLOS ONE, V8, P0, DOI 10.1371/journal.pone.0078293
+   Horn RA, 2012, MATRIX ANALYSIS, V0, P0
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Magnani M, 2013, 13034986 ARXIV CSSI, V0, P0
+   Solá Conde L, 2013, CHAOS, V23, P0, DOI 10.1063/1.4818544
+   Solé-Ribalta A, 2016, PHYSICA D, V323, P73, DOI 10.1016/j.physd.2016.01.002
+   Unknown -, 2014, P ACM C WEB SCI, V0, P0, DOI DOI 10.1145/2615569.2615687
+NR 18
+TC 7
+Z9 0
+U1 0.0
+U2 4.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2017
+VL 5
+BP 213
+EP 234
+DI 10.1017/nws.2017.7
+PG 22
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000402960800005
+PM 
+ER
+
+PT J
+AU Yan, B
+   Luo, Jianxi
+TI Multicores-periphery structure in networks
+SO NETWORK SCIENCE
+DE mesoscale structure; core-periphery structure; community detection
+AB Many real-world networks exhibit a multicores-periphery structure, with densely connected vertices in multiple cores surrounded by a general periphery of sparsely connected vertices. Identification of the multicores-periphery structure can provide a new lens to understand the structures and functions of various real-world networks. This paper defines the multicores-periphery structure and introduces an algorithm to identify the optimal partition of multiple cores and the periphery in general networks. We demonstrate the performance of our algorithm by applying it to a well-known social network and a patent technology network, which are best characterized by the multicores-periphery structure. The analyses also reveal the differences between our multicores-periphery detection algorithm and two state-of-the-art algorithms for detecting the single core-periphery structure and community structure.
+C1 [Yan, Bowen; Luo, Jianxi] Singapore Univ Technol & Design, Engn Prod Dev Pillar & SUTD MIT Int Design Ctr, 8 Somapah Rd, Singapore 487372, Singapore.
+RP Yan, BW (corresponding author), Singapore Univ Technol & Design, Engn Prod Dev Pillar & SUTD MIT Int Design Ctr, 8 Somapah Rd, Singapore 487372, Singapore.
+FU SUTD-MIT International Design Centre; Singapore Ministry of Education
+CR Bruckner S, 2015, ALGORITHM MOL BIOL, V10, P0, DOI 10.1186/s13015-015-0043-7
+   Csermely P, 2018, BIOESSAYS, V40, P0, DOI 10.1002/bies.201700150
+   Liu Y, 2015, SCI REP-UK, V5, P0, DOI 10.1038/srep13172
+   Rombach MP, 2014, SIAM J APPL MATH, V74, P167, DOI 10.1137/120881683
+   Yan BW, 2017, J ASSOC INF SCI TECH, V68, P423, DOI 10.1002/asi.23664
+   Yang J, 2014, P IEEE, V102, P1892, DOI 10.1109/JPROC.2014.2364018
+   Zhang X, 2015, PHYS REV E, V91, P0, DOI 10.1103/PhysRevE.91.032803
+NR 7
+TC 8
+Z9 0
+U1 4.0
+U2 16.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2019
+VL 7
+BP 70
+EP 87
+DI 10.1017/nws.2018.27
+PG 18
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000465959300004
+PM 
+ER
+
+PT J
+AU Ostoic, JAR
+TI Creating context for social influence processes in multiplex networks
+SO NETWORK SCIENCE
+DE multiplex networks; network exposure; structural balance; bundle patterns; semirings; innovation adoption
+AB This paper elaborates on two theories of social influence processes to multiplex network structures. First, cohesion influence is based on mutual communication made by different types of relations, and second comparison influence that is built on contrasting types of tie. While a system of bundles with a mutual character constitutes the setting for a multiplex network exposure measure within cohesion, comparison influence is defined algebraically through classes of actors in terms of a weakly balanced semiring structure that considers positive, negative, and also ambivalent types of tie. A case study with these approaches is made on an entrepreneurial community network with formal business relations, informal friendship ties, and perceived competition among the firms, and the methods are validated with the Sampson Monastery data set.
+C1 [Ostoic, J. Antonio Rivero] Aarhus Univ, Sch Business & Social Sci, DK-8210 Aarhus V, Denmark.
+RP Ostoic, JAR (corresponding author), Aarhus Univ, Sch Business & Social Sci, DK-8210 Aarhus V, Denmark.
+CR Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Core Team R, 2015, R: A LANGUAGE AND ENVIRONMENT FOR STATISTICAL COMPUTING, V0, P0
+   De Domenico M, 2013, PHYS REV X, V3, P0, DOI 10.1103/PhysRevX.3.041022
+   Estrada E, 2014, PHYS REV E, V90, P0, DOI 10.1103/PhysRevE.90.042802
+   Gallagher HC, 2015, LANG LEARN, V65, P929, DOI 10.1111/lang.12130
+   Heider F, 2013, PSYCHOL INTERPERSONA, V0, P0
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Lazarsfeld PaulF, 2021, PEOPLES CHOICE VOTER, V0, P0
+   Salehi M, 2015, IEEE T NETW SCI ENG, V2, P65, DOI 10.1109/TNSE.2015.2425961
+NR 9
+TC 4
+Z9 0
+U1 0.0
+U2 7.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2017
+VL 5
+BP 1
+EP 29
+DI 10.1017/nws.2016.28
+PG 29
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000399161500001
+PM 
+ER
+

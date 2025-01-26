@@ -30,6 +30,12 @@ Barabási, A.-L. (2022).
 \newblock {\em The Network Science}.
 \newblock Cambridge University Press.
 
+\bibitem[Barabási and Vicsek, 2002]{Barabasi2002}
+Barabási, Albert-László, J. H. N.-Z. R. E.-S.~A. and Vicsek, T. (2002).
+\newblock Evolution of the social network of scientific collaborations.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  311(3-4):590--614.
+
 \bibitem[Bastian et~al., 2009]{Bastian2009}
 Bastian, M., Heymann, S., and Jacomy, M. (2009).
 \newblock Gephi: An open source software for exploring and manipulating
@@ -138,17 +144,33 @@ Fortunato, S., Bergstrom, C.~T., Börner, K., Evans, J.~A., Helbing, D.,
 \newblock Science of science.
 \newblock {\em Science}, 359(6379):eaao0185.
 
+\bibitem[Freeman, 1979]{Freeman1979}
+Freeman, L.~C. (1979).
+\newblock Centrality in social networks: Conceptual clarification.
+\newblock {\em Social Networks}, 1(3):215--239.
+
 \bibitem[Freeman, 2004]{Freeman2004}
 Freeman, L.~C. (2004).
 \newblock The development of social network analysis: A study in the sociology
   of science.
 \newblock {\em Empirical Press}.
 
+\bibitem[Garfield, 1972]{Garfield1972}
+Garfield, E. (1972).
+\newblock Citation analysis as a tool in journal evaluation.
+\newblock {\em Science}, 178(4060):471--479.
+
 \bibitem[Garfield, 1979]{garfield1979citation}
 Garfield, E. (1979).
 \newblock {\em Citation Indexing: Its Theory and Application in Science,
   Technology, and Humanities}.
 \newblock John Wiley \& Sons.
+
+\bibitem[Glänzel, 2004]{Glanzel2004}
+Glänzel, W. (2004).
+\newblock Bibliometrics as a research field: A course on theory and application
+  of bibliometric indicators.
+\newblock {\em Scientometrics}, 62(1):1--20.
 
 \bibitem[Glänzel, 2015]{Glanzel2015}
 Glänzel, W. (2015).
@@ -160,6 +182,11 @@ Glänzel, W. and Schubert, A. (2004).
 \newblock Analyzing scientific networks through co-authorship.
 \newblock {\em Handbook of Quantitative Science and Technology Research}, pages
   257--276.
+
+\bibitem[Holland and Leinhardt, 1983]{Holland1983}
+Holland, P.~W. and Leinhardt, S. (1983).
+\newblock Stochastic blockmodels: First steps.
+\newblock {\em Social Networks}, 5(2):109--137.
 
 \bibitem[Ismael~Rafols and Leydesdorff, 2010]{Rafols2010}
 Ismael~Rafols, A. L.~P. and Leydesdorff, L. (2010).
@@ -218,11 +245,23 @@ Lei, F., Du, L., Dong, M., and Liu, X. (2023).
 \newblock {\em MALAYSIAN JOURNAL OF LIBRARY \& INFORMATION SCIENCE},
   28(3):61--79.
 
+\bibitem[Leydesdorff, 1998]{Leydesdorff1998}
+Leydesdorff, L. (1998).
+\newblock Theories of citation?
+\newblock {\em Scientometrics}, 43(1):5--25.
+
 \bibitem[Leydesdorff, 2021]{Leydesdorff2021}
 Leydesdorff, L. (2021).
 \newblock {\em The Evolutionary Dynamics of Disciplines: Network Perspectives
   on Knowledge Production}.
 \newblock Springer.
+
+\bibitem[Liu and Xia, 2005]{Liu2005}
+Liu, J. and Xia, J. (2005).
+\newblock Assessing scholarly influence: A study of doctoral dissertations in
+  information science.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 56(2):131--139.
 
 \bibitem[M.~J.~Cobo, 2011]{Cobo2011}
 M.~J.~Cobo, A. G. López-Herrera, E. H.-V. F.~H. (2011).
@@ -263,6 +302,12 @@ Newman, M. (2018a).
 \newblock {\em Networks}.
 \newblock Oxford University Press.
 
+\bibitem[Newman, 2001]{Newman2001}
+Newman, M.~E. (2001).
+\newblock The structure of scientific collaboration networks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  98(2):404--409.
+
 \bibitem[Newman, 2004]{newman2004coauthorship}
 Newman, M.~E. (2004).
 \newblock Coauthorship networks and patterns of scientific collaboration.
@@ -284,11 +329,29 @@ Noorden, R.~V. (2015).
 \newblock Interdisciplinary research by the numbers.
 \newblock {\em Nature}, 525:306--307.
 
+\bibitem[Opsahl and Skvoretz, 2010]{Opsahl2010}
+Opsahl, Tore, A.~F. and Skvoretz, J. (2010).
+\newblock Node centrality in weighted networks: Generalizing degree and
+  shortest paths.
+\newblock {\em Social Networks}, 32(3):245--251.
+
+\bibitem[Otte and Rousseau, 2002]{Otte2002}
+Otte, E. and Rousseau, R. (2002).
+\newblock Social network analysis: A powerful strategy, also for the
+  information sciences.
+\newblock {\em Journal of Information Science}, 28(6):441--453.
+
 \bibitem[Porter and Rafols, 2009]{Porter2009}
 Porter, A.~L. and Rafols, I. (2009).
 \newblock Is science becoming more interdisciplinary? measuring and mapping six
   research fields over time.
 \newblock {\em Scientometrics}, 81(3):719--745.
+
+\bibitem[Robins and Lusher, 2007]{Robins2007}
+Robins, Garry, P. P. K.~Y. and Lusher, D. (2007).
+\newblock An introduction to exponential random graph (\textit{p*}) models for
+  social networks.
+\newblock {\em Social Networks}, 29(2):173--191.
 
 \bibitem[Small, 1973a]{small1973co}
 Small, H. (1973a).
@@ -330,6 +393,13 @@ van Eck, N.~J. and Waltman, L. (2010).
 Wagner, C.~S. and Leydesdorff, L. (2018).
 \newblock Global science networks and the role of international collaboration.
 \newblock {\em Journal of Informetrics}, 12(1):56--68.
+
+\bibitem[Waltman and van Eck, 2014]{Waltman2014}
+Waltman, L. and van Eck, N.~J. (2014).
+\newblock Bibliometric analyses of scholarly literature: A guide to data
+  analysis with scopus and web of science.
+\newblock {\em Springer Handbook of Science and Technology Indicators}, pages
+  349--374.
 
 \bibitem[Wasserman and Faust, 1994a]{wasserman1994social}
 Wasserman, S. and Faust, K. (1994a).

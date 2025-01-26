@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Network patterns of legislative collaboration in twenty parliaments</title>
+<url>http://dx.doi.org/10.1017/nws.2015.31</url>
+<snippet>
+WOS:000376791800006
+</snippet>
+</document>
+
+<document id="2">
+<title>An improved MCMC algorithm for generating random graphs from constrained distributions</title>
+<url>http://dx.doi.org/10.1017/nws.2015.35</url>
+<snippet>We consider the problem of generating uniformly random graphs from a constrained distribution. A graph is valid if it obeys certain constraints such as a given number of nodes, edges, k-stars or degree sequence, and each graph must occur with equal probability. A typical application is to confirm the correctness of a model by repeated sampling and comparing statistical properties against empirical data. Markov Chain Monte Carlo (MCMC) algorithms are often used, but have certain difficulties such as the inability to search the space of all possible valid graphs. We propose an improved algorithm which overcomes these difficulties. Although each individual iteration of the MCMC algorithm takes longer, we obtain better coverage of the search space in the same amount of time. This leads to better estimates of various quantities such as the expected number of transitive triads given the constraints. The algorithm should be of general interest with many possible applications, including the world wide web, biological, and social networks.
+WOS:000373401500005
+</snippet>
+</document>
+
+<document id="3">
+<title>Epidemic potential by sexual activity distributions</title>
+<url>http://dx.doi.org/10.1017/nws.2017.3</url>
+<snippet>For sexually transmitted infections like HIV to propagate through a population, there must be a path linking susceptible cases to currently infectious cases. The existence of such paths depends in part on the degree distribution. Here, we use simulation methods to examine how two features of the degree distribution affect network connectivity: Mean degree captures a volume dimension, while the skewness of the upper tail captures a shape dimension. We find a clear interaction between shape and volume: When mean degree is low, connectivity is greater for long-tailed distributions, but at higher mean degree, connectivity is greater in short-tailed distributions. The phase transition to a giant component and giant bicomponent emerges as a positive function of volume, but it rises more sharply and ultimately reaches more people in short-tail distributions than in long-tail distributions. These findings suggest that any interventions should be attuned to how practices affect both the volume and shape of the degree distribution, noting potential unanticipated effects. For example, policies that primarily affect high-volume nodes may not be effective if they simply redistribute volume among lower degree actors, which appears to exacerbate underlying network connectivity.
+WOS:000416732200003
+</snippet>
+</document>
+
+<document id="4">
+<title>Dynamic associations of network isolation and smoking behavior</title>
+<url>http://dx.doi.org/10.1017/nws.2017.9</url>
+<snippet>Prevailing social network frameworks examine the association between peer ties and behaviors, such as smoking, but the role of social isolates is poorly understood. Some theories predict isolated adolescents are protected from peer influence that increases smoking, while others suggest isolates are more likely to initiate smoking because they lack the social control provided by peer friendships. Building on a growing literature that seeks to explain these contradictions by moving beyond a homogeneous understanding of isolation, we identify the relationship between smoking and three distinct dimensions of isolation: avoided (adolescents who do not receive ties), withdrawn (adolescents who do not send ties), and externally oriented (adolescents who claim close out-of-grade friends). We examine the co-evolutionary effects of these dimensions and cigarette smoking using an autoregressive latent trajectory model with PROSPER Peers, a unique, longitudinal network dataset. These data include students (47&#37; male and 86&#37; white) from rural Iowa and Pennsylvania, ranging successively from grades 6-12 in eight waves of data. We find avoided isolation is associated with decreased subsequent smoking in high school. Smoking increases subsequent avoided and withdrawn isolation, but decreases external orientation.
+WOS:000408564600002
+</snippet>
+</document>
+
+<document id="5">
+<title>Analyzing heterogeneity in the effects of physical activity in children on social network structure and peer selection dynamics</title>
+<url>http://dx.doi.org/10.1017/nws.2016.2</url>
+<snippet>Social networks influence children and adolescents physical activity. The focus of this paper is to examine the differences in the effects of physical activity on friendship selection, with eye to the implications on physical activity interventions for young children. Prior to implementing a network intervention in the field, it is important to understand potential heterogeneities in the effects that activity level have on network structure. In this study, the associations between activity level and cross-sectional network structure, and activity level and change in network structure are assessed. We studied a real-world friendship network among 81 children (average age 7.96 years) who lived in low SES neighborhoods, attended public schools, and attended one of two structured aftercare programs, of which one has existed and the other was new. We modeled network selection effects and cross-sectional properties, while accounting for potential heterogeneities between networks. There was heterogeneity in the effect of physical activity on both cross-sectional network structure and the formation and dissolution processes, both across time and between networks. This suggests that if peer selection processes are changing within a network, a static network intervention strategy for childhood physical activity could become inefficient as the network evolves.
+WOS:000383885200004
+</snippet>
+</document>
+
+<document id="6">
+<title>Network dynamics of HIV risk and prevention in a population-based cohort of young Black men who have sex with men</title>
+<url>http://dx.doi.org/10.1017/nws.2016.27</url>
+<snippet>Critical to the development of improved HIV elimination efforts is a greater understanding of how social networks and their dynamics are related to HIV risk and prevention. In this paper, we examine network stability of confidant and sexual networks among young black men who have sex with men (YBMSM). We use data from uConnect (2013-2016), a population-based, longitudinal cohort study. We use an innovative approach to measure both sexual and confidant network stability at three time points, and examine the relationship between each type of stability and HIV risk and prevention behaviors. This approach is consistent with a co-evolutionary perspective in which behavior is not only affected by static properties of an individuals network, but may also be associated with changes in the topology of his or her egocentric network. Our results indicate that although confidant and sexual network stability are moderately correlated, their dynamics are distinct with different predictors and differing associations with behavior. Both types of stability are associated with lower rates of risk behaviors, and both are reduced among those who have spent time in jail. Public health awareness and engagement with both types of networks may provide new opportunities for HIV prevention interventions.
+WOS:000408564600007
+</snippet>
+</document>
+
+<document id="7">
+<title>Mixed-membership of experts stochastic blockmodel</title>
+<url>http://dx.doi.org/10.1017/nws.2015.29</url>
+<snippet>Social network analysis is the study of how links between a set of actors are formed. Typically, it is believed that links are formed in a structured manner, which may be due to, for example, political or material incentives, and which often may not be directly observable. The stochastic blockmodel represents this structure using latent groups which exhibit different connective properties, so that conditional on the group membership of two actors, the probability of a link being formed between them is represented by a connectivity matrix. The mixed membership stochastic blockmodel extends this model to allow actors membership to different groups, depending on the interaction in question, providing further flexibility. Attribute information can also play an important role in explaining network formation. Network models which do not explicitly incorporate covariate information require the analyst to compare fitted network models to additional attributes in a post-hoc manner. We introduce the mixed membership of experts stochastic blockmodel, an extension to the mixed membership stochastic blockmodel which incorporates covariate actor information into the existing model. The method is illustrated with application to the Lazega Lawyers dataset. Model and variable selection methods are also discussed.
+WOS:000373401500003
+</snippet>
+</document>
+
+<document id="8">
+<title>Properties of latent variable network models</title>
+<url>http://dx.doi.org/10.1017/nws.2016.23</url>
+<snippet>We derive properties of latent variable models for networks, a broad class of models that includes the widely used latent position models. We characterize several features of interest, with particular focus on the degree distribution, clustering coefficient, average path length, and degree correlations. We introduce the Gaussian latent position model, and derive analytic expressions and asymptotic approximations for its network properties. We pay particular attention to one special case, the Gaussian latent position model with random effects, and show that it can represent the heavy-tailed degree distributions, positive asymptotic clustering coefficients, and small-world behaviors that often occur in observed social networks. Finally, we illustrate the ability of the models to capture important features of real networks through several well-known datasets.
+WOS:000392128300001
+</snippet>
+</document>
+
+<document id="9">
+<title>Homophily, influence and the decay of segregation in self-organizing networks</title>
+<url>http://dx.doi.org/10.1017/nws.2016.1</url>
+<snippet>We study the persistence of network segregation in networks characterized by the co-evolution of vertex attributes and link structures, in particular where individual vertices form linkages on the basis of similarity with other network vertices (homophily), and where vertex attributes diffuse across linkages, making connected vertices more similar over time (influence). A general mathematical model of these processes is used to examine the relative influence of homophily and influence in the maintenance and decay of network segregation in self-organizing networks. While prior work has shown that homophily is capable of producing strong network segregation when attributes are fixed, we show that adding even minute levels of influence is sufficient to overcome the tendency towards segregation even in the presence of relatively strong homophily processes. This result is proven mathematically for all large networks and illustrated through a series of computational simulations that account for additional network evolution processes. This research contributes to a better theoretical understanding of the conditions under which network segregation and related phenomenon-such as community structure-may emerge, which has implications for the design of interventions that may promote more efficient network structures.
+WOS:000373401500004
+</snippet>
+</document>
+
+<document id="10">
+<title>&lt;i&gt;The coevolution of networks and health Introduction to the Special Issue of&lt;/i&gt; Network Science</title>
+<url>http://dx.doi.org/10.1017/nws.2017.24</url>
+<snippet>
+WOS:000408564600001
+</snippet>
+</document>
+
+<document id="11">
+<title>Friendship networks and sun safety behavior among children</title>
+<url>http://dx.doi.org/10.1017/nws.2016.6</url>
+<snippet>Social networks, particularly those defined by friendships, influence many childhood and adolescent health behaviors such as the use of alcohol, tobacco, and other drugs, as well as diet and physical activity. Few, if any, studies have examined the concordance between friendship networks and sun exposure/safety behaviors. This study examines the friendship networks and sun safety behaviors for a group of fourth and fifth grade students taking part in a larger sun safety intervention, "SunSmart" (n = 128). Intra-class correlation, homophily hypothesis testing, and exponential random graph models were used to test friendship homophily based on sun safety behaviors. Peer Leaders were identified through social network popularity, and sun safety change scores were compared between Peer Leaders and non-leaders. Results show that students cluster based on shared demographic characteristics and some sun safety behaviors, and that there was a trend for Peer Leaders to respond better to the SunSmart intervention than non-leaders. Implications for future sun safety interventions using Peer Leaders as champions for sun safety behavior change are discussed.
+WOS:000383885200003
+</snippet>
+</document>
+
+<document id="12">
+<title>Multilevel social spaces: The network dynamics of organizational fields</title>
+<url>http://dx.doi.org/10.1017/nws.2017.8</url>
+<snippet>In this paper, we seek to advance an updated concept of social space that integrates the multilayer and dynamic statistical network methods currently at the disposal of social network researchers. We demonstrate the analytic value of the new concept of social space that we propose with the help of an illustrative analysis of an organizational field involving organizations external and internal decisions that congeal into a multilevel system of action that shapes the space of possibilities for other participants in the field. Through these internal and external decisions, organizations seek certain positions in their social space while simultaneously modifying that social space over time. We conclude by arguing that network researchers choices of goodness-of-fit statistics should reflect a consideration about the dimensions of social space of most interest to the nodes involved.
+WOS:000402960800004
+</snippet>
+</document>
+
+</searchresult>

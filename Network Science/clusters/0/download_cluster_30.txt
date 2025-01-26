@@ -1,0 +1,839 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Hollstein, B
+   Toepfer, Tom
+   Pfeffer, Juergen
+TI Collecting egocentric network data with visual tools: A comparative study
+SO NETWORK SCIENCE
+DE egocentric networks; mixed methods; qualitative network analysis; data collection; network maps; data quality
+AB When collecting egocentric network data, visual representations of networks can function as a cognitive aid for depicting relationships, helping to maintain an overview of the relationships, and keeping the attention of the interviewees. Additionally, network maps can serve as a narration generator in qualitative and in mixed-methods studies. While varying visual instruments are used for collecting egocentric network data, little is known about differences among visual tools concerning the influence on the resulting network data, the usability for interviewees, and data validity. The article provides an overview of existing visually oriented tools that are used to collect egocentric networks and discusses their functions, advantages, and limitations. Then, we present results of an experimental study where we compare four different visual tools with regard to networks elicited, manageability, and the impact of follow-up questions. In order to assess the manageability of the four tools, we used the thinking aloud method. The results provide evidence that the decision in favor of a specific visual tool (structured vs. unstructured) can affect the size and composition of the elicited networks. Follow-up questions greatly affect the elicited networks and follow-up cues can level out differences among tools. Respondents tend to prefer the concentric circles tool, with some differences in preferences and manageability of tools between participants with low and those with high socioeconomic status. Finally, assets and drawbacks of the four instruments are discussed with regard to data quality and crucial aspects of the data collection process when using visual tools.
+C1 [Hollstein, Betina; Toepfer, Tom] Univ Bremen, SOCIUM Res Ctr Inequal & Social Policy, Bremen, Germany.   
+[Toepfer, Tom] Univ Hildesheim, Inst Educ Sci, Hildesheim, Germany.   
+[Pfeffer, Juergen] Tech Univ Munich, Bavarian Sch Publ Policy, Munich, Germany.
+RP Hollstein, B (corresponding author), Univ Bremen, SOCIUM Res Ctr Inequal & Social Policy, Bremen, Germany.
+FU University of Hamburg; University of Bremen
+CR Bellotti E, 2016, SOCIOL RES ONLINE, V21, P0, DOI 10.5153/sro.3936
+   Bilecen B, 2016, INTERNATIONAL REVIEW OF SOCIAL RESEARCH, V6, P0
+   Brashears ME, 2015, SOC NETWORKS, V41, P113, DOI 10.1016/j.socnet.2014.11.003
+   Dobbie F, 2018, QUAL RES, V18, P207, DOI 10.1177/1468794117710323
+   Eddens K, 2018, SOC NETWORKS, V55, P130, DOI 10.1016/j.socnet.2018.05.009
+   Fagan JM, 2015, OPENEDDI NETWORK DAT, V0, P0
+   HEPP A, 2016, MEDIEKULTUR, V32, P87, DOI DOI 10.7146/MEDIEKULTUR.V32I60.21614
+   Herz A, 2015, FORUM: QUALITATIVE SOCIAL RESEARCH, V16, P0, DOI [DOI 10.17169/FQS-16.1.2092, 10.17169/fqs-16.1.2092]
+   Herz A, 2017, SOC NETWORKS, V50, P70, DOI 10.1016/j.socnet.2017.01.003
+   Hogan B, 2016, 34TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, V0, P5360, DOI 10.1145/2858036.2858368
+   Kuhns L, 2015, CONNECTIONS, V35, P1, DOI DOI 10.17266/35.1.1
+   Perry BL, 2018, EGOCENTRIC NETWORK ANALYSIS: FOUNDATIONS, V0, P0, DOI DOI 10.1017/9781316443255
+   Reyes C, 2016, INT REV SOCIAL RES, V6, P256
+   Ryan L, 2018, SOC NETWORKS, V53, P148, DOI 10.1016/j.socnet.2017.03.003
+   Tubaro P, 2016, SOCIOL RES ONLINE, V21, P0, DOI 10.5153/sro.3864
+   Wagner KD, 2018, J MIX METHOD RES, V12, P437, DOI 10.1177/1558689816688974
+   von der Lippe H, 2017, INT J SOC RES METHOD, V20, P425, DOI 10.1080/13645579.2016.1227649
+NR 17
+TC 22
+Z9 0
+U1 2.0
+U2 9.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2020
+VL 8
+BP 223
+EP 250
+DI 10.1017/nws.2020.4
+PG 28
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000537535500006
+PM 
+ER
+
+PT J
+AU Molina, JL
+   Garcia-macias, Alejandro
+   Lubbers, Miranda J
+   Valenzuela-garcia, Hugo
+TI The embeddedness of social capital in personal networks
+SO NETWORK SCIENCE
+DE personal networks; social capital; name generator; position generator;social entrepreneurship
+AB Name generators (NGs) and position generators (PGs) have been used to measure resources embedded in personal relationships, namely social support and social capital, respectively. Comparisons of these measures adopted NGs that only elicit a small number of alters (max. 5). In this paper we explore whether the measurement of social capital with NGs eliciting larger personal networks (say 15 to 20 alters) gives more comparable results to the PG in terms of occupational prestige. To address this issue, we designed a personal network questionnaire that combined a multiple name generator (MNG) and a PG and enquired about alter characteristics and alter-alter ties for the two sets of nominations simultaneously, allowing their integrated analysis. The questionnaire was implemented in the software EgoNet to collect data from social/environmental entrepreneurs in Spain (N = 30) and Mexico (N = 30. The analysis shows that the two approaches capture mostly non-overlapping sets of personal network members, suggesting that the PG measured in this case available, but not accessed social capital. Remarkably the NG led to a higher average prestige for this occupational group than the PG, but also a lower heterogeneity in prestige. The consequences of using one or another approach and their interpretations are discussed.
+C1 [Molina, Jose Luis; Lubbers, Miranda J.; Valenzuela-Garcia, Hugo] Univ Autonoma Barcelona, Dept Social & Cultural Anthropol, GRAFO, C de la Fortuna S-N, Barcelona 08193, Spain.   
+[Garcia-Macias, Alejandro] Univ Autonoma Aguascalientes, Ctr Ciencias Sociales & Humanidades, Dept Commun, Ave Univ 940,Ciudad Univ, Aguascalientes 20131, Aguascalientes, Mexico.
+RP Molina, JL (corresponding author), Univ Autonoma Barcelona, Dept Social & Cultural Anthropol, GRAFO, C de la Fortuna S-N, Barcelona 08193, Spain.
+FU Spanish Ministry of Economy and Enterprise (MINECO) [CSO2012-32635];
+CR Garcia-Macias A, 2015, CAPITAL SOCIAL RELAC, V0, P0
+   Lin N, 2017, STOCH ENV RES RISK A, V0, P1
+   Lubbers MJ, 2019, SOC NETWORKS, V56, P55, DOI 10.1016/j.socnet.2018.08.004
+   Maness M, 2017, TRANSPORT RES A-POL, V106, P374, DOI 10.1016/j.tra.2017.10.008
+   McCarty C, 2019, CONDUCTING PERSONAL, V0, P0
+   McRobbie A, 2015, BE CREATIVE: MAKING A LIVING IN THE NEW CULTURE INDUSTRIES, V1, P0
+   Molina JL, 2018, VOLUNTAS, V29, P725, DOI 10.1007/s11266-017-9921-6
+   Perry BL, 2018, EGOCENTRIC NETWORK ANALYSIS: FOUNDATIONS, V0, P0, DOI DOI 10.1017/9781316443255
+NR 8
+TC 6
+Z9 0
+U1 2.0
+U2 15.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2020
+VL 8
+BP 189
+EP 203
+DI 10.1017/nws.2019.30
+PG 15
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000537535500004
+PM 
+ER
+
+PT J
+AU Bakker, SR
+TI Mobilizing nascent ties: A Qualitative Structural Analysis of social(izing) capital in newcomer networks
+SO NETWORK SCIENCE
+DE personal networks; social capital; network resources; qualitative structural analysis; tie mobilization; tie development; socialization;newcomers
+AB This paper investigates the processes involved when newly hired employees need to simultaneously build up and mobilize personal network ties during their organizational socialization. It focuses on the quality of ties at an early formative stage, characterized by the lack of a tie history between actors. Social capital theory would suggest that such nascent ties do not offer optimal channels for the kind and volume of resources that newcomers (need to) rely on during socialization. To better understand how this apparent mismatch between tie quality and resource needs is handled from an ego-centered perspective, the paper analyzes personal network data from 24 newcomers in nine organizations, using an adapted form of Qualitative Structural Analysis. Three tie-level qualities are found to explain how the lack of tie history may be alleviated, circumvented, or compensated. They comprise (a) variants of openness experienced with stronger ties, (b) perceptions of a lowered threshold towards weaker ties, and 
+C1 [Bakker, Sabine R.] Radboud Univ Nijmegen, Inst Management Res, Nijmegen, Netherlands.
+RP Bakker, SR (corresponding author), Radboud Univ Nijmegen, Inst Management Res, Nijmegen, Netherlands.
+FU DAAD-Deutscher Akademischer Austauschdienst (German Academic Exchange
+CR Batistic S, 2017, EDUC TRAIN, V59, P374, DOI 10.1108/ET-06-2016-0100
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   Francesconi M, 2018, EUR ECON REV, V109, P63, DOI 10.1016/j.euroecorev.2018.02.004
+   Herz A, 2015, FORUM: QUALITATIVE SOCIAL RESEARCH, V16, P0, DOI [DOI 10.17169/FQS-16.1.2092, 10.17169/fqs-16.1.2092]
+   Lane JL, 2019, J EDUC CHANG, V20, P79, DOI 10.1007/s10833-018-9329-0
+   Levin DZ, 2016, GROUP ORGAN MANAGE, V41, P415, DOI 10.1177/1059601115574429
+   McCarty C, 2019, CONDUCTING PERSONAL, V0, P0
+   Schoonenboom J, 2017, KOLNER Z SOZIOL SOZ, V69, P107, DOI 10.1007/s11577-017-0454-1
+   Small ML, 2015, SOC NETWORKS, V40, P90, DOI 10.1016/j.socnet.2014.09.001
+   Small ML, 2016, SOC NETWORKS, V47, P73, DOI 10.1016/j.socnet.2016.05.002
+   van der Werff L, 2017, J MANAGE, V43, P742, DOI 10.1177/0149206314543475
+NR 11
+TC 3
+Z9 0
+U1 1.0
+U2 9.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2020
+VL 8
+BP 381
+EP 398
+DI 10.1017/nws.2020.25
+PG 18
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000556240100005
+PM 
+ER
+
+PT J
+AU Fitzhugh, SM
+   Decostanza, Arwen H
+   Buchler, Norbou
+   Ungvarsky, Diane M
+TI Cognition and communication: situational awareness and tie preservation in disrupted task environments
+SO NETWORK SCIENCE
+DE organizations; communication; network dynamics; disaster; situational awareness; adaptation
+AB Individuals filling specialized, interdependent organizational roles achieve coordinated task execution through effective communication channels. Such channels enable regular access to information, opportunities, and assistance that may enhance ones understanding of the task environment. However, the time and effort devoted to maintaining those channels may detract from ones duties by turning attention away from the task environment. Disrupted task environments increase information requirements, thus creating a dilemma in which individuals must sustain benefits offered by important communication channels and relieve burdens imposed by ineffective channels. Using separable temporal exponential random graph models (STERGMs), this paper examines the relationship between situational awareness (SA) and the propensity to sustain or dissolve preexisting communication channels during 10 disruptive events experienced sequentially by a large, multifaceted military organization during a 2-week training exercise. Results provide limited evidence that increased SA detracts from tie preservation; instead SA begins to predict tie preservation during the second week of the exercise. Patterns of organizational adaptation reveal that, over time, improvised coordinative roles increasingly fall upon those with elevated SA. These results suggest that over successive disruptions, the benefits of information provided by communication channels within interdependent, role-specialized organizations begin to outweigh the costs of sustaining those channels.
+C1 [Fitzhugh, Sean M.; Decostanza, Arwen H.; Buchler, Norbou; Ungvarsky, Diane M.] US Army, Res Lab, Washington, DC 20310 USA.
+RP Fitzhugh, SM (corresponding author), US Army, Res Lab, Washington, DC 20310 USA.
+FU Simons Collaboration grant [525309]
+CR Brashears ME, 2018, SOC NETWORKS, V55, P104, DOI 10.1016/j.socnet.2018.05.010
+   Fitzhugh SeanM, 2017, PROCEEDINGS OF THE 2017 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING 2017, V0, P123
+   Leenders RTAJ, 2016, ORGAN PSYCHOL REV, V6, P92, DOI 10.1177/2041386615578312
+   Unknown -, 2016, TERGM FIT SIMULATE D, V0, P0
+NR 4
+TC 1
+Z9 0
+U1 1.0
+U2 20.0
+J9 NETWORK SCIENCE
+PD DEC
+PY 2020
+VL 8
+BP 508
+EP 542
+DI 10.1017/nws.2020.15
+PG 35
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000575822100003
+PM 
+ER
+
+PT J
+AU Maya-jariego, I
+   Letina, Srebrenka
+   Gonzalez tinoco, Elena
+TI Personal networks and psychological attributes: Exploring individual differences in personality and sense of community and their relationship to the structure of personal networks
+SO NETWORK SCIENCE
+DE personality traits; big five; personal networks; typology; triads;individual differences; psychological predispositions
+AB The paper explores the relationship between personality characteristics, sense of community and the structure of personal networks. We collected personal network data from 100 adults, consisting of the information about their 45 alters and ties among them. In addition to the typically used bivariate correlations to analyze the relationship between individual psychological differences and network structure, we propose first the use of typologies of networks and personality and second modified versions of the triadic census in ego-networks. The results show that different personality types tend to occupy a different kind of networks and that newly introduced triadic measures show a relatively higher association with examined psychological attributes than global network measures. Overall, the Psychological Sense of Community showed higher associations with network measures than Big Five personality traits. The former was positively correlated with measures of closed triads among alters, but also with alters embedded in triads with weak ties. Regarding personality traits, Emotional Stability was positively correlated with strong closed triads and with the overall indicator of density. The elaboration of typologies and the census of triads are shown to be effective strategies for the description of personal networks, as well as for the analysis of individual psychological differences.
+C1 [Maya-Jariego, Isidro; Gonzalez Tinoco, Elena] Univ Seville, Dept Social Psychol, Seville, Spain.   
+[Letina, Srebrenka] Linkoping Univ, Inst Analyt Sociol, Linkoping, Sweden.   
+[Letina, Srebrenka] Cent European Univ, Dept Network & Data Sci, Budapest, Hungary.
+RP Maya-Jariego, I (corresponding author), Univ Seville, Dept Social Psychol, Seville, Spain.
+FU European Research Council (ERC) under the European Unions Horizon 2020
+CR Bidart C, 2018, SOC NETWORKS, V54, P1, DOI 10.1016/j.socnet.2017.11.003
+   Bouchard P, 2019, J WORK ORG PSYCHOL, V0, P0
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   Feiler DC, 2015, PSYCHOL SCI, V26, P593, DOI 10.1177/0956797615569580
+   Giannella E, 2016, SOC NETWORKS, V47, P15, DOI 10.1016/j.socnet.2016.02.003
+   Jariego IM, 2018, AM J COMMUN PSYCHOL, V62, P233, DOI 10.1002/ajcp.12271
+   Jason LA, 2015, J COMMUNITY PSYCHOL, V43, P973, DOI 10.1002/jcop.21726
+   Landis B, 2016, J ORGAN BEHAV, V37, PS107, DOI 10.1002/job.2004
+   Maya-Jariego I, 2015, PSYCHOSOC INTERV, V24, P185, DOI 10.1016/j.psi.2015.09.001
+   Neal ZP, 2017, AM J COMMUN PSYCHOL, V60, P279, DOI 10.1002/ajcp.12158
+   Regts G, 2016, J OCCUP ORGAN PSYCH, V89, P656, DOI 10.1111/joop.12147
+   Selden M, 2018, SOC NETWORKS, V52, P81, DOI 10.1016/j.socnet.2017.05.007
+   Siltaloppi J, 2017, MARKETING THEOR, V17, P395, DOI 10.1177/1470593117705694
+   Wrzus Cornelia, 2017, PSYCHOL FRIENDSHIP, V0, PP21, DOI [DOI 10.1093/ACPROF:OSO/9780190222024.003.0002, 10.1093/acprof:oso/9780190222024.003.0002]
+NR 14
+TC 5
+Z9 0
+U1 3.0
+U2 14.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2020
+VL 8
+BP 168
+EP 188
+DI 10.1017/nws.2019.15
+PG 21
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000537535500003
+PM 
+ER
+
+PT J
+AU Arora, V
+   Guo, Dali
+   Dunbar, Katherine D
+   Ventresca, Mario
+TI Examining the variability in network populations and its role in generative models
+SO NETWORK SCIENCE
+DE network models; variability; entropy; generative models
+AB A principled approach to understand networks is to formulate generative models and infer their parameters from given network data. Due to the scarcity of data in the form of multiple networks that have evolved from the same process, generative models are typically formulated to learn parameters from a single network observation, hence ignoring the natural variability of the "true" process. In this paper, we highlight the importance of variability in evaluating generative models and present two ways of quantifying the variability for a finite set of networks. The first evaluation scheme compares the statistical properties of networks in a dissimilarity space, while the other relies on data-driven entropy measures to compute variability in network populations. Using these measures, we evaluate the ability of four generative models to synthesize networks that capture the variability of the "true" process. Our empirical analysis suggests that generative models fitted for a single network observation fail to capture the variability in the network population. Our work highlights the need for rethinking the way we evaluate the goodness-of-fit of new and existing network models and devising models that are capable of matching the variability of network populations when available.
+C1 [Arora, Viplove; Guo, Dali; Dunbar, Katherine D.; Ventresca, Mario] Purdue Univ, Sch Ind Engn, W Lafayette, IN 47907 USA.
+RP Ventresca, M (corresponding author), Purdue Univ, Sch Ind Engn, W Lafayette, IN 47907 USA.
+FU National Science Foundation [1762633]; Directorate For Engineering; Div
+CR Amico E, 2018, NETW NEUROSCI, V2, P306, DOI 10.1162/netn, a, 00049
+   Arora V, 2016, PROCEEDINGS OF THE 2016 GENETIC AND EVOLUTIONARY COMPUTATION CONFERENCE (GECCO16 COMPANION), V0, PP15, DOI 10.1145/2908961.2908966
+   Arora V, 2017, SCI REP-UK, V7, P0, DOI 10.1038/s41598-017-05444-4
+   Arora V, 2019, STUD COMPUT INTELL, V812, P743, DOI 10.1007/978-3-030-05411-3, 59
+   Avena-Koenigsberger A, 2015, J R SOC INTERFACE, V12, P0, DOI 10.1098/rsif.2014.0881
+   Barabasi AL, 2016, NETWORK SCIENCE, V0, P1
+   Casiraghi G, 2016, GEN HYPERGEOMETRIC E, V7, P1
+   De Domenico M, 2016, PHYS REV X, V6, P0, DOI 10.1103/PhysRevX.6.041062
+   Donnat C, 2018, TRACKING NETWORK DYN, V1, P0
+   Durante D, 2017, J AM STAT ASSOC, V112, P1516, DOI 10.1080/01621459.2016.1219260
+   Emmert-Streib F, 2016, INFORM SCIENCES, V346, P180, DOI 10.1016/j.ins.2016.01.074
+   Fortunato S, 2016, PHYS REP, V659, P1, DOI 10.1016/j.physrep.2016.09.002
+   Ginestet CE, 2017, ANN APPL STAT, V11, P725, DOI 10.1214/16-AOAS1015
+   Gollini I, 2016, J COMPUT GRAPH STAT, V25, P246, DOI 10.1080/10618600.2014.978006
+   Hajibagheri Alireza, 2015, SOCIAL COMPUTING, V0, P0, DOI 10.1007/978-3-319-16268-3, 7
+   Lunagomez S, 2019, MODELING NETWORK POP, V0, P1
+   Menezes T, 2019, DYNAMICS COMPLEX NET, Viii, P83
+   Moreno S, 2018, ACM T KNOWL DISCOV D, V12, P0, DOI 10.1145/3161885
+   Orsini C, 2015, NAT COMMUN, V6, P0, DOI 10.1038/ncomms9627
+   Peixoto TP, 2015, PHYS REV X, V5, P0, DOI 10.1103/PhysRevX.5.011033
+   Peixoto TP, 2017, PHYS REV E, V95, P0, DOI 10.1103/PhysRevE.95.012317
+   Perc M, 2017, PHYS REP, V687, P1, DOI 10.1016/j.physrep.2017.05.004
+   Schieber TA, 2017, NAT COMMUN, V8, P0, DOI 10.1038/ncomms13928
+   Vallès-Català T, 2018, PHYS REV E, V97, P0, DOI 10.1103/PhysRevE.97.062316
+NR 24
+TC 0
+Z9 0
+U1 1.0
+U2 4.0
+J9 NETWORK SCIENCE
+PD JUL
+PY 2020
+VL 8
+BP S43
+EP S64
+DI 10.1017/nws.2019.63
+PG 22
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000548560700004
+PM 
+ER
+
+PT J
+AU Weber, H
+   Schwenzer, Marc
+   Hillmert, Steffen
+TI Homophily in the formation and development of learning networks among university students
+SO NETWORK SCIENCE
+DE learning networks; higher education; homophily; tergm
+AB Students personal learning networks can be a valuable resource of success in higher education: they offer opportunities for academic and personal support and provide sources of information related to exams or homework. We study the determinants of learning networks using a panel study among university students in their first and second year of study. A long-standing question in social network analysis has been whether the tendency of individuals with similar characteristics to form ties is a result of preferences "choice homophily" or rather selective opportunities "induced homophily". We expect a latent preference for homophilic learning partnerships with regard to attributes, such as gender, ability, and social origin. We estimate recently developed temporal exponential random graph models to control for previous network structure and study changes in learning ties among students. The results show that especially for males, same-gender partnerships are preferred over heterogeneous ties, while chances for tie formation decrease with the difference in academic ability among students. Social origin is a significant factor in the crosssectional exploration but does appear to be less important in the formation of new (strong) partnerships during the course of studies.
+C1 [Weber, Hannes; Schwenzer, Marc; Hillmert, Steffen] Univ Tubingen, Dept Sociol, Wilhelmstr 36, D-72074 Tubingen, Germany.
+RP Weber, H (corresponding author), Univ Tubingen, Dept Sociol, Wilhelmstr 36, D-72074 Tubingen, Germany.
+FU Leibniz ScienceCampus Tuebingen "Informational Environments"
+CR Czarna AZ, 2016, PERS SOC PSYCHOL B, V42, P1588, DOI 10.1177/0146167216666265
+   David-Barrett T, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0118329
+   Desmarais Bruce A, 2017, THE OXFORD HANDBOOK OF POLITICAL NETWORKS, V0, P203
+   Hillmert S, 2015, ROUTINEN KRISE KRISE, V0, P1533
+   Kruse H, 2016, SOC NETWORKS, V44, P130, DOI 10.1016/j.socnet.2015.07.004
+   Leifeld P, 2018, J STAT SOFTW, V83, P0, DOI 10.18637/jss.v083.i06
+   Leszczensky L, 2015, SOC NETWORKS, V42, P18, DOI 10.1016/j.socnet.2015.02.002
+   Unknown -, 2018, R LANG ENV STAT COMP, V0, P0
+NR 8
+TC 14
+Z9 0
+U1 2.0
+U2 31.0
+J9 NETWORK SCIENCE
+PD DEC
+PY 2020
+VL 8
+BP 469
+EP 491
+DI 10.1017/nws.2020.10
+PG 23
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000575822100001
+PM 
+ER
+
+PT J
+AU Pachucki, MC
+   Leal, Diego F
+TI Is having an educationally diverse social network good for health?
+SO NETWORK SCIENCE
+DE egocentric networks; health; network diversity; assortativity
+AB While network research often focuses on social integration as a predictor of health, a less-explored idea is that connections to dissimilar others may benefit well-being. As such, this study investigates whether network diversity is associated with changes in four health outcomes over a 3-year period of time in the U.S.A. Specifically, we focus on how an underexplored measure of network diversity-educational attainment assortativity-is associated with common self-reported outcomes: propensity to exercise, body-mass index, mental health, and physical health. We extend prior research by conducting multilevel analyses using this measure of diversity while adjusting for a range of socio-demographic and network confounders. Data are drawn from a longitudinal probability sample of U.S. adults (n=10.679) in which respondents reported information about themselves and eight possible alters during three yearly surveys (2013-2015). We find, first, that higher educational attainment is associated with more educationally insular networks, while less-educated adults have more educationally diverse networks. Results further suggest that having educationally similar networks is associated with higher body-mass index among the less educated. Further exploration of the relationship between ego network diversity, tie strength, and health is warranted.
+C1 [Pachucki, Mark C.] Univ Massachusetts, Dept Sociol, Computat Social Sci Inst, Amherst, MA 01003 USA.   
+[Leal, Diego F.] Univ South Carolina, Dept Sociol, Columbia, SC 29208 USA.
+RP Pachucki, MC (corresponding author), Univ Massachusetts, Dept Sociol, Computat Social Sci Inst, Amherst, MA 01003 USA.
+FU Roybal Center for the Study of Networks and Well Being at Yale
+CR Alexander Michelle, 2020, NEW JIM CROW MASS IN, V0, P0
+   Alshamsi A, 2016, PLOS ONE, V11, P0, DOI 10.1371/journal.pone.0152358
+   Centola D, 2015, AM J SOCIOL, V120, P1295, DOI 10.1086/681275
+   Child S, 2017, ANN EPIDEMIOL, V27, P128, DOI 10.1016/j.annepidem.2016.11.010
+   Cornwell B, 2015, SOC SCI MED, V125, P94, DOI 10.1016/j.socscimed.2013.09.011
+   Dunbar RIM, 2018, TRENDS COGN SCI, V22, P32, DOI 10.1016/j.tics.2017.10.004
+   Ellwardt L, 2015, SOC SCI MED, V125, P107, DOI 10.1016/j.socscimed.2014.05.007
+   Goldman AW, 2015, SOC SCI MED, V140, P69, DOI 10.1016/j.socscimed.2015.07.003
+   Hirschfield PJ, 2018, THE PALGRAVE INTERNATIONAL HANDBOOK OF SCHOOL DISCIPLINE, V0, P0, DOI 10.1007/978-3-319-71559-9, 3
+   Molesworth T, 2015, SOC COGN AFFECT NEUR, V10, P1169, DOI 10.1093/scan/nsv001
+   Offer S, 2018, AM SOCIOL REV, V83, P111, DOI 10.1177/0003122417737951
+   Perry BL, 2018, EGOCENTRIC NETWORK ANALYSIS: FOUNDATIONS, V0, P0, DOI DOI 10.1017/9781316443255
+   Santini ZI, 2015, SOC SCI MED, V147, P134, DOI 10.1016/j.socscimed.2015.10.061
+   Smith JA, 2017, SOC NETWORKS, V48, P78, DOI 10.1016/j.socnet.2016.04.005
+   Song LJ, 2017, SOCIOL PERSPECT, V60, P997, DOI 10.1177/0731121416680597
+   Unknown -, 2017, SOMEONE TO TALK TO, V0, P0
+   Unknown -, 2018, R LANG ENV STAT COMP, V0, P0
+   VanderWeele TJ, 2019, INT J EPIDEMIOL, V48, P1032, DOI 10.1093/ije/dyz010
+   Wang C, 2016, SOC NETWORKS, V45, P89, DOI 10.1016/j.socnet.2015.12.003
+   Wu YH, 2018, PREV MED, V111, P366, DOI 10.1016/j.ypmed.2017.11.028
+   Yang YC, 2016, P NATL ACAD SCI USA, V113, P578, DOI 10.1073/pnas.1511085112
+NR 21
+TC 4
+Z9 0
+U1 5.0
+U2 16.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2020
+VL 8
+BP 418
+EP 444
+DI 10.1017/nws.2020.14
+PG 27
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000556240100007
+PM 32944241
+ER
+
+PT J
+AU Volker, B
+TI Social capital across the life course: Accumulation, diminution, or segregation?
+SO NETWORK SCIENCE
+DE social capital change; life course and social capital
+AB This study examines changes in individual social capital during adult life within a 19-year period. Social capital theory and life course theory are combined, and it is argued that changes in social networks do not necessarily go together with changes in social capital: while personal networks are known to decline in size with age, social capital can be expected to accumulate, in particular for those who had a better starting position and therefore more resources to share. Panel data from the survey of the social networks of the Dutch (SSND) (1999-2018) at four points of measurement are employed to inquire into this argument. Social capital is measured by the position generator instrument, and three indicators, that is, resource extensity, mean prestige access, and resource range are analyzed. Results of fixed effect models show that, on average, people maintain access to social capital, and that men and higher educated gain social capital through their life as opposed to women and lower educated. Implications for the understanding of the reproduction of social inequality are discussed. The paper concludes with a reflection upon the value of ego-centered network analysis in the era of big data and data science.
+C1 [Volker, Beate] Univ Utrecht, Dept Human Geog & Spatial Planning, Utrecht, Netherlands.
+RP Volker, B (corresponding author), Univ Utrecht, Dept Human Geog & Spatial Planning, Utrecht, Netherlands.
+FU National Institutes of Health [R01MH100021, R01DA039934];
+CR Chen YS, 2016, SOC NETWORKS, V45, P18, DOI 10.1016/j.socnet.2015.10.003
+   Gillespie BJ, 2015, J SOC PERS RELAT, V32, P709, DOI 10.1177/0265407514546977
+   McDonald S, 2015, AM BEHAV SCI, V59, P914, DOI 10.1177/0002764215580587
+   Perry BL, 2018, EGOCENTRIC NETWORK ANALYSIS: FOUNDATIONS, V0, P0, DOI DOI 10.1017/9781316443255
+   Tamas D-B, 2016, PLOS ONE, V0, P11
+   Verhaeghe PP, 2015, HANDB RES METH APPL, V0, P166
+   Volker B, 2016, SOC NETWORKS, V47, P47, DOI 10.1016/j.socnet.2016.04.004
+NR 7
+TC 19
+Z9 0
+U1 2.0
+U2 19.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2020
+VL 8
+BP 313
+EP 332
+DI 10.1017/nws.2020.26
+PG 20
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000556240100002
+PM 
+ER
+
+PT J
+AU Feld, SL
+   Mcgail, Alec
+TI Egonets as systematically biased windows on society
+SO NETWORK SCIENCE
+DE egonets; biased samples; friendship paradox; homophily; social psychology; risky behaviors; interpersonal comparisons; weighted samples; false impressions; social network theory
+AB A persons egonet, the set of others with whom that person is connected, is a personal sample of society which especially influences that persons experience and perceptions of society. We show that egonets systematically misrepresent the general population because each person is included in as many egonets as that person has "friends." Previous research has recognized that this unequal weighting in egonets leads many people to find that their friends have more friends than they themselves have. This paper builds upon that research to show that peoples egonets provide them with systematically biased samples of the population more generally. We discuss how this ubiquitous egonet bias may have far reaching implications for peoples experiences and perceptions of frequencies of other peoples ties and traits in ways that may influence their own feelings and behaviors. In particular, these egonet biases may help explain peoples tendencies to disproportionately experience and overestimate the prevalence of certain types of deviance and other social behaviors and consequently be influenced toward them. We illustrate egonet bias with analyses of all friends among 63,731 Facebook users. We call for further empirical investigation of egonet biases and their consequences for individuals and society.
+C1 [Feld, Scott L.] Purdue Univ, W Lafayette, IN 47907 USA.   
+[McGail, Alec] Cornell Univ, Ithaca, NY USA.
+RP Feld, SL (corresponding author), Purdue Univ, W Lafayette, IN 47907 USA.
+FU FASTEN EU [H2020-ICT-2018-2020 (GA 825328)]
+CR Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Feiler DC, 2015, PSYCHOL SCI, V26, P593, DOI 10.1177/0956797615569580
+   Kumar A, 2018, CLEM UNIV POWER SYST, V0, P0
+   Lerman K, 2016, PLOS ONE, V11, P0, DOI 10.1371/journal.pone.0147617
+   Rözer J, 2016, SOC INDIC RES, V127, P809, DOI 10.1007/s11205-015-0987-5
+   Smith JA, 2015, J MATH SOCIOL, V39, P125, DOI 10.1080/0022250X.2014.994621
+NR 6
+TC 5
+Z9 0
+U1 1.0
+U2 4.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2020
+VL 8
+BP 399
+EP 417
+DI 10.1017/nws.2020.5
+PG 19
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000556240100006
+PM 
+ER
+
+PT J
+AU Marcum, CS
+   Lin, Jielu
+   Koehly, Laura
+TI Growing-up and coming-out: Are 4-cycles present in adult hetero/gay hook-ups?
+SO NETWORK SCIENCE
+C1 [Marcum, Christopher Steven; Lin, Jielu; Koehly, Laura] NHGRI, Social Network Methods Sect, Social Behav Res Branch, NIH, Bethesda, MD 20892 USA.
+RP Marcum, CS (corresponding author), NHGRI, Social Network Methods Sect, Social Behav Res Branch, NIH, Bethesda, MD 20892 USA.
+FU European Research Council under European Union/ERC [319209]
+CR Adams J, 2015, NETW SCI, V3, P293, DOI 10.1017/nws.2015.16
+   DiMascio L, 2012, MANY HOOK UPS A KARE, V0, P0
+   Shah NS, 2014, AIDS BEHAV, V18, P335, DOI 10.1007/s10461-013-0677-8
+NR 3
+TC 4
+Z9 0
+U1 0.0
+U2 5.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2016
+VL 4
+BP 400
+EP 405
+DI 10.1017/nws.2016.3
+PG 6
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000383885200007
+PM 
+ER
+
+PT J
+AU Lee, B
+   Bearman, Peter
+TI Political isolation in America
+SO NETWORK SCIENCE
+DE egocentric network; political polarization; core discussion network;network size; political homophily; survey experiment
+AB This study documents historical trends of size and political diversity in Americans discussion networks, which are often seen as important barometers of social and political health. Contrasting findings from data drawn out of a nationally representative survey experiment of 1,055 Americans during the contentious 2016 U.S. presidential election to data arising from 11 national data sets covering nearly three decades, we find that Americans core networks are significantly smaller and more politically homogeneous than at any other period. Several methodological artifacts seem unlikely to account for the effect. We show that in this period, more than before, "important matters" were often framed as political matters, and that this association probably accounts for the smaller networks.
+C1 [Lee, Byungkyu] Indiana Univ, Dept Sociol, 770 Ballantine Hall,1020 E Kirkwood Ave, Bloomington, IN USA.   
+[Bearman, Peter] Columbia Univ, Interdisciplinary Ctr Innovat Theory & Empir, 701 Knox Hall,606 W 122nd St, New York, NY 10027 USA.
+RP Bearman, P (corresponding author), Columbia Univ, Interdisciplinary Ctr Innovat Theory & Empir, 701 Knox Hall,606 W 122nd St, New York, NY 10027 USA.
+FU NSF [0818839]; Interdisciplinary Center for Innovative Theory and
+CR Bail CA, 2018, P NATL ACAD SCI USA, V115, P9216, DOI 10.1073/pnas.1804840115
+   Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Bisbee J, 2017, AM POLIT SCI REV, V111, P502, DOI 10.1017/S0003055417000120
+   Chen MK, 2018, SCIENCE, V360, P1020, DOI 10.1126/science.aaq1433
+   DiSogra C, 2016, SOC SCI COMPUT REV, V34, P26, DOI 10.1177/0894439315573925
+   Eady G, 2019, SAGE OPEN, V9, P0, DOI 10.1177/2158244019832705
+   Eagle DE, 2015, SOC NETWORKS, V40, P75, DOI 10.1016/j.socnet.2014.07.005
+   Huber GA, 2017, J POLIT, V79, P269, DOI 10.1086/687533
+   Iyengar S, 2015, AM J POLIT SCI, V59, P690, DOI 10.1111/ajps.12152
+   Iyengar S, 2018, POLIT PSYCHOL, V39, P201, DOI 10.1111/pops.12487
+   Lee B, 2017, SOCIOL SCI, V4, P1, DOI 10.15195/v4.a1
+   Small ML, 2016, SOC NETWORKS, V47, P73, DOI 10.1016/j.socnet.2016.05.002
+NR 12
+TC 13
+Z9 0
+U1 2.0
+U2 9.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2020
+VL 8
+BP 333
+EP 355
+DI 10.1017/nws.2020.9
+PG 23
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000556240100003
+PM 
+ER
+
+PT J
+AU Loc, Dao Vinh
+   Bothorel, Cecile
+   Lenca, Philippe
+TI Community structure: A comparative evaluation of community detection methods
+SO NETWORK SCIENCE
+DE community detection; community structure; comparative analysis;empirical analysis; computation time; community size; structural quality function; validation metric; decision-making assistance for practitioners
+AB Discovering community structure in complex networks is a mature field since a tremendous number of community detection methods have been introduced in the literature. Nevertheless, it is still very challenging for practitioners to determine which method would be suitable to get insights into the structural information of the networks they study. Many recent efforts have been devoted to investigating various quality scores of the community structure, but the problem of distinguishing between different types of communities is still open. In this paper, we propose a comparative, extensive, and empirical study to investigate what types of communities many state-of-the-art and well-known community detection methods are producing. Specifically, we provide comprehensive analyses on computation time, community size distribution, a comparative evaluation of methods according to their optimization schemes as well as a comparison of their partitioning strategy through validation metrics. We process our analyses on a very large corpus of hundreds of networks from five different network categories and propose ways to classify community detection methods, helping a potential user to navigate the complex landscape of community detection.
+C1 [Vinh Loc Dao; Bothorel, Cecile; Lenca, Philippe] IMT Atlantique, Lab STICC, CNRS, UMR 6285, F-29238 Brest, France.
+RP Bothorel, C (corresponding author), IMT Atlantique, Lab STICC, CNRS, UMR 6285, F-29238 Brest, France.
+FU EPSRC [EP/I017267/1, EP/I032223/1] Funding Source: UKRI
+CR Agreste S, 2017, IEEE T BIG DATA, V3, P289, DOI 10.1109/TBDATA.2016.2631512
+   Arifin S, 2018, J PHYS CONF SER, V943, P0, DOI 10.1088/1742-6596/943/1/012038
+   Chakraborty T, 2017, ACM COMPUT SURV, V50, P0, DOI 10.1145/3091106
+   Dao VL, 2017, SPRINGER PR COMPLEX, V0, PP11, DOI 10.1007/978-3-319-55471-6, 2
+   Dao VL, 2018, 7 INT C COMPL NETW T, V0, P0
+   Dao VL, 2018, ARXIV E PRINTS, V0, P0
+   Fortunato S, 2016, PHYS REP, V659, P1, DOI 10.1016/j.physrep.2016.09.002
+   Ghasemian A, 2018, ARXIV E PRINTS, V0, P0
+   Jaewon Yang, 2015, KNOWLEDGE AND INFORMATION SYSTEMS, V42, P181, DOI 10.1007/s10115-013-0693-z
+   Jebabli M, 2015, 2015 11TH INTERNATIONAL CONFERENCE ON SIGNAL-IMAGE TECHNOLOGY & INTERNET-BASED SYSTEMS (SITIS), V0, PP328, DOI 10.1109/SITIS.2015.47
+   Jebabli M, 2018, PHYSICA A, V492, P651, DOI 10.1016/j.physa.2017.10.018
+   Miyauchi A, 2016, PLOS ONE, V11, P0, DOI 10.1371/journal.pone.0147805
+   Peel L, 2017, SCI ADV, V3, P0, DOI 10.1126/sciadv.1602548
+   Riolo MA, 2017, PHYS REV E, V96, P0, DOI 10.1103/PhysRevE.96.032310
+   Roberts RA, 2015, PROCEEDINGS OF THE ASME TURBO EXPO: TURBINE TECHNICAL CONFERENCE AND EXPOSITION, V0, P0
+   Schaub Michael T, 2017, APPL NETW SCI, V2, P4, DOI 10.1007/s41109-017-0023-6
+   Traag VA, 2015, PHYS REV E, V92, P0, DOI 10.1103/PhysRevE.92.022816
+NR 17
+TC 33
+Z9 0
+U1 2.0
+U2 9.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2020
+VL 8
+BP 1
+EP 41
+DI 10.1017/nws.2019.59
+PG 41
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000578288500001
+PM 
+ER
+
+PT J
+AU Joo, W
+   Fletcher, Jason
+TI Out of sync, out of society: Political beliefs and social networks
+SO NETWORK SCIENCE
+DE belief synchronization; social space; network homophily; discussion networks; egocentric networks
+AB Who is more likely to be isolated from society in terms of political beliefs? To answer this question, we measure whether individuals beliefs are "out of sync"-the extent to which their views differ with their contemporaries-and examine how the level of synchronization is associated with the size of important-matter and political-matter discussion networks. The results show that people with weaker belief synchronization are more likely to have smaller important-matter discussion networks. However, additional analyses of political-matter discussion networks show that weaker belief synchronization is associated with smaller networks only among those without a high school diploma and even provides some advantage in maintaining larger networks for the college-educated. Overall, the results imply that political beliefs that are "out of sync" correspond to the individual being "out of society," whereas the aspects of "out of society" are quite different among educational groups.
+C1 [Joo, Won-tak; Fletcher, Jason] Univ Wisconsin, Dept Sociol, Madison, WI 53706 USA.   
+[Fletcher, Jason] Univ Wisconsin, La Follette Sch Publ Affairs, Madison, WI USA.
+RP Joo, WT (corresponding author), Univ Wisconsin, Dept Sociol, Madison, WI 53706 USA.
+FU Center for Demography and Ecology at the University of Wisconsin-Madison
+CR Boutyline A, 2017, AM J SOCIOL, V122, P1371, DOI 10.1086/691274
+   Centola D, 2015, AM J SOCIOL, V120, P1295, DOI 10.1086/681275
+   Cowan SK, 2018, SOC NETWORKS, V52, P440
+   DellaPosta D, 2015, AM J SOCIOL, V120, P1473, DOI 10.1086/681254
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   Lee B, 2017, SOCIOL SCI, V4, P1, DOI 10.15195/v4.a1
+   Park B, 2018, SOC FORCES, V96, P1757, DOI 10.1093/sf/sox093
+NR 7
+TC 0
+Z9 0
+U1 1.0
+U2 8.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2020
+VL 8
+BP 445
+EP 468
+DI 10.1017/nws.2020.2
+PG 24
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000556240100008
+PM 33163185
+ER
+
+PT J
+AU Marin, A
+   Lin, Chang
+TI Noting the ties after tying the knot: Photo-based elicitation of retrospective personal network data
+SO NETWORK SCIENCE
+DE egocentric networks; network change; longitudinal network data; inactive ties; dormant ties; interview methods; data collection; photo-based elicitation; retrospective data collection; dimensions of tie activity
+AB We report on an interview method using photo-based network elicitation and a landmark anchoring event to collect data on relationship change in ego networks retrospectively. Using the wedding albums of married or formerly married respondents, we populate a network from many years ago with persons pictured in the album and then collect data about each respondents relationship with each person at the time of the wedding and at the time of the interview. This data collection method mitigates many of the problems associated with retrospective data collection and does not have the logistical difficulties associated with panel studies. Our findings show that this method is successful in collecting significant numbers of connections that have undergone change, and especially reductions in activity along various dimensions.
+C1 [Marin, Alexandra; Lin, Chang] Univ Toronto, Dept Sociol, Toronto, ON M5S 2J4, Canada.
+RP Marin, A (corresponding author), Univ Toronto, Dept Sociol, Toronto, ON M5S 2J4, Canada.
+FU American Sociological Association Fund for the Advancement of the
+CR Brashears ME, 2018, SOC NETWORKS, V55, P104, DOI 10.1016/j.socnet.2018.05.010
+   Eagle DE, 2015, SOC NETWORKS, V40, P75, DOI 10.1016/j.socnet.2014.07.005
+   Ferguson SJ, 2016, WOMEN ED QUALIFICATI, V0, P0
+   Fischer C, 2018, UNDERSTANDING PERSON, V0, P0
+   Lee B, 2017, SOCIOL SCI, V4, P1, DOI 10.15195/v4.a1
+   Perry BL, 2018, EGOCENTRIC NETWORK ANALYSIS: FOUNDATIONS, V0, P0, DOI DOI 10.1017/9781316443255
+   Small ML, 2015, SOC NETWORKS, V40, P90, DOI 10.1016/j.socnet.2014.09.001
+   Unknown -, 2017, SOMEONE TO TALK TO, V0, P0
+   Valente TW, 2017, FIELD METHOD, V29, P303, DOI 10.1177/1525822X17703718
+NR 9
+TC 2
+Z9 0
+U1 1.0
+U2 2.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2020
+VL 8
+BP 251
+EP 270
+DI 10.1017/nws.2019.8
+PG 20
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000537535500007
+PM 
+ER
+
+PT J
+AU Vacca, R
+TI Structure in personal networks: Constructing and comparing typologies
+SO NETWORK SCIENCE
+DE ego-networks; social capital; social support; social isolation; personal communities; community detection; modularity; core/periphery; cluster analysis; k-medoid
+AB A recurrent finding in personal network research is that individual and social outcomes are influenced not just by the kind of people one knows, but also by how those people are connected to each other. Personal network structure - the way in which ones personal contacts know and interact with each other - reflects broader trends in social organization and personal communities, and shapes patterns of social capital, support, and isolation. This article proposes a method to identify typologies of structure in large collections of personal networks. The method is applied to six datasets collected in widely different circumstances and using various survey instruments. It is then compared with another recently introduced method to extract typologies of egocentric network structure. Findings show that personal network structure can be effectively summarized using just three measures of cohesive subgroup characteristics. Structural typologies can then be identified by applying standard cluster analysis techniques to the three variables. Both methods considered in the article capture significant variation in network structures, but they also show substantial levels of disagreement and cross-classification. I discuss similarities and differences between the methods, and potential applications of the proposed typologies to substantive research on personal communities, social support, and social capital.
+C1 [Vacca, Raffaele] Univ Florida, Dept Sociol & Criminol & Law, Gainesville, FL 32611 USA.
+RP Vacca, R (corresponding author), Univ Florida, Dept Sociol & Criminol & Law, Gainesville, FL 32611 USA.
+FU University of Milan-Bicocca Center for Interdisciplinary Studies in
+CR Arnaboldi V, 2017, J COMPUT-MEDIAT COMM, V22, P231, DOI 10.1111/jcc4.12193
+   Baldassar L, 2016, GLOBAL NETW, V16, P133, DOI 10.1111/glob.12108
+   Bidart C, 2018, SOC NETWORKS, V54, P1, DOI 10.1016/j.socnet.2017.11.003
+   Boston PQ, 2015, PRACT ANTHROPOL, V37, P28, DOI [DOI 10.17730/0888-4552-37.4.28, 10.17730/0888-4552-37.4.28]
+   Crossley N, 2015, SOCIAL NETWORK ANALYSIS FOR EGO-NETS, V0, P0
+   Dao V-L, 2018, ARXIV181206598CSSTAT, V0, P0
+   Dunbar RIM, 2015, SOC NETWORKS, V43, P39, DOI 10.1016/j.socnet.2015.04.005
+   Florida Richard L, 2015, SEGREGATED CITY GEOG, V0, P0
+   Fortunato S, 2016, PHYS REP, V659, P1, DOI 10.1016/j.physrep.2016.09.002
+   Giannella E, 2016, SOC NETWORKS, V47, P15, DOI 10.1016/j.socnet.2016.02.003
+   Hampton KN, 2018, CONTEMP SOCIOL, V47, P643, DOI 10.1177/0094306118805415
+   Lubbers MJ, 2020, INT MIGR REV, V54, P177, DOI 10.1177/0197918318812343
+   Maechler M, 2019, CLUSTER: CLUSTER ANALYSIS BASICS AND EXTENSIONS. R PACKAGE VERSION 2.1.0, V0, P0
+   Martí J, 2017, SOC NETWORKS, V48, P192, DOI 10.1016/j.socnet.2016.08.006
+   McCarty C, 2019, CONDUCTING PERSONAL, V0, P0
+   Offer S, 2018, AM SOCIOL REV, V83, P111, DOI 10.1177/0003122417737951
+   Orfield Gary, 2017, TOUGH CHOICES FACING, V0, P0
+   Perry BL, 2018, EGOCENTRIC NETWORK ANALYSIS: FOUNDATIONS, V0, P0, DOI DOI 10.1017/9781316443255
+   Puetz K, 2018, SOCIAL NETWORKS RESI, V0, P0
+   Unknown -, 2017, SOMEONE TO TALK TO, V0, P0
+   Vacca R, 2018, SOC NETWORKS, V53, P72, DOI 10.1016/j.socnet.2016.08.007
+   Wang DJ, 2016, AM SOCIOL REV, V81, P517, DOI 10.1177/0003122416644414
+NR 22
+TC 28
+Z9 0
+U1 4.0
+U2 21.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2020
+VL 8
+BP 142
+EP 167
+DI 10.1017/nws.2019.29
+PG 26
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000537535500002
+PM 33224496
+ER
+
+PT J
+AU Brashears, ME
+   Brashears, Laura Aufderheide
+   Harder, Nicolas L
+TI Where you are, what you want, and what you can do: The role of master statuses, personality traits, and social cognition in shaping ego network size, structure, and composition
+SO NETWORK SCIENCE
+DE ego networks; cognition; memory; personality; master statuses
+AB Ego networks are thought to be influenced by the opportunities provided to associate with others given by our master statuses (e.g., race or sex), by the preferences individuals possess for interaction given our personality traits (e.g., extroverted or neurotic), and by the capacity to manage interactions on an ongoing basis given our cognitive ability to recall network information. However, prior research has been unable to examine all three classes of predictors concurrently. We rectify this deficiency in the literature by using a novel dataset of nearly 1000 respondents collected using controlled laboratory designs; using this dataset, we can simultaneously examine the impact of master statuses, personality traits, and social cognitive competencies on ego network size, structure (i.e., density), and composition (i.e., diversity). We find that all classes of predictors influence our ego networks, though in different ways, and point to new avenues for research into human sociability.
+C1 [Brashears, Matthew E.; Brashears, Laura Aufderheide; Harder, Nicolas L.] Univ South Carolina, Dept Sociol, Columbia, SC 29208 USA.
+RP Brashears, ME (corresponding author), Univ South Carolina, Dept Sociol, Columbia, SC 29208 USA.
+FU W.T. Grant Foundation [8316]; National Institute on Drug Abuse
+CR Adams J, 2015, NETW SCI, V3, P293, DOI 10.1017/nws.2015.16
+   Baams L, 2015, J RES PERS, V54, P2, DOI 10.1016/j.jrp.2014.07.009
+   Bonilla-Silva Eduardo, 2017, RACISM WITHOUT RACISTS, V0, P0
+   Brashears ME, 2015, J SOC STRUCT, V16, P1
+   Brashears ME, 2016, ADV GROUP PROCESS, V33, P1, DOI 10.1108/S0882-614520160000033001
+   Brashears ME, 2016, SOC NETWORKS, V44, P74, DOI 10.1016/j.socnet.2015.06.002
+   Brashears ME, 2018, SOC NETWORKS, V55, P104, DOI 10.1016/j.socnet.2018.05.010
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   Feiler DC, 2015, PSYCHOL SCI, V26, P593, DOI 10.1177/0956797615569580
+   Jariego IM, 2018, AM J COMMUN PSYCHOL, V62, P233, DOI 10.1002/ajcp.12271
+   Laakasuo M, 2017, SOC PSYCHOL PERS SCI, V8, P66, DOI 10.1177/1948550616662126
+   McCabe JM, 2016, CONNECTING COLL FRIE, V0, P0
+   Omodei E, 2017, SCI REPORTS, V7, P1
+   Perry BL, 2018, EGOCENTRIC NETWORK ANALYSIS: FOUNDATIONS, V0, P0, DOI DOI 10.1017/9781316443255
+   Selden M, 2018, SOC NETWORKS, V52, P81, DOI 10.1016/j.socnet.2017.05.007
+   Tran VC, 2017, INT MIGR REV, V51, P155, DOI 10.1111/imre.12192
+NR 16
+TC 6
+Z9 0
+U1 4.0
+U2 13.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2020
+VL 8
+BP 356
+EP 380
+DI 10.1017/nws.2020.6
+PG 25
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000556240100004
+PM 
+ER
+
+PT J
+AU Hogan, B
+   Janulis, Patrick
+   Phillips, Gregory Lee
+   Melville, Joshua
+   Mustanski, Brian
+   Contractor, Noshir
+   Birkett, Michelle
+TI Assessing the stability of egocentric networks over time using the digital participant-aided sociogram tool Network Canvas
+SO NETWORK SCIENCE
+DE egocentric networks; participant-aided sociograms; reliability; panel conditioning; ymsm; panel study; longitudinal networks
+AB This paper examines the stability of egocentric networks as reported over time using a novel touchscreen-based participant-aided sociogram. Past work has noted the instability of nominated network alters, with a large proportion leaving and reappearing between interview observations. To explain this instability of networks over time, researchers often look to structural embeddedness, namely the notion that alters are connected to other alters within egocentric networks. Recent research has also asked whether the interview situation itself may play a role in conditioning respondents to what might be the appropriate size and shape of a social network, and thereby which alters ought to be nominated or not. We report on change in these networks across three waves and assess whether this change appears to be the result of natural churn in the network or whether changes might be the result of factors in the interview itself, particularly anchoring and motivated underreporting. Our results indicate little change in average network size across waves, particularly for indirect tie nominations. Slight, significant changes were noted between waves one and two particularly among those with the largest networks. Almost no significant differences were observed between waves two and three, either in terms of network size, composition, or density. Data come from three waves of a Chicago-based panel study of young men who have sex with men.
+C1 [Hogan, Bernie] Univ Oxford, Oxford, England.   
+[Janulis, Patrick; Phillips, Gregory Lee, II; Melville, Joshua; Mustanski, Brian; Contractor, Noshir; Birkett, Michelle] Northwestern Univ, Evanston, IL USA.
+RP Hogan, B (corresponding author), Univ Oxford, Oxford, England.
+FU National Institute on Drug Abuse; National Institute of Allergy and
+CR Eagle DE, 2015, SOC NETWORKS, V40, P75, DOI 10.1016/j.socnet.2014.07.005
+   Eddens K, 2018, SOC NETWORKS, V55, P130, DOI 10.1016/j.socnet.2018.05.009
+   Feng D, 2018, AGREE VARIOUS METHOD, V0, P0
+   Hogan B, 2016, 34TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, V0, P5360, DOI 10.1145/2858036.2858368
+   Jeon GY, 2016, ACM CONFERENCE ON COMPUTER-SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING (CSCW 2016), V0, PP887, DOI 10.1145/2818048.2820074
+   Lee A, 2016, 34TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, V0, P2396, DOI 10.1145/2858036.2858071
+   McConnell E, 2018, INT J ENV RES PUB HE, V15, P0, DOI 10.3390/ijerph15061078
+   Phillips G, 2017, SOC NETWORKS, V48, P250, DOI 10.1016/j.socnet.2016.10.001
+   Silber H, 2019, SOC NETWORKS, V56, P45, DOI 10.1016/j.socnet.2018.08.003
+   Stark TH, 2017, SOC NETWORKS, V48, P36, DOI 10.1016/j.socnet.2016.07.007
+   Unknown -, 2015, SOCIAL NETWORK ANAL, V0, P0
+NR 11
+TC 19
+Z9 0
+U1 1.0
+U2 10.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2020
+VL 8
+BP 204
+EP 222
+DI 10.1017/nws.2019.27
+PG 19
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000537535500005
+PM 33628443
+ER
+
+PT J
+AU Wellman, B
+   Quan-haase, Anabel
+   Harper, Molly-Gloria
+TI The networked question in the digital era: How do networked, bounded, and limited individuals connect at different stages in the life course?
+SO NETWORK SCIENCE
+DE digital media; networked individualism; networked individuals; socially bounded; socially limited; age-groups; east york studies; canada;networked-society
+AB We used in-depth interviews with 101 participants in the East York section of Toronto, Canada to understand how digital media affects social connectivity in general-and networked individualism in particular-for people at different stages of the life course. Although people of all ages intertwined their use of digital media with their face-to-face interactions, younger adults used more types of digital media and have more diversified personal networks. People in different age-groups conserved media, tending to stick with the digital media they learned to use in earlier life stages. Approximately one-third of the participants were Networked Individuals: In each age-group, they were the most actively using digital media to maintain ties and to develop new ones. Another one-third were Socially Bounded, who often actively used digital media but kept their connectivity within a smaller set of social groups. The remaining one-third, who were Socially Limited, were the least likely to use digital media. Younger adults were the most likely to be Networked Individuals, leading us to wonder if the percentage of the population who are Bounded or Limited will decline over time.
+C1 [Wellman, Barry] NetLab Network, Toronto, ON, Canada.   
+[Quan-Haase, Anabel; Harper, Molly-Gloria] Western Univ, London, ON, Canada.
+RP Wellman, B (corresponding author), NetLab Network, Toronto, ON, Canada.
+FU Social Science and Humanities Research Council of Canada [SSHRC
+CR Anderson BYM, 2015, AM DEMOGRAPHICS DIGI, V0, P0
+   Braun V, 2021, QUAL RES PSYCHOL, V18, P328, DOI 10.1080/14780887.2020.1769238
+   Chang PF, 2015, J BROADCAST ELECTRON, V59, P221, DOI 10.1080/08838151.2015.1029126
+   Dotson T, 2017, TECHNICALLY TOGETHER: RECONSTRUCTING COMMUNITY IN A NETWORKED WORLD, V0, P1
+   Ferguson JF, 2019, JCI INSIGHT, V4, P0, DOI 10.1172/jci.insight.126241
+   Fields J, 2019, TECHCRUNCH, V0, P0
+   Hampton KN, 2016, AM BEHAV SCI, V60, P101, DOI 10.1177/0002764215601714
+   Hampton KN, 2018, CONTEMP SOCIOL, V47, P643, DOI 10.1177/0094306118805415
+   Hargittai E, 2017, CAN J COMMUN, V42, P195, DOI 10.22230/cjc2017v42n2a3176
+   Hargittai E, 2020, SOC SCI COMPUT REV, V38, P10, DOI 10.1177/0894439318788322
+   Hochschild Arlie Russell, 2016, STRANGERS THEIR OWN, V0, P0
+   Lai CH, 2019, J COMPUT-MEDIAT COMM, V24, P126, DOI 10.1093/jcmc/zmz004
+   Loach K, 2016, I DANIEL BLAKE, V0, P0
+   Payne M, 2015, E YORK, V0, P0
+   Quan-Haase A, 2017, INFORM COMMUN SOC, V20, P967, DOI 10.1080/1369118X.2017.1305428
+   Quan-Haase A, 2018, AM BEHAV SCI, V62, P1207, DOI 10.1177/0002764218777572
+   Quan-Haase Anabel, 2018, CONNECTING FAMILIES: INFORMATION AND COMMUNICATION TECHNOLOGIES, V0, P0
+   Rainie L, 2019, SOC INTERNET, V0, P0
+   Robinson L, 2015, INFORM COMMUN SOC, V18, P569, DOI 10.1080/1369118X.2015.1012532
+   Robinson L, 2018, INFORM COMMUN SOC, V21, P661, DOI 10.1080/1369118X.2017.1411521
+   Schreurs K, 2017, CAN J COMMUN, V42, P359, DOI 10.22230/cjc2017v42n2a3130
+   Silver L, 2019, EMERGING ECONOMIES, V0, P0
+   Smith AV, 2018, NO TITLE CAPTURED, V0, P0
+   Toronto City Planning, 2018, TOR E YORK CIT TOR C, V0, P0
+   Toronto Population, 2017, WORLD POP REV TOR PO, V0, P0
+   Twenge JM, 2017, IGEN, V0, P0
+   Uchitelle L, 2019, NY TIMES, V0, P0
+   Voltaire Fran├a┬ois-Marie Arouet, 2016, CANDIDE, V0, P0
+   Wang H, 2018, INFORM COMMUN SOC, V21, P681, DOI 10.1080/1369118X.2018.1428659
+NR 29
+TC 6
+Z9 0
+U1 1.0
+U2 16.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2020
+VL 8
+BP 291
+EP 312
+DI 10.1017/nws.2019.28
+PG 22
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000556240100001
+PM 
+ER
+
+PT J
+AU Ostoic, JAR
+TI Creating context for social influence processes in multiplex networks
+SO NETWORK SCIENCE
+DE multiplex networks; network exposure; structural balance; bundle patterns; semirings; innovation adoption
+AB This paper elaborates on two theories of social influence processes to multiplex network structures. First, cohesion influence is based on mutual communication made by different types of relations, and second comparison influence that is built on contrasting types of tie. While a system of bundles with a mutual character constitutes the setting for a multiplex network exposure measure within cohesion, comparison influence is defined algebraically through classes of actors in terms of a weakly balanced semiring structure that considers positive, negative, and also ambivalent types of tie. A case study with these approaches is made on an entrepreneurial community network with formal business relations, informal friendship ties, and perceived competition among the firms, and the methods are validated with the Sampson Monastery data set.
+C1 [Ostoic, J. Antonio Rivero] Aarhus Univ, Sch Business & Social Sci, DK-8210 Aarhus V, Denmark.
+RP Ostoic, JAR (corresponding author), Aarhus Univ, Sch Business & Social Sci, DK-8210 Aarhus V, Denmark.
+CR Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160
+   Core Team R, 2015, R: A LANGUAGE AND ENVIRONMENT FOR STATISTICAL COMPUTING, V0, P0
+   De Domenico M, 2013, PHYS REV X, V3, P0, DOI 10.1103/PhysRevX.3.041022
+   Estrada E, 2014, PHYS REV E, V90, P0, DOI 10.1103/PhysRevE.90.042802
+   Gallagher HC, 2015, LANG LEARN, V65, P929, DOI 10.1111/lang.12130
+   Heider F, 2013, PSYCHOL INTERPERSONA, V0, P0
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Lazarsfeld PaulF, 2021, PEOPLES CHOICE VOTER, V0, P0
+   Salehi M, 2015, IEEE T NETW SCI ENG, V2, P65, DOI 10.1109/TNSE.2015.2425961
+NR 9
+TC 4
+Z9 0
+U1 0.0
+U2 7.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2017
+VL 5
+BP 1
+EP 29
+DI 10.1017/nws.2016.28
+PG 29
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000399161500001
+PM 
+ER
+

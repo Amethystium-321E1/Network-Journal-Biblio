@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>A local perspective on community structure in multilayer networks</title>
+<url>http://dx.doi.org/10.1017/nws.2016.22</url>
+<snippet>The analysis of multilayer networks is among the most active areas of network science, and there are several methods to detect dense "communities" of nodes in multilayer networks. One way to define a community is as a set of nodes that trap a diffusion-like dynamical process (usually a random walk) for a long time. In this view, communities are sets of nodes that create bottlenecks to the spreading of a dynamical process on a network. We analyze the local behavior of different random walks on multiplex networks (which are multilayer networks in which different layers correspond to different types of edges) and show that they have very different bottlenecks, which correspond to rather different notions of what it means for a set of nodes to be a good community. This has direct implications for the behavior of community-detection methods that are based on these random walks.
+WOS:000402960800002
+</snippet>
+</document>
+
+<document id="2">
+<title>Bayesian approach to multilayer stochastic blockmodel and network changepoint detection</title>
+<url>http://dx.doi.org/10.1017/nws.2017.13</url>
+<snippet>Network scholars commonly encounter multiple networks, each of which is possibly governed by distinct generation rules while sharing a node group structure. Although the stochastic blockmodeling-detecting such latent group structures with group-specific connection profiles- has been a major topic of recent research, the focus has been given to the assortative group discovery of a single network. Despite its universality, concepts, and techniques for simultaneous characterization of node traits of multilayer networks, constructed by stacking multiple networks into layers, have been limited. Here, we propose a Bayesian multilayer stochastic blockmodeling framework that uncovers layer-common node traits and factors associated with layer-specific network generating functions. Without assuming a priori layerspecific generation rules, our fully Bayesian treatment allows probabilistic inference of latent traits. We extend the approach to detect changes in block structures embedded in temporal layers of network time series. We demonstrate the method using synthetic multilayer networks with assortative, disassortative, core-periphery, and overlapping community structures. Finally, we apply the method to empirical social network datasets, and find that it detects significant latent traits and structural changepoints. In particular, we uncover endogenous historical regimes associated with distinct constellations of states in United States Senate roll call vote similarity patterns.
+WOS:000402960800003
+</snippet>
+</document>
+
+<document id="3">
+<title>Forward reachable sets: Analytically derived properties of connected components for dynamic networks</title>
+<url>http://dx.doi.org/10.1017/nws.2017.10</url>
+<snippet>Formal analysis of the emergent structural properties of dynamic networks is largely uncharted territory. We focus here on the properties of forward reachable sets (FRS) as a function of the underlying degree distribution and edge duration. FRS are defined as the set of nodes that can be reached from an initial seed via a path of temporally ordered edges; a natural extension of connected component measures to dynamic networks. Working in a stochastic framework, we derive closed-form expressions for the mean and variance of the exponential growth rate of the FRS for temporal networks with both edge and node dynamics. For networks with node dynamics, we calculate thresholds for the growth of the FRS. The effects of finite population size are explored via simulation and approximation. We examine how these properties vary by edge duration and different cross-sectional degree distributions that characterize a range of scientifically interesting normative outcomes (Poisson and Bernoulli). The size of the forward reachable set gives an upper bound for the epidemic size in disease transmission network models, relating this work to epidemic modeling (Ferguson, 2000; Eames, 2004).
+WOS:000408564600005
+</snippet>
+</document>
+
+<document id="4">
+<title>Evaluating the impact of interdisciplinary research: A multilayer network approach</title>
+<url>http://dx.doi.org/10.1017/nws.2016.15</url>
+<snippet>Nowadays, scientific challenges usually require approaches that cross traditional boundaries between academic disciplines, driving many researchers towards interdisciplinarity. Despite its obvious importance, there is a lack of studies on how to quantify the influence of interdisciplinarity on the research impact, posing uncertainty in a proper evaluation for hiring and funding purposes. Here, we propose a method based on the analysis of bipartite interconnected multilayer networks of citations and disciplines, to assess scholars, institutions, and countries interdisciplinary importance. Using data about physics publications and US patents, we show that our method allows to reward, using a quantitative approach, scholars and institutions that have carried out interdisciplinary work and have had an impact in different scientific areas. The proposed method could be used by funding agencies, universities and scientific policy decision makers for hiring and funding purposes, and to complement existing methods to rank universities and countries.
+WOS:000402960800006
+</snippet>
+</document>
+
+<document id="5">
+<title>On spectral embedding performance and elucidating network structure in stochastic blockmodel graphs</title>
+<url>http://dx.doi.org/10.1017/nws.2019.23</url>
+<snippet>Statistical inference on graphs often proceeds via spectral methods involving low-dimensional embeddings of matrix-valued graph representations such as the graph Laplacian or adjacency matrix. In this paper, we analyze the asymptotic information-theoretic relative performance of Laplacian spectral embedding and adjacency spectral embedding for block assignment recovery in stochastic blockmodel graphs by way of Chernoff information. We investigate the relationship between spectral embedding performance and underlying network structure (e.g., homogeneity, affinity, core-periphery, and (un)balancedness) via a comprehensive treatment of the two-block stochastic blockmodel and the class of K-blockmodels exhibiting homogeneous balanced affinity structure. Our findings support the claim that, for a particular notion of sparsity, loosely speaking, "Laplacian spectral embedding favors relatively sparse graphs, whereas adjacency spectral embedding favors not-too-sparse graphs." We also provide evidence in support of the claim that "adjacency spectral embedding favors core-periphery network structure."
+WOS:000491273900001
+</snippet>
+</document>
+
+<document id="6">
+<title>Introduction to the special issue on multilayer networks</title>
+<url>http://dx.doi.org/10.1017/nws.2017.15</url>
+<snippet>
+WOS:000402960800001
+</snippet>
+</document>
+
+<document id="7">
+<title>Statistical evaluation of spectral methods for anomaly detection in static networks</title>
+<url>http://dx.doi.org/10.1017/nws.2019.14</url>
+<snippet>The topic of anomaly detection in networks has attracted a lot of attention in recent years, especially with the rise of connected devices and social networks. Anomaly detection spans a wide range of applications, from detecting terrorist cells in counter-terrorism efforts to identifying unexpected mutations during ribonucleic acid transcription. Fittingly, numerous algorithmic techniques for anomaly detection have been introduced. However, to date, little work has been done to evaluate these algorithms from a statistical perspective. This work is aimed at addressing this gap in the literature by carrying out statistical evaluation of a suite of popular spectral methods for anomaly detection in networks. Our investigation on the statistical properties of these algorithms reveals several important and critical shortcomings that we make methodological improvements to address. Further, we carry out a performance evaluation of these algorithms using simulated networks and extend the methods from binary to count networks.
+WOS:000491273900003
+</snippet>
+</document>
+
+<document id="8">
+<title>Multilevel social spaces: The network dynamics of organizational fields</title>
+<url>http://dx.doi.org/10.1017/nws.2017.8</url>
+<snippet>In this paper, we seek to advance an updated concept of social space that integrates the multilayer and dynamic statistical network methods currently at the disposal of social network researchers. We demonstrate the analytic value of the new concept of social space that we propose with the help of an illustrative analysis of an organizational field involving organizations external and internal decisions that congeal into a multilevel system of action that shapes the space of possibilities for other participants in the field. Through these internal and external decisions, organizations seek certain positions in their social space while simultaneously modifying that social space over time. We conclude by arguing that network researchers choices of goodness-of-fit statistics should reflect a consideration about the dimensions of social space of most interest to the nodes involved.
+WOS:000402960800004
+</snippet>
+</document>
+
+<document id="9">
+<title>The hourglass effect in hierarchical dependency networks</title>
+<url>http://dx.doi.org/10.1017/nws.2017.22</url>
+<snippet>Many hierarchically modular systems are structured in a way that resembles an hourglass. This "hourglass effect" means that the system generates many outputs from many inputs through a relatively small number of intermediate modules that are critical for the operation of the entire system, referred to as the waist of the hourglass. We investigate the hourglass effect in general, not necessarily layered, hierarchical dependency networks. Our analysis focuses on the number of source-to-target dependency paths that traverse each vertex, and it identifies the core of a dependency network as the smallest set of vertices that collectively cover almost all dependency paths. We then examine if a given network exhibits the hourglass property or not, comparing its core size with a "flat" (i.e., non-hierarchical) network that preserves the source dependencies of each target in the original network. As a possible explanation for the hourglass effect, we propose the Reuse Preference model that captures the bias of new modules to reuse intermediate modules of similar complexity instead of connecting directly to sources or low complexity modules. We have applied the proposed framework in a diverse set of dependency networks from technological, natural, and information systems, showing that all these networks exhibit the general hourglass property but to a varying degree and with different waist characteristics.
+WOS:000416732200005
+</snippet>
+</document>
+
+<document id="10">
+<title>Opinion-based centrality in multiplex networks: A convex optimization approach</title>
+<url>http://dx.doi.org/10.1017/nws.2017.7</url>
+<snippet>Most people simultaneously belong to several distinct social networks, in which their relations can be different. They have opinions about certain topics, which they share and spread on these networks, and are influenced by the opinions of other persons. In this paper, we build upon this observation to propose a new nodal centrality measure for multiplex networks. Our measure, called Opinion centrality, is based on a stochastic model representing opinion propagation dynamics in such a network. We formulate an optimization problem consisting in maximizing the opinion of the whole network when controlling an external influence able to affect each node individually. We find a mathematical closed form of this problem, and use its solution to derive our centrality measure. According to the opinion centrality, the more a node is worth investing external influence, and the more it is central. We perform an empirical study of the proposed centrality over a toy network, as well as a collection of real-world networks. Our measure is generally negatively correlated with existing multiplex centrality measures, and highlights different types of nodes, accordingly to its definition.
+WOS:000402960800005
+</snippet>
+</document>
+
+<document id="11">
+<title>Multicores-periphery structure in networks</title>
+<url>http://dx.doi.org/10.1017/nws.2018.27</url>
+<snippet>Many real-world networks exhibit a multicores-periphery structure, with densely connected vertices in multiple cores surrounded by a general periphery of sparsely connected vertices. Identification of the multicores-periphery structure can provide a new lens to understand the structures and functions of various real-world networks. This paper defines the multicores-periphery structure and introduces an algorithm to identify the optimal partition of multiple cores and the periphery in general networks. We demonstrate the performance of our algorithm by applying it to a well-known social network and a patent technology network, which are best characterized by the multicores-periphery structure. The analyses also reveal the differences between our multicores-periphery detection algorithm and two state-of-the-art algorithms for detecting the single core-periphery structure and community structure.
+WOS:000465959300004
+</snippet>
+</document>
+
+<document id="12">
+<title>Creating context for social influence processes in multiplex networks</title>
+<url>http://dx.doi.org/10.1017/nws.2016.28</url>
+<snippet>This paper elaborates on two theories of social influence processes to multiplex network structures. First, cohesion influence is based on mutual communication made by different types of relations, and second comparison influence that is built on contrasting types of tie. While a system of bundles with a mutual character constitutes the setting for a multiplex network exposure measure within cohesion, comparison influence is defined algebraically through classes of actors in terms of a weakly balanced semiring structure that considers positive, negative, and also ambivalent types of tie. A case study with these approaches is made on an entrepreneurial community network with formal business relations, informal friendship ties, and perceived competition among the firms, and the methods are validated with the Sampson Monastery data set.
+WOS:000399161500001
+</snippet>
+</document>
+
+</searchresult>

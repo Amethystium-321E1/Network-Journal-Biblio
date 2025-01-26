@@ -1,0 +1,610 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Gravel, J
+   Valasik, Matthew
+   Mulder, Joris
+   Leenders, Roger
+   Butts, Carter
+   Brantingham, P Jeffrey
+   Tita, George E
+TI Rivalries, reputation, retaliation, and repetition: Testing plausible mechanisms for the contagion of violence between street gangs using relational event models
+SO NETWORK SCIENCE
+DE gangs; violence; relational events; retaliation; social contagion;social networks
+AB The hypothesis that violence-especially gang violence-behaves like a contagious disease has grown in popularity in recent years. Scholars have long observed the tendency for violence to cluster in time and space, but little research has focused on empirically unpacking the mechanisms that make violence contagious. In the context of gang violence, retaliation is the prototypical mechanism to explain why violence begets violence. In this study, we leverage relational event models (REMs)-an underutilized yet particularly well-suited modeling technique to study the dynamics of inter-gang violence. We use REMs to examine gang violences tendency to replicate-for which retaliation is but one plausible mechanism-and its tendency to diffuse to other groups. We rely on data on conflicts between gangs in a region of Los Angeles over 3 years. We consider how the characteristics of gangs, their spatial proximity, networks of established rivalries, and the evolving history, directionality, and structure of conflicts predict future inter-gang conflicts. While retaliation is an important mechanism for the replication of violence, established rivalries, and inertia-a gangs tendency to continue attacking the same group-are more important drivers of future violence. We also find little evidence for an emerging pecking order or status hierarchy between gangs suggested by other scholars. However, we find that gangs are more likely to attack multiple gangs in quick succession. We propose that gang violence is more likely to diffuse to other groups because of the boost of internal group processes an initial attack provides.
+C1 [Gravel, Jason] Temple Univ, Dept Criminal Justice, Philadelphia, PA 19122 USA.   
+[Valasik, Matthew] Univ Alabama, Dept Criminol & Criminal Justice, Tuscaloosa, AL USA.   
+[Mulder, Joris] Tillburg Univ, Dept Methodol & Stat, Tilburg, Netherlands.   
+[Leenders, Roger] Tillburg Univ, Dept Org Studies, Tilburg, Netherlands.   
+[Butts, Carter] Univ Calif Irvine, Dept Sociol, Irvine, CA USA.   
+[Brantingham, P. Jeffrey] Univ Calif Los Angeles, Dept Anthropol, Los Angeles, CA 90024 USA.   
+[Tita, George E.] Univ Calif Irvine, Dept Criminol Law & Soc, Irvine, CA 92697 USA.
+RP Tita, GE (corresponding author), Univ Calif Irvine, Dept Criminol Law & Soc, Irvine, CA 92697 USA.
+FU European Research Council [758791]; Air Force Office of Scientific
+CR Abt Thomas, 2019, BLEEDING OUT DEVASTA, VFirst, P0, DOI 10.1093/sw/25.6.506
+   Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001
+   Aspholm Roberto, 2020, VIEWS STREETS TRANSF, V0, P0
+   Barton MS, 2020, CRIME DELINQUENCY, V66, P1888, DOI 10.1177/0011128719860835
+   Barton MS, 2021, CRIMINAL JUSTICE REV, V46, P0, DOI [10.1177/0734016821996798., DOI 10.1177/0734016821996798]
+   Bianchi F, 2022, WAVE RANDOM COMPLEX, V15, P19, DOI DOI 10.1177/20597991221077877
+   Bichler G, 2020, SOC SCI-BASEL, V9, P0, DOI 10.3390/socsci9110203
+   Brantingham PJ, 2019, CRIME SCI, V8, P0, DOI 10.1186/s40163-019-0102-3
+   Brantingham PJ, 2021, J CRIM JUST, V76, P0, DOI 10.1016/j.jcrimjus.2021.101848
+   Brantingham PJ, 2021, J QUANT CRIMINOL, V37, P953, DOI 10.1007/s10940-020-09479-1
+   Bubolz BF, 2019, DEVIANT BEHAV, V40, P690, DOI 10.1080/01639625.2018.1437655
+   Butts CT, 2022, RELEVENT RELATIONAL, V0, P0
+   Decker SH, 2022, ON GANGS, V0, P1
+   Densley JA, 2020, HDB COLLECTIVE VIOLE, V0, PP305, DOI [10.4324/9780429197420-28, DOI 10.4324/9780429197420-28]
+   Densley JA, 2020, YOUTH JUSTICE, V20, P11, DOI 10.1177/1473225419883706
+   Faust K, 2019, ANNU REV CRIMINOL, V2, P99, DOI 10.1146/annurev-criminol-011518-024701
+   Goldberg A, 2018, AM SOCIOL REV, V83, P897, DOI 10.1177/0003122418797576
+   Gravel J, 2018, J QUANT CRIMINOL, V34, P189, DOI 10.1007/s10940-016-9331-8
+   Hughes LA, 2022, J QUANT CRIMINOL, V38, P365, DOI 10.1007/s10940-021-09507-8
+   Lauger TR, 2020, SOCIOL COMPASS, V14, P0, DOI 10.1111/soc4.12772
+   Leverso J, 2021, J RES CRIME DELINQ, V58, P239, DOI 10.1177/0022427820952124
+   Lewis K, 2020, SOC FORCES, V98, P1829, DOI 10.1093/sf/soz106
+   Loeffler C, 2018, J QUANT CRIMINOL, V34, P999, DOI 10.1007/s10940-017-9363-8
+   Mulder J, 2019, CHAOS SOLITON FRACT, V119, P73, DOI 10.1016/j.chaos.2018.11.027
+   Nakamura K, 2020, GLOB CRIME, V21, P3, DOI 10.1080/17440572.2019.1627879
+   Niezink NMD, 2023, J QUANT CRIMINOL, V39, P655, DOI 10.1007/s10940-022-09540-1
+   Ouellet M, 2019, CRIMINOLOGY, V57, P5, DOI 10.1111/1745-9125.12194
+   Parker A, 2022, ORGAN RES METHODS, V25, P513, DOI 10.1177/10944281211005167
+   Patton DU, 2019, INTERNATIONAL JOURNAL OF BULLYING PREVENTION, V1, P205, DOI [10.1007/s42380-019-00014-w, DOI 10.1007/S42380-019-00014-W]
+   Pizarro JM, 2020, HOMICIDE STUD, V24, P3, DOI 10.1177/1088767918816741
+   ROMAN CG, 2019, J EXP CRIMINOL, V0015, P0
+   Reid S E, 2020, GANGS IN THE ERA OF INTERNET AND SOCIAL MEDIA, V0, PP105, DOI DOI 10.1007/978-3-030-47214-6, 6
+   Reid SE, 2020, ALT-RIGHT GANGS, V0, P0
+   Roberto E, 2018, J URBAN HEALTH, V95, P372, DOI 10.1007/s11524-018-0259-1
+   Slutkin Gary, 2018, AMA J ETHICS, V20, P47, DOI 10.1001/journalofethics.2018.20.1.nlit1-1801
+   Stuart F, 2020, BALLAD OF THE BULLET: GANGS, V0, P0
+   Stuart F, 2020, SOC PROBL, V67, P191, DOI 10.1093/socpro/spz010
+   Tillburg Network Group, 2021, REMSTATS COMP STAT R, V0, P0
+   Urbanik MM, 2021, SOC SCI-BASEL, V10, P0, DOI 10.3390/socsci10010017
+   Valasik M, 2018, J CRIM JUST, V58, P10, DOI 10.1016/j.jcrimjus.2018.06.001
+   Valasik M, 2021, SOC SCI-BASEL, V10, P0, DOI 10.3390/socsci10020048
+   Vecchio JM, 2022, YOUTH VIOLENCE JUV J, V0, P0, DOI 10.1177/15412040221116305
+   Vigil JamesDiego, 2020, MULTIPLE MARGINALITY AND GANGS: THROUGH A PRISM DARKLY, V0, P0
+   Vilalta C, 2021, GLOB CRIME, V22, P222, DOI 10.1080/17440572.2021.1909480
+NR 44
+TC 4
+Z9 0
+U1 4.0
+U2 10.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2023
+VL 11
+BP 324
+EP 350
+DI 10.1017/nws.2023.8
+PG 27
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000983831100001
+PM 
+ER
+
+PT J
+AU Fritz, C
+   Mehrl, Marius
+   Thurner, Paul W
+   Kauermann, Goran
+TI All that glitters is not gold: Relational events models with spurious events
+SO NETWORK SCIENCE
+DE data augmentation; longitudinal network analysis; relational event model; spurious events
+AB As relational event models are an increasingly popular model for studying relational structures, the reliability of large-scale event data collection becomes more and more important. Automated or human-coded events often suffer from non-negligible false-discovery rates in event identification. And most sensor data are primarily based on actors spatial proximity for predefined time windows; hence, the observed events could relate either to a social relationship or random co-location. Both examples imply spurious events that may bias estimates and inference. We propose the Relational Event Model for Spurious Events (REMSE), an extension to existing approaches for interaction data. The model provides a flexible solution for modeling data while controlling for spurious events. Estimation of our model is carried out in an empirical Bayesian approach via data augmentation. Based on a simulation study, we investigate the properties of the estimation procedure. To demonstrate its usefulness in two distinct applications, we employ this model to combat events from the Syrian civil war and student co-location data. Results from the simulation and the applications identify the REMSE as a suitable approach to modeling relational event data in the presence of spurious events.
+C1 [Fritz, Cornelius; Kauermann, Goran] Ludwig Maximilians Univ Munchen, Dept Stat, Munich, Germany.   
+[Mehrl, Marius; Thurner, Paul W.] Ludwig Maximilians Univ Munchen, Geschwister Scholl Inst Polit Sci, Munich, Germany.
+RP Fritz, C (corresponding author), Ludwig Maximilians Univ Munchen, Dept Stat, Munich, Germany.
+FU German Federal Ministry of Education and Research (BMBF) [01IS18036A];
+CR Bauer V, 2022, ASTA-ADV STAT ANAL, V106, P97, DOI 10.1007/s10182-021-00393-w
+   Blair RA, 2020, J CONFLICT RESOLUT, V64, P1885, DOI 10.1177/0022002720918923
+   Butters R, 2022, POLIT BEHAV, V44, P1079, DOI 10.1007/s11109-020-09647-w
+   Casella G, 2021, STAT INFERENCE, V0, P0
+   Dawkins S, 2021, J PEACE RES, V58, P1098, DOI 10.1177/0022343320962159
+   Dorff C, 2020, J POLIT, V82, P476, DOI 10.1086/706459
+   Elmer T, 2019, BEHAV RES METHODS, V51, P2120, DOI 10.3758/s13428-018-1180-y
+   Elmer T, 2020, SCI REP-UK, V10, P0, DOI 10.1038/s41598-020-58297-9
+   Fritz C, 2021, NETW SCI, V9, P291, DOI 10.1017/nws.2021.9
+   Gade EK, 2019, J PEACE RES, V56, P321, DOI 10.1177/0022343318806940
+   Jäger K, 2018, J GLOB SECUR STUD, V3, P498, DOI 10.1093/jogss/ogy015
+   Kauffmann M, 2020, RESEARCH METHODS IN DEFENCE STUDIES, V0, P129
+   Lerner J, 2021, SOC NETWORKS, V66, P224, DOI 10.1016/j.socnet.2021.04.001
+   Malang T, 2019, BRIT J POLIT SCI, V49, P1475, DOI 10.1017/S0007123417000217
+   Noghrehchi F, 2021, STAT MED, V40, P2467, DOI 10.1002/sim.8915
+   Pischedda C, 2018, INT SECURITY, V43, P138, DOI 10.1162/ISEC, a, 00322
+   Popovic M, 2018, INT INTERACT, V44, P749, DOI 10.1080/03050629.2017.1414812
+   Wood SN, 2020, TEST-SPAIN, V29, P307, DOI 10.1007/s11749-020-00711-5
+NR 18
+TC 1
+Z9 0
+U1 1.0
+U2 3.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2023
+VL 11
+BP 184
+EP 204
+DI 10.1017/nws.2022.22
+PG 21
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000854359300001
+PM 
+ER
+
+PT J
+AU Lerner, J
+   Lomi, Alessandro
+TI Reliability of relational event model estimates under sampling: How to fit a relational event model to 360 million dyadic events
+SO NETWORK SCIENCE
+DE relational event models; dynamic networks; large networks; parameter estimation; sampling; wikipedia
+AB We assess the reliability of relational event model (REM) parameters estimated under two sampling schemes: (1) uniform sampling from the observed events and (2) case-control sampling which samples nonevents, or null dyads ("controls"), from a suitably defined risk set. We experimentally determine the variability of estimated parameters as a function of the number of sampled events and controls per event, respectively. Results suggest that REMs can be reliably fitted to networks with more than 12 million nodes connected by more than 360 million dyadic events by analyzing a sample of some tens of thousands of events and a small number of controls per event. Using the data that we collected on the Wikipedia editing network, we illustrate how network effects commonly included in empirical studies based on REMs need widely different sample sizes to be reliably estimated. For our analysis we use an open-source software which implements the two sampling schemes, allowing analysts to fit and analyze REMs to the same or other data that may be collected in different empirical settings, varying sample parameters or model specification.
+C1 [Lerner, Juergen] Univ Konstanz, Dept Comp & Informat Sci, Constance, Germany.   
+[Lomi, Alessandro] Univ Italian Switzerland, Lugano, Switzerland.   
+[Lomi, Alessandro] Univ Exeter, Business Sch, Exeter, Devon, England.
+RP Lerner, J (corresponding author), Univ Konstanz, Dept Comp & Informat Sci, Constance, Germany.
+FU Deutsche Forschungsgemeinschaft (DFG) [LE 2237/2-1]; Swiss National
+CR Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001
+   Brandenberger L, 2019, POLIT ANAL, V27, P556, DOI 10.1017/pan.2019.10
+   Leenders RTAJ, 2016, ORGAN PSYCHOL REV, V6, P92, DOI 10.1177/2041386615578312
+   Lerner J, 2018, PLOS ONE, V13, P0, DOI 10.1371/journal.pone.0190674
+   Lerner J, 2019, PROCEEDINGS OF THE 52ND ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES, V0, P2622
+   Lerner J, 2019, STUD COMPUT INTELL, V813, P211, DOI 10.1007/978-3-030-05414-4, 17
+   Lerner J, 2020, SOC NETWORKS, V60, P11, DOI 10.1016/j.socnet.2018.12.003
+   Lerner Jurgen, 2017, APPL NETW SCI, V2, P24, DOI 10.1007/s41109-017-0043-2
+   Piskorski MJ, 2017, AM J SOCIOL, V122, P1183, DOI 10.1086/689816
+   Stadtfeld C, 2017, SOCIOL SCI, V4, P318, DOI 10.15195/v4.a14
+   Unknown -, 2016, OXFORD HDB POLITICAL, V0, P0, DOI DOI 10.1093/OXFORDHB/9780190228217.013.25
+   Vu D, 2015, SOC NETWORKS, V43, P121, DOI 10.1016/j.socnet.2015.05.001
+   Vu D, 2017, STAT MED, V36, P2265, DOI 10.1002/sim.7247
+NR 13
+TC 26
+Z9 0
+U1 1.0
+U2 5.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2020
+VL 8
+BP 97
+EP 135
+DI 10.1017/nws.2019.57
+PG 39
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000578288500005
+PM 
+ER
+
+PT J
+AU Haunss, S
+   Hollway, James
+TI Multimodal mechanisms of political discourse dynamics and the case of Germany's nuclear energy phase-out
+SO NETWORK SCIENCE
+DE dynamic network actor models; discourse networks; multimodal networks;political claims; nuclear energy; germany; policy pivot; tertius effects
+AB The 2011 policy pivot of the German government, from extending nuclear power plants terms to securing their shutdown for 2022, cannot be explained without looking at how the German political discourse network shifted in the months following Fukushima. This paper seeks to model and identify mechanisms that help explain how the two-mode network of political actors support for claims developed. We identify possible mechanisms to explain discourse dynamics from literature on political discourse and discourse networks, and extend homophily mechanisms to two-mode networks as "tertius" effects. We then introduce and employ a multimodal extension of dynamic network actor models to answer two questions key to how the discourse has evolved: which actors support claims more frequently and which claims they support. Our results indicate that mechanisms vary according to the discursive phase, but that powerful actors participate in the discourse more often, and actors tend to support claims that have already found support by cross-party coalitions. These are the two most prominent mechanisms that help to explain the dramatic nuclear policy change in Germany after Fukushima.
+C1 [Haunss, Sebastian] Univ Bremen, Bremen, Germany.   
+[Hollway, James] Geneva Grad Inst, Geneva, Switzerland.
+RP Haunss, S (corresponding author), Univ Bremen, Bremen, Germany.
+CR Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001
+   Cerny O, 2020, POLITICS GOV, V8, P272, DOI 10.17645/pag.v8i2.2610
+   Dabkowski Matthew F, 2020, METHODOLOGICAL INNOVATIONS, V13, P1, DOI [10.1177/2059799120961693, DOI 10.1177/2059799120961693]
+   Fischer Manuel, 2020, NETWORKS IN WATER GOVERNANCE, V0, P87
+   Hollway J, 2020, INT ENVIRON AGREEM-P, V20, P61, DOI 10.1007/s10784-019-09464-5
+   Hollway J, 2021, COMPLEXITY GOVERNANC, V6, P61
+   Jungherr A, 2019, INT J PRESS/POLIT, V24, P404, DOI 10.1177/1940161219841543
+   Knoke D, 2021, STRUC AN S, V0, PP1, DOI 10.1017/9781108985000
+   Stadfeld C, 2021, RESEARCH HANDBOOK ON ANALYTICAL SOCIOLOGY, V0, P0
+   Stadtfeld, 2022, GOLDFISH STAT NETWOR, V0, P0
+   Vos D, 2018, POLIT COMMUN, V35, P371, DOI 10.1080/10584609.2017.1383953
+NR 11
+TC 3
+Z9 0
+U1 2.0
+U2 5.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2023
+VL 11
+BP 205
+EP 223
+DI 10.1017/nws.2022.31
+PG 19
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000898984100001
+PM 
+ER
+
+PT J
+AU Arena, G
+   Mulder, Joris
+   Leenders, Roger Th A J
+TI How fast do we forget our past social interactions? Understanding memory retention with parametric decays in relational event models
+SO NETWORK SCIENCE
+DE relational event model; social network analysis; network dynamics;memory decay; memory retention process; profile likelihood; bayes factor
+AB In relational event networks, endogenous statistics are used to summarize the past activity between actors. Typically, it is assumed that past events have equal weight on the social interaction rate in the (near) future regardless of the time that has transpired since observing them. Generally, it is unrealistic to assume that recently past events affect the current event rate to an equal degree as long-past events. Alternatively one may consider using a prespecified decay function with a prespecified rate of decay. A problem then is that the chosen decay function could be misspecified yielding biased results and incorrect conclusions. In this paper, we introduce three parametric weight decay functions (exponential, linear, and one-step) that can be embedded in a relational event model. A statistical method is presented to decide which memory decay function and memory parameter best fit the observed sequence of events. We present simulation studies that show the presence of bias in the estimates of effects of the statistics whenever the decay, as well as the memory parameter, are not properly estimated, and the ability to test different memory models against each other using the Bayes factor. Finally, we apply the methodology to two empirical case studies.
+C1 [Arena, Giuseppe; Mulder, Joris] Tilburg Univ, Tilburg Sch Social & Behav Sci, Dept Methodol & Stat, Tilburg, Netherlands.   
+[Mulder, Joris; Leenders, Roger Th A. J.] Jheronimus Acad Data Sci, sHertogenbosch, Netherlands.   
+[Leenders, Roger Th A. J.] Tilburg Univ, Tilburg Sch Social & Behav Sci, Dept Org Studies, Tilburg, Netherlands.
+RP Arena, G (corresponding author), Tilburg Univ, Tilburg Sch Social & Behav Sci, Dept Methodol & Stat, Tilburg, Netherlands.
+FU ERC Starting Grant [758791]; European Research Council (ERC) [758791]
+CR Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001
+   Arena G, 2024, SOCIOL METHOD RES, V53, P1201, DOI 10.1177/00491241221113875
+   Bianchi F, 2023, ORGAN RES METHODS, V26, P524, DOI 10.1177/10944281211058469
+   Brandenberger L, 2018, SOC NETWORKS, V54, P238, DOI 10.1016/j.socnet.2018.02.001
+   Fritz C, 2021, NETW SCI, V9, P291, DOI 10.1017/nws.2021.9
+   Meijerink-Bosman M, 2022, PLOS ONE, V17, P0, DOI 10.1371/journal.pone.0272309
+   Meijerink-Bosman M, 2023, BEHAV RES METHODS, V55, P997, DOI 10.3758/s13428-022-01821-8
+   Mulder J, 2019, CHAOS SOLITON FRACT, V119, P73, DOI 10.1016/j.chaos.2018.11.027
+   Sapiezynski P, 2019, SCI DATA, V6, P0, DOI 10.1038/s41597-019-0325-x
+NR 9
+TC 3
+Z9 0
+U1 1.0
+U2 5.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2023
+VL 11
+BP 267
+EP 294
+DI 10.1017/nws.2023.5
+PG 28
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000962633900001
+PM 
+ER
+
+PT J
+AU Hoffman, M
+   Block, Per
+   Elmer, Timon
+   Stadtfeld, Christoph
+TI A model for the dynamics of face-to-face interactions in social groups
+SO NETWORK SCIENCE
+DE network models; social interactions; group interactions; statistical models; social sensors; relational events; actor-oriented models
+AB Face-to-face interactions in social groups are a central aspect of human social lives. Although the composition of such groups has received ample attention in various fields-e.g., sociology, social psychology, management, and educational science-their micro-level dynamics are rarely analyzed empirically. In this article, we present a new statistical network model (DyNAM-i) that can represent the dynamics of conversation groups and interpersonal interaction in different social contexts. Taking an actor-oriented perspective, this model can be applied to test how individuals interaction patterns differ and how they choose and change their interaction groups. It moves beyond dyadic interaction mechanisms and translates central social network mechanisms-such as homophily, transitivity, and popularity-to the context of interactions in group settings. The utility and practical applicability of the new model are illustrated in two social network studies that investigate face-to-face interactions in a small party and an office setting.
+C1 [Hoffman, Marion; Elmer, Timon; Stadtfeld, Christoph] Swiss Fed Inst Technol, Chair Social Networks, Zurich, Switzerland.   
+[Block, Per] Univ Oxford, Dept Sociol, Oxford OX1 1JD, England.
+RP Hoffman, M (corresponding author), Swiss Fed Inst Technol, Chair Social Networks, Zurich, Switzerland.
+FU Swiss National Science Foundation [10DL17_183008]; Leverhulme Centre for
+CR Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001
+   Block P, 2018, SOCIOL SCI, V5, P402, DOI 10.15195/v5.a18
+   Brandenberger L, 2019, POLIT ANAL, V27, P556, DOI 10.1017/pan.2019.10
+   Elmer T, 2019, BEHAV RES METHODS, V51, P2120, DOI 10.3758/s13428-018-1180-y
+   Goffman A, 2019, SOC PSYCHOL QUART, V82, P51, DOI 10.1177/0190272518812010
+   Hong H, 2016, P 13 INT C MOBILE UB, V0, P94
+   Lerner J, 2019, ARXIV190500630, V0, P0
+   Marcum CS, 2015, J STAT SOFTW, V64, P1
+   Mulder J, 2019, CHAOS SOLITON FRACT, V119, P73, DOI 10.1016/j.chaos.2018.11.027
+   Potter GE, 2015, NETW SCI, V3, P298, DOI 10.1017/nws.2015.22
+   Robins Garry L, 2015, DOING SOCIAL NETWORK RESEARCH, V0, P0
+   Sapiezynski P, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0130824
+   Schecter A, 2018, J ORGAN BEHAV, V39, P1163, DOI 10.1002/job.2247
+   Sekara V, 2016, P NATL ACAD SCI USA, V113, P9977, DOI 10.1073/pnas.1602803113
+   Snijders TAB, 2017, ANNU REV STAT APPL, V4, P343, DOI 10.1146/annurev-statistics-060116-054035
+   Snijders TAB, 2019, NETW SCI, V7, P1, DOI 10.1017/nws.2018.30
+   Stadtfeld C, 2017, SOCIOL METHODOL, V47, P1, DOI 10.1177/0081175017709295
+   Stadtfeld C, 2017, SOCIOL SCI, V4, P318, DOI 10.15195/v4.a14
+   Vu D, 2015, SOC NETWORKS, V43, P121, DOI 10.1016/j.socnet.2015.05.001
+   Wang W, 2017, SCIENTOMETRICS, V113, P177, DOI 10.1007/s11192-017-2468-x
+   Wynn JR, 2016, SOCIOL THEOR, V34, P276, DOI 10.1177/0735275116664554
+NR 21
+TC 18
+Z9 0
+U1 4.0
+U2 17.0
+J9 NETWORK SCIENCE
+PD JUL
+PY 2020
+VL 8
+BP S4
+EP S25
+DI 10.1017/nws.2020.3
+PG 22
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000548560700002
+PM 
+ER
+
+PT J
+AU Lungeanu, A
+   Whalen, Ryan
+   Wu, Y Jasmine
+   Dechurch, Leslie A
+   Contractor, Noshir S
+TI Diversity, networks, and innovation: A text analytic approach to measuring expertise diversity
+SO NETWORK SCIENCE
+DE inventor networks; network science; text analytics; innovation; patent records; team science; team expertise diversity
+AB Despite the importance of diverse expertise in helping solve difficult interdisciplinary problems, measuring it is challenging and often relies on proxy measures and presumptive correlates of actual knowledge and experience. To address this challenge, we propose a text-based measure that uses researchers prior work to estimate their substantive expertise. These expertise estimates are then used to measure team-level expertise diversity by determining similarity or dissimilarity in members prior knowledge and skills. Using this measure on 2.8 million team invented patents granted by the US Patent Office, we show evidence of trends in expertise diversity over time and across team sizes, as well as its relationship with the quality and impact of a teams innovation output.
+C1 [Lungeanu, Alina; Wu, Y. Jasmine; DeChurch, Leslie A.; Contractor, Noshir S.] Northwestern Univ, Evanston, IL 60208 USA.   
+[Whalen, Ryan] Univ Hong Kong, Pokfulam, Hong Kong, Peoples R China.
+RP Lungeanu, A (corresponding author), Northwestern Univ, Evanston, IL 60208 USA.
+FU National Science Foundation [1856090]; National Institutesof Health
+CR Chan TH, 2020, MANUFACTURING SERVIC, V23, P1005
+   Hall KL, 2018, AM PSYCHOL, V73, P532, DOI 10.1037/amp0000319
+   Lungeanu A, 2018, COMMUN METHODS MEAS, V12, P174, DOI 10.1080/19312458.2018.1430756
+   Mukherjee S, 2019, NAT HUM BEHAV, V3, P74, DOI 10.1038/s41562-018-0460-y
+   Pedraza-Fariña LG, 2020, U CHICAGO LAW REV, V87, P63
+   Whalen R, 2018, RES POLICY, V47, P1334, DOI 10.1016/j.respol.2018.04.017
+   Whalen R, 2020, J EMPIR LEGAL STUD, V17, P615, DOI 10.1111/jels.12261
+NR 7
+TC 3
+Z9 0
+U1 5.0
+U2 23.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2023
+VL 11
+BP 36
+EP 64
+DI 10.1017/nws.2022.34
+PG 29
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000898319000001
+PM 
+ER
+
+PT J
+AU Lerner, J
+   Hancean, Marian-Gabriel
+TI Micro-level network dynamics of scientific collaboration and impact: Relational hyperevent models for the analysis of coauthor networks
+SO NETWORK SCIENCE
+DE scientific networks; co-authoring networks; statistical network models;dynamic network models; relational hyperevent models
+AB We discuss a recently proposed family of statistical network models-relational hyperevent models (RHEMs)-for analyzing team selection and team performance in scientific coauthor networks. The underlying rationale for using RHEM in studies of coauthor networks is that scientific collaboration is intrinsically polyadic, that is, it typically involves teams of any size. Consequently, RHEM specify publication rates associated with hyperedges representing groups of scientists of any size. Going beyond previous work on RHEM for meeting data, we adapt this model family to settings in which relational hyperevents have a dedicated outcome, such as a scientific paper with a measurable impact (e.g., the received number of citations). Relational outcome can on the one hand be used to specify additional explanatory variables in RHEM since the probability of coauthoring may be influenced, for instance, by prior (shared) success of scientists. On the other hand, relational outcome can also serve as a response variable in models seeking to explain the performance of scientific teams. To tackle the latter, we propose relational hyperevent outcome models that are closely related with RHEM to the point that both model families can specify the likelihood of scientific collaboration-and the expected performance, respectively-with the same set of explanatory variables allowing to assess, for instance, whether variables leading to increased collaboration also tend to increase scientific impact. For illustration, we apply RHEM to empirical coauthor networks comprising more than 350,000 published papers by scientists working in three scientific disciplines. Our models explain scientific collaboration and impact by, among others, individual activity (preferential attachment), shared activity (familiarity), triadic closure, prior individual and shared success, and prior success disparity among the members of hyperedges.
+C1 [Lerner, Juergen] Univ Konstanz, Constance, Germany.   
+[Lerner, Juergen] Rhein Westfal TH Aachen, Aachen, Germany.   
+[Hancean, Marian-Gabriel] Univ Bucharest, Bucharest, Romania.
+RP Lerner, J (corresponding author), Univ Konstanz, Constance, Germany.; Lerner, J (corresponding author), Rhein Westfal TH Aachen, Aachen, Germany.
+FU Deutsche Forschungsgemeinschaft (DFG) [321869138]; Executive Agencyfor
+CR Ahmadpoor M, 2019, P NATL ACAD SCI USA, V0, P0
+   Chodrow P, 2020, APPL NETW SCI, V5, P0, DOI 10.1007/s41109-020-0252-y
+   Chodrow PS, 2019, ARXIV, V0, P0
+   Hayat T, 2020, INFORM COMMUN SOC, V23, P701, DOI 10.1080/1369118X.2020.1713844
+   Hâncean MG, 2021, SCIENTOMETRICS, V126, P201, DOI 10.1007/s11192-020-03746-5
+   Lerner J, 2019, ARXIV, V0, P0
+   Lerner J, 2020, NETW SCI, V8, P97, DOI 10.1017/nws.2019.57
+   Lerner J, 2021, SOC NETWORKS, V66, P224, DOI 10.1016/j.socnet.2021.04.001
+   Mukherjee S, 2019, NAT HUM BEHAV, V3, P74, DOI 10.1038/s41562-018-0460-y
+   Mulder J, 2021, ARXIV, V0, P0
+   Pallotti F, 2022, SOC NETWORKS, V69, P102, DOI 10.1016/j.socnet.2020.02.006
+NR 11
+TC 8
+Z9 0
+U1 4.0
+U2 7.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2023
+VL 11
+BP 5
+EP 35
+DI 10.1017/nws.2022.29
+PG 31
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000891700100001
+PM 
+ER
+
+PT J
+AU Smith, M
+   Sarabi, Yasaman
+   Christopoulos, Dimitris
+TI Understanding collaboration patterns on funded research projects: A network analysis
+SO NETWORK SCIENCE
+DE collaboration; knowledge exchange; ergm; research council; uk
+AB This paper provides an examination of inter-organizational collaboration in the UK research system. Data are collected on organizational collaboration on projects funded by four key UK research councils: Arts and Humanities Research Council, Economic and Social Research Council, Engineering and Physical Sciences Research Council, and Biotechnology and Biological Sciences Research Council. The organizational partnerships include both academic and nonacademic institutions. A collaboration network is created for each research council, and an exponential random graph model is applied to inform on the mechanisms underpinning collaborative tie formation on research council-funded projects. We find that in the sciences, collaborative patterns are much more hierarchical and concentrated in a small handful of actors compared to the social sciences and humanities projects. Institutions that are members of the elite Russell Group (a set of 24 high-ranking UK universities) are much more likely to be involved in collaborations across research councils.
+C1 [Smith, Matthew] Edinburgh Napier Univ, Business Sch, Edinburgh, Scotland.   
+[Sarabi, Yasaman; Christopoulos, Dimitris] Heriot Watt Univ, Edinburgh Business Sch, Edinburgh, Scotland.
+RP Smith, M (corresponding author), Edinburgh Napier Univ, Business Sch, Edinburgh, Scotland.
+FU grant SNIF (Scientific Networks); grant SNIF (IDEX funding); French
+CR Akbaritabar A, 2018, SCIENTOMETRICS, V114, P859, DOI 10.1007/s11192-017-2606-5
+   Aldieri L, 2018, SOCIO-ECON PLAN SCI, V62, P13, DOI 10.1016/j.seps.2017.05.003
+   Alpaydin UAR, 2021, PAP REG SCI, V100, P0, DOI 10.1111/pirs.12586
+   Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001
+   Baggio R, 2019, INTERNATIONAL JOURNAL OF TOURISM SCIENCES, V19, P56, DOI 10.1080/15980634.2019.1592311
+   Borgatti SP, 2018, CONNECTIONS, V38, P1, DOI [DOI 10.21307/CONNECTIONS-2018-002, 10.21307/connections-2018-002]
+   Broekel T, 2018, NETW SPAT ECON, V18, P677, DOI 10.1007/s11067-018-9430-1
+   Copley J, 2018, RES ALL, V2, P230, DOI [10.18546/RFA.02.2.03, DOI 10.18546/RFA.02.2.03]
+   DeglInnocenti M, 2019, RES POLICY, V48, P0, DOI 10.1016/j.respol.2019.05.002
+   Financial Times, 2022, THE FINANCIAL TIMES, V0, P0
+   Fortunato S, 2018, SCIENCE, V359, P0, DOI 10.1126/science.aao0185
+   Gui QC, 2018, GROWTH CHANGE, V49, P532, DOI 10.1111/grow.12245
+   He VF, 2021, RES POLICY, V50, P0, DOI 10.1016/j.respol.2021.104356
+   Huggins R, 2020, J TECHNOL TRANSFER, V45, P718, DOI 10.1007/s10961-019-09720-5
+   Isaeva I, 2022, J TECHNOL TRANSFER, V47, P1308, DOI 10.1007/s10961-021-09886-x
+   Jiang S, 2019, SCIENTOMETRICS, V121, P1599, DOI 10.1007/s11192-019-03242-5
+   Kibanov M, 2019, SCIENTOMETRICS, V119, P1387, DOI 10.1007/s11192-019-03097-w
+   Kindt AM, 2022, J REGIONAL SCI, V62, P1274, DOI 10.1111/jors.12596
+   Lee HF, 2019, RES POLICY, V48, P1633, DOI 10.1016/j.respol.2019.03.014
+   Maghssudipour A, 2021, IND INNOV, V28, P836, DOI 10.1080/13662716.2020.1860738
+   Mascarenhas C, 2018, SCI PUBL POLICY, V45, P708, DOI 10.1093/scipol/scy003
+   McLevey J, 2018, SCIENTOMETRICS, V117, P331, DOI 10.1007/s11192-018-2866-8
+   Neal ZP, 2021, SCI REP-UK, V11, P0, DOI 10.1038/s41598-021-03238-3
+   Pickernell D, 2019, MANAGE DECIS, V57, P3426, DOI 10.1108/MD-10-2018-1162
+   Pinar M, 2020, BRIT EDUC RES J, V46, P140, DOI 10.1002/berj.3572
+   Runiewicz-Wardyn M, 2022, TRIPLE HELIX-NETH, V9, P138, DOI 10.1163/21971927-BJA10025
+   Sarabi, 2021, ACAD MANAGEMENT P, V2021, P10796, DOI [10.5465/AMBPP.2021.10796abstract, DOI 10.5465/AMBPP.2021.10796ABSTRACT]
+   Skute Igors, 2019, JOURNAL OF TECHNOLOGY TRANSFER, V44, P916, DOI 10.1007/s10961-017-9637-1
+   Sánchez-Barrioluengo M, 2019, HIGH EDUC Q, V73, P469, DOI 10.1111/hequ.12230
+   Sánchez-Barrioluengo M, 2019, TECHNOL FORECAST SOC, V141, P206, DOI 10.1016/j.techfore.2018.10.017
+   Tian MY, 2022, J TECHNOL TRANSFER, V47, P1488, DOI 10.1007/s10961-021-09877-y
+   Vick TE, 2018, SCI PUBL POLICY, V45, P579, DOI 10.1093/scipol/scx086
+   Xing LZ, 2021, MOD PHYS LETT B, V35, P0, DOI 10.1142/S0217984921502894
+NR 33
+TC 3
+Z9 0
+U1 4.0
+U2 27.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2023
+VL 11
+BP 143
+EP 173
+DI 10.1017/nws.2022.33
+PG 31
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000889902100001
+PM 
+ER
+
+PT J
+AU Butts, CT
+   Lomi, Alessandro
+   Snijders, Tom A B
+   Stadtfeld, Christoph
+TI Relational eventmodels in network science INTRODUCTION
+SO NETWORK SCIENCE
+DE network models; network data; relational event models; social interaction; social networks; social relations
+AB Relational event models (REMs) for the analysis of social interaction were first introduced 15 years ago. Since then, a number of important substantive and methodological contributions have produced their progressive refinement and hence facilitated their increased adoption in studies of social and other networks. Today REMs represent a well-established class of statistical models for relational processes. This special issue of Network Science demonstrates the standing and recognition that REMs have achieved within the network analysis and networks science communities. We wrote this brief introductory editorial essay with four main objectives in mind: (i) positioning relational event data and models in the larger context of contemporary network science and social network research; (ii) reviewing some of the most important recent developments; (iii) presenting the innovative studies collected in this special issue as evidence of the empirical value of REMs, and (iv) identifying open questions and future research directions.
+C1 [Butts, Carter T.] Univ Calif Irvine, Irvine, CA 92697 USA.   
+[Lomi, Alessandro] Univ Italian Switzerland, Lugano, Switzerland.   
+[Snijders, Tom A. B.] Univ Groningen, Dept Sociol, Groningen, Netherlands.   
+[Snijders, Tom A. B.] Univ Oxford, Nuffield Coll, Oxford OX1 2JD, England.   
+[Stadtfeld, Christoph] Swiss Fed Inst Technol, Social Networks Lab, Zurich, Switzerland.
+RP Stadtfeld, C (corresponding author), Swiss Fed Inst Technol, Social Networks Lab, Zurich, Switzerland.
+FU Schweizerische Nationalfonds zur Forderung der wissenschaftlichen
+CR Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001
+   Aslak U, 2018, PHYS REV E, V97, P0, DOI 10.1103/PhysRevE.97.062312
+   Bauer V, 2021, ASTA-ADV STAT ANAL, V106, P1
+   Bianchi F, 2022, WAVE RANDOM COMPLEX, V15, P19, DOI DOI 10.1177/20597991221077877
+   Bianchi F, 2023, ORGAN RES METHODS, V26, P524, DOI 10.1177/10944281211058469
+   Brandenberger L, 2019, POLIT ANAL, V27, P556, DOI 10.1017/pan.2019.10
+   Brandenberger L, 2020, COMPUTATIONAL CONFLICT RESEARCH, V0, P67
+   Butts CT, 2024, J MATH SOCIOL, V48, P129, DOI [10.1080/0022250X.2023.2180001, 10.1080/0022250x.2023.2180001]
+   Fischer Manuel, 2020, NETWORKS IN WATER GOVERNANCE, V0, P87
+   Fritz C, 2021, NETW SCI, V9, P291, DOI 10.1017/nws.2021.9
+   Hoffman M, 2020, NETW SCI, V8, PS4, DOI 10.1017/nws.2020.3
+   Juozaitiene R, 2022, SOC NETWORKS, V68, P296, DOI 10.1016/j.socnet.2021.08.004
+   Lerner J, 2020, NETW SCI, V8, P97, DOI 10.1017/nws.2019.57
+   Lerner J, 2020, SOC NETWORKS, V60, P11, DOI 10.1016/j.socnet.2018.12.003
+   Lerner J, 2021, J COMPLEX NETW, V10, P0, DOI 10.1093/comnet/cnac004
+   Lerner J, 2021, SOC NETWORKS, V66, P224, DOI 10.1016/j.socnet.2021.04.001
+   Lerner J, 2023, J ROY STAT SOC A, V186, P577, DOI 10.1093/jrsssa/qnac012
+   Lewis K, 2021, SOCIAL NETWORKS, V0, P0
+   Lomi A, 2021, SOCIAL NETWORKS, V0, P0
+   Meijerink-Bosman M, 2023, BEHAV RES METHODS, V55, P997, DOI 10.3758/s13428-022-01821-8
+   Mulder J, 2019, CHAOS SOLITON FRACT, V119, P73, DOI 10.1016/j.chaos.2018.11.027
+   Niezink NMD, 2023, J QUANT CRIMINOL, V39, P655, DOI 10.1007/s10940-022-09540-1
+   Overgoor J, 2020, KDD 20: PROCEEDINGS OF THE 26TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, V0, PP1990, DOI 10.1145/3394486.3403250
+   Pallotti F, 2022, SOC NETWORKS, V69, P102, DOI 10.1016/j.socnet.2020.02.006
+   Stadfeld C, 2021, RESEARCH HANDBOOK ON ANALYTICAL SOCIOLOGY, V0, PP432, DOI DOI 10.4337/9781789906851.00032
+   Steglich CEG, 2022, HANDBOOK OF SOCIOLOGICAL SCIENCE, V0, P73
+   Tonellato M, 2023, J INFECT DIS, V0, P0
+   Valeeva D, 2020, SOC NETWORKS, V62, P68, DOI 10.1016/j.socnet.2020.02.009
+NR 28
+TC 8
+Z9 0
+U1 0.0
+U2 4.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2023
+VL 11
+BP 175
+EP 183
+DI 10.1017/nws.2023.9
+PG 9
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000982984200001
+PM 
+ER
+
+PT J
+AU Morrison, M
+   Kutz, J Nathan
+   Gabbay, Michael
+TI Transitions between peace and systemic war as bifurcations in a signed network dynamical system
+SO NETWORK SCIENCE
+DE social networks; political networks; complex systems; nonlinear dynamics; structural balance; community structure; polarization;critical transitions; conflict escalation; alliances
+AB We investigate structural features and processes associated with the onset of systemic conflict using an approach which integrates complex systems theory with network modeling and analysis. We present a signed network model of cooperation and conflict dynamics in the context of international relations between states. The model evolves ties between nodes under the influence of a structural balance force and a dyad-specific force. Model simulations exhibit a sharp bifurcation from peace to systemic war as structural balance pressures increase, a bistable regime in which both peace and war stable equilibria exist, and a hysteretic reverse bifurcation from war to peace. We show how the analytical expression we derive for the peace-to-war bifurcation condition implies that polarized network structure increases susceptibility to systemic war. We develop a framework for identifying patterns of relationship perturbations that are most destabilizing and apply it to the network of European great powers before World War I. We also show that the model exhibits critical slowing down, in which perturbations to the peace equilibrium take longer to decay as the system draws closer to the bifurcation. We discuss how our results relate to international relations theories on the causes and catalysts of systemic war.
+C1 [Morrison, Megan] NYU, Dept Math, New York, NY 10012 USA.   
+[Kutz, J. Nathan] Univ Washington, Dept Appl Math, Seattle, WA 98195 USA.   
+[Gabbay, Michael] Univ Washington, Appl Phys Lab, Seattle, WA 98105 USA.
+RP Morrison, M (corresponding author), NYU, Dept Math, New York, NY 10012 USA.; Gabbay, M (corresponding author), Univ Washington, Appl Phys Lab, Seattle, WA 98105 USA.
+FU National Science Foundation [2103239]; Army Research Office
+CR Bizyaeva A, 2022, IEEE T AUTOMAT CONTR, V0, P1
+   Burghardt K, 2020, J COMPLEX NETW, V8, P0, DOI 10.1093/comnet/cnaa001
+   Bury TM, 2020, J R SOC INTERFACE, V17, P0, DOI 10.1098/rsif.2020.0482
+   Bury TM, 2021, P NATL ACAD SCI USA, V118, P0, DOI [10.1073/pnas.2106140118|1of9, 10.1073/pnas.2106140118]
+   Doreian P, 2019, J SOCIAL STRUCTURE, V16, P1, DOI 10.21307/joss-2019-012
+   Doreian Patrick, 2020, ADVANCES IN NETWORK CLUSTERING AND BLOCKMODELING, V0, P0
+   Franci A, 2021, SWARM INTELL-US, V15, P47, DOI 10.1007/s11721-021-00190-w
+   Gao ZL, 2018, PLOS ONE, V13, P0, DOI 10.1371/journal.pone.0191941
+   Kirkley A, 2019, PHYS REV E, V99, P0, DOI 10.1103/PhysRevE.99.012320
+   Levy JS, 2021, SECUR STUD, V30, P213, DOI 10.1080/09636412.2021.1915584
+   Morrison M, 2020, PHYS REV E, V102, P0, DOI 10.1103/PhysRevE.102.012304
+   Morrison M, 2021, FRONT COMPUT NEUROSC, V14, P0, DOI 10.3389/fncom.2020.616639
+   Morrison M, 2021, IEEE T NETW SCI ENG, V8, P174, DOI [10.1109/TNSE.2020.3032117, 10.1109/tnse.2020.3032117]
+   Nakamura K, 2020, GLOB CRIME, V21, P3, DOI 10.1080/17440572.2019.1627879
+   Neal ZP, 2020, SOC NETWORKS, V60, P103, DOI 10.1016/j.socnet.2018.07.007
+   Potters M, 2021, A FIRST COURSE IN RANDOM MATRIX THEORY: FOR PHYSICISTS, V0, P0
+   Smith RP, 2020, LEWIS FRY RICHARDSON: HIS INTELLECTUAL LEGACY AND INFLUENCE IN THE SOCIAL SCIENCES. PIONEERS IN ARTS, V0, P0
+   Stauffer MHT, 2021, COMPLEX SYSTEMS SOCI, V0, P0
+   Strogatz SH, 2018, NONLINEAR DYNAMICS AND CHAOS: WITH APPLICATIONS TO PHYSICS, V0, P0, DOI DOI 10.1201/9780429492563
+   Traag V, 2019, ADV NETWORK CLUSTERI, V0, P0
+   Veerman JJP, 2018, AM MATH MON, V125, P724, DOI 10.1080/00029890.2018.1498684
+   Ward MD, 2020, HIS INTELLECTUAL LEG, V6, P0
+NR 22
+TC 1
+Z9 0
+U1 2.0
+U2 6.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2023
+VL 11
+BP 458
+EP 501
+DI 10.1017/nws.2023.10
+PG 44
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:001009564300001
+PM 
+ER
+
+PT J
+AU Uzaheta, A
+   Amati, Viviana
+   Stadtfeld, Christoph
+TI Random effects in dynamic network actor models
+SO NETWORK SCIENCE
+DE bayesian estimation; dynamic network actor models; heterogeneity;random-effects models; relational event data
+AB Dynamic Network Actor Models (DyNAMs) assume that an observed sequence of relational events is the outcome of an actor-oriented decision process consisting of two decision levels. The first level represents the time until an actor initiates the next relational event, modeled by an exponential distribution with an actor-specific activity rate. The second level describes the choice of the receiver of the event, modeled by a conditional multinomial logit model. The DyNAM assumes that the parameters are constant over the actors and the context. This homogeneity assumption, albeit statistically and computationally convenient, is difficult to justify, e.g., in the presence of unobserved differences between actors or contexts. In this paper, we extend DyNAMs by including random-effects parameters that vary across actors or contexts and allow controlling for unknown sources of heterogeneity. We illustrate the model by analyzing relational events among the users of an online community of aspiring and professional digital and graphic designers.
+C1 [Uzaheta, Alvaro; Stadtfeld, Christoph] Swiss Fed Inst Technol, Social Networks Lab, Zurich, Switzerland.   
+[Amati, Viviana] Univ Milano Bicocca, Dept Stat & Quantitat Methods, Milan, Italy.
+RP Uzaheta, A (corresponding author), Swiss Fed Inst Technol, Social Networks Lab, Zurich, Switzerland.
+FU Swiss National Science Foundation [10001A_169965, 10DL17_183008,
+CR Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001
+   Betancourt M, 2018, CONCEPTUAL INTRO HAM, V0, P0
+   Bhattacharya P, 2019, INFORM SYST RES, V30, P117, DOI 10.1287/isre.2018.0790
+   Box-Steffensmeier JM, 2018, POLIT ANAL, V26, P3, DOI 10.1017/pan.2017.23
+   Hemsley J, 2019, SOC MEDIA SOC, V5, P0, DOI 10.1177/2056305119890051
+   Lerner J, 2020, NETW SCI, V8, P97, DOI 10.1017/nws.2019.57
+   Merkle EC, 2019, PSYCHOMETRIKA, V84, P802, DOI 10.1007/s11336-019-09679-0
+   Mulder J, 2019, CHAOS SOLITON FRACT, V119, P73, DOI 10.1016/j.chaos.2018.11.027
+   Schweinberger M, 2020, STAT NEERL, V74, P342, DOI 10.1111/stan.12196
+   Scolere L, 2019, NEW MEDIA SOC, V21, P1891, DOI 10.1177/1461444819833066
+   Stadtfeld, 2022, GOLDFISH STAT NETWOR, V0, P0
+   Stan Development Team, 2022, THE STAN C++ LIBRARY, V0, P0
+   Vehtari A, 2021, BAYESIAN ANAL, V16, P667, DOI DOI 10.1214/20-BA1221
+   Zappa P, 2021, PHYSICA A, V565, P0, DOI 10.1016/j.physa.2020.125557
+NR 14
+TC 5
+Z9 0
+U1 1.0
+U2 2.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2023
+VL 11
+BP 249
+EP 266
+DI 10.1017/nws.2022.37
+PG 18
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000926284800001
+PM 
+ER
+

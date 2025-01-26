@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Cognition and communication: situational awareness and tie preservation in disrupted task environments</title>
+<url>http://dx.doi.org/10.1017/nws.2020.15</url>
+<snippet>Individuals filling specialized, interdependent organizational roles achieve coordinated task execution through effective communication channels. Such channels enable regular access to information, opportunities, and assistance that may enhance ones understanding of the task environment. However, the time and effort devoted to maintaining those channels may detract from ones duties by turning attention away from the task environment. Disrupted task environments increase information requirements, thus creating a dilemma in which individuals must sustain benefits offered by important communication channels and relieve burdens imposed by ineffective channels. Using separable temporal exponential random graph models (STERGMs), this paper examines the relationship between situational awareness (SA) and the propensity to sustain or dissolve preexisting communication channels during 10 disruptive events experienced sequentially by a large, multifaceted military organization during a 2-week training exercise. Results provide limited evidence that increased SA detracts from tie preservation; instead SA begins to predict tie preservation during the second week of the exercise. Patterns of organizational adaptation reveal that, over time, improvised coordinative roles increasingly fall upon those with elevated SA. These results suggest that over successive disruptions, the benefits of information provided by communication channels within interdependent, role-specialized organizations begin to outweigh the costs of sustaining those channels.
+WOS:000575822100003
+</snippet>
+</document>
+
+<document id="2">
+<title>Energy and resilience: The effects of endogenous interdependencies on trade network formation across space among major Japanese firms</title>
+<url>http://dx.doi.org/10.1017/nws.2015.37</url>
+<snippet>The dynamic drivers of interfirm interactions across space have rarely been explored in the context of disaster recovery; therefore, the mechanism through which shocks propagate is unclear. This paper uses stochastic actor-oriented modeling to examine how trade networks among the 500 largest Japanese companies evolved during 2010 and 2011, i.e. before and after the Great East Japan Earthquake to identify sources of vulnerability in the system. In contrast to previous reports on broken supply chains, the network displayed only modest change even in the directly affected areas. Controlling for distance and for firm size, we find that when firms changed their partners, they preferred firms that were popular among other firms, that had partners in common with them and that also bought some products or services from them. These findings concur with a criticism that Japanese firms avoid external actors and exhibit inflexibility in reorganizing their networks in times of need, which contrasts with the non-cliquish network structures observed in high-performing economic sectors. The results also highlight the role of energy firms in disaster resilience. Unlike other large Japanese companies that cluster in major urban centers, energy firms are distributed across Japan. However, despite their peripheral physical locations, energy firms are centrally located in trade networks. Thus, while a disaster in any region may affect some energy firms and lead to large-scale temporary shocks, the entire network is unlikely to be disconnected by any region-specific disaster because of the spatial distribution of the topological network core formed by energy companies.
+WOS:000376791800001
+</snippet>
+</document>
+
+<document id="3">
+<title>The co-evolution of power and friendship networks in an organization</title>
+<url>http://dx.doi.org/10.1017/nws.2016.7</url>
+<snippet>Despite the pivotal role that both power and interpersonal trust play in a multitude of social exchange situations, relatively little is known about their interplay. Moreover, previous theorizing makes competing claims. Do we consider our relatively more powerful exchange partners to be less trustworthy, as rational choice reasoning would suggest? Or do more complex psychological mechanisms lead us to trust them more, as motivated cognition reasoning implies? Extending the latter approach, we develop and empirically test three hypotheses on the interrelation between perceptions of interpersonal trust and power. According to the status value hypothesis, individuals are more likely to befriend those whom they or others perceive as powerful. The status signaling hypothesis states that the friends of people one perceives as powerful will also be seen as powerful. According to the self-monitoring hypothesis, high self-monitors are more likely than low self-monitors to befriend those they or others perceive as powerful. We use multiplex stochastic actor-based models to analyze the co-evolution of trust and power relations among n = 49 employees in a Dutch Youth Care organization. Data covers three waves of a longitudinal sociometric network survey collected over a period of 18 months in the years 2009-2010. In general, we find some support for all three hypotheses, though the effects are weak. Being one of the first organizational field studies on the co-evolution of power and trust, we conclude with discussing the implications of these findings for the study of social exchange processes.
+WOS:000383885200005
+</snippet>
+</document>
+
+<document id="4">
+<title>Examining the variability in network populations and its role in generative models</title>
+<url>http://dx.doi.org/10.1017/nws.2019.63</url>
+<snippet>A principled approach to understand networks is to formulate generative models and infer their parameters from given network data. Due to the scarcity of data in the form of multiple networks that have evolved from the same process, generative models are typically formulated to learn parameters from a single network observation, hence ignoring the natural variability of the "true" process. In this paper, we highlight the importance of variability in evaluating generative models and present two ways of quantifying the variability for a finite set of networks. The first evaluation scheme compares the statistical properties of networks in a dissimilarity space, while the other relies on data-driven entropy measures to compute variability in network populations. Using these measures, we evaluate the ability of four generative models to synthesize networks that capture the variability of the "true" process. Our empirical analysis suggests that generative models fitted for a single network observation fail to capture the variability in the network population. Our work highlights the need for rethinking the way we evaluate the goodness-of-fit of new and existing network models and devising models that are capable of matching the variability of network populations when available.
+WOS:000548560700004
+</snippet>
+</document>
+
+<document id="5">
+<title>Dynamic network prediction</title>
+<url>http://dx.doi.org/10.1017/nws.2020.24</url>
+<snippet>We present a statistical framework for generating predicted dynamic networks based on the observed evolution of social relationships in a population. The framework includes a novel and flexible procedure to sample dynamic networks given a probability distribution on evolving network properties; it permits the use of a broad class of approaches to model trends, seasonal variability, uncertainty, and changes in population composition. Current methods do not account for the variability in the observed historical networks when predicting the network structure; the proposed method provides a principled approach to incorporate uncertainty in prediction. This advance aids in the designing of network-based interventions, as development of such interventions often requires prediction of the network structure in the presence and absence of the intervention. Two simulation studies are conducted to demonstrate the usefulness of generating predicted networks when designing network-based interventions. The framework is also illustrated by investigating results of potential interventions on bill passage rates using a dynamic network that represents the sponsor/co-sponsor relationships among senators derived from bills introduced in the U.S. Senate from 2003 to 2016.
+WOS:000575822100006
+</snippet>
+</document>
+
+<document id="6">
+<title>A model for the dynamics of face-to-face interactions in social groups</title>
+<url>http://dx.doi.org/10.1017/nws.2020.3</url>
+<snippet>Face-to-face interactions in social groups are a central aspect of human social lives. Although the composition of such groups has received ample attention in various fields-e.g., sociology, social psychology, management, and educational science-their micro-level dynamics are rarely analyzed empirically. In this article, we present a new statistical network model (DyNAM-i) that can represent the dynamics of conversation groups and interpersonal interaction in different social contexts. Taking an actor-oriented perspective, this model can be applied to test how individuals interaction patterns differ and how they choose and change their interaction groups. It moves beyond dyadic interaction mechanisms and translates central social network mechanisms-such as homophily, transitivity, and popularity-to the context of interactions in group settings. The utility and practical applicability of the new model are illustrated in two social network studies that investigate face-to-face interactions in a small party and an office setting.
+WOS:000548560700002
+</snippet>
+</document>
+
+<document id="7">
+<title>The co-evolution of emotional well-being with weak and strong friendship ties</title>
+<url>http://dx.doi.org/10.1017/nws.2017.20</url>
+<snippet>Social ties are strongly related to well-being. But what characterizes this relationship? This study investigates social mechanisms explaining how social ties affect well-being through social integration and social influence, and how well-being affects social ties through social selection. We hypothesize that highly integrated individuals-those with more extensive and dense friendship networks-report higher emotional well-being than others. Moreover, emotional well-being should be influenced by the well-being of close friends. Finally, wellbeing should affect friendship selection when individuals prefer others with higher levels of well-being, and others whose well-being is similar to theirs. We test our hypotheses using longitudinal social network and well-being data of 117 individuals living in a graduate housing community. The application of a novel extension of Stochastic Actor-Oriented Models for ordered networks (ordered SAOMs) allows us to detail and test our hypotheses for weak-and strong-tied friendship networks simultaneously. Results do not support our social integration and social influence hypotheses but provide evidence for selection: individuals with higher emotional well-being tend to have more strong-tied friends, and there are homophily processes regarding emotional well-being in strong-tied networks. Our study highlights the two-directional relationship between social ties and well-being, and demonstrates the importance of considering different tie strengths for various social processes.
+WOS:000408564600003
+</snippet>
+</document>
+
+<document id="8">
+<title>Introduction to the special issue on COMPLEX NETWORKS 2018</title>
+<url>http://dx.doi.org/10.1017/nws.2020.22</url>
+<snippet>
+WOS:000548560700001
+</snippet>
+</document>
+
+<document id="9">
+<title>Beyond homophily: Incorporating actor variables in statistical network models</title>
+<url>http://dx.doi.org/10.1017/nws.2018.30</url>
+<snippet>We consider the specification of effects of numerical actor attributes, having an interval level of measurement, in statistical models for directed social networks. A fundamental mechanism is homophily or assortativity, where actors have a higher likelihood to be tied with others having similar values of the variable under study. But there are other mechanisms that may also play a role in how the attribute values of two actors influence the likelihood of a tie between them. We discuss three additional mechanisms: aspiration, the tendency to send more ties to others having high values; attachment conformity, sending more ties to others whose values are close to the "social norm"; and sociability, where those having higher values will tend to send more ties generally. These mechanisms may operate jointly, and then their effects will be confounded. We present a specification representing these effects simultaneously by a four-parameter quadratic function of the values of sender and receiver. Flexibility can be increased by a five-parameter extension. We argue that for numerical actor attributes having important effects on directed networks, these specifications may provide an improvement. An illustration is given of dependence of advice ties on academic grades, analyzed by the Stochastic Actor-oriented Model.
+WOS:000465959300001
+</snippet>
+</document>
+
+<document id="10">
+<title>A theoretical and empirical comparison of the temporal exponential random graph model and the stochastic actor-oriented model</title>
+<url>http://dx.doi.org/10.1017/nws.2018.26</url>
+<snippet>The temporal exponential random graph model (TERGM) and the stochastic actor-oriented model (SAOM, e.g., SIENA) are popular models for longitudinal network analysis. We compare these models theoretically, via simulation, and through a real-data example in order to assess their relative strengths and weaknesses. Though we do not aim to make a general claim about either being superior to the other across all specifications, we highlight several theoretical differences the analyst might consider and find that with some specifications, the two models behave very similarly, while each model out-predicts the other one the more the specific assumptions of the respective model are met.
+WOS:000465959300002
+</snippet>
+</document>
+
+<document id="11">
+<title>Analysis of a network's asymptotic behavior via its structure involving its strongly connected components</title>
+<url>http://dx.doi.org/10.1017/nws.2019.24</url>
+<snippet>In this paper, it is addressed how network structure can be related to asymptotic network behavior. If such a relation is studied, that usually concerns only strongly connected networks and only linear functions describing the dynamics. In this paper, both conditions are generalized. A couple of general theorems is presented that relates asymptotic behavior of a network to the networks structure characteristics. The network structure characteristics, on the one hand, concern the networks strongly connected components and their mutual connections; this generalizes the condition of being strongly connected to a very general condition. On the other hand, the network structure characteristics considered generalize from linear functions to functions that are normalized, monotonic, and scalar-free, so that many nonlinear functions are also covered. Thus, the contributed theorems generalize the existing theorems on the relation between network structure and asymptotic network behavior addressing only specific cases such as acyclic networks, fully, and strongly connected networks, and theorems addressing only linear functions. This paper was invited as an extended (by more than 45&#37;) version of a Complex Networks18 conference paper. In the discussion section, the differences are explained in more detail.
+WOS:000548560700006
+</snippet>
+</document>
+
+<document id="12">
+<title>Reliability of relational event model estimates under sampling: How to fit a relational event model to 360 million dyadic events</title>
+<url>http://dx.doi.org/10.1017/nws.2019.57</url>
+<snippet>We assess the reliability of relational event model (REM) parameters estimated under two sampling schemes: (1) uniform sampling from the observed events and (2) case-control sampling which samples nonevents, or null dyads ("controls"), from a suitably defined risk set. We experimentally determine the variability of estimated parameters as a function of the number of sampled events and controls per event, respectively. Results suggest that REMs can be reliably fitted to networks with more than 12 million nodes connected by more than 360 million dyadic events by analyzing a sample of some tens of thousands of events and a small number of controls per event. Using the data that we collected on the Wikipedia editing network, we illustrate how network effects commonly included in empirical studies based on REMs need widely different sample sizes to be reliably estimated. For our analysis we use an open-source software which implements the two sampling schemes, allowing analysts to fit and analyze REMs to the same or other data that may be collected in different empirical settings, varying sample parameters or model specification.
+WOS:000578288500005
+</snippet>
+</document>
+
+<document id="13">
+<title>Modeling higher order adaptivity of a network by multilevel network reification</title>
+<url>http://dx.doi.org/10.1017/nws.2019.56</url>
+<snippet>In network models for real-world domains, often network adaptation has to be addressed by incorporating certain network adaptation principles. In some cases, also higher order adaptation occurs: the adaptation principles themselves also change over time. To model such multilevel adaptation processes, it is useful to have some generic architecture. Such an architecture should describe and distinguish the dynamics within the network (base level), but also the dynamics of the network itself by certain adaptation principles (first-order adaptation level), and also the adaptation of these adaptation principles (second-order adaptation level), and may be still more levels of higher order adaptation. This paper introduces a multilevel network architecture for this, based on the notion network reification. Reification of a network occurs when a base network is extended by adding explicit states representing the characteristics of the structure of the base network. It will be shown how this construction can be used to explicitly represent network adaptation principles within a network. When the reified network is itself also reified, also second-order adaptation principles can be explicitly represented. The multilevel network reification construction introduced here is illustrated for an adaptive adaptation principle from social science for bonding based on homophily and one for metaplasticity in Cognitive Neuroscience.
+WOS:000548560700007
+</snippet>
+</document>
+
+<document id="14">
+<title>On fast and scalable recurring link's prediction in evolving multi-graph streams</title>
+<url>http://dx.doi.org/10.1017/nws.2019.64</url>
+<snippet>The link prediction task has found numerous applications in real-world scenarios. However, in most of the cases like interactions, purchases, mobility, etc., links can re-occur again and again across time. As a result, the data being generated is excessively large to handle, associated with the complexity and sparsity of networks. Therefore, we propose a very fast, memory-less, and dynamic sampling-based method for predicting recurring links for a successive future point in time. This method works by biasing the links exponentially based on their time of occurrence, frequency, and stability. To evaluate the efficiency of our method, we carried out rigorous experiments with massive real-world graph streams. Our empirical results show that the proposed method outperforms the state-of-the-art method for recurring links prediction. Additionally, we also empirically analyzed the evolution of links with the perspective of multi-graph topology and their recurrence probability over time.
+WOS:000548560700005
+</snippet>
+</document>
+
+<document id="15">
+<title>Some friends matter more than others: BMI clustering among adolescents in four European countries</title>
+<url>http://dx.doi.org/10.1017/nws.2018.20</url>
+<snippet>Previous research stresses the importance of social networks for obesity. We draw on friendship data from 18,133 adolescents in four European countries to investigate the relationship between individuals body mass index (BMI) and the BMI of their friends. Our study reveals strong evidence for BMI clustering in England, Germany, the Netherlands, and Sweden; adolescents tend to be friends with others who have a similar BMI. Furthermore, we extend current debate and explore friendship characteristics that moderate the relationship between social networks and BMI. We demonstrate that BMI clustering is more pronounced in (1) strong compared to weak friendships and (2) between adolescents of the same biological sex. These findings indicate that more research on social networks and health is needed which distinguishes between different kinds of relationships.
+WOS:000465959300006
+</snippet>
+</document>
+
+<document id="16">
+<title>Values in adolescent friendship networks</title>
+<url>http://dx.doi.org/10.1017/nws.2019.16</url>
+<snippet>Values-the motivational goals that define what is important to us-guide our decisions and actions every day. Their importance is established in a long line of research investigating their universality across countries and their evolution from childhood to adulthood. In adolescence, value structures are subject to substantial change, as life becomes increasingly social. Value change has thus far been understood to operate independently within each person. However, being embedded in various social systems, adolescents are constantly subject to social influence from peers. Thus, we introduce a framework investigating the emergence and evolution of value priorities in the dynamic context of friendship networks. Drawing on stochastic actor-oriented network models, we analyze 73 friendship networks of adolescents. Regarding the evolution of values, we find that adolescents value systems evolve in a continuous cycle of internal validation through the selection and enactment of goals-thereby experiencing both congruence and conflicts-and external validation through social comparison among their friends. Regarding the evolution of friendship networks, we find that demographics are more salient for the initiation of new friendships, whereas values are more relevant for the maintenance of existing friendships.
+WOS:000504765000004
+</snippet>
+</document>
+
+<document id="17">
+<title>Multilevel social spaces: The network dynamics of organizational fields</title>
+<url>http://dx.doi.org/10.1017/nws.2017.8</url>
+<snippet>In this paper, we seek to advance an updated concept of social space that integrates the multilayer and dynamic statistical network methods currently at the disposal of social network researchers. We demonstrate the analytic value of the new concept of social space that we propose with the help of an illustrative analysis of an organizational field involving organizations external and internal decisions that congeal into a multilevel system of action that shapes the space of possibilities for other participants in the field. Through these internal and external decisions, organizations seek certain positions in their social space while simultaneously modifying that social space over time. We conclude by arguing that network researchers choices of goodness-of-fit statistics should reflect a consideration about the dimensions of social space of most interest to the nodes involved.
+WOS:000402960800004
+</snippet>
+</document>
+
+</searchresult>

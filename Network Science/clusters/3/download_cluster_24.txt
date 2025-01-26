@@ -1,0 +1,579 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Briatte, F
+TI Network patterns of legislative collaboration in twenty parliaments
+SO NETWORK SCIENCE
+C1 [Briatte, Francois] European Sch Polit Sci, F-59000 Lille, France.
+RP Briatte, F (corresponding author), European Sch Polit Sci, F-59000 Lille, France.
+FU National Institute on Drug Abuse; National Institute of Allergy and
+CR Alemán E, 2013, POLIT STUD-LONDON, V61, P356, DOI 10.1111/j.1467-9248.2012.00964.x
+   Alemán Eduardo, 2015, COLOMB.INT., V0, P23
+   Bratton KA, 2011, LEGIS STUD QUART, V36, P423, DOI 10.1111/j.1939-9162.2011.00021.x
+   Clark JH, 2013, POLIT GENDER, V9, P1, DOI 10.1017/S1743923X12000670
+   Core Team R, 2015, R: A LANGUAGE AND ENVIRONMENT FOR STATISTICAL COMPUTING, V0, P0
+   Cranmer SJ, 2011, POLIT ANAL, V19, P66, DOI 10.1093/pan/mpq037
+   Kirkland JH, 2013, STATE POLIT POLICY Q, V13, P225, DOI 10.1177/1532440012473842
+   Kirkland JH, 2014, LEGIS STUD QUART, V39, P169, DOI 10.1111/lsq.12041
+   Micozzi JP, 2014, COMP POLIT STUD, V47, P1186, DOI 10.1177/0010414013488564
+   Moody J, 2013, NETWORK SCI, V1, P119, DOI DOI 10.1017/NWS.2012.3
+   Munzert S, 2015, AUTOMATED DATA COLLECTION WITH R: A PRACTICAL GUIDE TO WEB SCRAPING AND TEXT MINING, V0, P1
+   Snijders TAB, 2011, ANNU REV SOCIOL, V37, P131, DOI 10.1146/annurev.soc.012809.102709
+   이지연, 2014, JOURNAL OF INTERNET COMPUTING AND SERVICES 인터넷정보학회논문지, V15, P103, DOI 10.7472/jksii.2014.15.4.103
+NR 13
+TC 19
+Z9 0
+U1 0.0
+U2 5.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2016
+VL 4
+BP 266
+EP 271
+DI 10.1017/nws.2015.31
+PG 6
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000376791800006
+PM 
+ER
+
+PT J
+AU Tao, T
+TI An improved MCMC algorithm for generating random graphs from constrained distributions
+SO NETWORK SCIENCE
+DE mcmc; adjacency matrix; graph theory; constrained distribution; social network; triad census
+AB We consider the problem of generating uniformly random graphs from a constrained distribution. A graph is valid if it obeys certain constraints such as a given number of nodes, edges, k-stars or degree sequence, and each graph must occur with equal probability. A typical application is to confirm the correctness of a model by repeated sampling and comparing statistical properties against empirical data. Markov Chain Monte Carlo (MCMC) algorithms are often used, but have certain difficulties such as the inability to search the space of all possible valid graphs. We propose an improved algorithm which overcomes these difficulties. Although each individual iteration of the MCMC algorithm takes longer, we obtain better coverage of the search space in the same amount of time. This leads to better estimates of various quantities such as the expected number of transitive triads given the constraints. The algorithm should be of general interest with many possible applications, including the world wide web, biological, and social networks.
+C1 [Tao, Trevor] Def Sci & Technol Org, Edinburgh, SA 5111, Australia.
+RP Tao, T (corresponding author), Def Sci & Technol Org, Edinburgh, SA 5111, Australia.
+CR Blitzstein J, 2011, INTERNET MATH, V6, P489, DOI 10.1080/15427951.2010.557277
+   Lusher D, 2012, EXPONENTIAL RANDOM GRAPH MODELS FOR SOCIAL NETWORKS: THEORY, V0, P0
+   Miklós I, 2013, ELECTRON J COMB, V20, P0
+   Rubinstein RY, 2013, INTRO MONTE CARLO ME, V0, P1
+   Snijders TAB, 2011, ANNU REV SOCIOL, V37, P131, DOI 10.1146/annurev.soc.012809.102709
+NR 5
+TC 4
+Z9 0
+U1 1.0
+U2 3.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2016
+VL 4
+BP 117
+EP 139
+DI 10.1017/nws.2015.35
+PG 23
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000373401500005
+PM 
+ER
+
+PT J
+AU Moody, J
+   Adams, Jimi
+   Morris, Martina
+TI Epidemic potential by sexual activity distributions
+SO NETWORK SCIENCE
+DE sexually transmitted infections; degree distributions; simulation;cohesion; connectivity; dynamic network diffusion
+AB For sexually transmitted infections like HIV to propagate through a population, there must be a path linking susceptible cases to currently infectious cases. The existence of such paths depends in part on the degree distribution. Here, we use simulation methods to examine how two features of the degree distribution affect network connectivity: Mean degree captures a volume dimension, while the skewness of the upper tail captures a shape dimension. We find a clear interaction between shape and volume: When mean degree is low, connectivity is greater for long-tailed distributions, but at higher mean degree, connectivity is greater in short-tailed distributions. The phase transition to a giant component and giant bicomponent emerges as a positive function of volume, but it rises more sharply and ultimately reaches more people in short-tail distributions than in long-tail distributions. These findings suggest that any interventions should be attuned to how practices affect both the volume and shape of the degree distribution, noting potential unanticipated effects. For example, policies that primarily affect high-volume nodes may not be effective if they simply redistribute volume among lower degree actors, which appears to exacerbate underlying network connectivity.
+C1 [Moody, James] Duke Univ, Dept Sociol, Durham, NC 27706 USA.   
+[Moody, James] King Abdulaziz Univ, Dept Sociol, Jedda, Saudi Arabia.   
+[Adams, Jimi] Univ Colorado, Dept Hlth & Behav Sci, Denver, CO 80202 USA.   
+[Morris, Martina] Univ Washington, Dept Stat, Seattle, WA 98195 USA.   
+[Morris, Martina] Univ Washington, Dept Sociol, Seattle, WA 98195 USA.
+RP Moody, J (corresponding author), Duke Univ, Dept Sociol, Durham, NC 27706 USA.; Moody, J (corresponding author), King Abdulaziz Univ, Dept Sociol, Jedda, Saudi Arabia.
+FU NIH [DA12831, HD41877, R01 HD075712-01, 1R21HD068317-01, L60 MD003181]
+CR Adams J, 2013, AM J PUBLIC HEALTH, V103, P322, DOI 10.2105/AJPH.2012.300908
+   Armbruster B, 2016, NETWORK SCI IN PRESS, V0, P0
+   Carnegie NB, 2012, PLOS ONE, V7, P0, DOI 10.1371/journal.pone.0043048
+   Dombrowski Kirk, 2013, WORLD J AIDS, V3, P1
+   Moody J, 2016, ANN EPIDEMIOL, V26, P241, DOI 10.1016/j.annepidem.2016.02.011
+   Young AM, 2014, PLOS ONE, V9, P0, DOI 10.1371/journal.pone.0101047
+NR 6
+TC 9
+Z9 0
+U1 1.0
+U2 10.0
+J9 NETWORK SCIENCE
+PD DEC
+PY 2017
+VL 5
+BP 461
+EP 475
+DI 10.1017/nws.2017.3
+PG 15
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000416732200003
+PM 29449942
+ER
+
+PT J
+AU Copeland, M
+   Bartlett, Bryce
+   Fisher, Jacob C
+TI Dynamic associations of network isolation and smoking behavior
+SO NETWORK SCIENCE
+DE social networks; social isolation; substance use; smoking; sem;adolescence
+AB Prevailing social network frameworks examine the association between peer ties and behaviors, such as smoking, but the role of social isolates is poorly understood. Some theories predict isolated adolescents are protected from peer influence that increases smoking, while others suggest isolates are more likely to initiate smoking because they lack the social control provided by peer friendships. Building on a growing literature that seeks to explain these contradictions by moving beyond a homogeneous understanding of isolation, we identify the relationship between smoking and three distinct dimensions of isolation: avoided (adolescents who do not receive ties), withdrawn (adolescents who do not send ties), and externally oriented (adolescents who claim close out-of-grade friends). We examine the co-evolutionary effects of these dimensions and cigarette smoking using an autoregressive latent trajectory model with PROSPER Peers, a unique, longitudinal network dataset. These data include students (47% male and 86% white) from rural Iowa and Pennsylvania, ranging successively from grades 6-12 in eight waves of data. We find avoided isolation is associated with decreased subsequent smoking in high school. Smoking increases subsequent avoided and withdrawn isolation, but decreases external orientation.
+C1 [Copeland, Molly; Bartlett, Bryce; Fisher, Jacob C.] Duke Univ, Dept Sociol, 276 Soc Psych Bldg,417 Chapel Dr, Durham, NC 27708 USA.
+RP Copeland, M (corresponding author), Duke Univ, Dept Sociol, 276 Soc Psych Bldg,417 Chapel Dr, Durham, NC 27708 USA.
+FU National Institutes of Health [R01-HD075712, R25-HD079352]; National
+CR Ball B, 2013, NETW SCI, V1, P16, DOI [10.1017/nws.2012.4, DOI 10.1017/NWS.2012.4]
+   Choi HJ, 2013, SUBST USE MISUSE, V48, P612, DOI 10.3109/10826084.2013.800111
+   Copeland M, 2015, M AM SOC ASS CHIC, V0, P0
+   DeLay D, 2013, J RES ADOLESCENCE, V23, P464, DOI 10.1111/jora.12017
+   Fujimoto K, 2012, SOC SCI MED, V74, P1952, DOI 10.1016/j.socscimed.2012.02.009
+   Haas SA, 2014, J HEALTH SOC BEHAV, V55, P126, DOI 10.1177/0022146514532817
+   Hamilton JL, 2014, J ADOLESCENCE, V37, P165, DOI 10.1016/j.adolescence.2013.11.010
+   McFarland DA, 2014, AM SOCIOL REV, V79, P1088, DOI 10.1177/0003122414554001
+   Molloy LE, 2014, DEV PSYCHOL, V50, P2449, DOI 10.1037/a0037856
+   Niño MD, 2016, ADDICT BEHAV, V53, P94, DOI 10.1016/j.addbeh.2015.10.005
+   Osgood DW, 2014, ADDICT BEHAV, V39, P923, DOI 10.1016/j.addbeh.2013.12.009
+   Schaefer David R, 2012, AM J PUBLIC HEALTH, V102, Pe12, DOI 10.2105/AJPH.2012.300705
+   Skrondal A, 2014, J ROY STAT SOC C, V63, P211, DOI 10.1111/rssc.12023
+   Unknown -, 2016, MANUAL SIENA VERSION, V0, P0
+NR 14
+TC 11
+Z9 0
+U1 0.0
+U2 11.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2017
+VL 5
+BP 257
+EP 277
+DI 10.1017/nws.2017.9
+PG 21
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000408564600002
+PM 28959446
+ER
+
+PT J
+AU Henry, T
+   Gesell, Sabina B
+   Ip, Edward H
+TI Analyzing heterogeneity in the effects of physical activity in children on social network structure and peer selection dynamics
+SO NETWORK SCIENCE
+DE ergm; stergm; new network; established program; physical activity;afterschool care program; childhood physical activity; social support;social network; children
+AB Social networks influence children and adolescents physical activity. The focus of this paper is to examine the differences in the effects of physical activity on friendship selection, with eye to the implications on physical activity interventions for young children. Prior to implementing a network intervention in the field, it is important to understand potential heterogeneities in the effects that activity level have on network structure. In this study, the associations between activity level and cross-sectional network structure, and activity level and change in network structure are assessed. We studied a real-world friendship network among 81 children (average age 7.96 years) who lived in low SES neighborhoods, attended public schools, and attended one of two structured aftercare programs, of which one has existed and the other was new. We modeled network selection effects and cross-sectional properties, while accounting for potential heterogeneities between networks. There was heterogeneity in the effect of physical activity on both cross-sectional network structure and the formation and dissolution processes, both across time and between networks. This suggests that if peer selection processes are changing within a network, a static network intervention strategy for childhood physical activity could become inefficient as the network evolves.
+C1 [Henry, Teague] Univ N Carolina, Chapel Hill, NC 27599 USA.   
+[Gesell, Sabina B.; Ip, Edward H.] Wake Forest Sch Med, Winston Salem, NC USA.
+RP Henry, T (corresponding author), Univ N Carolina, Chapel Hill, NC 27599 USA.
+FU National Institute of Health [1U01HL101066-01]; National Science
+CR Gesell SB, 2012, PEDIATRICS, V129, P1064, DOI 10.1542/peds.2011-2567
+   Gortmaker SL, 2011, LANCET, V378, P838, DOI 10.1016/S0140-6736(11)60815-5
+   Hartl AC, 2015, PSYCHOL SCI, V26, P1304, DOI 10.1177/0956797615588751
+   Krivitsky PN, 2014, J ROY STAT SOC B, V76, P29, DOI 10.1111/rssb.12014
+   Levy DT, 2011, OBES REV, V12, P378, DOI 10.1111/j.1467-789X.2010.00804.x
+   Macdonald-Wallis K, 2011, SOC SCI MED, V73, P6, DOI 10.1016/j.socscimed.2011.04.018
+   Macdonald-Wallis K, 2012, AM J PREV MED, V43, P636, DOI 10.1016/j.amepre.2012.08.021
+   Nader PR, 2012, CHILD OBES, V8, P195, DOI 10.1089/chi.2012.0004
+   Salvy SJ, 2012, PHYSIOL BEHAV, V106, P369, DOI 10.1016/j.physbeh.2012.03.022
+   Sawka KJ, 2013, INT J BEHAV NUTR PHY, V10, P0, DOI 10.1186/1479-5868-10-130
+   Shoham DA, 2012, PLOS ONE, V7, P0, DOI 10.1371/journal.pone.0039795
+   Simpson SL, 2011, PLOS ONE, V6, P0, DOI 10.1371/journal.pone.0020039
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   Zhang J, 2015, AM J PUBLIC HEALTH, V105, PS236, DOI 10.2105/AJPH.2014.302277
+   [Glickman D. Committee on Accelerating Progress in Obesity Food and Nutrition Board Institute of Medicine Committee on Accelerating Progress in Obesity Food and Nutrition Board Institute of Medicine], 2012, ACCELERATING PROGRESS IN OBESITY PREVENTION: SOLVING THE WEIGHT OF THE NATION, V0, P0
+   de la Haye K, 2011, J ADOLESCENT HEALTH, V49, P421, DOI 10.1016/j.jadohealth.2011.02.008
+   de la Haye K, 2011, SOC SCI MED, V73, P719, DOI 10.1016/j.socscimed.2011.06.023
+NR 17
+TC 11
+Z9 0
+U1 7.0
+U2 27.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2016
+VL 4
+BP 336
+EP 363
+DI 10.1017/nws.2016.2
+PG 28
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000383885200004
+PM 27867518
+ER
+
+PT J
+AU Schneider, J
+   Cornwell, B
+   Jonas, A
+   Lancki, N
+   Behler, R
+   Skaathun, B
+   Young, L E
+   Morgan, E
+   Michaels, S
+   Duvoisin, R
+   Khanna, A S
+   Friedman, S
+   Schumm, P
+   Laumann, E
+   CA uConnect Study Team
+TI Network dynamics of HIV risk and prevention in a population-based cohort of young Black men who have sex with men
+SO NETWORK SCIENCE
+DE network; black msm; hiv; prevention
+AB Critical to the development of improved HIV elimination efforts is a greater understanding of how social networks and their dynamics are related to HIV risk and prevention. In this paper, we examine network stability of confidant and sexual networks among young black men who have sex with men (YBMSM). We use data from uConnect (2013-2016), a population-based, longitudinal cohort study. We use an innovative approach to measure both sexual and confidant network stability at three time points, and examine the relationship between each type of stability and HIV risk and prevention behaviors. This approach is consistent with a co-evolutionary perspective in which behavior is not only affected by static properties of an individuals network, but may also be associated with changes in the topology of his or her egocentric network. Our results indicate that although confidant and sexual network stability are moderately correlated, their dynamics are distinct with different predictors and differing associations with behavior. Both types of stability are associated with lower rates of risk behaviors, and both are reduced among those who have spent time in jail. Public health awareness and engagement with both types of networks may provide new opportunities for HIV prevention interventions.
+C1 [Schneider, J.; Jonas, A.; Lancki, N.; Young, L. E.; Khanna, A. S.] Univ Chicago, Dept Med, Chicago, IL 60637 USA.   
+[Schneider, J.; Skaathun, B.; Morgan, E.; Schumm, P.] Univ Chicago, Dept Publ Hlth Sci, Chicago, IL 60637 USA.   
+[Schneider, J.; Jonas, A.; Lancki, N.; Skaathun, B.; Young, L. E.; Morgan, E.; Khanna, A. S.] Univ Chicago, Chicago Ctr HIV Eliminat, Chicago, IL 60637 USA.   
+[Schneider, J.; Michaels, S.; Duvoisin, R.; Laumann, E.] NORC, Chicago, IL USA.   
+[Cornwell, B.; Behler, R.] Cornell Univ, Dept Sociol, Ithaca, NY 14853 USA.   
+[Friedman, S.] Natl Dev Res Inst, New York, NY USA.   
+[Laumann, E.] Univ Chicago, Dept Sociol, Chicago, IL 60637 USA.
+RP Schneider, J (corresponding author), Univ Chicago, Dept Med, Chicago, IL 60637 USA.; Schneider, J (corresponding author), Univ Chicago, Dept Publ Hlth Sci, Chicago, IL 60637 USA.; Schneider, J (corresponding author), Univ Chicago, Chicago Ctr HIV Eliminat, Chicago, IL 60637 USA.; Schneider, J (corresponding author), NORC, Chicago, IL USA.
+FU NIH [R21MH098768, R01DA033875, R01 MH100021, R01DA039934];
+CR Andrade LF, 2013, AM J DRUG ALCOHOL AB, V39, P266, DOI 10.3109/00952990.2013.803112
+   Armbruster B, 2013, PLOS ONE, V8, P0, DOI 10.1371/journal.pone.0070043
+   Arnold EA, 2016, GLOB. PUBLIC HEALTH, V0, P1
+   Bryan AD, 2012, DEV PSYCHOL, V48, P1429, DOI 10.1037/a0027547
+   Cornwell B, 2014, J GERONTOL B-PSYCHOL, V69, PS75, DOI 10.1093/geronb/gbu037
+   Cornwell B, 2015, SOC SCI MED, V125, P94, DOI 10.1016/j.socscimed.2013.09.011
+   Desmond M, 2012, AM J SOCIOL, V117, P1295, DOI 10.1086/663574
+   Dombrowski K, 2013, SUBST USE MISUSE, V48, P1485, DOI 10.3109/10826084.2013.796987
+   Dombrowski Kirk, 2013, WORLD J AIDS, V3, P1
+   Dyer TP, 2012, J URBAN HEALTH, V89, P697, DOI 10.1007/s11524-012-9674-x
+   Fischer CS, 2015, J GERONTOL B-PSYCHOL, V70, P123, DOI 10.1093/geronb/gbu057
+   Friedman SR, 2013, AIDS BEHAV, V17, P1915, DOI 10.1007/s10461-013-0475-3
+   Friedman SR, 2014, AIDS BEHAV, V18, P1821, DOI 10.1007/s10461-013-0643-5
+   Gayman MD, 2013, SOC MENT HEALTH, V3, P203, DOI 10.1177/2156869313496438
+   Goodreau SM, 2012, PLOS ONE, V7, P0, DOI 10.1371/journal.pone.0050522
+   Hernández-Romieu AC, 2015, SEX TRANSM DIS, V42, P505, DOI 10.1097/OLQ.0000000000000332
+   Holloway IW, 2015, AIDS BEHAV, V19, PS112, DOI 10.1007/s10461-014-0989-3
+   Khan B, 2013, DISCRETE DYN NAT SOC, V2013, P0, DOI 10.1155/2013/720818
+   Khanna AS, 2014, AIDS BEHAV, V18, P1523, DOI 10.1007/s10461-013-0646-2
+   Khanna AS, 2016, JAMA INTERN MED, V176, P136, DOI 10.1001/jamainternmed.2015.6536
+   Kubicek K, 2013, AIDS BEHAV, V17, P1524, DOI 10.1007/s10461-012-0205-2
+   Livak B, 2013, J URBAN HEALTH, V90, P1205, DOI 10.1007/s11524-013-9830-y
+   Mayer KH, 2014, PLOS ONE, V9, P0, DOI 10.1371/journal.pone.0087298
+   McCreesh N, 2012, EPIDEMIOLOGY, V23, P138, DOI 10.1097/EDE.0b013e31823ac17c
+   McFadden RB, 2014, AIDS CARE, V26, P1275, DOI 10.1080/09540121.2014.911807
+   Millett GA, 2012, LANCET, V380, P341, DOI 10.1016/S0140-6736(12)60899-X
+   Schneider JA, 2012, SEX TRANSM DIS, V39, P598, DOI 10.1097/OLQ.0b013e3182515cee
+   Schneider JA, 2015, SOC SCI MED, V125, P192, DOI 10.1016/j.socscimed.2013.12.034
+   Schneider JA, 2017, AIDS, V31, P159, DOI 10.1097/QAD.0000000000001269
+   Schneider John A, 2013, AM J PUBLIC HEALTH, V103, Pe28, DOI 10.2105/AJPH.2012.301003
+   Seng JS, 2012, SOC SCI MED, V75, P2437, DOI 10.1016/j.socscimed.2012.09.023
+   Shah NS, 2014, AIDS BEHAV, V18, P335, DOI 10.1007/s10461-013-0677-8
+   Unknown -, 2015, AM J PUBLIC HEALTH, V0, P0, DOI DOI 10.2105/AJPH.2014.302474
+   Unknown -, 2015, STAT REL 14 STAT SOF, V0, P0
+   Unknown -, 2016, HIV GAY BIS MEN, V0, P0
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   Van Sluytman L, 2013, J GERONTOL SOC WORK, V56, P219, DOI 10.1080/01634372.2013.766295
+NR 37
+TC 40
+Z9 0
+U1 0.0
+U2 4.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2017
+VL 5
+BP 381
+EP 409
+DI 10.1017/nws.2016.27
+PG 29
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000408564600007
+PM 
+ER
+
+PT J
+AU White, A
+   Murphy, Thomas Brendan
+TI Mixed-membership of experts stochastic blockmodel
+SO NETWORK SCIENCE
+DE stochastic blockmodel; mixed membership model; node attributes;community finding; model based clustering; covariate information; social selection model
+AB Social network analysis is the study of how links between a set of actors are formed. Typically, it is believed that links are formed in a structured manner, which may be due to, for example, political or material incentives, and which often may not be directly observable. The stochastic blockmodel represents this structure using latent groups which exhibit different connective properties, so that conditional on the group membership of two actors, the probability of a link being formed between them is represented by a connectivity matrix. The mixed membership stochastic blockmodel extends this model to allow actors membership to different groups, depending on the interaction in question, providing further flexibility. Attribute information can also play an important role in explaining network formation. Network models which do not explicitly incorporate covariate information require the analyst to compare fitted network models to additional attributes in a post-hoc manner. We introduce the mixed membership of experts stochastic blockmodel, an extension to the mixed membership stochastic blockmodel which incorporates covariate actor information into the existing model. The method is illustrated with application to the Lazega Lawyers dataset. Model and variable selection methods are also discussed.
+C1 [White, Arthur] Trinity Coll Dublin, Sch Comp Sci & Stat, Dublin 2, Ireland.   
+[Murphy, Thomas Brendan] Univ Coll Dublin, Sch Math Sci, Dublin 4, Ireland.
+RP White, A (corresponding author), Trinity Coll Dublin, Sch Comp Sci & Stat, Dublin 2, Ireland.; Murphy, TB (corresponding author), Univ Coll Dublin, Sch Math Sci, Dublin 4, Ireland.
+FU Science Foundation Ireland under Clique: Graph & Network Analysis
+CR Blei DM, 2014, ANNU REV STAT APPL, V1, P203, DOI 10.1146/annurev-statistics-022513-115657
+   Core Team R, 2015, R: A LANGUAGE AND ENVIRONMENT FOR STATISTICAL COMPUTING, V0, P0
+   Efron B, 2013, EMPIRICAL BAYES MODE, V0, P0
+   Latouche P, 2012, STAT MODEL, V12, P93, DOI 10.1177/1471082X1001200105
+   Raftery AE, 2012, J COMPUT GRAPH STAT, V21, P901, DOI 10.1080/10618600.2012.679240
+   Salter-Townshend M, 2012, STATISTICAL ANALYSIS AND DATA MINING, V5, P243, DOI 10.1002/sam.11146
+   Salter-Townshend M, 2013, COMPUT STAT DATA AN, V57, P661, DOI 10.1016/j.csda.2012.08.004
+   Unknown -, 2011, ANN APPL STAT, V0, P0, DOI DOI 10.1214/10-AOAS382
+   Unknown -, 2012, ESTIMATING A DIRICHLET DISTRIBUTION, V0, P0
+   Unknown -, 2012, P 6 INT AAAI C WEBL, V0, P0
+   Unknown -, 2012, P COMPSTAT 2012 20 I, V0, P0
+NR 11
+TC 13
+Z9 0
+U1 0.0
+U2 5.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2016
+VL 4
+BP 48
+EP 80
+DI 10.1017/nws.2015.29
+PG 33
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000373401500003
+PM 
+ER
+
+PT J
+AU Rastelli, R
+   Friel, Nial
+   Raftery, Adrian E
+TI Properties of latent variable network models
+SO NETWORK SCIENCE
+DE fitness models; latent position models; latent variable models; random graphs; social networks
+AB We derive properties of latent variable models for networks, a broad class of models that includes the widely used latent position models. We characterize several features of interest, with particular focus on the degree distribution, clustering coefficient, average path length, and degree correlations. We introduce the Gaussian latent position model, and derive analytic expressions and asymptotic approximations for its network properties. We pay particular attention to one special case, the Gaussian latent position model with random effects, and show that it can represent the heavy-tailed degree distributions, positive asymptotic clustering coefficients, and small-world behaviors that often occur in observed social networks. Finally, we illustrate the ability of the models to capture important features of real networks through several well-known datasets.
+C1 [Rastelli, Riccardo; Friel, Nial] Univ Coll Dublin, Sch Math & Stat, Dublin, Ireland.   
+[Rastelli, Riccardo; Friel, Nial] Insight Ctr Data Analyt, Dublin, Ireland.   
+[Raftery, Adrian E.] Univ Washington, Dept Stat & Sociol, Seattle, WA 98195 USA.
+RP Rastelli, R (corresponding author), Univ Coll Dublin, Sch Math & Stat, Dublin, Ireland.; Rastelli, R (corresponding author), Insight Ctr Data Analyt, Dublin, Ireland.
+FU Science Foundation Ireland [SFI/12/RC/2289, 12/IP/1424, 11/W.1/I2079];
+CR Ambroise C, 2012, J ROY STAT SOC B, V74, P3, DOI 10.1111/j.1467-9868.2011.01009.x
+   Caimo A, 2011, SOC NETWORKS, V33, P41, DOI 10.1016/j.socnet.2010.09.004
+   Cao X, 2014, INT INTERACT, V40, P216, DOI 10.1080/03050629.2014.880697
+   Channarond A, 2012, ELECTRON J STAT, V6, P2574, DOI 10.1214/12-EJS753
+   Chatterjee S, 2013, ANN STAT, V41, P2428, DOI 10.1214/13-AOS1155
+   Chiu GS, 2011, P NATL ACAD SCI USA, V108, P15881, DOI 10.1073/pnas.1015359108
+   Chiu GS, 2014, STAT METHODOL, V17, P139, DOI 10.1016/j.stamet.2013.09.001
+   Gollini I, 2016, J COMPUT GRAPH STAT, V25, P246, DOI 10.1080/10618600.2014.978006
+   Krivitsky PN, 2014, J ROY STAT SOC B, V76, P29, DOI 10.1111/rssb.12014
+   Mariadassou M, 2015, BERNOULLI, V21, P537, DOI 10.3150/13-BEJ579
+   Perry PO, 2013, J R STAT SOC B, V75, P821, DOI 10.1111/rssb.12013
+   Raftery AE, 2012, J COMPUT GRAPH STAT, V21, P901, DOI 10.1080/10618600.2012.679240
+   Schweinberger M, 2015, J R STAT SOC B, V77, P647, DOI 10.1111/rssb.12081
+   Shalizi CR, 2013, ANN STAT, V41, P508, DOI 10.1214/12-AOS1044
+   Sweet TM, 2013, J EDUC BEHAV STAT, V38, P295, DOI 10.3102/1076998612458702
+   Unknown -, 2011, ANN APPL STAT, V0, P0, DOI DOI 10.1214/10-AOAS382
+   Unknown -, 2011, EXPLORATORY SOCIAL N, V0, P0, DOI DOI 10.1017/CBO9780511996368
+   Wang H, 2014, IEEE T SIGNAL PROCES, V62, P703, DOI 10.1109/TSP.2013.2294594
+NR 18
+TC 32
+Z9 0
+U1 0.0
+U2 7.0
+J9 NETWORK SCIENCE
+PD DEC
+PY 2016
+VL 4
+BP 407
+EP 432
+DI 10.1017/nws.2016.23
+PG 26
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000392128300001
+PM 
+ER
+
+PT J
+AU Henry, AD
+   Mitsche, Dieter
+   Pralat, Pawel
+TI Homophily, influence and the decay of segregation in self-organizing networks
+SO NETWORK SCIENCE
+DE network dynamics; network segregation; community structure; homophily;influence; graph theory; differential equation method; agent-based models
+AB We study the persistence of network segregation in networks characterized by the co-evolution of vertex attributes and link structures, in particular where individual vertices form linkages on the basis of similarity with other network vertices (homophily), and where vertex attributes diffuse across linkages, making connected vertices more similar over time (influence). A general mathematical model of these processes is used to examine the relative influence of homophily and influence in the maintenance and decay of network segregation in self-organizing networks. While prior work has shown that homophily is capable of producing strong network segregation when attributes are fixed, we show that adding even minute levels of influence is sufficient to overcome the tendency towards segregation even in the presence of relatively strong homophily processes. This result is proven mathematically for all large networks and illustrated through a series of computational simulations that account for additional network evolution processes. This research contributes to a better theoretical understanding of the conditions under which network segregation and related phenomenon-such as community structure-may emerge, which has implications for the design of interventions that may promote more efficient network structures.
+C1 [Henry, Adam Douglas] Univ Arizona, Sch Govt & Publ Policy, Tucson, AZ USA.   
+[Mitsche, Dieter] Univ Nice Sophia Antipolis, Lab JA Dieudonne, Parc Valrose, F-06108 Nice 02, France.   
+[Pralat, Pawel] Ryerson Univ, Dept Math, Toronto, ON, Canada.
+RP Henry, AD (corresponding author), Univ Arizona, Sch Govt & Publ Policy, Tucson, AZ USA.; Mitsche, D (corresponding author), Univ Nice Sophia Antipolis, Lab JA Dieudonne, Parc Valrose, F-06108 Nice 02, France.; Pralat, P (corresponding author), Ryerson Univ, Dept Math, Toronto, ON, Canada.
+FU U.S. National Science Foundation (NSF) [1124172]; University of
+CR Aral Sinan, 2013, NETWORK SCIENCE, V1, P125, DOI 10.1017/nws.2013.6
+   Banerjee A, 2013, SCIENCE, V341, P363, DOI 10.1126/science.1236498
+   Boardman JD, 2012, P NATL ACAD SCI USA, V109, P17377, DOI 10.1073/pnas.1208975109
+   Boucher V, 2015, INT ECON REV, V56, P235, DOI 10.1111/iere.12101
+   Bramoullé Y, 2012, J ECON THEORY, V147, P1754, DOI 10.1016/j.jet.2012.05.007
+   Butts CT, 2012, SNA: TOOLS FOR SOCIAL NETWORK ANALYSIS (VERSION 2.2) R PACKAGE, V0, P0
+   Centola D, 2011, SCIENCE, V334, P1269, DOI 10.1126/science.1207055
+   Cooper C, 2011, RANDOM STRUCT ALGOR, V38, P396, DOI 10.1002/rsa.20318
+   Cooper C, 2014, INTERNET MATH, V10, P116, DOI 10.1080/15427951.2013.796301
+   Dandekar P, 2013, P NATL ACAD SCI USA, V110, P5791, DOI 10.1073/pnas.1217220110
+   Dietz T, 2013, P NATL ACAD SCI USA, V110, P14081, DOI 10.1073/pnas.1212740110
+   Durrett R, 2012, P NATL ACAD SCI USA, V109, P3682, DOI 10.1073/pnas.1200709109
+   Friedkin NE, 2011, SOCIAL INFLUENCE NET, V0, PP367, DOI DOI 10.1017/CBO9780511976735
+   Gerber ER, 2013, AM J POLIT SCI, V57, P598, DOI 10.1111/ajps.12011
+   Girard Y, 2015, J ECON BEHAV ORGAN, V115, P197, DOI 10.1016/j.jebo.2014.12.005
+   Golub B, 2012, REV NETW ECON, V11, P0, DOI 10.1515/1446-9022.1367
+   Henry AD, 2011, J PUBL ADM RES THEOR, V21, P419, DOI 10.1093/jopart/muq042
+   Henry AD, 2011, P NATL ACAD SCI USA, V108, P8605, DOI 10.1073/pnas.1014486108
+   Henry AD, 2011, POLICY STUD J, V39, P361, DOI 10.1111/j.1541-0072.2011.00413.x
+   Henry AD, 2013, INTERNET MATH, V9, P33, DOI 10.1080/15427951.2012.678157
+   Jackson MO, 2013, NETWORK SCIENCE, V1, P49, DOI 10.1017/nws.2012.7
+   Jackson MO, 2014, J ECON PERSPECT, V28, P3, DOI 10.1257/jep.28.4.3
+   Janson S, 2011, WIL INT S D, V0, P0, DOI 10.1002/9781118032718
+   Kleinbaum AM, 2013, ORGAN SCI, V24, P1316, DOI 10.1287/orsc.1120.0804
+   Lewis K, 2012, P NATL ACAD SCI USA, V109, P68, DOI 10.1073/pnas.1109739109
+   Unknown -, 2012, R: A LANGUAGE AND ENVIRONMENT FOR STATISTICAL COMPUTING, V0, P0
+NR 26
+TC 1
+Z9 0
+U1 0.0
+U2 12.0
+J9 NETWORK SCIENCE
+PD DEC
+PY 2016
+VL 4
+BP 81
+EP 116
+DI 10.1017/nws.2016.1
+PG 36
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000373401500004
+PM 
+ER
+
+PT J
+AU Schaefer, DR
+   Adams, Jimi
+TI <i>The coevolution of networks and health Introduction to the Special Issue of</i> Network Science
+SO NETWORK SCIENCE
+C1 [Schaefer, David R.] Univ Calif Irvine, Dept Sociol, Irvine, CA 92697 USA.   
+[Adams, Jimi] Univ Colorado, Dept Hlth & Behav Sci, Denver, CO 80202 USA.
+RP Schaefer, DR (corresponding author), Univ Calif Irvine, Dept Sociol, Irvine, CA 92697 USA.
+FU European Research Council under European Union/ERC [319209]
+CR Adams J, 2016, J HEALTH SOC BEHAV, V57, P22, DOI 10.1177/0022146515627848
+   Aral Sinan, 2013, NETWORK SCIENCE, V1, P125, DOI 10.1017/nws.2013.6
+   Bachrach CA, 2017, AM J PUBLIC HEALTH, V107, P251, DOI 10.2105/AJPH.2016.303580
+   Brass DJ, 2014, RES SOCIOL ORGAN-RES, V40, P1, DOI 10.1108/S0733-558X(2014)40
+   DeLay D, 2013, J RES ADOLESCENCE, V23, P464, DOI 10.1111/jora.12017
+   Ip EH, 2013, HEALTH EDUC BEHAV, V40, P123S, DOI 10.1177/1090198113493911
+   Keyes KM, 2016, AM J PUBLIC HEALTH, V106, P633, DOI 10.2105/AJPH.2016.303101
+   Lomi A, 2012, SOC NETWORKS, V34, P101, DOI 10.1016/j.socnet.2010.10.005
+   Martin CL, 2013, CHILD DEV, V84, P921, DOI 10.1111/cdev.12032
+   Mollborn S, 2014, J HEALTH SOC BEHAV, V55, P386, DOI 10.1177/0022146514555981
+   Moody J, 2017, NETW SCI, V5, P461, DOI 10.1017/nws.2017.3
+   Rambaran AJ, 2013, J RES ADOLESCENCE, V23, P574, DOI 10.1111/jora.12032
+   Rambaran JA, 2017, CHILD DEV, V88, P523, DOI 10.1111/cdev.12611
+   Schaefer DR, 2018, J QUANT CRIMINOL, V34, P275, DOI 10.1007/s10940-016-9335-4
+   Schaefer David R, 2012, AM J PUBLIC HEALTH, V102, Pe12, DOI 10.2105/AJPH.2012.300705
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   Veenstra R, 2013, J RES ADOLESCENCE, V23, P399, DOI 10.1111/jora.12070
+   Zhang J, 2015, AM J PUBLIC HEALTH, V105, PS236, DOI 10.2105/AJPH.2014.302277
+NR 18
+TC 4
+Z9 0
+U1 0.0
+U2 9.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2017
+VL 5
+BP 249
+EP 256
+DI 10.1017/nws.2017.24
+PG 8
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000408564600001
+PM 
+ER
+
+PT J
+AU Tsai, J
+   Valente, Thomas W
+   Miller, Kimberly A
+   De la haye, Kayla
+   Pickering, Trevor A
+   Cockburn, Myles G
+TI Friendship networks and sun safety behavior among children
+SO NETWORK SCIENCE
+DE sun safety; children; peer leaders; social networks; peer influence
+AB Social networks, particularly those defined by friendships, influence many childhood and adolescent health behaviors such as the use of alcohol, tobacco, and other drugs, as well as diet and physical activity. Few, if any, studies have examined the concordance between friendship networks and sun exposure/safety behaviors. This study examines the friendship networks and sun safety behaviors for a group of fourth and fifth grade students taking part in a larger sun safety intervention, "SunSmart" (n = 128). Intra-class correlation, homophily hypothesis testing, and exponential random graph models were used to test friendship homophily based on sun safety behaviors. Peer Leaders were identified through social network popularity, and sun safety change scores were compared between Peer Leaders and non-leaders. Results show that students cluster based on shared demographic characteristics and some sun safety behaviors, and that there was a trend for Peer Leaders to respond better to the SunSmart intervention than non-leaders. Implications for future sun safety interventions using Peer Leaders as champions for sun safety behavior change are discussed.
+C1 [Tsai, Jennifer; Valente, Thomas W.; Miller, Kimberly A.; De La Haye, Kayla; Pickering, Trevor A.; Cockburn, Myles G.] Univ Southern Calif, Keck Sch Med, Dept Prevent Med, Los Angeles, CA 90033 USA.
+RP Tsai, J (corresponding author), Univ Southern Calif, Keck Sch Med, Dept Prevent Med, Los Angeles, CA 90033 USA.
+FU [1R01-CA158407]
+CR Csardi G, 2014, IGRAPH PACKAGE NETWO, V0, P0
+   Dishion TJ, 2011, ANNU REV PSYCHOL, V62, P189, DOI 10.1146/annurev.psych.093008.100412
+   Flodgren G, 2011, COCHRANE DB SYST REV, V0, P0, DOI [10.1002/14651858.CD000125.pub4, 10.1002/14651858.CD000125]
+   Forster M, 2015, J SCHOOL HEALTH, V85, P82, DOI 10.1111/josh.12230
+   Fujimoto K, 2012, J ADOLESCENT HEALTH, V51, P136, DOI 10.1016/j.jadohealth.2011.11.013
+   Fujimoto K, 2012, SOC SCI MED, V74, P1952, DOI 10.1016/j.socscimed.2012.02.009
+   Glanz K, 2013, J HEALTH COMMUN, V18, P1368, DOI 10.1080/10810730.2013.778361
+   Guy GP, 2014, JAMA DERMATOL, V150, P501, DOI 10.1001/jamadermatol.2013.7124
+   Huang GC, 2014, J ADOLESCENT HEALTH, V54, P508, DOI 10.1016/j.jadohealth.2013.07.001
+   Mercken L, 2012, HEALTH PSYCHOL, V31, P450, DOI 10.1037/a0026876
+   Miller KA, 2015, PREV MED, V81, P303, DOI 10.1016/j.ypmed.2015.09.027
+   Salvy SJ, 2012, PHYSIOL BEHAV, V106, P369, DOI 10.1016/j.physbeh.2012.03.022
+   Schaefer DR, 2011, DEV PSYCHOL, V47, P1141, DOI 10.1037/a0024091
+   Schaefer David R, 2012, AM J PUBLIC HEALTH, V102, Pe12, DOI 10.2105/AJPH.2012.300705
+   Unknown -, 2014, THE R FOUNDATION FOR STATISTICAL COMPUTING, V0, P0
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   de la Haye K, 2011, SOC SCI MED, V73, P719, DOI 10.1016/j.socscimed.2011.06.023
+NR 17
+TC 4
+Z9 0
+U1 0.0
+U2 12.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2016
+VL 4
+BP 314
+EP 335
+DI 10.1017/nws.2016.6
+PG 22
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000383885200003
+PM 
+ER
+
+PT J
+AU Hollway, J
+   Lomi, Alessandro
+   Pallotti, Francesca
+   Stadtfeld, Christoph
+TI Multilevel social spaces: The network dynamics of organizational fields
+SO NETWORK SCIENCE
+DE affiliation network; collaboration; competition; goodness-of-fit;interorganizational network; multilevel network; multilevel triad census; organizational change; organizational fields; social space
+AB In this paper, we seek to advance an updated concept of social space that integrates the multilayer and dynamic statistical network methods currently at the disposal of social network researchers. We demonstrate the analytic value of the new concept of social space that we propose with the help of an illustrative analysis of an organizational field involving organizations external and internal decisions that congeal into a multilevel system of action that shapes the space of possibilities for other participants in the field. Through these internal and external decisions, organizations seek certain positions in their social space while simultaneously modifying that social space over time. We conclude by arguing that network researchers choices of goodness-of-fit statistics should reflect a consideration about the dimensions of social space of most interest to the nodes involved.
+C1 [Hollway, James] Grad Inst Int & Dev Studies, Dept Int Relat Polit Sci, Chemin Eugene Rigot 2A, CH-1211 Geneva, Switzerland.   
+[Lomi, Alessandro] Univ Italian Switzerland, Via Buffi 13, CH-6900 Lugano, Switzerland.   
+[Pallotti, Francesca] Univ Greenwich, Dept Int Business & Econ, Old Royal Naval Coll, Pk Row, London SE10 9LS, England.   
+[Stadtfeld, Christoph] ETH, Chair Social Networks, Clausiusstr 50, CH-8092 Zurich, Switzerland.
+RP Hollway, J (corresponding author), Grad Inst Int & Dev Studies, Dept Int Relat Polit Sci, Chemin Eugene Rigot 2A, CH-1211 Geneva, Switzerland.
+FU Swiss National Science Foundation [146763]
+CR Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Brunson JC, 2015, NETW SCI, V3, P480, DOI 10.1017/nws.2015.38
+   Conaldi G, 2012, ORGAN RES METHODS, V15, P385, DOI 10.1177/1094428111430541
+   Daraganova G, 2012, SOC NETWORKS, V34, P6, DOI 10.1016/j.socnet.2010.12.001
+   Hollway J, 2016, METHODS SER, V12, P315, DOI 10.1007/978-3-319-24520-1, 13
+   Iwashyna TJ, 2012, CRIT CARE MED, V40, P2470, DOI 10.1097/CCM.0b013e318254516f
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Lomi A, 2012, SOC NETWORKS, V34, P101, DOI 10.1016/j.socnet.2010.10.005
+   Lomi A, 2014, KOLNER Z SOZIOL SOZ, V66, P395, DOI 10.1007/s11577-014-0271-8
+   Lomi A, 2014, MED CARE, V52, P407, DOI 10.1097/MLR.0000000000000107
+   Lomi A, 2016, SOC NETWORKS, V44, P266, DOI 10.1016/j.socnet.2015.10.006
+   Lospinoso JA, 2012, STATISTICAL MODELS FOR SOCIAL NETWORK DYNAMICS, V0, P0
+   Padgett JF, 2012, EMERGENCE OF ORGANIZATIONS AND MARKETS, V0, P1
+   Pallotti F, 2015, EUR MANAG REV, V12, P189, DOI 10.1111/emre.12052
+   Ripley RM, 2015, MANUAL RSIENA, V0, P0
+   Sethi D, 2014, SAUDI J ANAESTH, V8, P104, DOI 10.4103/1658-354X.125964
+   Snijders TAB, 2013, SOC NETWORKS, V35, P265, DOI 10.1016/j.socnet.2012.05.005
+   Snijders TAB, 2016, METHODS SER, V12, P15, DOI 10.1007/978-3-319-24520-1, 2
+   Stadtfeld C, 2016, SOC NETWORKS, V44, P363, DOI 10.1016/j.socnet.2015.04.010
+   Veinot TC, 2012, SOC SCI MED, V75, P1800, DOI 10.1016/j.socscimed.2012.07.011
+   Wagner J, 2013, J CRIT CARE, V28, P202, DOI 10.1016/j.jcrc.2012.07.027
+   Wang P, 2013, SOC NETWORKS, V35, P96, DOI 10.1016/j.socnet.2013.01.004
+NR 22
+TC 22
+Z9 0
+U1 0.0
+U2 21.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2017
+VL 5
+BP 187
+EP 212
+DI 10.1017/nws.2017.8
+PG 26
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000402960800004
+PM 
+ER
+

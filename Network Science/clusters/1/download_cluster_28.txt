@@ -1,0 +1,766 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Fitzhugh, SM
+   Decostanza, Arwen H
+   Buchler, Norbou
+   Ungvarsky, Diane M
+TI Cognition and communication: situational awareness and tie preservation in disrupted task environments
+SO NETWORK SCIENCE
+DE organizations; communication; network dynamics; disaster; situational awareness; adaptation
+AB Individuals filling specialized, interdependent organizational roles achieve coordinated task execution through effective communication channels. Such channels enable regular access to information, opportunities, and assistance that may enhance ones understanding of the task environment. However, the time and effort devoted to maintaining those channels may detract from ones duties by turning attention away from the task environment. Disrupted task environments increase information requirements, thus creating a dilemma in which individuals must sustain benefits offered by important communication channels and relieve burdens imposed by ineffective channels. Using separable temporal exponential random graph models (STERGMs), this paper examines the relationship between situational awareness (SA) and the propensity to sustain or dissolve preexisting communication channels during 10 disruptive events experienced sequentially by a large, multifaceted military organization during a 2-week training exercise. Results provide limited evidence that increased SA detracts from tie preservation; instead SA begins to predict tie preservation during the second week of the exercise. Patterns of organizational adaptation reveal that, over time, improvised coordinative roles increasingly fall upon those with elevated SA. These results suggest that over successive disruptions, the benefits of information provided by communication channels within interdependent, role-specialized organizations begin to outweigh the costs of sustaining those channels.
+C1 [Fitzhugh, Sean M.; Decostanza, Arwen H.; Buchler, Norbou; Ungvarsky, Diane M.] US Army, Res Lab, Washington, DC 20310 USA.
+RP Fitzhugh, SM (corresponding author), US Army, Res Lab, Washington, DC 20310 USA.
+FU Simons Collaboration grant [525309]
+CR Brashears ME, 2018, SOC NETWORKS, V55, P104, DOI 10.1016/j.socnet.2018.05.010
+   Fitzhugh SeanM, 2017, PROCEEDINGS OF THE 2017 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING 2017, V0, P123
+   Leenders RTAJ, 2016, ORGAN PSYCHOL REV, V6, P92, DOI 10.1177/2041386615578312
+   Unknown -, 2016, TERGM FIT SIMULATE D, V0, P0
+NR 4
+TC 1
+Z9 0
+U1 1.0
+U2 20.0
+J9 NETWORK SCIENCE
+PD DEC
+PY 2020
+VL 8
+BP 508
+EP 542
+DI 10.1017/nws.2020.15
+PG 35
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000575822100003
+PM 
+ER
+
+PT J
+AU Matous, P
+   Todo, Yasuyuki
+TI Energy and resilience: The effects of endogenous interdependencies on trade network formation across space among major Japanese firms
+SO NETWORK SCIENCE
+DE interfirm networks; network evolution; geography; stochastic actor-oriented models; disaster resilience; japan
+AB The dynamic drivers of interfirm interactions across space have rarely been explored in the context of disaster recovery; therefore, the mechanism through which shocks propagate is unclear. This paper uses stochastic actor-oriented modeling to examine how trade networks among the 500 largest Japanese companies evolved during 2010 and 2011, i.e. before and after the Great East Japan Earthquake to identify sources of vulnerability in the system. In contrast to previous reports on broken supply chains, the network displayed only modest change even in the directly affected areas. Controlling for distance and for firm size, we find that when firms changed their partners, they preferred firms that were popular among other firms, that had partners in common with them and that also bought some products or services from them. These findings concur with a criticism that Japanese firms avoid external actors and exhibit inflexibility in reorganizing their networks in times of need, which contrasts with the non-cliquish network structures observed in high-performing economic sectors. The results also highlight the role of energy firms in disaster resilience. Unlike other large Japanese companies that cluster in major urban centers, energy firms are distributed across Japan. However, despite their peripheral physical locations, energy firms are centrally located in trade networks. Thus, while a disaster in any region may affect some energy firms and lead to large-scale temporary shocks, the entire network is unlikely to be disconnected by any region-specific disaster because of the spatial distribution of the topological network core formed by energy companies.
+C1 [Matous, Petr] Univ Tokyo, Dept Civil Engn, Sch Engn, 7-3-1 Hongo, Tokyo 113, Japan.   
+[Matous, Petr] Univ Sydney, Fac Engn & IT, Complex Syst Res Grp, Sydney, NSW 2006, Australia.   
+[Todo, Yasuyuki] RIETI, Grad Sch Econ, Shinjuku Ku, 1-6-1 Nishi Waseda, Tokyo 1690051, Japan.   
+[Todo, Yasuyuki] Waseda Univ, Shinjuku Ku, 1-6-1 Nishi Waseda, Tokyo 1690051, Japan.
+RP Matous, P (corresponding author), Univ Tokyo, Dept Civil Engn, Sch Engn, 7-3-1 Hongo, Tokyo 113, Japan.; Matous, P (corresponding author), Univ Sydney, Fac Engn & IT, Complex Syst Res Grp, Sydney, NSW 2006, Australia.; Todo, Y (corresponding author), RIETI, Grad Sch Econ, Shinjuku Ku, 1-6-1 Nishi Waseda, Tokyo 1690051, Japan.; Todo, Y (corresponding author), Waseda Univ, Shinjuku Ku, 1-6-1 Nishi Waseda, Tokyo 1690051, Japan.
+FU Grants-in-Aid for Scientific Research [26245037, 25101003] Funding
+CR Acemoglu D, 2015, NETWORKS SHOCKS SYST, V0, P1
+   Antràs P, 2012, AM ECON REV, V102, P412, DOI 10.1257/aer.102.3.412
+   Antràs P, 2013, ECONOMETRICA, V81, P2127, DOI 10.3982/ECTA10813
+   Barthélemy M, 2011, PHYS REP, V499, P1, DOI 10.1016/j.physrep.2010.11.002
+   Carvalho VM, 2014, RIETI DISCUSSION PAP, V14-E-035, P1
+   Costinot A, 2013, REV ECON STUD, V80, P109, DOI 10.1093/restud/rds023
+   Daraganova G, 2012, SOC NETWORKS, V34, P6, DOI 10.1016/j.socnet.2010.12.001
+   Fujita M, 2013, ECONOMICS OF AGGLOMERATION. CITIES, V0, P0
+   Gabaix X, 2011, ECONOMETRICA, V79, P733, DOI 10.3982/ECTA8769
+   Koskinen J, 2013, J STAT PHYS, V151, P523, DOI 10.1007/s10955-013-0732-x
+   Koskinen J, 2015, NETW SCI, V3, P58, DOI 10.1017/nws.2015.3
+   Lospinoso JA, 2011, GOODNESS OF FIT FOR SOCIAL NETWORK DYNAMICS, V0, P0
+   Matous P, 2013, J TRANSP GEOGR, V31, P226, DOI 10.1016/j.jtrangeo.2013.04.001
+   Matous P, 2015, RIETI DISCUSSION PAP, V15-E-039, P1
+   Nakajima K, 2012, RIETI DISCUSSION PAP, V0, P0
+   Nakajima K, 2013, RIETI DISCUSSION PAP, V13-J-024, P1
+   Onnela JP, 2011, PLOS ONE, V6, P0, DOI 10.1371/journal.pone.0016939
+   Preciado P, 2012, SOC NETWORKS, V34, P18, DOI 10.1016/j.socnet.2011.01.002
+   Ripley RM, 2012, MANUAL FOR SIENA VERSION 4.0, V0, P0
+   Robins G, 2013, XIAN INSNA C XIAN, V0, P0
+   Sato Y, 2012, RIETI DISCUSSION PAP, V12-J-020, P0
+   Schaefer DR, 2012, SOC NETWORKS, V34, P141, DOI 10.1016/j.socnet.2011.02.001
+   Snijders TAB, 2013, SOC NETWORKS, V35, P265, DOI 10.1016/j.socnet.2012.05.005
+   Todo Y, 2015, J REGIONAL SCI, V55, P209, DOI 10.1111/jors.12119
+   Tokui J, 2012, 12P004 RIETI, V0, P0
+   Wilkerson GK, 2013, ARXIV140102076, V0, P0
+NR 26
+TC 6
+Z9 0
+U1 0.0
+U2 10.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2016
+VL 4
+BP 141
+EP 163
+DI 10.1017/nws.2015.37
+PG 23
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000376791800001
+PM 
+ER
+
+PT J
+AU Labun, A
+   Wittek, Rafael
+   Steglich, Christian
+TI The co-evolution of power and friendship networks in an organization
+SO NETWORK SCIENCE
+DE power perceptions; friendship; network co-evolution; self-monitoring;motivated cognition; status value; status signaling; interpersonal trust; organizations; multiplex stochastic actor-oriented modeling
+AB Despite the pivotal role that both power and interpersonal trust play in a multitude of social exchange situations, relatively little is known about their interplay. Moreover, previous theorizing makes competing claims. Do we consider our relatively more powerful exchange partners to be less trustworthy, as rational choice reasoning would suggest? Or do more complex psychological mechanisms lead us to trust them more, as motivated cognition reasoning implies? Extending the latter approach, we develop and empirically test three hypotheses on the interrelation between perceptions of interpersonal trust and power. According to the status value hypothesis, individuals are more likely to befriend those whom they or others perceive as powerful. The status signaling hypothesis states that the friends of people one perceives as powerful will also be seen as powerful. According to the self-monitoring hypothesis, high self-monitors are more likely than low self-monitors to befriend those they or others perceive as powerful. We use multiplex stochastic actor-based models to analyze the co-evolution of trust and power relations among n = 49 employees in a Dutch Youth Care organization. Data covers three waves of a longitudinal sociometric network survey collected over a period of 18 months in the years 2009-2010. In general, we find some support for all three hypotheses, though the effects are weak. Being one of the first organizational field studies on the co-evolution of power and trust, we conclude with discussing the implications of these findings for the study of social exchange processes.
+C1 [Labun, Alona; Wittek, Rafael; Steglich, Christian] Univ Groningen, Dept Sociol ICS, NL-9712 TG Groningen, Netherlands.
+RP Labun, A (corresponding author), Univ Groningen, Dept Sociol ICS, NL-9712 TG Groningen, Netherlands.
+FU PhD fund of the faculty of Behavioral and Social Sciences of the
+CR Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Ellwardt L, 2012, SOC NETWORKS, V34, P623, DOI 10.1016/j.socnet.2012.07.002
+   Flap H, 2013, HDB RATIONAL CHOICE, V0, P220
+   Lemay EP, 2015, CURR OPIN PSYCHOL, V1, P72, DOI 10.1016/j.copsyc.2014.11.002
+   Lydon J, 2015, CURR OPIN PSYCHOL, V1, P76, DOI 10.1016/j.copsyc.2015.01.011
+   Ripley RM, 2015, MANUAL RSIENA, V0, P0
+   Schilke O, 2015, P NATL ACAD SCI USA, V112, P12950, DOI 10.1073/pnas.1517057112
+   Snijders TAB, 2013, SOC NETWORKS, V35, P265, DOI 10.1016/j.socnet.2012.05.005
+NR 8
+TC 13
+Z9 0
+U1 0.0
+U2 23.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2016
+VL 4
+BP 364
+EP 384
+DI 10.1017/nws.2016.7
+PG 21
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000383885200005
+PM 
+ER
+
+PT J
+AU Arora, V
+   Guo, Dali
+   Dunbar, Katherine D
+   Ventresca, Mario
+TI Examining the variability in network populations and its role in generative models
+SO NETWORK SCIENCE
+DE network models; variability; entropy; generative models
+AB A principled approach to understand networks is to formulate generative models and infer their parameters from given network data. Due to the scarcity of data in the form of multiple networks that have evolved from the same process, generative models are typically formulated to learn parameters from a single network observation, hence ignoring the natural variability of the "true" process. In this paper, we highlight the importance of variability in evaluating generative models and present two ways of quantifying the variability for a finite set of networks. The first evaluation scheme compares the statistical properties of networks in a dissimilarity space, while the other relies on data-driven entropy measures to compute variability in network populations. Using these measures, we evaluate the ability of four generative models to synthesize networks that capture the variability of the "true" process. Our empirical analysis suggests that generative models fitted for a single network observation fail to capture the variability in the network population. Our work highlights the need for rethinking the way we evaluate the goodness-of-fit of new and existing network models and devising models that are capable of matching the variability of network populations when available.
+C1 [Arora, Viplove; Guo, Dali; Dunbar, Katherine D.; Ventresca, Mario] Purdue Univ, Sch Ind Engn, W Lafayette, IN 47907 USA.
+RP Ventresca, M (corresponding author), Purdue Univ, Sch Ind Engn, W Lafayette, IN 47907 USA.
+FU National Science Foundation [1762633]; Directorate For Engineering; Div
+CR Amico E, 2018, NETW NEUROSCI, V2, P306, DOI 10.1162/netn, a, 00049
+   Arora V, 2016, PROCEEDINGS OF THE 2016 GENETIC AND EVOLUTIONARY COMPUTATION CONFERENCE (GECCO16 COMPANION), V0, PP15, DOI 10.1145/2908961.2908966
+   Arora V, 2017, SCI REP-UK, V7, P0, DOI 10.1038/s41598-017-05444-4
+   Arora V, 2019, STUD COMPUT INTELL, V812, P743, DOI 10.1007/978-3-030-05411-3, 59
+   Avena-Koenigsberger A, 2015, J R SOC INTERFACE, V12, P0, DOI 10.1098/rsif.2014.0881
+   Barabasi AL, 2016, NETWORK SCIENCE, V0, P1
+   Casiraghi G, 2016, GEN HYPERGEOMETRIC E, V7, P1
+   De Domenico M, 2016, PHYS REV X, V6, P0, DOI 10.1103/PhysRevX.6.041062
+   Donnat C, 2018, TRACKING NETWORK DYN, V1, P0
+   Durante D, 2017, J AM STAT ASSOC, V112, P1516, DOI 10.1080/01621459.2016.1219260
+   Emmert-Streib F, 2016, INFORM SCIENCES, V346, P180, DOI 10.1016/j.ins.2016.01.074
+   Fortunato S, 2016, PHYS REP, V659, P1, DOI 10.1016/j.physrep.2016.09.002
+   Ginestet CE, 2017, ANN APPL STAT, V11, P725, DOI 10.1214/16-AOAS1015
+   Gollini I, 2016, J COMPUT GRAPH STAT, V25, P246, DOI 10.1080/10618600.2014.978006
+   Hajibagheri Alireza, 2015, SOCIAL COMPUTING, V0, P0, DOI 10.1007/978-3-319-16268-3, 7
+   Lunagomez S, 2019, MODELING NETWORK POP, V0, P1
+   Menezes T, 2019, DYNAMICS COMPLEX NET, Viii, P83
+   Moreno S, 2018, ACM T KNOWL DISCOV D, V12, P0, DOI 10.1145/3161885
+   Orsini C, 2015, NAT COMMUN, V6, P0, DOI 10.1038/ncomms9627
+   Peixoto TP, 2015, PHYS REV X, V5, P0, DOI 10.1103/PhysRevX.5.011033
+   Peixoto TP, 2017, PHYS REV E, V95, P0, DOI 10.1103/PhysRevE.95.012317
+   Perc M, 2017, PHYS REP, V687, P1, DOI 10.1016/j.physrep.2017.05.004
+   Schieber TA, 2017, NAT COMMUN, V8, P0, DOI 10.1038/ncomms13928
+   Vallès-Català T, 2018, PHYS REV E, V97, P0, DOI 10.1103/PhysRevE.97.062316
+NR 24
+TC 0
+Z9 0
+U1 1.0
+U2 4.0
+J9 NETWORK SCIENCE
+PD JUL
+PY 2020
+VL 8
+BP S43
+EP S64
+DI 10.1017/nws.2019.63
+PG 22
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000548560700004
+PM 
+ER
+
+PT J
+AU Goyal, R
+   De gruttola, Victor
+TI Dynamic network prediction
+SO NETWORK SCIENCE
+DE dynamic network; congruence class model; prediction; co-sponsorship network
+AB We present a statistical framework for generating predicted dynamic networks based on the observed evolution of social relationships in a population. The framework includes a novel and flexible procedure to sample dynamic networks given a probability distribution on evolving network properties; it permits the use of a broad class of approaches to model trends, seasonal variability, uncertainty, and changes in population composition. Current methods do not account for the variability in the observed historical networks when predicting the network structure; the proposed method provides a principled approach to incorporate uncertainty in prediction. This advance aids in the designing of network-based interventions, as development of such interventions often requires prediction of the network structure in the presence and absence of the intervention. Two simulation studies are conducted to demonstrate the usefulness of generating predicted networks when designing network-based interventions. The framework is also illustrated by investigating results of potential interventions on bill passage rates using a dynamic network that represents the sponsor/co-sponsor relationships among senators derived from bills introduced in the U.S. Senate from 2003 to 2016.
+C1 [Goyal, Ravi] Harvard Sch Publ Hlth, Math, Boston, MA 02115 USA.   
+[De Gruttola, Victor] Harvard Sch Publ Hlth, Dept Biostat, Boston, MA USA.
+RP Goyal, R (corresponding author), Harvard Sch Publ Hlth, Math, Boston, MA 02115 USA.
+FU National Institutes of Health [R37 AI-51164]
+CR Chatterjee S, 2015, ANN STAT, V43, P177, DOI 10.1214/14-AOS1272
+   Enten H, 2018, ENDING GERRYMANDERIN, V0, P0
+   Goyal R, 2015, MATH BIOSCI, V267, P124, DOI 10.1016/j.mbs.2015.06.013
+   Goyal R, 2018, STAT MED, V37, P218, DOI 10.1002/sim.7393
+   Jacobson GC, 2016, ANN AM ACAD POLIT SS, V667, P226, DOI 10.1177/0002716216658921
+   Krivitsky PN, 2019, TERGM FIT SIMULATE D, V0, P0
+   Pastor-Satorras R, 2015, REV MOD PHYS, V87, P925, DOI 10.1103/RevModPhys.87.925
+   Pellis L, 2015, EPIDEMICS-NETH, V10, P58, DOI 10.1016/j.epidem.2014.07.003
+   Sewell DK, 2015, J AM STAT ASSOC, V110, P1646, DOI 10.1080/01621459.2014.988214
+   Snijders TAB, 2017, ANNU REV STAT APPL, V4, P343, DOI 10.1146/annurev-statistics-060116-054035
+   Stadtfeld C, 2018, EMERGING TRENDS SOCI, V0, PP1, DOI 10.1002/9781118900772.etrds0463
+NR 11
+TC 7
+Z9 0
+U1 4.0
+U2 17.0
+J9 NETWORK SCIENCE
+PD DEC
+PY 2020
+VL 8
+BP 574
+EP 595
+DI 10.1017/nws.2020.24
+PG 22
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000575822100006
+PM 36035743
+ER
+
+PT J
+AU Hoffman, M
+   Block, Per
+   Elmer, Timon
+   Stadtfeld, Christoph
+TI A model for the dynamics of face-to-face interactions in social groups
+SO NETWORK SCIENCE
+DE network models; social interactions; group interactions; statistical models; social sensors; relational events; actor-oriented models
+AB Face-to-face interactions in social groups are a central aspect of human social lives. Although the composition of such groups has received ample attention in various fields-e.g., sociology, social psychology, management, and educational science-their micro-level dynamics are rarely analyzed empirically. In this article, we present a new statistical network model (DyNAM-i) that can represent the dynamics of conversation groups and interpersonal interaction in different social contexts. Taking an actor-oriented perspective, this model can be applied to test how individuals interaction patterns differ and how they choose and change their interaction groups. It moves beyond dyadic interaction mechanisms and translates central social network mechanisms-such as homophily, transitivity, and popularity-to the context of interactions in group settings. The utility and practical applicability of the new model are illustrated in two social network studies that investigate face-to-face interactions in a small party and an office setting.
+C1 [Hoffman, Marion; Elmer, Timon; Stadtfeld, Christoph] Swiss Fed Inst Technol, Chair Social Networks, Zurich, Switzerland.   
+[Block, Per] Univ Oxford, Dept Sociol, Oxford OX1 1JD, England.
+RP Hoffman, M (corresponding author), Swiss Fed Inst Technol, Chair Social Networks, Zurich, Switzerland.
+FU Swiss National Science Foundation [10DL17_183008]; Leverhulme Centre for
+CR Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001
+   Block P, 2018, SOCIOL SCI, V5, P402, DOI 10.15195/v5.a18
+   Brandenberger L, 2019, POLIT ANAL, V27, P556, DOI 10.1017/pan.2019.10
+   Elmer T, 2019, BEHAV RES METHODS, V51, P2120, DOI 10.3758/s13428-018-1180-y
+   Goffman A, 2019, SOC PSYCHOL QUART, V82, P51, DOI 10.1177/0190272518812010
+   Hong H, 2016, P 13 INT C MOBILE UB, V0, P94
+   Lerner J, 2019, ARXIV190500630, V0, P0
+   Marcum CS, 2015, J STAT SOFTW, V64, P1
+   Mulder J, 2019, CHAOS SOLITON FRACT, V119, P73, DOI 10.1016/j.chaos.2018.11.027
+   Potter GE, 2015, NETW SCI, V3, P298, DOI 10.1017/nws.2015.22
+   Robins Garry L, 2015, DOING SOCIAL NETWORK RESEARCH, V0, P0
+   Sapiezynski P, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0130824
+   Schecter A, 2018, J ORGAN BEHAV, V39, P1163, DOI 10.1002/job.2247
+   Sekara V, 2016, P NATL ACAD SCI USA, V113, P9977, DOI 10.1073/pnas.1602803113
+   Snijders TAB, 2017, ANNU REV STAT APPL, V4, P343, DOI 10.1146/annurev-statistics-060116-054035
+   Snijders TAB, 2019, NETW SCI, V7, P1, DOI 10.1017/nws.2018.30
+   Stadtfeld C, 2017, SOCIOL METHODOL, V47, P1, DOI 10.1177/0081175017709295
+   Stadtfeld C, 2017, SOCIOL SCI, V4, P318, DOI 10.15195/v4.a14
+   Vu D, 2015, SOC NETWORKS, V43, P121, DOI 10.1016/j.socnet.2015.05.001
+   Wang W, 2017, SCIENTOMETRICS, V113, P177, DOI 10.1007/s11192-017-2468-x
+   Wynn JR, 2016, SOCIOL THEOR, V34, P276, DOI 10.1177/0735275116664554
+NR 21
+TC 18
+Z9 0
+U1 4.0
+U2 17.0
+J9 NETWORK SCIENCE
+PD JUL
+PY 2020
+VL 8
+BP S4
+EP S25
+DI 10.1017/nws.2020.3
+PG 22
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000548560700002
+PM 
+ER
+
+PT J
+AU Elmer, T
+   Boda, Zsofia
+   Stadtfeld, Christoph
+TI The co-evolution of emotional well-being with weak and strong friendship ties
+SO NETWORK SCIENCE
+DE social networks; ordered stochastic actor-oriented models; emotional well-being; well-being; social integration; social influence; social selection; weak ties
+AB Social ties are strongly related to well-being. But what characterizes this relationship? This study investigates social mechanisms explaining how social ties affect well-being through social integration and social influence, and how well-being affects social ties through social selection. We hypothesize that highly integrated individuals-those with more extensive and dense friendship networks-report higher emotional well-being than others. Moreover, emotional well-being should be influenced by the well-being of close friends. Finally, wellbeing should affect friendship selection when individuals prefer others with higher levels of well-being, and others whose well-being is similar to theirs. We test our hypotheses using longitudinal social network and well-being data of 117 individuals living in a graduate housing community. The application of a novel extension of Stochastic Actor-Oriented Models for ordered networks (ordered SAOMs) allows us to detail and test our hypotheses for weak-and strong-tied friendship networks simultaneously. Results do not support our social integration and social influence hypotheses but provide evidence for selection: individuals with higher emotional well-being tend to have more strong-tied friends, and there are homophily processes regarding emotional well-being in strong-tied networks. Our study highlights the two-directional relationship between social ties and well-being, and demonstrates the importance of considering different tie strengths for various social processes.
+C1 [Elmer, Timon; Boda, Zsofia; Stadtfeld, Christoph] Swiss Fed Inst Technol, Chair Social Networks, Dept Humanities Social & Polit Sci, Zurich, Switzerland.
+RP Elmer, T (corresponding author), Swiss Fed Inst Technol, Chair Social Networks, Dept Humanities Social & Polit Sci, Zurich, Switzerland.
+FU Zukunftskolleg at the University of Konstanz; National Science
+CR Block P, 2014, NETW SCI, V2, P189, DOI 10.1017/nws.2014.17
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Eisenberg D, 2013, HEALTH ECON, V22, P965, DOI 10.1002/hec.2873
+   Fujimoto K, 2012, J ADOLESCENT HEALTH, V51, P136, DOI 10.1016/j.jadohealth.2011.11.013
+   Gadassi R, 2015, PERS INDIV DIFFER, V87, P1, DOI 10.1016/j.paid.2015.07.023
+   Giletta M, 2012, J ABNORM CHILD PSYCH, V40, P1027, DOI 10.1007/s10802-012-9625-8
+   Guan W, 2016, SOC MENT HEALTH, V6, P129, DOI 10.1177/2156869315619657
+   Kiuru N, 2012, J ADOLESCENT HEALTH, V50, P250, DOI 10.1016/j.jadohealth.2011.06.013
+   Pachucki MC, 2015, SOC SCI MED, V125, P40, DOI 10.1016/j.socscimed.2014.04.015
+   Pal J, 2016, J RES ADOLESCENCE, V26, P805, DOI 10.1111/jora.12231
+   Ripley RM, 2015, MANUAL RSIENA, V0, P0
+   Schweinberger M, 2012, BRIT J MATH STAT PSY, V65, P263, DOI 10.1111/j.2044-8317.2011.02022.x
+   Snijders TAB, 2013, SOC NETWORKS, V35, P265, DOI 10.1016/j.socnet.2012.05.005
+   Stadtfeld C, 2015, SOC FORCES, V94, P1, DOI DOI 10.1093/SF/S0V079
+   Stadtfeld C, 2017, STAT POWER LONGITUDI, V0, P0
+   van Workum N, 2013, J RES ADOLESCENCE, V23, P563, DOI 10.1111/jora.12035
+NR 16
+TC 41
+Z9 0
+U1 0.0
+U2 49.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2017
+VL 5
+BP 278
+EP 307
+DI 10.1017/nws.2017.20
+PG 30
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000408564600003
+PM 
+ER
+
+PT J
+AU Cherifi, H
+   Rocha, Luis M
+   Wasserman, Stanley
+TI Introduction to the special issue on COMPLEX NETWORKS 2018
+SO NETWORK SCIENCE
+C1 [Cherifi, Hocine] Univ Burgundy, LIB, Dijon, France.   
+[Rocha, Luis M.; Wasserman, Stanley] Indiana Univ, Bloomington, IN 47405 USA.
+RP Cherifi, H (corresponding author), Univ Burgundy, LIB, Dijon, France.
+CR Aiello LM, 2018, STUDIES COMPUTATIONA, V812, P0
+   Aiello LM, 2018, STUDIES COMPUTATIONA, V813, P0
+   Arora V, 2020, NETW SCI, V8, P1
+   Arthur R, 2020, PHYSICA A, V549, P0, DOI 10.1016/j.physa.2020.124341
+   Bagrow JP, 2019, APPL NETWORK SCI, V4, P1
+   Elmer T, 2019, BEHAV RES METHODS, V51, P2120, DOI 10.3758/s13428-018-1180-y
+   Emmert-Streib F, 2016, INFORM SCIENCES, V346, P180, DOI 10.1016/j.ins.2016.01.074
+   Hoffman Justin D, 2020, OCCASIONAL PAPERS MUSEUM OF TEXAS TECH UNIVERSITY, V363, P1
+   Interdonato R, 2020, NETWORK SCI, V0, P1
+   Marjan M, 2018, 2018 IEEE 5TH INTERNATIONAL CONGRESS ON INFORMATION SCIENCE AND TECHNOLOGY (IEEE CIST18), V0, PP200, DOI 10.1109/CIST.2018.8596511
+   Mourchid Y, 2019, APPL NETWORK SCI, V4, P1
+   Mourchid Y, 2019, MULTIMED TOOLS APPL, V78, P20191, DOI 10.1007/s11042-019-7304-2
+   Tabassum S, 2020, NETWORK SCI, V0, P1
+   Treur J, 2018, STUDIES COMPUTATIONA, V812, P619
+   Treur J, 2019, NETWORK SCI, V0, P1
+   Treur J, 2020, NETWORK SCI, V0, P1
+   Unknown -, 2020, NETW SCI, V0, P0, DOI DOI 10.1017/nws.2020.11
+NR 17
+TC 0
+Z9 0
+U1 0.0
+U2 2.0
+J9 NETWORK SCIENCE
+PD JUL
+PY 2020
+VL 8
+BP S1
+EP S3
+DI 10.1017/nws.2020.22
+PG 3
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000548560700001
+PM 
+ER
+
+PT J
+AU Snijders, TAB
+   Lomi, Alessandro
+TI Beyond homophily: Incorporating actor variables in statistical network models
+SO NETWORK SCIENCE
+DE actor covariate; directed networks; homophily; assortativity;aspiration; conformity; sociability; stochastic actor-oriented model;quadratic model; academic performance
+AB We consider the specification of effects of numerical actor attributes, having an interval level of measurement, in statistical models for directed social networks. A fundamental mechanism is homophily or assortativity, where actors have a higher likelihood to be tied with others having similar values of the variable under study. But there are other mechanisms that may also play a role in how the attribute values of two actors influence the likelihood of a tie between them. We discuss three additional mechanisms: aspiration, the tendency to send more ties to others having high values; attachment conformity, sending more ties to others whose values are close to the "social norm"; and sociability, where those having higher values will tend to send more ties generally. These mechanisms may operate jointly, and then their effects will be confounded. We present a specification representing these effects simultaneously by a four-parameter quadratic function of the values of sender and receiver. Flexibility can be increased by a five-parameter extension. We argue that for numerical actor attributes having important effects on directed networks, these specifications may provide an improvement. An illustration is given of dependence of advice ties on academic grades, analyzed by the Stochastic Actor-oriented Model.
+C1 [Snijders, Tom A. B.] Univ Groningen, Dept Sociol, Grote Rozenstr 31, NL-9712 TG Groningen, Netherlands.   
+[Snijders, Tom A. B.] Univ Oxford, Nuffield Coll, Oxford OX1 1NF, England.   
+[Lomi, Alessandro] Univ Italian Switzerland, Inst Computat Sci, CH-6900 Lugano, Switzerland.   
+[Lomi, Alessandro] Univ Exeter, Business Sch, Exeter EX4 4PU, Devon, England.
+RP Snijders, TAB (corresponding author), Univ Groningen, Dept Sociol, Grote Rozenstr 31, NL-9712 TG Groningen, Netherlands.; Snijders, TAB (corresponding author), Univ Oxford, Nuffield Coll, Oxford OX1 1NF, England.
+FU EPSRC [EP/I017267/1, EP/I032223/1] Funding Source: UKRI
+CR Azoulay P, 2017, AM J SOCIOL, V122, P1223, DOI 10.1086/689890
+   Block P, 2014, NETW SCI, V2, P189, DOI 10.1017/nws.2014.17
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Block P, 2018, SOCIOL SCI, V5, P402, DOI 10.15195/v5.a18
+   Brouwer J, 2018, HIGH EDUC, V76, P483, DOI 10.1007/s10734-017-0221-2
+   Gremmen MC, 2019, CHILD DEV, V90, PE192, DOI 10.1111/cdev.13045
+   Ripley RM, 2018, TECHNICAL REPORT, V0, P0
+   Schaefer DR, 2018, J QUANT CRIMINOL, V34, P275, DOI 10.1007/s10940-016-9335-4
+   Snijders TAB, 2016, METHODS SER, V12, P15, DOI 10.1007/978-3-319-24520-1, 2
+   Snijders TAB, 2017, ANNU REV STAT APPL, V4, P343, DOI 10.1146/annurev-statistics-060116-054035
+NR 10
+TC 33
+Z9 0
+U1 1.0
+U2 15.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2019
+VL 7
+BP 1
+EP 19
+DI 10.1017/nws.2018.30
+PG 19
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000465959300001
+PM 
+ER
+
+PT J
+AU Leifeld, P
+   Cranmer, Skyler J
+TI A theoretical and empirical comparison of the temporal exponential random graph model and the stochastic actor-oriented model
+SO NETWORK SCIENCE
+DE p*; ergm; tergm; saom; temporal exponential random graph model;stochastic actor-oriented model; longitudinal networks; inferential network analysis; dynamic networks; statistical modeling
+AB The temporal exponential random graph model (TERGM) and the stochastic actor-oriented model (SAOM, e.g., SIENA) are popular models for longitudinal network analysis. We compare these models theoretically, via simulation, and through a real-data example in order to assess their relative strengths and weaknesses. Though we do not aim to make a general claim about either being superior to the other across all specifications, we highlight several theoretical differences the analyst might consider and find that with some specifications, the two models behave very similarly, while each model out-predicts the other one the more the specific assumptions of the respective model are met.
+C1 [Leifeld, Philip] Univ Essex, Dept Govt, Wivenhoe Pk, Colchester CO4 3SQ, Essex, England.   
+[Cranmer, Skyler J.] Ohio State Univ, Dept Polit Sci, 2032 Derby Hall,154 North Oval Mall, Columbus, OH 43210 USA.
+RP Leifeld, P (corresponding author), Univ Essex, Dept Govt, Wivenhoe Pk, Colchester CO4 3SQ, Essex, England.
+FU Zukunftskolleg at the University of Konstanz; National Science
+CR Block P, 2018, SOC NETWORKS, V52, P180, DOI 10.1016/j.socnet.2017.08.001
+   Block P, 2019, SOCIOL METHOD RES, V48, P202, DOI 10.1177/0049124116672680
+   Butts CT, 2017, SOCIOL METHODOL, V47, P47, DOI 10.1177/0081175017728929
+   Chiba D, 2015, POLIT SCI RES METH, V3, P515, DOI 10.1017/psrm.2014.46
+   Cranmer SJ, 2014, SOC NETWORKS, V36, P5, DOI 10.1016/j.socnet.2013.01.001
+   Cranmer SJ, 2017, AM J POLIT SCI, V61, P237, DOI 10.1111/ajps.12263
+   Leifeld P, 2018, J STAT SOFTW, V83, P0, DOI 10.18637/jss.v083.i06
+   Montgomery JM, 2015, INT J FORECASTING, V31, P930, DOI 10.1016/j.ijforecast.2014.08.001
+   R Core Team, 2016, R: A LANGUAGE AND ENVIRONMENT FOR STATISTICAL COMPUTING, V0, P0
+   Ripley RR, 2017, MANUAL FOR RSIENA, V0, P0
+   Snijders TAB, 2017, ANNU REV STAT APPL, V4, P343, DOI 10.1146/annurev-statistics-060116-054035
+   Stadtfeld C, 2017, SOCIOL METHODOL, V47, P1, DOI 10.1177/0081175017709295
+   Stadtfeld C, 2017, SOCIOL METHODOL, V47, P56, DOI 10.1177/0081175017733457
+   Stadtfeld C, 2017, SOCIOL SCI, V4, P318, DOI 10.15195/v4.a14
+   Unknown -, 2017, R PACKAGE VERSION 1.8.2, V0, P0
+   Unknown -, 2017, RSIENA SIENA SIMULAT, V0, P0
+   Warren TC, 2016, J PEACE RES, V53, P424, DOI 10.1177/0022343316633375
+NR 17
+TC 43
+Z9 0
+U1 7.0
+U2 68.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2019
+VL 7
+BP 20
+EP 51
+DI 10.1017/nws.2018.26
+PG 32
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000465959300002
+PM 
+ER
+
+PT J
+AU Treur, J
+TI Analysis of a network's asymptotic behavior via its structure involving its strongly connected components
+SO NETWORK SCIENCE
+DE asymptotic network behavior; strongly connected components; relating network structure and network behavior
+AB In this paper, it is addressed how network structure can be related to asymptotic network behavior. If such a relation is studied, that usually concerns only strongly connected networks and only linear functions describing the dynamics. In this paper, both conditions are generalized. A couple of general theorems is presented that relates asymptotic behavior of a network to the networks structure characteristics. The network structure characteristics, on the one hand, concern the networks strongly connected components and their mutual connections; this generalizes the condition of being strongly connected to a very general condition. On the other hand, the network structure characteristics considered generalize from linear functions to functions that are normalized, monotonic, and scalar-free, so that many nonlinear functions are also covered. Thus, the contributed theorems generalize the existing theorems on the relation between network structure and asymptotic network behavior addressing only specific cases such as acyclic networks, fully, and strongly connected networks, and theorems addressing only linear functions. This paper was invited as an extended (by more than 45%) version of a Complex Networks18 conference paper. In the discussion section, the differences are explained in more detail.
+C1 [Treur, Jan] Vrije Univ Amsterdam, Dept Comp Sci, Social AI Grp, De Boelelaan 1105, NL-1081 HV Amsterdam, Netherlands.
+RP Treur, J (corresponding author), Vrije Univ Amsterdam, Dept Comp Sci, Social AI Grp, De Boelelaan 1105, NL-1081 HV Amsterdam, Netherlands.
+CR Bosse T, 2015, COGN COMPUT, V7, P111, DOI 10.1007/s12559-014-9277-9
+   Haghighi R, 2015, MATH PROBL ENG, V2015, P0, DOI 10.1155/2015/192307
+   Karlsen Matthew R, 2018, APPL NETW SCI, V3, P30, DOI 10.1007/s41109-018-0088-x
+   Moschoyiannis S, 2016, ELECTRON P THEOR COM, V0, PP39, DOI 10.4204/EPTCS.220.4
+   Schoenmaker R, 2018, BIOL INSPIR COGN ARC, V26, P136, DOI 10.1016/j.bica.2018.10.003
+   Treur J, 2016, UNDERST COMPLEX SYST, V0, PP1, DOI 10.1007/978-3-319-45213-5
+   Treur J, 2017, J INFORM TELECOMMUN, V1, P23, DOI 10.1080/24751839.2017.1295653
+   Treur J, 2018, STUDIES COMPUTATIONA, V812, P619
+   Treur Jan, 2016, VIETNAM JOURNAL OF COMPUTER SCIENCE, V3, P207, DOI 10.1007/s40595-016-0067-z
+   Treur Jan, 2019, TRANSACTIONS ON COMPUTATIONAL COLLECTIVE INTELLIGENCE XXXII. LECTURE NOTES IN COMPUTER SCIENCE (LNCS 11370), V0, PP120, DOI 10.1007/978-3-662-58611-2, 2
+   Wijs A, 2016, FORM METHOD SYST DES, V48, P274, DOI 10.1007/s10703-016-0246-7
+NR 11
+TC 7
+Z9 0
+U1 1.0
+U2 7.0
+J9 NETWORK SCIENCE
+PD JUL
+PY 2020
+VL 8
+BP S82
+EP S109
+DI 10.1017/nws.2019.24
+PG 28
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000548560700006
+PM 
+ER
+
+PT J
+AU Lerner, J
+   Lomi, Alessandro
+TI Reliability of relational event model estimates under sampling: How to fit a relational event model to 360 million dyadic events
+SO NETWORK SCIENCE
+DE relational event models; dynamic networks; large networks; parameter estimation; sampling; wikipedia
+AB We assess the reliability of relational event model (REM) parameters estimated under two sampling schemes: (1) uniform sampling from the observed events and (2) case-control sampling which samples nonevents, or null dyads ("controls"), from a suitably defined risk set. We experimentally determine the variability of estimated parameters as a function of the number of sampled events and controls per event, respectively. Results suggest that REMs can be reliably fitted to networks with more than 12 million nodes connected by more than 360 million dyadic events by analyzing a sample of some tens of thousands of events and a small number of controls per event. Using the data that we collected on the Wikipedia editing network, we illustrate how network effects commonly included in empirical studies based on REMs need widely different sample sizes to be reliably estimated. For our analysis we use an open-source software which implements the two sampling schemes, allowing analysts to fit and analyze REMs to the same or other data that may be collected in different empirical settings, varying sample parameters or model specification.
+C1 [Lerner, Juergen] Univ Konstanz, Dept Comp & Informat Sci, Constance, Germany.   
+[Lomi, Alessandro] Univ Italian Switzerland, Lugano, Switzerland.   
+[Lomi, Alessandro] Univ Exeter, Business Sch, Exeter, Devon, England.
+RP Lerner, J (corresponding author), Univ Konstanz, Dept Comp & Informat Sci, Constance, Germany.
+FU Deutsche Forschungsgemeinschaft (DFG) [LE 2237/2-1]; Swiss National
+CR Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001
+   Brandenberger L, 2019, POLIT ANAL, V27, P556, DOI 10.1017/pan.2019.10
+   Leenders RTAJ, 2016, ORGAN PSYCHOL REV, V6, P92, DOI 10.1177/2041386615578312
+   Lerner J, 2018, PLOS ONE, V13, P0, DOI 10.1371/journal.pone.0190674
+   Lerner J, 2019, PROCEEDINGS OF THE 52ND ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES, V0, P2622
+   Lerner J, 2019, STUD COMPUT INTELL, V813, P211, DOI 10.1007/978-3-030-05414-4, 17
+   Lerner J, 2020, SOC NETWORKS, V60, P11, DOI 10.1016/j.socnet.2018.12.003
+   Lerner Jurgen, 2017, APPL NETW SCI, V2, P24, DOI 10.1007/s41109-017-0043-2
+   Piskorski MJ, 2017, AM J SOCIOL, V122, P1183, DOI 10.1086/689816
+   Stadtfeld C, 2017, SOCIOL SCI, V4, P318, DOI 10.15195/v4.a14
+   Unknown -, 2016, OXFORD HDB POLITICAL, V0, P0, DOI DOI 10.1093/OXFORDHB/9780190228217.013.25
+   Vu D, 2015, SOC NETWORKS, V43, P121, DOI 10.1016/j.socnet.2015.05.001
+   Vu D, 2017, STAT MED, V36, P2265, DOI 10.1002/sim.7247
+NR 13
+TC 26
+Z9 0
+U1 1.0
+U2 5.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2020
+VL 8
+BP 97
+EP 135
+DI 10.1017/nws.2019.57
+PG 39
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000578288500005
+PM 
+ER
+
+PT J
+AU Treur, J
+TI Modeling higher order adaptivity of a network by multilevel network reification
+SO NETWORK SCIENCE
+DE network reification; higher order network adaptation; adaptive social networks; plasticity and metaplasticity
+AB In network models for real-world domains, often network adaptation has to be addressed by incorporating certain network adaptation principles. In some cases, also higher order adaptation occurs: the adaptation principles themselves also change over time. To model such multilevel adaptation processes, it is useful to have some generic architecture. Such an architecture should describe and distinguish the dynamics within the network (base level), but also the dynamics of the network itself by certain adaptation principles (first-order adaptation level), and also the adaptation of these adaptation principles (second-order adaptation level), and may be still more levels of higher order adaptation. This paper introduces a multilevel network architecture for this, based on the notion network reification. Reification of a network occurs when a base network is extended by adding explicit states representing the characteristics of the structure of the base network. It will be shown how this construction can be used to explicitly represent network adaptation principles within a network. When the reified network is itself also reified, also second-order adaptation principles can be explicitly represented. The multilevel network reification construction introduced here is illustrated for an adaptive adaptation principle from social science for bonding based on homophily and one for metaplasticity in Cognitive Neuroscience.
+C1 [Treur, Jan] Vrije Univ Amsterdam, Social AI Grp, Amsterdam, Netherlands.
+RP Treur, J (corresponding author), Vrije Univ Amsterdam, Social AI Grp, Amsterdam, Netherlands.
+CR Arnold S, 2015, MIND MACH, V25, P73, DOI 10.1007/s11023-015-9360-3
+   Blankendaal R, 2016, FRONT ARTIF INTEL AP, V285, P1388, DOI 10.3233/978-1-61499-672-9-1388
+   Boomgaard G, 2018, LECT NOTES COMPUT SC, V11185, P86, DOI 10.1007/978-3-030-01129-1, 6
+   Chandra N, 2018, NEUROBIOL LEARN MEM, V154, P30, DOI 10.1016/j.nlm.2017.11.015
+   Daimon K, 2017, ARTIF LIFE ROBOT, V22, P483, DOI 10.1007/s10015-017-0389-7
+   Fessler DMT, 2015, THE HANDBOOK OF EVOLUTIONARY PSYCHOLOGY, V0, PP1029, DOI DOI 10.1002/9781119125563.EVPSYCH244
+   Fombellida J, 2017, LECT NOTES COMPUT SC, V10338, P32, DOI 10.1007/978-3-319-59773-7, 4
+   Helbing D, 2015, J STAT PHYS, V158, P735, DOI 10.1007/s10955-014-1024-9
+   Magerl W, 2018, NEUROBIOL LEARN MEM, V154, P112, DOI 10.1016/j.nlm.2018.04.003
+   Parsons RG, 2018, NEUROBIOL LEARN MEM, V154, P22, DOI 10.1016/j.nlm.2017.11.008
+   Robinson BL, 2016, NAT COMMUN, V7, P0, DOI 10.1038/ncomms13442
+   Treur J, 2016, UNDERST COMPLEX SYST, V0, PP1, DOI 10.1007/978-3-319-45213-5
+   Treur J, 2018, COMPLEX NETWORKS THE, V812, P635
+   Treur J, 2018, LECT NOTES COMPUT SC, V11324, P344, DOI 10.1007/978-3-030-04070-3, 27
+   Treur J, 2019, DESIGN SOFTWARE ARCH, V0, P0, DOI [10.13140/RG.2.2.23492.07045, DOI 10.13140/RG.2.2.23492.07045]
+   Treur Jan, 2019, TRANSACTIONS ON COMPUTATIONAL COLLECTIVE INTELLIGENCE XXXII. LECTURE NOTES IN COMPUTER SCIENCE (LNCS 11370), V0, PP120, DOI 10.1007/978-3-662-58611-2, 2
+   van den Beukel S, 2019, NEUROCOMPUTING, V338, P361, DOI 10.1016/j.neucom.2018.06.091
+NR 17
+TC 18
+Z9 0
+U1 2.0
+U2 6.0
+J9 NETWORK SCIENCE
+PD JUL
+PY 2020
+VL 8
+BP S110
+EP S144
+DI 10.1017/nws.2019.56
+PG 35
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000548560700007
+PM 
+ER
+
+PT J
+AU Tabassum, S
+   Veloso, Bruno
+   Gama, Joao
+TI On fast and scalable recurring link's prediction in evolving multi-graph streams
+SO NETWORK SCIENCE
+DE link prediction; evolving network; recurring links; graph streams;temporal networks
+AB The link prediction task has found numerous applications in real-world scenarios. However, in most of the cases like interactions, purchases, mobility, etc., links can re-occur again and again across time. As a result, the data being generated is excessively large to handle, associated with the complexity and sparsity of networks. Therefore, we propose a very fast, memory-less, and dynamic sampling-based method for predicting recurring links for a successive future point in time. This method works by biasing the links exponentially based on their time of occurrence, frequency, and stability. To evaluate the efficiency of our method, we carried out rigorous experiments with massive real-world graph streams. Our empirical results show that the proposed method outperforms the state-of-the-art method for recurring links prediction. Additionally, we also empirically analyzed the evolution of links with the perspective of multi-graph topology and their recurrence probability over time.
+C1 [Tabassum, Shazia; Gama, Joao] Univ Porto, INESC TEC, Porto, Portugal.   
+[Tabassum, Shazia] Univ Porto, FEUP, Porto, Portugal.   
+[Veloso, Bruno] Univ Portucalense, INESC TEC, Porto, Portugal.   
+[Gama, Joao] Univ Porto, FEP, Porto, Portugal.
+RP Tabassum, S (corresponding author), Univ Porto, INESC TEC, Porto, Portugal.; Tabassum, S (corresponding author), Univ Porto, FEUP, Porto, Portugal.
+FU National Funds through the Portuguese funding agency, FCT-Fundacao para
+CR Ahmed NK, 2017, PROC VLDB ENDOW, V10, P1430, DOI 10.14778/3137628.3137651
+   Lim Y, 2018, ACM T KNOWL DISCOV D, V12, P0, DOI 10.1145/3022186
+   Marjan M, 2018, 2018 IEEE 5TH INTERNATIONAL CONGRESS ON INFORMATION SCIENCE AND TECHNOLOGY (IEEE CIST18), V0, PP200, DOI 10.1109/CIST.2018.8596511
+   Matuszyk P, 2018, KNOWL INF SYST, V55, P275, DOI 10.1007/s10115-017-1091-8
+   Moradabadi B, 2018, ENG APPL ARTIF INTEL, V70, P16, DOI 10.1016/j.engappai.2017.12.006
+   Oliveira L, 2018, SIXTH INTERNATIONAL CONFERENCE ON TECHNOLOGICAL ECOSYSTEMS FOR ENHANCING MULTICULTURALITY (TEEM18), V0, PP708, DOI 10.1145/3284179.3284311
+   Pan SR, 2015, IEEE T CYBERNETICS, V45, P940, DOI 10.1109/TCYB.2014.2341031
+   Pereira FS, 2019, LEARNING FROM DATA STREAMS IN EVOLVING ENVIRONMENTS, V0, P155
+   Tabassum S, 2016, ACM SYMPOSIUM ON ADVANCED COMPUTING, V0, P923
+   Tabassum S, 2018, INTERNATIONAL CONFERENCE ON COMPLEX NETWORKS AND THEIR APPLICATIONS, V0, P512
+   Zhang J, 2017, INTERNATIONAL WORKSHOP ON COMPLEX NETWORKS AND THEIR APPLICATIONS, V0, P265
+   Zhao PX, 2016, PROC INT CONF DATA, V0, PP553, DOI 10.1109/ICDE.2016.7498270
+   Zhu LH, 2016, IEEE T KNOWL DATA EN, V28, P2765, DOI 10.1109/TKDE.2016.2591009
+NR 13
+TC 0
+Z9 0
+U1 1.0
+U2 5.0
+J9 NETWORK SCIENCE
+PD JUL
+PY 2020
+VL 8
+BP S65
+EP S81
+DI 10.1017/nws.2019.64
+PG 17
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000548560700005
+PM 
+ER
+
+PT J
+AU Grund, TU
+   Tatum, Travis
+TI Some friends matter more than others: BMI clustering among adolescents in four European countries
+SO NETWORK SCIENCE
+DE bmi; homophily; adolescents; europe; public health; sociology; social clustering
+AB Previous research stresses the importance of social networks for obesity. We draw on friendship data from 18,133 adolescents in four European countries to investigate the relationship between individuals body mass index (BMI) and the BMI of their friends. Our study reveals strong evidence for BMI clustering in England, Germany, the Netherlands, and Sweden; adolescents tend to be friends with others who have a similar BMI. Furthermore, we extend current debate and explore friendship characteristics that moderate the relationship between social networks and BMI. We demonstrate that BMI clustering is more pronounced in (1) strong compared to weak friendships and (2) between adolescents of the same biological sex. These findings indicate that more research on social networks and health is needed which distinguishes between different kinds of relationships.
+C1 [Grund, Thomas U.; Tatum, Travis] Univ Coll Dublin, Sch Sociol, Dublin, Ireland.
+RP Grund, TU (corresponding author), Univ Coll Dublin, Sch Sociol, Dublin, Ireland.
+FU American Sociological Association Fund for the Advancement of the
+CR Asirvatham J, 2014, APPL ECON PERSPECT P, V36, P438, DOI 10.1093/aepp/ppu011
+   Block P, 2014, NETW SCI, V2, P189, DOI 10.1017/nws.2014.17
+   Bruening M, 2015, CHILD OBES, V11, P722, DOI 10.1089/chi.2015.0015
+   CILS4EU, 2016, CHILDR IMM LONG SURV, V0, P0
+   Centola D, 2015, SOC SCI MED, V125, P19, DOI 10.1016/j.socscimed.2014.05.019
+   Gosse MA, 2014, NUTR BULL, V39, P105, DOI 10.1111/nbu.12075
+   Gwozdz W, 2015, ECON HUM BIOL, V18, P139, DOI 10.1016/j.ehb.2015.05.002
+   Kalter Frank, 2016, CHILDREN OF IMMIGRANTS LONGITUDINAL SURVEY IN FOUR EUROPEAN COUNTRIES (CILS4EU), V0, P0
+   Nie P, 2015, CHINA ECON REV, V35, P47, DOI 10.1016/j.chieco.2015.06.002
+   Schaefer DR, 2014, AM J PUBLIC HEALTH, V104, P1223, DOI 10.2105/AJPH.2013.301768
+   Shoham David A, 2015, CURR EPIDEMIOL REP, V2, P71
+   Stivala AD, 2016, SOC NETWORKS, V47, P167, DOI 10.1016/j.socnet.2015.11.003
+   Welles BF, 2015, ANN AM ACAD POLIT SS, V659, P180, DOI 10.1177/0002716214565755
+   World Health Organization, 2017, BMI FOR AG 5 19, V0, P0
+   Yakusheva O, 2014, J HUM RESOUR, V49, P234
+   Zhang S, 2018, OBES REV, V19, P976, DOI 10.1111/obr.12684
+   de la Haye K, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0178130
+NR 17
+TC 2
+Z9 0
+U1 1.0
+U2 11.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2019
+VL 7
+BP 123
+EP 139
+DI 10.1017/nws.2018.20
+PG 17
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000465959300006
+PM 
+ER
+
+PT J
+AU Kindschi, M
+   Cieciuch, Jan
+   Davidov, Eldad
+   Ehlert, Alexander
+   Rauhut, Heiko
+   Tessone, Claudio Juan
+   Algesheimer, Rene
+TI Values in adolescent friendship networks
+SO NETWORK SCIENCE
+DE value change; friendship network evolution; stochastic actor-oriented network models; adolescent networks
+AB Values-the motivational goals that define what is important to us-guide our decisions and actions every day. Their importance is established in a long line of research investigating their universality across countries and their evolution from childhood to adulthood. In adolescence, value structures are subject to substantial change, as life becomes increasingly social. Value change has thus far been understood to operate independently within each person. However, being embedded in various social systems, adolescents are constantly subject to social influence from peers. Thus, we introduce a framework investigating the emergence and evolution of value priorities in the dynamic context of friendship networks. Drawing on stochastic actor-oriented network models, we analyze 73 friendship networks of adolescents. Regarding the evolution of values, we find that adolescents value systems evolve in a continuous cycle of internal validation through the selection and enactment of goals-thereby experiencing both congruence and conflicts-and external validation through social comparison among their friends. Regarding the evolution of friendship networks, we find that demographics are more salient for the initiation of new friendships, whereas values are more relevant for the maintenance of existing friendships.
+C1 [Kindschi, Martin; Cieciuch, Jan; Tessone, Claudio Juan; Algesheimer, Rene] Univ Zurich, Fac Business Econ & Informat, Inst Business Adm, URPP Social Networks, Canton Zurich, Switzerland.   
+[Cieciuch, Jan] Cardinal Stefan Wyszynski Univ Warsaw, Fac Humanities, Inst Psychol, Warsaw, Mazovia Provinc, Poland.   
+[Davidov, Eldad] Univ Cologne, Fac Management Econ & Social Sci, Inst Sociol & Social Psychol, Cologne, State North Rhi, Germany.   
+[Davidov, Eldad] Univ Zurich, Dept Sociol, Canton Zurich, Germany.   
+[Davidov, Eldad] Univ Zurich, URPP Social Networks, Canton Zurich, Germany.   
+[Ehlert, Alexander; Rauhut, Heiko] Univ Zurich, Dept Sociol, Fac Arts & Social Sci, Canton Zurich, Switzerland.
+RP Kindschi, M (corresponding author), Univ Zurich, Fac Business Econ & Informat, Inst Business Adm, URPP Social Networks, Canton Zurich, Switzerland.
+FU University Research Priority Program on Social Networks of the
+CR Algesheimer R, 2018, SOCIOL METHOD RES, V47, P277, DOI 10.1177/0049124115613782
+   Bardi A, 2014, J PERS SOC PSYCHOL, V106, P131, DOI 10.1037/a0034818
+   Beierlein C, 2014, 28 INT C APPL PSYCH, V0, P0
+   Benenson JF, 2015, PEERJ, V3, P0, DOI 10.7717/peerj.974
+   Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Elmer T, 2017, NETW SCI, V5, P278, DOI 10.1017/nws.2017.20
+   Rivas-Drake D, 2017, CHILD DEV, V88, P710, DOI 10.1111/cdev.12790
+   Skimina E, 2018, J RES PERS, V74, P42, DOI 10.1016/j.jrp.2018.02.001
+NR 8
+TC 7
+Z9 0
+U1 3.0
+U2 21.0
+J9 NETWORK SCIENCE
+PD DEC
+PY 2019
+VL 7
+BP 498
+EP 522
+DI 10.1017/nws.2019.16
+PG 25
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000504765000004
+PM 
+ER
+
+PT J
+AU Hollway, J
+   Lomi, Alessandro
+   Pallotti, Francesca
+   Stadtfeld, Christoph
+TI Multilevel social spaces: The network dynamics of organizational fields
+SO NETWORK SCIENCE
+DE affiliation network; collaboration; competition; goodness-of-fit;interorganizational network; multilevel network; multilevel triad census; organizational change; organizational fields; social space
+AB In this paper, we seek to advance an updated concept of social space that integrates the multilayer and dynamic statistical network methods currently at the disposal of social network researchers. We demonstrate the analytic value of the new concept of social space that we propose with the help of an illustrative analysis of an organizational field involving organizations external and internal decisions that congeal into a multilevel system of action that shapes the space of possibilities for other participants in the field. Through these internal and external decisions, organizations seek certain positions in their social space while simultaneously modifying that social space over time. We conclude by arguing that network researchers choices of goodness-of-fit statistics should reflect a consideration about the dimensions of social space of most interest to the nodes involved.
+C1 [Hollway, James] Grad Inst Int & Dev Studies, Dept Int Relat Polit Sci, Chemin Eugene Rigot 2A, CH-1211 Geneva, Switzerland.   
+[Lomi, Alessandro] Univ Italian Switzerland, Via Buffi 13, CH-6900 Lugano, Switzerland.   
+[Pallotti, Francesca] Univ Greenwich, Dept Int Business & Econ, Old Royal Naval Coll, Pk Row, London SE10 9LS, England.   
+[Stadtfeld, Christoph] ETH, Chair Social Networks, Clausiusstr 50, CH-8092 Zurich, Switzerland.
+RP Hollway, J (corresponding author), Grad Inst Int & Dev Studies, Dept Int Relat Polit Sci, Chemin Eugene Rigot 2A, CH-1211 Geneva, Switzerland.
+FU Swiss National Science Foundation [146763]
+CR Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005
+   Brunson JC, 2015, NETW SCI, V3, P480, DOI 10.1017/nws.2015.38
+   Conaldi G, 2012, ORGAN RES METHODS, V15, P385, DOI 10.1177/1094428111430541
+   Daraganova G, 2012, SOC NETWORKS, V34, P6, DOI 10.1016/j.socnet.2010.12.001
+   Hollway J, 2016, METHODS SER, V12, P315, DOI 10.1007/978-3-319-24520-1, 13
+   Iwashyna TJ, 2012, CRIT CARE MED, V40, P2470, DOI 10.1097/CCM.0b013e318254516f
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Lomi A, 2012, SOC NETWORKS, V34, P101, DOI 10.1016/j.socnet.2010.10.005
+   Lomi A, 2014, KOLNER Z SOZIOL SOZ, V66, P395, DOI 10.1007/s11577-014-0271-8
+   Lomi A, 2014, MED CARE, V52, P407, DOI 10.1097/MLR.0000000000000107
+   Lomi A, 2016, SOC NETWORKS, V44, P266, DOI 10.1016/j.socnet.2015.10.006
+   Lospinoso JA, 2012, STATISTICAL MODELS FOR SOCIAL NETWORK DYNAMICS, V0, P0
+   Padgett JF, 2012, EMERGENCE OF ORGANIZATIONS AND MARKETS, V0, P1
+   Pallotti F, 2015, EUR MANAG REV, V12, P189, DOI 10.1111/emre.12052
+   Ripley RM, 2015, MANUAL RSIENA, V0, P0
+   Sethi D, 2014, SAUDI J ANAESTH, V8, P104, DOI 10.4103/1658-354X.125964
+   Snijders TAB, 2013, SOC NETWORKS, V35, P265, DOI 10.1016/j.socnet.2012.05.005
+   Snijders TAB, 2016, METHODS SER, V12, P15, DOI 10.1007/978-3-319-24520-1, 2
+   Stadtfeld C, 2016, SOC NETWORKS, V44, P363, DOI 10.1016/j.socnet.2015.04.010
+   Veinot TC, 2012, SOC SCI MED, V75, P1800, DOI 10.1016/j.socscimed.2012.07.011
+   Wagner J, 2013, J CRIT CARE, V28, P202, DOI 10.1016/j.jcrc.2012.07.027
+   Wang P, 2013, SOC NETWORKS, V35, P96, DOI 10.1016/j.socnet.2013.01.004
+NR 22
+TC 22
+Z9 0
+U1 0.0
+U2 21.0
+J9 NETWORK SCIENCE
+PD JUN
+PY 2017
+VL 5
+BP 187
+EP 212
+DI 10.1017/nws.2017.8
+PG 26
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000402960800004
+PM 
+ER
+

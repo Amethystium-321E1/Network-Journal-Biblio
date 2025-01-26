@@ -1,0 +1,349 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Zaytsev, DG
+   Kuskova, Valentina V
+   Khvatsky, Gregory S
+   Sokol, Anna A
+TI Searching for coherence in a fragmented field: Temporal and keywords network analysis in political science
+SO NETWORK SCIENCE
+DE bibliometrics; political science
+AB In this paper, we answer the multiple calls for systematic analysis of paradigms and subdisciplines in political science-the search for coherence within a fragmented field. We collected a large dataset of over seven hundred thousand writings in political science from Web of Science since 1946. We found at least two waves of political science development, from behaviorism to new institutionalism. Political science appeared to be more fragmented than literature suggests-instead of ten subdisciplines, we found 66 islands. However, despite fragmentation, there is also a tendency for integration in contemporary political science, as revealed by co-existence of several paradigms and coherent and interconnected topics of the "canon of political science," as revealed by the core-periphery structure of topic networks. This was the first large-scale investigation of the entire political science field, possibly due to newly developed methods of bibliometric network analysis: temporal bibliometric analysis and island methods of clustering. Methodological contribution of this work to network science is evaluation of islands method of network clustering against a hierarchical cluster analysis for its ability to remove misleading information, allowing for a more meaningful clustering of large weighted networks.
+C1 [Zaytsev, Dmitry G.] Univ Notre Dame Tantur, Jerusalem, Israel.   
+[Kuskova, Valentina V.] Univ Notre Dame, Lucy Family Inst Data & Soc, 1220 Waterway Blvd,H248, Indianapolis, IN 46202 USA.   
+[Khvatsky, Gregory S.; Sokol, Anna A.] Univ Notre Dame, Lucy Family Inst Data & Soc, Dept Comp Sci & Engn, 384E Nieuwland Sci Hall, Notre Dame, IN 46556 USA.
+RP Zaytsev, DG (corresponding author), Univ Notre Dame Tantur, Jerusalem, Israel.
+CR Abouzid M, 2021, HEALTH INFORM J, V27, P0, DOI 10.1177/14604582211043158
+   AlGhamdi S, 2021, ROADMAPPING FUTURE T, V0, P399
+   Batagelj V, 2020, ADV NETWORK CLUSTERI, V0, P11
+   Batagelj V, 2020, J INFORMETR, V14, P0, DOI 10.1016/j.joi.2020.101006
+   Batagelj V, 2020, SCIENTOMETRICS, V123, P621, DOI 10.1007/s11192-020-03383-y
+   Bhuyan A, 2021, IN C IND ENG ENG MAN, V0, PP482, DOI 10.1109/IEEM50564.2021.9673030
+   Chao Yang, 2021, 2021 16TH INTERNATIONAL CONFERENCE ON INTELLIGENT SYSTEMS AND KNOWLEDGE ENGINEERING (ISKE), V0, PP736, DOI 10.1109/ISKE54062.2021.9755416
+   Doreian Patrick, 2020, ADVANCES IN NETWORK CLUSTERING AND BLOCKMODELING, V0, P0
+   Fortunato S, 2018, SCIENCE, V359, P0, DOI 10.1126/science.aao0185
+   Kim MC, 2020, J AM MED INFORM ASSN, V27, P1612, DOI 10.1093/jamia/ocaa107
+   Lei YF, 2019, J PHYS CONF SER, V1168, P0, DOI 10.1088/1742-6596/1168/2/022027
+   Maltseva D, 2020, SCIENTOMETRICS, V123, P357, DOI 10.1007/s11192-020-03365-0
+   Perez-Paredes P, 2019, POPULIST DISCOURSE, V0, P152
+   Pillai KR, 2023, EDUC REV, V75, P1255, DOI 10.1080/00131911.2021.1984214
+   Sharma H, 2018, J POSTGRAD MED, V64, P226, DOI 10.4103/jpgm.JPGM, 347, 18
+   Udris L, 2019, STUDIES IN COMMUNICATION SCIENCES, V19, P131
+   Wahlström N, 2018, J EDUC POLICY, V33, P163, DOI 10.1080/02680939.2017.1344879
+   Yang W, 2019, ENGL TEXT CONSTR, V12, P84, DOI 10.1075/etc.00019.yan
+   Yang WC, 2023, J LIBR INF SCI, V55, P84, DOI 10.1177/09610006211063201
+   Ye S, 2021, FRONT PHARMACOL, V12, P0, DOI 10.3389/fphar.2021.705376
+   Znidarsic A, 2021, BUS SYST RES J, V12, P17, DOI 10.2478/bsrj-2021-0017
+   de Nooy W, 2018, EXPLORATORY SOCIAL NETWORK ANALYSIS WITH PAJEK, V2rd, P0
+NR 22
+TC 0
+Z9 0
+U1 4.0
+U2 14.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2023
+VL 11
+BP 113
+EP 142
+DI 10.1017/nws.2022.39
+PG 30
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000930407900001
+PM 
+ER
+
+PT J
+AU Gorski, PJ
+   Atkisson, Curtis
+   Holyst, Janusz A
+TI A general model for how attributes can reduce polarization in social groups
+SO NETWORK SCIENCE
+DE polarization; structural balance; attributes; agent-based model
+AB Polarization makes it difficult to form positive relationships across existing groups. Decreasing polarization may improve political discourse around the world. Polarization can be modeled on a social network as structural balance, where the network is composed of groups with positive links between all individuals in the group and negative links with all others. Previous work shows that incorporating attributes of individuals usually makes structural balance, and hence polarization, harder to achieve. That work examines only a limited number and types of attributes. We present a generalized model and a simulation framework to analyze the effect of any type of attribute, including analytically as long as an expected value can be written for the type of attribute. As attributes, we consider peoples (approximately) immutable characteristics (e.g., race, wealth) and such opinions that change more slowly than relationships (e.g., political preferences). We detail and analyze five classes of attributes, recapitulating the results of previous work in this framework and extending it. While it is easier to prevent than to destabilize polarization, we find that usually themost effective at both are continuous attributes, followed by ordered attributes and, finally, binary attributes. The effectiveness of unordered attributes varies depending on the magnitude of negative impact of having differing attributes but is smaller than of continuous ones. Testing the framework on network structures containing communities revealed that destroying polarization may require introducing local tensions. This model could be used by policymakers, among others, to prevent and design effective interventions to counteract polarization.
+C1 [Gorski, Piotr J.; Holyst, Janusz A.] Warsaw Univ Technol, Fac Phys, Warsaw, Poland.   
+[Atkisson, Curtis] Univ Calif Davis, Dept Anthropol, Davis, CA 95616 USA.   
+[Atkisson, Curtis] Univ Massachusetts, Sch Publ Policy, Amherst, MA 01003 USA.
+RP Górski, PJ (corresponding author), Warsaw Univ Technol, Fac Phys, Warsaw, Poland.
+FU Polish National Science Center [2019/01/Y/ST2/00058]; OMINO Project from
+CR Agbanusi I, 2018, SIAM J APPL MATH, V78, P193, DOI 10.1137/16M1064106
+   Andres G, 2022, RECONSTRUCTING SIGNED RELATIONS FROM INTERACTION DATA, V0, P0
+   Aref S, 2018, J COMPLEX NETW, V6, P566, DOI 10.1093/comnet/cnx044
+   Balietti S, 2021, P NATL ACAD SCI USA, V118, P0, DOI 10.1073/pnas.2112552118
+   Baumann F, 2020, PHYS REV LETT, V124, P0, DOI 10.1103/PhysRevLett.124.048301
+   Du HF, 2018, PHYSICA A, V503, P780, DOI 10.1016/j.physa.2018.02.194
+   Gajewski LG, 2022, PHYS REV E, V105, P0, DOI 10.1103/PhysRevE.105.024125
+   Gao ZL, 2018, INT J MOD PHYS B, V32, P0, DOI 10.1142/S0217979218502673
+   Gao ZL, 2018, PLOS ONE, V13, P0, DOI 10.1371/journal.pone.0191941
+   Górski PJ, 2020, PHYS REV LETT, V125, P0, DOI 10.1103/PhysRevLett.125.078302
+   He XC, 2018, PLOS ONE, V13, P0, DOI 10.1371/journal.pone.0205084
+   Huang ZX, 2022, WSDM22: PROCEEDINGS OF THE FIFTEENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, V0, PP390, DOI 10.1145/3488560.3498454
+   Interian R, 2023, INT T OPER RES, V30, P0
+   Levendusky MS, 2018, J POLIT, V80, P59, DOI 10.1086/693987
+   Malarz K, 2022, PHYS REV E, V106, P0, DOI 10.1103/PhysRevE.106.064139
+   Mason L, 2018, FORUM-J APPL RES CON, V16, P47, DOI 10.1515/for-2018-0004
+   Neal ZP, 2020, SOC NETWORKS, V60, P103, DOI 10.1016/j.socnet.2018.07.007
+   Pham TM, 2020, J R SOC INTERFACE, V17, P0, DOI 10.1098/rsif.2020.0752
+   Pham TM, 2022, P NATL ACAD SCI USA, V119, P0, DOI 10.1073/pnas.2121103119
+   Rabbani F, 2019, PHYS REV E, V99, P0, DOI 10.1103/PhysRevE.99.062302
+   Rawlings CM, 2022, SOCIOL SCI, V9, P313, DOI 10.15195/v9.a13
+   Schweighofer S, 2020, CHAOS, V30, P0, DOI 10.1063/5.0007523
+   Schweighofer S, 2020, JASSS-J ARTIF SOC S, V23, P0, DOI 10.18564/jasss.4306
+   Xiao H, 2020, WEB CONFERENCE 2020: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2020), V0, PP362, DOI 10.1145/3366423.3380121
+NR 24
+TC 2
+Z9 0
+U1 1.0
+U2 5.0
+J9 NETWORK SCIENCE
+PD DEC
+PY 2023
+VL 11
+BP 536
+EP 559
+DI 10.1017/nws.2023.13
+PG 24
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:001034352900001
+PM 
+ER
+
+PT J
+AU Zaytsev, DG
+   Contractor, Noshir S
+TI Introduction to the special issue on scientific networks
+SO NETWORK SCIENCE
+DE collaboration; scientific networks; innovation; bibliometric networks;ergm
+C1 [Zaytsev, Dmitry G.] Univ Notre Dame Tantur, Jerusalem, Israel.   
+[Contractor, Noshir S.] Northwestern Univ, Evanston, IL USA.
+RP Zaytsev, DG (corresponding author), Univ Notre Dame Tantur, Jerusalem, Israel.
+CR Edgerton JF, 2022, NETW SCI, V10, P261, DOI 10.1017/nws.2022.26
+   Fortunato S, 2018, SCIENCE, V359, P0, DOI 10.1126/science.aao0185
+   Tang SJ, 2022, SCI CHINA LIFE SCI, V65, P753, DOI 10.1007/s11427-021-1974-7
+NR 3
+TC 0
+Z9 0
+U1 0.0
+U2 5.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2023
+VL 11
+BP 1
+EP 4
+DI 10.1017/nws.2023.7
+PG 4
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000969270300001
+PM 
+ER
+
+PT J
+AU Neal, ZP
+TI The duality of networks and groups: Models to generate two-mode networks from one-mode networks
+SO NETWORK SCIENCE
+DE bipartite; blau space; generative model; group formation; organizations;projection; team formation
+AB Shared memberships, social statuses, beliefs, and places can facilitate the formation of social ties. Two-mode projections provide amethod for transforming two-mode data on individualsmemberships in such groups into a one-mode network of their possible social ties. In this paper, I explore the opposite process: how social ties can facilitate the formation of groups, and how a two-mode network can be generated from a one-mode network. Drawing on theories of team formation, club joining, and organization recruitment, I propose three models that describe how such groups might emerge from the relationships in a social network. I show that these models can be used to generate two-mode networks that have characteristics commonly observed in empirical two-mode social networks and that they encode features of the one-mode networks from which they were generated. I conclude by discussing these models limitations and future directions for theory and methods concerning group formation.
+C1 [Neal, Zachary P.] Michigan State Univ, E Lansing, MI 48824 USA.
+RP Neal, ZP (corresponding author), Michigan State Univ, E Lansing, MI 48824 USA.
+FU National Science Foundation [2016320, 2211744]
+CR Filho DV, 2020, INT C NETW SCI, V0, P3
+   Fuhse JA, 2024, SOC NETWORKS, V77, P43, DOI 10.1016/j.socnet.2021.12.005
+   Genkin M, 2018, PLOS ONE, V13, P0, DOI 10.1371/journal.pone.0204990
+   Godard K, 2022, J COMPLEX NETW, V10, P0, DOI 10.1093/comnet/cnac049
+   Neal JW, 2022, SOC NETWORKS, V71, P80, DOI 10.1016/j.socnet.2022.07.002
+   Neal ZP, 2020, SOC NETWORKS, V60, P103, DOI 10.1016/j.socnet.2018.07.007
+   Neal ZP, 2021, SCI REP-UK, V11, P0, DOI 10.1038/s41598-021-03238-3
+   Neal ZP, 2022, PLOS ONE, V17, P0, DOI 10.1371/journal.pone.0269137
+   Neal ZP, 2022, PREPRINT, V0, P0, DOI DOI 10.31219/OSF.IO/ECTMS
+   Schaefer DR, 2024, SOC NETWORKS, V77, P139, DOI 10.1016/j.socnet.2021.12.008
+   Vasques D, 2020, PHYS REV E, V101, P0, DOI 10.1103/PhysRevE.101.052305
+NR 11
+TC 3
+Z9 0
+U1 1.0
+U2 5.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2023
+VL 11
+BP 397
+EP 410
+DI 10.1017/nws.2023.3
+PG 14
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000953624400001
+PM 
+ER
+
+PT J
+AU Smith, M
+   Sarabi, Yasaman
+   Christopoulos, Dimitris
+TI Understanding collaboration patterns on funded research projects: A network analysis
+SO NETWORK SCIENCE
+DE collaboration; knowledge exchange; ergm; research council; uk
+AB This paper provides an examination of inter-organizational collaboration in the UK research system. Data are collected on organizational collaboration on projects funded by four key UK research councils: Arts and Humanities Research Council, Economic and Social Research Council, Engineering and Physical Sciences Research Council, and Biotechnology and Biological Sciences Research Council. The organizational partnerships include both academic and nonacademic institutions. A collaboration network is created for each research council, and an exponential random graph model is applied to inform on the mechanisms underpinning collaborative tie formation on research council-funded projects. We find that in the sciences, collaborative patterns are much more hierarchical and concentrated in a small handful of actors compared to the social sciences and humanities projects. Institutions that are members of the elite Russell Group (a set of 24 high-ranking UK universities) are much more likely to be involved in collaborations across research councils.
+C1 [Smith, Matthew] Edinburgh Napier Univ, Business Sch, Edinburgh, Scotland.   
+[Sarabi, Yasaman; Christopoulos, Dimitris] Heriot Watt Univ, Edinburgh Business Sch, Edinburgh, Scotland.
+RP Smith, M (corresponding author), Edinburgh Napier Univ, Business Sch, Edinburgh, Scotland.
+FU grant SNIF (Scientific Networks); grant SNIF (IDEX funding); French
+CR Akbaritabar A, 2018, SCIENTOMETRICS, V114, P859, DOI 10.1007/s11192-017-2606-5
+   Aldieri L, 2018, SOCIO-ECON PLAN SCI, V62, P13, DOI 10.1016/j.seps.2017.05.003
+   Alpaydin UAR, 2021, PAP REG SCI, V100, P0, DOI 10.1111/pirs.12586
+   Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001
+   Baggio R, 2019, INTERNATIONAL JOURNAL OF TOURISM SCIENCES, V19, P56, DOI 10.1080/15980634.2019.1592311
+   Borgatti SP, 2018, CONNECTIONS, V38, P1, DOI [DOI 10.21307/CONNECTIONS-2018-002, 10.21307/connections-2018-002]
+   Broekel T, 2018, NETW SPAT ECON, V18, P677, DOI 10.1007/s11067-018-9430-1
+   Copley J, 2018, RES ALL, V2, P230, DOI [10.18546/RFA.02.2.03, DOI 10.18546/RFA.02.2.03]
+   DeglInnocenti M, 2019, RES POLICY, V48, P0, DOI 10.1016/j.respol.2019.05.002
+   Financial Times, 2022, THE FINANCIAL TIMES, V0, P0
+   Fortunato S, 2018, SCIENCE, V359, P0, DOI 10.1126/science.aao0185
+   Gui QC, 2018, GROWTH CHANGE, V49, P532, DOI 10.1111/grow.12245
+   He VF, 2021, RES POLICY, V50, P0, DOI 10.1016/j.respol.2021.104356
+   Huggins R, 2020, J TECHNOL TRANSFER, V45, P718, DOI 10.1007/s10961-019-09720-5
+   Isaeva I, 2022, J TECHNOL TRANSFER, V47, P1308, DOI 10.1007/s10961-021-09886-x
+   Jiang S, 2019, SCIENTOMETRICS, V121, P1599, DOI 10.1007/s11192-019-03242-5
+   Kibanov M, 2019, SCIENTOMETRICS, V119, P1387, DOI 10.1007/s11192-019-03097-w
+   Kindt AM, 2022, J REGIONAL SCI, V62, P1274, DOI 10.1111/jors.12596
+   Lee HF, 2019, RES POLICY, V48, P1633, DOI 10.1016/j.respol.2019.03.014
+   Maghssudipour A, 2021, IND INNOV, V28, P836, DOI 10.1080/13662716.2020.1860738
+   Mascarenhas C, 2018, SCI PUBL POLICY, V45, P708, DOI 10.1093/scipol/scy003
+   McLevey J, 2018, SCIENTOMETRICS, V117, P331, DOI 10.1007/s11192-018-2866-8
+   Neal ZP, 2021, SCI REP-UK, V11, P0, DOI 10.1038/s41598-021-03238-3
+   Pickernell D, 2019, MANAGE DECIS, V57, P3426, DOI 10.1108/MD-10-2018-1162
+   Pinar M, 2020, BRIT EDUC RES J, V46, P140, DOI 10.1002/berj.3572
+   Runiewicz-Wardyn M, 2022, TRIPLE HELIX-NETH, V9, P138, DOI 10.1163/21971927-BJA10025
+   Sarabi, 2021, ACAD MANAGEMENT P, V2021, P10796, DOI [10.5465/AMBPP.2021.10796abstract, DOI 10.5465/AMBPP.2021.10796ABSTRACT]
+   Skute Igors, 2019, JOURNAL OF TECHNOLOGY TRANSFER, V44, P916, DOI 10.1007/s10961-017-9637-1
+   Sánchez-Barrioluengo M, 2019, HIGH EDUC Q, V73, P469, DOI 10.1111/hequ.12230
+   Sánchez-Barrioluengo M, 2019, TECHNOL FORECAST SOC, V141, P206, DOI 10.1016/j.techfore.2018.10.017
+   Tian MY, 2022, J TECHNOL TRANSFER, V47, P1488, DOI 10.1007/s10961-021-09877-y
+   Vick TE, 2018, SCI PUBL POLICY, V45, P579, DOI 10.1093/scipol/scx086
+   Xing LZ, 2021, MOD PHYS LETT B, V35, P0, DOI 10.1142/S0217984921502894
+NR 33
+TC 3
+Z9 0
+U1 4.0
+U2 27.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2023
+VL 11
+BP 143
+EP 173
+DI 10.1017/nws.2022.33
+PG 31
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000889902100001
+PM 
+ER
+
+PT J
+AU Kuskova, VV
+   Zaytsev, Dmitry G
+   Khvatsky, Gregory S
+   Sokol, Anna A
+   Vorobeva, Maria D
+   Kamalov, Rustam A
+TI Expanding the boundaries of interdisciplinary field: Contribution of <i>Network Science</i> journal to the development of network science
+SO NETWORK SCIENCE
+DE theory building; theory testing; methodological contribution; unified foundation
+AB In this paper, we examine the contribution of Network Science journal to the network science discipline. We do so from two perspectives. First, expanding the existing taxonomy of article contribution, we examine trends in theory testing, theory building, and new method development within the journals articles. We find that the journal demands a high level of theoretical contribution and methodological rigor. High levels of theoretical and methodological contribution become significant predictors of article citation rates. Second, we look at the composition of the studies in Network Science and determine that the journal has already established a solid "hard core" for the new discipline.
+C1 [Kuskova, Valentina V.] Univ Notre Dame, Lucy Family Inst Data & Soc, 1220 Waterway Blvd,H248, Indianapolis, IN 46202 USA.   
+[Zaytsev, Dmitry G.] Univ Notre Dame Tantur, Jerusalem, Israel.   
+[Khvatsky, Gregory S.; Sokol, Anna A.] Univ Notre Dame, Lucy Family Inst Data & Soc, Dept Comp Sci & Engn, 384E Nieuwland Sci Hall, Notre Dame, IN 46556 USA.   
+[Vorobeva, Maria D.] Katholieke Univ Leuven, Fac Econ & Business, Leuven, Belgium.
+RP Kuskova, VV (corresponding author), Univ Notre Dame, Lucy Family Inst Data & Soc, 1220 Waterway Blvd,H248, Indianapolis, IN 46202 USA.
+CR Ahmad S, 2019, COLLNET J SCIENTOMET, V13, P345, DOI 10.1080/09737766.2020.1718030
+   BATAGELJ V, 2020, SCIENTOMETRICS, V0, P0
+   Batagelj V, 2020, J INFORMETR, V14, P0, DOI 10.1016/j.joi.2020.101006
+   Caloffi A, 2018, ADV SPAT SCI, V0, PP123, DOI 10.1007/978-3-319-90575-4, 8
+   Chavarro D, 2018, RES EVALUAT, V27, P106, DOI 10.1093/reseval/rvy001
+   Doreian Patrick, 2020, ADVANCES IN NETWORK CLUSTERING AND BLOCKMODELING, V0, P0
+   Fortunato S, 2018, SCIENCE, V359, P0, DOI 10.1126/science.aao0185
+   Fujimoto K, 2018, NETW SCI, V6, P370, DOI 10.1017/nws.2018.11
+   Jarman AM, 2020, HIERARCHICAL CLUSTER, V0, P0
+   Jawad F, 2020, J PAK MED ASSOC, V70, P1
+   Larivière V, 2019, SPRINGER HBK, V0, PP3, DOI 10.1007/978-3-030-02511-3, 1
+   Law R, 2020, TOURISM ECON, V26, P734, DOI 10.1177/1354816619845590
+   Maltseva D, 2019, SCIENTOMETRICS, V121, P1085, DOI 10.1007/s11192-019-03193-x
+   Maltseva D, 2020, SCIENTOMETRICS, V123, P357, DOI 10.1007/s11192-020-03365-0
+   Maltseva D, 2020, SCIENTOMETRICS, V125, P313, DOI 10.1007/s11192-020-03604-4
+   Maltseva D, 2021, SCIENTOMETRICS, V126, P3593, DOI 10.1007/s11192-021-03889-z
+   Ortu M, 2018, PROMISE18: PROCEEDINGS OF THE 14TH INTERNATIONAL CONFERENCE ON PREDICTIVE MODELS AND DATA ANALYTICS IN SOFTWARE ENGINEERING, V0, PP70, DOI 10.1145/3273934.3273943
+   Sewell DK, 2018, NETW SCI, V6, P204, DOI 10.1017/nws.2017.36
+   Smirnov I, 2019, PLOS ONE, V14, P0, DOI 10.1371/journal.pone.0217142
+   Xie YD, 2019, SCIENTOMETRICS, V120, P1333, DOI 10.1007/s11192-019-03177-x
+   Zhang LB, 2019, IEEE ACCESS, V7, P19382, DOI 10.1109/ACCESS.2019.2897111
+NR 21
+TC 0
+Z9 0
+U1 3.0
+U2 11.0
+J9 NETWORK SCIENCE
+PD MAR
+PY 2023
+VL 11
+BP 65
+EP 97
+DI 10.1017/nws.2022.41
+PG 33
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:000928337900001
+PM 
+ER
+
+PT J
+AU Morrison, M
+   Kutz, J Nathan
+   Gabbay, Michael
+TI Transitions between peace and systemic war as bifurcations in a signed network dynamical system
+SO NETWORK SCIENCE
+DE social networks; political networks; complex systems; nonlinear dynamics; structural balance; community structure; polarization;critical transitions; conflict escalation; alliances
+AB We investigate structural features and processes associated with the onset of systemic conflict using an approach which integrates complex systems theory with network modeling and analysis. We present a signed network model of cooperation and conflict dynamics in the context of international relations between states. The model evolves ties between nodes under the influence of a structural balance force and a dyad-specific force. Model simulations exhibit a sharp bifurcation from peace to systemic war as structural balance pressures increase, a bistable regime in which both peace and war stable equilibria exist, and a hysteretic reverse bifurcation from war to peace. We show how the analytical expression we derive for the peace-to-war bifurcation condition implies that polarized network structure increases susceptibility to systemic war. We develop a framework for identifying patterns of relationship perturbations that are most destabilizing and apply it to the network of European great powers before World War I. We also show that the model exhibits critical slowing down, in which perturbations to the peace equilibrium take longer to decay as the system draws closer to the bifurcation. We discuss how our results relate to international relations theories on the causes and catalysts of systemic war.
+C1 [Morrison, Megan] NYU, Dept Math, New York, NY 10012 USA.   
+[Kutz, J. Nathan] Univ Washington, Dept Appl Math, Seattle, WA 98195 USA.   
+[Gabbay, Michael] Univ Washington, Appl Phys Lab, Seattle, WA 98105 USA.
+RP Morrison, M (corresponding author), NYU, Dept Math, New York, NY 10012 USA.; Gabbay, M (corresponding author), Univ Washington, Appl Phys Lab, Seattle, WA 98105 USA.
+FU National Science Foundation [2103239]; Army Research Office
+CR Bizyaeva A, 2022, IEEE T AUTOMAT CONTR, V0, P1
+   Burghardt K, 2020, J COMPLEX NETW, V8, P0, DOI 10.1093/comnet/cnaa001
+   Bury TM, 2020, J R SOC INTERFACE, V17, P0, DOI 10.1098/rsif.2020.0482
+   Bury TM, 2021, P NATL ACAD SCI USA, V118, P0, DOI [10.1073/pnas.2106140118|1of9, 10.1073/pnas.2106140118]
+   Doreian P, 2019, J SOCIAL STRUCTURE, V16, P1, DOI 10.21307/joss-2019-012
+   Doreian Patrick, 2020, ADVANCES IN NETWORK CLUSTERING AND BLOCKMODELING, V0, P0
+   Franci A, 2021, SWARM INTELL-US, V15, P47, DOI 10.1007/s11721-021-00190-w
+   Gao ZL, 2018, PLOS ONE, V13, P0, DOI 10.1371/journal.pone.0191941
+   Kirkley A, 2019, PHYS REV E, V99, P0, DOI 10.1103/PhysRevE.99.012320
+   Levy JS, 2021, SECUR STUD, V30, P213, DOI 10.1080/09636412.2021.1915584
+   Morrison M, 2020, PHYS REV E, V102, P0, DOI 10.1103/PhysRevE.102.012304
+   Morrison M, 2021, FRONT COMPUT NEUROSC, V14, P0, DOI 10.3389/fncom.2020.616639
+   Morrison M, 2021, IEEE T NETW SCI ENG, V8, P174, DOI [10.1109/TNSE.2020.3032117, 10.1109/tnse.2020.3032117]
+   Nakamura K, 2020, GLOB CRIME, V21, P3, DOI 10.1080/17440572.2019.1627879
+   Neal ZP, 2020, SOC NETWORKS, V60, P103, DOI 10.1016/j.socnet.2018.07.007
+   Potters M, 2021, A FIRST COURSE IN RANDOM MATRIX THEORY: FOR PHYSICISTS, V0, P0
+   Smith RP, 2020, LEWIS FRY RICHARDSON: HIS INTELLECTUAL LEGACY AND INFLUENCE IN THE SOCIAL SCIENCES. PIONEERS IN ARTS, V0, P0
+   Stauffer MHT, 2021, COMPLEX SYSTEMS SOCI, V0, P0
+   Strogatz SH, 2018, NONLINEAR DYNAMICS AND CHAOS: WITH APPLICATIONS TO PHYSICS, V0, P0, DOI DOI 10.1201/9780429492563
+   Traag V, 2019, ADV NETWORK CLUSTERI, V0, P0
+   Veerman JJP, 2018, AM MATH MON, V125, P724, DOI 10.1080/00029890.2018.1498684
+   Ward MD, 2020, HIS INTELLECTUAL LEG, V6, P0
+NR 22
+TC 1
+Z9 0
+U1 2.0
+U2 6.0
+J9 NETWORK SCIENCE
+PD SEP
+PY 2023
+VL 11
+BP 458
+EP 501
+DI 10.1017/nws.2023.10
+PG 44
+SC MATHEMATICAL METHODS IN SOCIAL SCIENCES; SOCIAL SCIENCES - OTHER TOPICS; SOCIOLOGY
+UT WOS:001009564300001
+PM 
+ER
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Searching for coherence in a fragmented field: Temporal and keywords network analysis in political science</title>
+<url>http://dx.doi.org/10.1017/nws.2022.39</url>
+<snippet>In this paper, we answer the multiple calls for systematic analysis of paradigms and subdisciplines in political science-the search for coherence within a fragmented field. We collected a large dataset of over seven hundred thousand writings in political science from Web of Science since 1946. We found at least two waves of political science development, from behaviorism to new institutionalism. Political science appeared to be more fragmented than literature suggests-instead of ten subdisciplines, we found 66 islands. However, despite fragmentation, there is also a tendency for integration in contemporary political science, as revealed by co-existence of several paradigms and coherent and interconnected topics of the "canon of political science," as revealed by the core-periphery structure of topic networks. This was the first large-scale investigation of the entire political science field, possibly due to newly developed methods of bibliometric network analysis: temporal bibliometric analysis and island methods of clustering. Methodological contribution of this work to network science is evaluation of islands method of network clustering against a hierarchical cluster analysis for its ability to remove misleading information, allowing for a more meaningful clustering of large weighted networks.
+WOS:000930407900001
+</snippet>
+</document>
+
+<document id="2">
+<title>A general model for how attributes can reduce polarization in social groups</title>
+<url>http://dx.doi.org/10.1017/nws.2023.13</url>
+<snippet>Polarization makes it difficult to form positive relationships across existing groups. Decreasing polarization may improve political discourse around the world. Polarization can be modeled on a social network as structural balance, where the network is composed of groups with positive links between all individuals in the group and negative links with all others. Previous work shows that incorporating attributes of individuals usually makes structural balance, and hence polarization, harder to achieve. That work examines only a limited number and types of attributes. We present a generalized model and a simulation framework to analyze the effect of any type of attribute, including analytically as long as an expected value can be written for the type of attribute. As attributes, we consider peoples (approximately) immutable characteristics (e.g., race, wealth) and such opinions that change more slowly than relationships (e.g., political preferences). We detail and analyze five classes of attributes, recapitulating the results of previous work in this framework and extending it. While it is easier to prevent than to destabilize polarization, we find that usually themost effective at both are continuous attributes, followed by ordered attributes and, finally, binary attributes. The effectiveness of unordered attributes varies depending on the magnitude of negative impact of having differing attributes but is smaller than of continuous ones. Testing the framework on network structures containing communities revealed that destroying polarization may require introducing local tensions. This model could be used by policymakers, among others, to prevent and design effective interventions to counteract polarization.
+WOS:001034352900001
+</snippet>
+</document>
+
+<document id="3">
+<title>Introduction to the special issue on scientific networks</title>
+<url>http://dx.doi.org/10.1017/nws.2023.7</url>
+<snippet>
+WOS:000969270300001
+</snippet>
+</document>
+
+<document id="4">
+<title>The duality of networks and groups: Models to generate two-mode networks from one-mode networks</title>
+<url>http://dx.doi.org/10.1017/nws.2023.3</url>
+<snippet>Shared memberships, social statuses, beliefs, and places can facilitate the formation of social ties. Two-mode projections provide amethod for transforming two-mode data on individualsmemberships in such groups into a one-mode network of their possible social ties. In this paper, I explore the opposite process: how social ties can facilitate the formation of groups, and how a two-mode network can be generated from a one-mode network. Drawing on theories of team formation, club joining, and organization recruitment, I propose three models that describe how such groups might emerge from the relationships in a social network. I show that these models can be used to generate two-mode networks that have characteristics commonly observed in empirical two-mode social networks and that they encode features of the one-mode networks from which they were generated. I conclude by discussing these models limitations and future directions for theory and methods concerning group formation.
+WOS:000953624400001
+</snippet>
+</document>
+
+<document id="5">
+<title>Understanding collaboration patterns on funded research projects: A network analysis</title>
+<url>http://dx.doi.org/10.1017/nws.2022.33</url>
+<snippet>This paper provides an examination of inter-organizational collaboration in the UK research system. Data are collected on organizational collaboration on projects funded by four key UK research councils: Arts and Humanities Research Council, Economic and Social Research Council, Engineering and Physical Sciences Research Council, and Biotechnology and Biological Sciences Research Council. The organizational partnerships include both academic and nonacademic institutions. A collaboration network is created for each research council, and an exponential random graph model is applied to inform on the mechanisms underpinning collaborative tie formation on research council-funded projects. We find that in the sciences, collaborative patterns are much more hierarchical and concentrated in a small handful of actors compared to the social sciences and humanities projects. Institutions that are members of the elite Russell Group (a set of 24 high-ranking UK universities) are much more likely to be involved in collaborations across research councils.
+WOS:000889902100001
+</snippet>
+</document>
+
+<document id="6">
+<title>Expanding the boundaries of interdisciplinary field: Contribution of &lt;i&gt;Network Science&lt;/i&gt; journal to the development of network science</title>
+<url>http://dx.doi.org/10.1017/nws.2022.41</url>
+<snippet>In this paper, we examine the contribution of Network Science journal to the network science discipline. We do so from two perspectives. First, expanding the existing taxonomy of article contribution, we examine trends in theory testing, theory building, and new method development within the journals articles. We find that the journal demands a high level of theoretical contribution and methodological rigor. High levels of theoretical and methodological contribution become significant predictors of article citation rates. Second, we look at the composition of the studies in Network Science and determine that the journal has already established a solid "hard core" for the new discipline.
+WOS:000928337900001
+</snippet>
+</document>
+
+<document id="7">
+<title>Transitions between peace and systemic war as bifurcations in a signed network dynamical system</title>
+<url>http://dx.doi.org/10.1017/nws.2023.10</url>
+<snippet>We investigate structural features and processes associated with the onset of systemic conflict using an approach which integrates complex systems theory with network modeling and analysis. We present a signed network model of cooperation and conflict dynamics in the context of international relations between states. The model evolves ties between nodes under the influence of a structural balance force and a dyad-specific force. Model simulations exhibit a sharp bifurcation from peace to systemic war as structural balance pressures increase, a bistable regime in which both peace and war stable equilibria exist, and a hysteretic reverse bifurcation from war to peace. We show how the analytical expression we derive for the peace-to-war bifurcation condition implies that polarized network structure increases susceptibility to systemic war. We develop a framework for identifying patterns of relationship perturbations that are most destabilizing and apply it to the network of European great powers before World War I. We also show that the model exhibits critical slowing down, in which perturbations to the peace equilibrium take longer to decay as the system draws closer to the bifurcation. We discuss how our results relate to international relations theories on the causes and catalysts of systemic war.
+WOS:001009564300001
+</snippet>
+</document>
+
+</searchresult>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Rivalries, reputation, retaliation, and repetition: Testing plausible mechanisms for the contagion of violence between street gangs using relational event models</title>
+<url>http://dx.doi.org/10.1017/nws.2023.8</url>
+<snippet>The hypothesis that violence-especially gang violence-behaves like a contagious disease has grown in popularity in recent years. Scholars have long observed the tendency for violence to cluster in time and space, but little research has focused on empirically unpacking the mechanisms that make violence contagious. In the context of gang violence, retaliation is the prototypical mechanism to explain why violence begets violence. In this study, we leverage relational event models (REMs)-an underutilized yet particularly well-suited modeling technique to study the dynamics of inter-gang violence. We use REMs to examine gang violences tendency to replicate-for which retaliation is but one plausible mechanism-and its tendency to diffuse to other groups. We rely on data on conflicts between gangs in a region of Los Angeles over 3 years. We consider how the characteristics of gangs, their spatial proximity, networks of established rivalries, and the evolving history, directionality, and structure of conflicts predict future inter-gang conflicts. While retaliation is an important mechanism for the replication of violence, established rivalries, and inertia-a gangs tendency to continue attacking the same group-are more important drivers of future violence. We also find little evidence for an emerging pecking order or status hierarchy between gangs suggested by other scholars. However, we find that gangs are more likely to attack multiple gangs in quick succession. We propose that gang violence is more likely to diffuse to other groups because of the boost of internal group processes an initial attack provides.
+WOS:000983831100001
+</snippet>
+</document>
+
+<document id="2">
+<title>All that glitters is not gold: Relational events models with spurious events</title>
+<url>http://dx.doi.org/10.1017/nws.2022.22</url>
+<snippet>As relational event models are an increasingly popular model for studying relational structures, the reliability of large-scale event data collection becomes more and more important. Automated or human-coded events often suffer from non-negligible false-discovery rates in event identification. And most sensor data are primarily based on actors spatial proximity for predefined time windows; hence, the observed events could relate either to a social relationship or random co-location. Both examples imply spurious events that may bias estimates and inference. We propose the Relational Event Model for Spurious Events (REMSE), an extension to existing approaches for interaction data. The model provides a flexible solution for modeling data while controlling for spurious events. Estimation of our model is carried out in an empirical Bayesian approach via data augmentation. Based on a simulation study, we investigate the properties of the estimation procedure. To demonstrate its usefulness in two distinct applications, we employ this model to combat events from the Syrian civil war and student co-location data. Results from the simulation and the applications identify the REMSE as a suitable approach to modeling relational event data in the presence of spurious events.
+WOS:000854359300001
+</snippet>
+</document>
+
+<document id="3">
+<title>Reliability of relational event model estimates under sampling: How to fit a relational event model to 360 million dyadic events</title>
+<url>http://dx.doi.org/10.1017/nws.2019.57</url>
+<snippet>We assess the reliability of relational event model (REM) parameters estimated under two sampling schemes: (1) uniform sampling from the observed events and (2) case-control sampling which samples nonevents, or null dyads ("controls"), from a suitably defined risk set. We experimentally determine the variability of estimated parameters as a function of the number of sampled events and controls per event, respectively. Results suggest that REMs can be reliably fitted to networks with more than 12 million nodes connected by more than 360 million dyadic events by analyzing a sample of some tens of thousands of events and a small number of controls per event. Using the data that we collected on the Wikipedia editing network, we illustrate how network effects commonly included in empirical studies based on REMs need widely different sample sizes to be reliably estimated. For our analysis we use an open-source software which implements the two sampling schemes, allowing analysts to fit and analyze REMs to the same or other data that may be collected in different empirical settings, varying sample parameters or model specification.
+WOS:000578288500005
+</snippet>
+</document>
+
+<document id="4">
+<title>Multimodal mechanisms of political discourse dynamics and the case of Germany's nuclear energy phase-out</title>
+<url>http://dx.doi.org/10.1017/nws.2022.31</url>
+<snippet>The 2011 policy pivot of the German government, from extending nuclear power plants terms to securing their shutdown for 2022, cannot be explained without looking at how the German political discourse network shifted in the months following Fukushima. This paper seeks to model and identify mechanisms that help explain how the two-mode network of political actors support for claims developed. We identify possible mechanisms to explain discourse dynamics from literature on political discourse and discourse networks, and extend homophily mechanisms to two-mode networks as "tertius" effects. We then introduce and employ a multimodal extension of dynamic network actor models to answer two questions key to how the discourse has evolved: which actors support claims more frequently and which claims they support. Our results indicate that mechanisms vary according to the discursive phase, but that powerful actors participate in the discourse more often, and actors tend to support claims that have already found support by cross-party coalitions. These are the two most prominent mechanisms that help to explain the dramatic nuclear policy change in Germany after Fukushima.
+WOS:000898984100001
+</snippet>
+</document>
+
+<document id="5">
+<title>How fast do we forget our past social interactions? Understanding memory retention with parametric decays in relational event models</title>
+<url>http://dx.doi.org/10.1017/nws.2023.5</url>
+<snippet>In relational event networks, endogenous statistics are used to summarize the past activity between actors. Typically, it is assumed that past events have equal weight on the social interaction rate in the (near) future regardless of the time that has transpired since observing them. Generally, it is unrealistic to assume that recently past events affect the current event rate to an equal degree as long-past events. Alternatively one may consider using a prespecified decay function with a prespecified rate of decay. A problem then is that the chosen decay function could be misspecified yielding biased results and incorrect conclusions. In this paper, we introduce three parametric weight decay functions (exponential, linear, and one-step) that can be embedded in a relational event model. A statistical method is presented to decide which memory decay function and memory parameter best fit the observed sequence of events. We present simulation studies that show the presence of bias in the estimates of effects of the statistics whenever the decay, as well as the memory parameter, are not properly estimated, and the ability to test different memory models against each other using the Bayes factor. Finally, we apply the methodology to two empirical case studies.
+WOS:000962633900001
+</snippet>
+</document>
+
+<document id="6">
+<title>A model for the dynamics of face-to-face interactions in social groups</title>
+<url>http://dx.doi.org/10.1017/nws.2020.3</url>
+<snippet>Face-to-face interactions in social groups are a central aspect of human social lives. Although the composition of such groups has received ample attention in various fields-e.g., sociology, social psychology, management, and educational science-their micro-level dynamics are rarely analyzed empirically. In this article, we present a new statistical network model (DyNAM-i) that can represent the dynamics of conversation groups and interpersonal interaction in different social contexts. Taking an actor-oriented perspective, this model can be applied to test how individuals interaction patterns differ and how they choose and change their interaction groups. It moves beyond dyadic interaction mechanisms and translates central social network mechanisms-such as homophily, transitivity, and popularity-to the context of interactions in group settings. The utility and practical applicability of the new model are illustrated in two social network studies that investigate face-to-face interactions in a small party and an office setting.
+WOS:000548560700002
+</snippet>
+</document>
+
+<document id="7">
+<title>Diversity, networks, and innovation: A text analytic approach to measuring expertise diversity</title>
+<url>http://dx.doi.org/10.1017/nws.2022.34</url>
+<snippet>Despite the importance of diverse expertise in helping solve difficult interdisciplinary problems, measuring it is challenging and often relies on proxy measures and presumptive correlates of actual knowledge and experience. To address this challenge, we propose a text-based measure that uses researchers prior work to estimate their substantive expertise. These expertise estimates are then used to measure team-level expertise diversity by determining similarity or dissimilarity in members prior knowledge and skills. Using this measure on 2.8 million team invented patents granted by the US Patent Office, we show evidence of trends in expertise diversity over time and across team sizes, as well as its relationship with the quality and impact of a teams innovation output.
+WOS:000898319000001
+</snippet>
+</document>
+
+<document id="8">
+<title>Micro-level network dynamics of scientific collaboration and impact: Relational hyperevent models for the analysis of coauthor networks</title>
+<url>http://dx.doi.org/10.1017/nws.2022.29</url>
+<snippet>We discuss a recently proposed family of statistical network models-relational hyperevent models (RHEMs)-for analyzing team selection and team performance in scientific coauthor networks. The underlying rationale for using RHEM in studies of coauthor networks is that scientific collaboration is intrinsically polyadic, that is, it typically involves teams of any size. Consequently, RHEM specify publication rates associated with hyperedges representing groups of scientists of any size. Going beyond previous work on RHEM for meeting data, we adapt this model family to settings in which relational hyperevents have a dedicated outcome, such as a scientific paper with a measurable impact (e.g., the received number of citations). Relational outcome can on the one hand be used to specify additional explanatory variables in RHEM since the probability of coauthoring may be influenced, for instance, by prior (shared) success of scientists. On the other hand, relational outcome can also serve as a response variable in models seeking to explain the performance of scientific teams. To tackle the latter, we propose relational hyperevent outcome models that are closely related with RHEM to the point that both model families can specify the likelihood of scientific collaboration-and the expected performance, respectively-with the same set of explanatory variables allowing to assess, for instance, whether variables leading to increased collaboration also tend to increase scientific impact. For illustration, we apply RHEM to empirical coauthor networks comprising more than 350,000 published papers by scientists working in three scientific disciplines. Our models explain scientific collaboration and impact by, among others, individual activity (preferential attachment), shared activity (familiarity), triadic closure, prior individual and shared success, and prior success disparity among the members of hyperedges.
+WOS:000891700100001
+</snippet>
+</document>
+
+<document id="9">
+<title>Understanding collaboration patterns on funded research projects: A network analysis</title>
+<url>http://dx.doi.org/10.1017/nws.2022.33</url>
+<snippet>This paper provides an examination of inter-organizational collaboration in the UK research system. Data are collected on organizational collaboration on projects funded by four key UK research councils: Arts and Humanities Research Council, Economic and Social Research Council, Engineering and Physical Sciences Research Council, and Biotechnology and Biological Sciences Research Council. The organizational partnerships include both academic and nonacademic institutions. A collaboration network is created for each research council, and an exponential random graph model is applied to inform on the mechanisms underpinning collaborative tie formation on research council-funded projects. We find that in the sciences, collaborative patterns are much more hierarchical and concentrated in a small handful of actors compared to the social sciences and humanities projects. Institutions that are members of the elite Russell Group (a set of 24 high-ranking UK universities) are much more likely to be involved in collaborations across research councils.
+WOS:000889902100001
+</snippet>
+</document>
+
+<document id="10">
+<title>Relational eventmodels in network science INTRODUCTION</title>
+<url>http://dx.doi.org/10.1017/nws.2023.9</url>
+<snippet>Relational event models (REMs) for the analysis of social interaction were first introduced 15 years ago. Since then, a number of important substantive and methodological contributions have produced their progressive refinement and hence facilitated their increased adoption in studies of social and other networks. Today REMs represent a well-established class of statistical models for relational processes. This special issue of Network Science demonstrates the standing and recognition that REMs have achieved within the network analysis and networks science communities. We wrote this brief introductory editorial essay with four main objectives in mind: (i) positioning relational event data and models in the larger context of contemporary network science and social network research; (ii) reviewing some of the most important recent developments; (iii) presenting the innovative studies collected in this special issue as evidence of the empirical value of REMs, and (iv) identifying open questions and future research directions.
+WOS:000982984200001
+</snippet>
+</document>
+
+<document id="11">
+<title>Transitions between peace and systemic war as bifurcations in a signed network dynamical system</title>
+<url>http://dx.doi.org/10.1017/nws.2023.10</url>
+<snippet>We investigate structural features and processes associated with the onset of systemic conflict using an approach which integrates complex systems theory with network modeling and analysis. We present a signed network model of cooperation and conflict dynamics in the context of international relations between states. The model evolves ties between nodes under the influence of a structural balance force and a dyad-specific force. Model simulations exhibit a sharp bifurcation from peace to systemic war as structural balance pressures increase, a bistable regime in which both peace and war stable equilibria exist, and a hysteretic reverse bifurcation from war to peace. We show how the analytical expression we derive for the peace-to-war bifurcation condition implies that polarized network structure increases susceptibility to systemic war. We develop a framework for identifying patterns of relationship perturbations that are most destabilizing and apply it to the network of European great powers before World War I. We also show that the model exhibits critical slowing down, in which perturbations to the peace equilibrium take longer to decay as the system draws closer to the bifurcation. We discuss how our results relate to international relations theories on the causes and catalysts of systemic war.
+WOS:001009564300001
+</snippet>
+</document>
+
+<document id="12">
+<title>Random effects in dynamic network actor models</title>
+<url>http://dx.doi.org/10.1017/nws.2022.37</url>
+<snippet>Dynamic Network Actor Models (DyNAMs) assume that an observed sequence of relational events is the outcome of an actor-oriented decision process consisting of two decision levels. The first level represents the time until an actor initiates the next relational event, modeled by an exponential distribution with an actor-specific activity rate. The second level describes the choice of the receiver of the event, modeled by a conditional multinomial logit model. The DyNAM assumes that the parameters are constant over the actors and the context. This homogeneity assumption, albeit statistically and computationally convenient, is difficult to justify, e.g., in the presence of unobserved differences between actors or contexts. In this paper, we extend DyNAMs by including random-effects parameters that vary across actors or contexts and allow controlling for unknown sources of heterogeneity. We illustrate the model by analyzing relational events among the users of an online community of aspiring and professional digital and graphic designers.
+WOS:000926284800001
+</snippet>
+</document>
+
+</searchresult>

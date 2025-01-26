@@ -114,6 +114,18 @@ Repeated entry---line 852 of file ref.bib
  : @article{Chen2006
  :                  ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 899 of file ref.bib
+ : @article{Small1973
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 919 of file ref.bib
+ : @book{Moed2005
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 986 of file ref.bib
+ : @article{Borgatti2009
+ :                      ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "WOS:000356343600002"
 Warning--I didn't find a database entry for "bibid"
 Warning--I didn't find a database entry for "Donthu2021"
@@ -150,6 +162,82 @@ Name 1 in "Ismael Rafols, Alan L. Porter, and Loet Leydesdorff" has a comma at t
 while executing---line 1023 of file apalike.bst
 Name 1 in "Ismael Rafols, Alan L. Porter, and Loet Leydesdorff" has a comma at the end for entry Rafols2010
 while executing---line 1023 of file apalike.bst
+Name 1 in "Opsahl, Tore, Agneessens, Filip, and Skvoretz, John" has a comma at the end for entry Opsahl2010
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Opsahl, Tore, Agneessens, Filip, and Skvoretz, John" for entry Opsahl2010
+while executing---line 1023 of file apalike.bst
+Name 1 in "Opsahl, Tore, Agneessens, Filip, and Skvoretz, John" has a comma at the end for entry Opsahl2010
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Opsahl, Tore, Agneessens, Filip, and Skvoretz, John" for entry Opsahl2010
+while executing---line 1023 of file apalike.bst
+Name 1 in "Robins, Garry, Pattison, Philippa, Kalish, Yuval, and Lusher, Dean" has a comma at the end for entry Robins2007
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Robins, Garry, Pattison, Philippa, Kalish, Yuval, and Lusher, Dean" for entry Robins2007
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Robins, Garry, Pattison, Philippa, Kalish, Yuval, and Lusher, Dean" for entry Robins2007
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Robins, Garry, Pattison, Philippa, Kalish, Yuval, and Lusher, Dean" for entry Robins2007
+while executing---line 1023 of file apalike.bst
+Name 1 in "Robins, Garry, Pattison, Philippa, Kalish, Yuval, and Lusher, Dean" has a comma at the end for entry Robins2007
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Robins, Garry, Pattison, Philippa, Kalish, Yuval, and Lusher, Dean" for entry Robins2007
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Robins, Garry, Pattison, Philippa, Kalish, Yuval, and Lusher, Dean" for entry Robins2007
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Robins, Garry, Pattison, Philippa, Kalish, Yuval, and Lusher, Dean" for entry Robins2007
+while executing---line 1023 of file apalike.bst
+Name 1 in "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" has a comma at the end for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Name 1 in "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" has a comma at the end for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1023 of file apalike.bst
+Name 1 in "Liu, Jingfeng, and Xia, Jingfeng" has a comma at the end for entry Liu2005
+while executing---line 1023 of file apalike.bst
+Name 1 in "Liu, Jingfeng, and Xia, Jingfeng" has a comma at the end for entry Liu2005
+while executing---line 1023 of file apalike.bst
+Name 1 in "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" has a comma at the end for entry Barabasi2002
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Barabási, Albert-László, Jeong, Hawoong, Neda, Zoltan, Ravasz, Erszebet, Schubert, Andrea, and Vicsek, Tamás" for entry Barabasi2002
+while executing---line 1098 of file apalike.bst
 Name 1 in "Caroline S. Wagner, Julia L. Yezril, and Scott J. Hassell" has a comma at the end for entry Wagner2011
 while executing---line 1098 of file apalike.bst
 Name 1 in "David M. Blei, Andrew Y. Ng, and Michael I. Jordan" has a comma at the end for entry Blei2003
@@ -160,51 +248,65 @@ Name 1 in "Ismael Rafols, Alan L. Porter, and Loet Leydesdorff" has a comma at t
 while executing---line 1098 of file apalike.bst
 Name 1 in "Katy Börner, Jevin West, Cassi Meyer, and Dashun Wang" has a comma at the end for entry Borner2020
 while executing---line 1098 of file apalike.bst
+Name 1 in "Liu, Jingfeng, and Xia, Jingfeng" has a comma at the end for entry Liu2005
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "M. J. Cobo, A. G. López-Herrera, E. Herrera-Viedma, F. Herrera" for entry Cobo2011
+while executing---line 1098 of file apalike.bst
+Name 1 in "Opsahl, Tore, Agneessens, Filip, and Skvoretz, John" has a comma at the end for entry Opsahl2010
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Opsahl, Tore, Agneessens, Filip, and Skvoretz, John" for entry Opsahl2010
+while executing---line 1098 of file apalike.bst
+Name 1 in "Robins, Garry, Pattison, Philippa, Kalish, Yuval, and Lusher, Dean" has a comma at the end for entry Robins2007
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Robins, Garry, Pattison, Philippa, Kalish, Yuval, and Lusher, Dean" for entry Robins2007
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Robins, Garry, Pattison, Philippa, Kalish, Yuval, and Lusher, Dean" for entry Robins2007
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Robins, Garry, Pattison, Philippa, Kalish, Yuval, and Lusher, Dean" for entry Robins2007
 while executing---line 1098 of file apalike.bst
 Name 1 in "Stefano Boccaletti, Vito Latora, Yamir Moreno, Mario Chavez, and D.-U. Hwang" has a comma at the end for entry Boccaletti2006
 while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Stefano Boccaletti, Vito Latora, Yamir Moreno, Mario Chavez, and D.-U. Hwang" for entry Boccaletti2006
 while executing---line 1098 of file apalike.bst
-You've used 63 entries,
+You've used 75 entries,
             1935 wiz_defined-function locations,
-            848 strings with 12976 characters,
-and the built_in function-call counts, 24197 in all, are:
-= -- 2360
-> -- 906
-< -- 50
-+ -- 320
-- -- 298
-* -- 2036
-:= -- 4230
-add.period$ -- 189
-call.type$ -- 63
-change.case$ -- 451
-chr.to.int$ -- 57
-cite$ -- 63
-duplicate$ -- 906
-empty$ -- 1752
-format.name$ -- 399
-if$ -- 4731
+            920 strings with 14619 characters,
+and the built_in function-call counts, 28885 in all, are:
+= -- 2850
+> -- 1032
+< -- 63
++ -- 362
+- -- 336
+* -- 2441
+:= -- 5016
+add.period$ -- 225
+call.type$ -- 75
+change.case$ -- 530
+chr.to.int$ -- 69
+cite$ -- 75
+duplicate$ -- 1083
+empty$ -- 2111
+format.name$ -- 463
+if$ -- 5656
 int.to.chr$ -- 7
 int.to.str$ -- 0
-missing$ -- 75
-newline$ -- 318
-num.names$ -- 189
-pop$ -- 372
+missing$ -- 87
+newline$ -- 378
+num.names$ -- 225
+pop$ -- 417
 preamble$ -- 1
-purify$ -- 464
+purify$ -- 543
 quote$ -- 0
-skip$ -- 692
+skip$ -- 836
 stack$ -- 0
-substring$ -- 1823
-swap$ -- 89
-text.length$ -- 3
+substring$ -- 2260
+swap$ -- 110
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 352
+type$ -- 424
 warning$ -- 0
-while$ -- 197
+while$ -- 246
 width$ -- 0
-write$ -- 804
-(There were 51 error messages)
+write$ -- 960
+(There were 99 error messages)

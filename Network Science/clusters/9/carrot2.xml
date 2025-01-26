@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Brokerage-based attack on real world temporal networks</title>
+<url>http://dx.doi.org/10.1017/nws.2016.18</url>
+<snippet>In this paper, we attempt to investigate the attack tolerance of human mobility networks where the mobility is restricted to some extent, for instance, in a hospital, one is not allowed to access all locations. Similar situations also arise in schools. In such a network, we will show that people need to rely upon some intermediate agents, popularly known as the brokers to disseminate information. In order to establish this fact, we have followed the approach of attack in a network which in turn helps to identify important nodes in the network in order to maintain the overall connectivity. In this direction, we have proposed, a new temporal metric, brokerage frequency which significantly outperforms all other state-of-the-art attack strategies reported in Trajanovski et al. (2012), Sur et al. (2015).
+WOS:000392128300003
+</snippet>
+</document>
+
+<document id="2">
+<title>Impact of degree truncation on the spread of a contagious process on networks</title>
+<url>http://dx.doi.org/10.1017/nws.2017.30</url>
+<snippet>Understanding how person-to-person contagious processes spread through a population requires accurate information on connections between population members. However, such connectivity data, when collected via interview, is often incomplete due to partial recall, respondent fatigue, or study design, e.g. fixed choice designs (FCD) truncate out-degree by limiting the number of contacts each respondent can report. Research has shown how FCD affects network properties, but its implications for predicted speed and size of spreading processes remain largely unexplored. To study the impact of degree truncation on predictions of spreading process outcomes, we generated collections of synthetic networks containing specific properties (degree distribution, degree-assortativity, clustering), and used empirical social network data from 75 villages in Karnataka, India. We simulated FCD using various truncation thresholds and ran a susceptible-infectious-recovered (SIR) process on each network. We found that spreading processes on truncated networks resulted in slower and smaller epidemics, with a sudden decrease in prediction accuracy at a level of truncation that varied by network type. Our results have implications beyond FCD to truncation due to any limited sampling from a larger network. We conclude that knowledge of network structure is important for understanding the accuracy of predictions of process spread on degree truncated networks.
+WOS:000427005000002
+</snippet>
+</document>
+
+<document id="3">
+<title>Homophily, influence and the decay of segregation in self-organizing networks</title>
+<url>http://dx.doi.org/10.1017/nws.2016.1</url>
+<snippet>We study the persistence of network segregation in networks characterized by the co-evolution of vertex attributes and link structures, in particular where individual vertices form linkages on the basis of similarity with other network vertices (homophily), and where vertex attributes diffuse across linkages, making connected vertices more similar over time (influence). A general mathematical model of these processes is used to examine the relative influence of homophily and influence in the maintenance and decay of network segregation in self-organizing networks. While prior work has shown that homophily is capable of producing strong network segregation when attributes are fixed, we show that adding even minute levels of influence is sufficient to overcome the tendency towards segregation even in the presence of relatively strong homophily processes. This result is proven mathematically for all large networks and illustrated through a series of computational simulations that account for additional network evolution processes. This research contributes to a better theoretical understanding of the conditions under which network segregation and related phenomenon-such as community structure-may emerge, which has implications for the design of interventions that may promote more efficient network structures.
+WOS:000373401500004
+</snippet>
+</document>
+
+<document id="4">
+<title>Network Science</title>
+<url>http://dx.doi.org/</url>
+<snippet>
+WOS:000402245700013
+</snippet>
+</document>
+
+<document id="5">
+<title>A model of collaboration network formation with heterogeneous skills</title>
+<url>http://dx.doi.org/10.1017/nws.2015.33</url>
+<snippet>Collaboration networks provide a method for examining the highly heterogeneous structure of collaborative communities. However, we still have limited theoretical understanding of how individual heterogeneity relates to network heterogeneity. The model presented here provides a framework linking an individuals skill set to her position in the collaboration network, and the distribution of skills in the population to the structure of the collaboration network as a whole. This model suggests that there is a non-trivial relationship between skills and network position: individuals with a useful combination of skills will have a disproportionate number of links in the network. Indeed, in some cases, an individuals degree is non-monotonic in the number of skills she has-an individual with very few skills may outperform an individual with many. Special cases of the model suggest that the degree distribution of the network will be skewed, even when the distribution of skills is uniform in the population. The degree distribution becomes more skewed as problems become more difficult, leading to a community dominated by a few high-degree superstars. This has striking implications for labor market outcomes in industries where production is largely the result of collaborative effort.
+WOS:000376791800003
+</snippet>
+</document>
+
+<document id="6">
+<title>Evolution through bursts: Network structure develops through localized bursts in time and space</title>
+<url>http://dx.doi.org/10.1017/nws.2016.13</url>
+<snippet>Models of network evolution are based on the implicit assumption that network growth is continuous, uniform, and steady. Using the data collected from a large online-blogging platform, we show that the addition and removal of network ties by users do not occur sporadically at isolated nodes spread all over the network, as assumed by the vast majority of stochastic network models, but rather occur in brief bursts of intense local activity. These bursts of network growth and attrition (addition and removal of network ties) are highly localized around focal nodes. Such network changes coincide with nearly instantaneous densification of the ties between the affected nodes, resulting in an increase of local clustering. Furthermore, we find that these network changes are tightly coupled to the dynamics of individual attributes, particularly the increase in homology between neighboring nodes (homophily) within the scope of the burst. Coincidence of the localized network change with the increase in homophily suggests a strong coupling between the selection and influence processes that lead to simultaneous elevation of assortativity and clustering.
+WOS:000383885200002
+</snippet>
+</document>
+
+</searchresult>

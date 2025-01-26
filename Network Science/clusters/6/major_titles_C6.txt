@@ -1,0 +1,7 @@
+Rivalries, reputation, retaliation, and repetition: Testing plausible mechanisms for the contagion of violence between street gangs using relational event models
+All that glitters is not gold: Relational events models with spurious events
+Multimodal mechanisms of political discourse dynamics and the case of Germany's nuclear energy phase-out
+How fast do we forget our past social interactions? Understanding memory retention with parametric decays in relational event models
+Micro-level network dynamics of scientific collaboration and impact: Relational hyperevent models for the analysis of coauthor networks
+Relational eventmodels in network science INTRODUCTION
+Random effects in dynamic network actor models

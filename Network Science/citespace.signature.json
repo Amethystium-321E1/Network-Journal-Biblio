@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-24T00:38:49.367-0800",
+  "date": "2025-01-26T12:37:49.958-0800",
   "pruningType": "None",
   "LRF": 2.5,
   "pruneWithMST": false,
@@ -37,17 +37,17 @@
   "kLCC": 5,
   "Q": 0,
   "excludedJSON": [],
-  "projectTitle": "Network Science",
-  "begin_year": 1988,
+  "projectTitle": "CN",
+  "begin_year": 2014,
   "aliasJSON": {},
   "wordsID": true,
   "topNpctCap": 100,
   "wordsAB": true,
-  "timeStamp": "January 24, 2025, 12:38:49\u202fAM PST",
+  "timeStamp": "January 26, 2025, 12:37:49\u202fPM PST",
   "dataHomePath": "F:\\GitHub_Local_Repo\\Network-Journal-Biblio\\Network Science\\WOS data",
   "linkWeightModificationRate": 0.0010000000474974513,
   "endTime": "2025-DEC",
   "projectHomePath": "F:\\GitHub_Local_Repo\\Network-Journal-Biblio\\Network Science",
-  "end_year": 2025,
+  "end_year": 2024,
   "burstWeight": 0
 }

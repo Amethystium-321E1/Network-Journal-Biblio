@@ -1,0 +1,4 @@
+Brokerage-based attack on real world temporal networks
+Homophily, influence and the decay of segregation in self-organizing networks
+Network Science
+Evolution through bursts: Network structure develops through localized bursts in time and space

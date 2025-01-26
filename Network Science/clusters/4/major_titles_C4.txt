@@ -1,0 +1,7 @@
+A local perspective on community structure in multilayer networks
+Bayesian approach to multilayer stochastic blockmodel and network changepoint detection
+Forward reachable sets: Analytically derived properties of connected components for dynamic networks
+On spectral embedding performance and elucidating network structure in stochastic blockmodel graphs
+Statistical evaluation of spectral methods for anomaly detection in static networks
+Opinion-based centrality in multiplex networks: A convex optimization approach
+Creating context for social influence processes in multiplex networks

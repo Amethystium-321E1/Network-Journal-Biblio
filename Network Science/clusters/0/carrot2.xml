@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Collecting egocentric network data with visual tools: A comparative study</title>
+<url>http://dx.doi.org/10.1017/nws.2020.4</url>
+<snippet>When collecting egocentric network data, visual representations of networks can function as a cognitive aid for depicting relationships, helping to maintain an overview of the relationships, and keeping the attention of the interviewees. Additionally, network maps can serve as a narration generator in qualitative and in mixed-methods studies. While varying visual instruments are used for collecting egocentric network data, little is known about differences among visual tools concerning the influence on the resulting network data, the usability for interviewees, and data validity. The article provides an overview of existing visually oriented tools that are used to collect egocentric networks and discusses their functions, advantages, and limitations. Then, we present results of an experimental study where we compare four different visual tools with regard to networks elicited, manageability, and the impact of follow-up questions. In order to assess the manageability of the four tools, we used the thinking aloud method. The results provide evidence that the decision in favor of a specific visual tool (structured vs. unstructured) can affect the size and composition of the elicited networks. Follow-up questions greatly affect the elicited networks and follow-up cues can level out differences among tools. Respondents tend to prefer the concentric circles tool, with some differences in preferences and manageability of tools between participants with low and those with high socioeconomic status. Finally, assets and drawbacks of the four instruments are discussed with regard to data quality and crucial aspects of the data collection process when using visual tools.
+WOS:000537535500006
+</snippet>
+</document>
+
+<document id="2">
+<title>The embeddedness of social capital in personal networks</title>
+<url>http://dx.doi.org/10.1017/nws.2019.30</url>
+<snippet>Name generators (NGs) and position generators (PGs) have been used to measure resources embedded in personal relationships, namely social support and social capital, respectively. Comparisons of these measures adopted NGs that only elicit a small number of alters (max. 5). In this paper we explore whether the measurement of social capital with NGs eliciting larger personal networks (say 15 to 20 alters) gives more comparable results to the PG in terms of occupational prestige. To address this issue, we designed a personal network questionnaire that combined a multiple name generator (MNG) and a PG and enquired about alter characteristics and alter-alter ties for the two sets of nominations simultaneously, allowing their integrated analysis. The questionnaire was implemented in the software EgoNet to collect data from social/environmental entrepreneurs in Spain (N = 30) and Mexico (N = 30. The analysis shows that the two approaches capture mostly non-overlapping sets of personal network members, suggesting that the PG measured in this case available, but not accessed social capital. Remarkably the NG led to a higher average prestige for this occupational group than the PG, but also a lower heterogeneity in prestige. The consequences of using one or another approach and their interpretations are discussed.
+WOS:000537535500004
+</snippet>
+</document>
+
+<document id="3">
+<title>Mobilizing nascent ties: A Qualitative Structural Analysis of social(izing) capital in newcomer networks</title>
+<url>http://dx.doi.org/10.1017/nws.2020.25</url>
+<snippet>This paper investigates the processes involved when newly hired employees need to simultaneously build up and mobilize personal network ties during their organizational socialization. It focuses on the quality of ties at an early formative stage, characterized by the lack of a tie history between actors. Social capital theory would suggest that such nascent ties do not offer optimal channels for the kind and volume of resources that newcomers (need to) rely on during socialization. To better understand how this apparent mismatch between tie quality and resource needs is handled from an ego-centered perspective, the paper analyzes personal network data from 24 newcomers in nine organizations, using an adapted form of Qualitative Structural Analysis. Three tie-level qualities are found to explain how the lack of tie history may be alleviated, circumvented, or compensated. They comprise (a) variants of openness experienced with stronger ties, (b) perceptions of a lowered threshold towards weaker ties, and 
+WOS:000556240100005
+</snippet>
+</document>
+
+<document id="4">
+<title>Cognition and communication: situational awareness and tie preservation in disrupted task environments</title>
+<url>http://dx.doi.org/10.1017/nws.2020.15</url>
+<snippet>Individuals filling specialized, interdependent organizational roles achieve coordinated task execution through effective communication channels. Such channels enable regular access to information, opportunities, and assistance that may enhance ones understanding of the task environment. However, the time and effort devoted to maintaining those channels may detract from ones duties by turning attention away from the task environment. Disrupted task environments increase information requirements, thus creating a dilemma in which individuals must sustain benefits offered by important communication channels and relieve burdens imposed by ineffective channels. Using separable temporal exponential random graph models (STERGMs), this paper examines the relationship between situational awareness (SA) and the propensity to sustain or dissolve preexisting communication channels during 10 disruptive events experienced sequentially by a large, multifaceted military organization during a 2-week training exercise. Results provide limited evidence that increased SA detracts from tie preservation; instead SA begins to predict tie preservation during the second week of the exercise. Patterns of organizational adaptation reveal that, over time, improvised coordinative roles increasingly fall upon those with elevated SA. These results suggest that over successive disruptions, the benefits of information provided by communication channels within interdependent, role-specialized organizations begin to outweigh the costs of sustaining those channels.
+WOS:000575822100003
+</snippet>
+</document>
+
+<document id="5">
+<title>Personal networks and psychological attributes: Exploring individual differences in personality and sense of community and their relationship to the structure of personal networks</title>
+<url>http://dx.doi.org/10.1017/nws.2019.15</url>
+<snippet>The paper explores the relationship between personality characteristics, sense of community and the structure of personal networks. We collected personal network data from 100 adults, consisting of the information about their 45 alters and ties among them. In addition to the typically used bivariate correlations to analyze the relationship between individual psychological differences and network structure, we propose first the use of typologies of networks and personality and second modified versions of the triadic census in ego-networks. The results show that different personality types tend to occupy a different kind of networks and that newly introduced triadic measures show a relatively higher association with examined psychological attributes than global network measures. Overall, the Psychological Sense of Community showed higher associations with network measures than Big Five personality traits. The former was positively correlated with measures of closed triads among alters, but also with alters embedded in triads with weak ties. Regarding personality traits, Emotional Stability was positively correlated with strong closed triads and with the overall indicator of density. The elaboration of typologies and the census of triads are shown to be effective strategies for the description of personal networks, as well as for the analysis of individual psychological differences.
+WOS:000537535500003
+</snippet>
+</document>
+
+<document id="6">
+<title>Examining the variability in network populations and its role in generative models</title>
+<url>http://dx.doi.org/10.1017/nws.2019.63</url>
+<snippet>A principled approach to understand networks is to formulate generative models and infer their parameters from given network data. Due to the scarcity of data in the form of multiple networks that have evolved from the same process, generative models are typically formulated to learn parameters from a single network observation, hence ignoring the natural variability of the "true" process. In this paper, we highlight the importance of variability in evaluating generative models and present two ways of quantifying the variability for a finite set of networks. The first evaluation scheme compares the statistical properties of networks in a dissimilarity space, while the other relies on data-driven entropy measures to compute variability in network populations. Using these measures, we evaluate the ability of four generative models to synthesize networks that capture the variability of the "true" process. Our empirical analysis suggests that generative models fitted for a single network observation fail to capture the variability in the network population. Our work highlights the need for rethinking the way we evaluate the goodness-of-fit of new and existing network models and devising models that are capable of matching the variability of network populations when available.
+WOS:000548560700004
+</snippet>
+</document>
+
+<document id="7">
+<title>Homophily in the formation and development of learning networks among university students</title>
+<url>http://dx.doi.org/10.1017/nws.2020.10</url>
+<snippet>Students personal learning networks can be a valuable resource of success in higher education: they offer opportunities for academic and personal support and provide sources of information related to exams or homework. We study the determinants of learning networks using a panel study among university students in their first and second year of study. A long-standing question in social network analysis has been whether the tendency of individuals with similar characteristics to form ties is a result of preferences "choice homophily" or rather selective opportunities "induced homophily". We expect a latent preference for homophilic learning partnerships with regard to attributes, such as gender, ability, and social origin. We estimate recently developed temporal exponential random graph models to control for previous network structure and study changes in learning ties among students. The results show that especially for males, same-gender partnerships are preferred over heterogeneous ties, while chances for tie formation decrease with the difference in academic ability among students. Social origin is a significant factor in the crosssectional exploration but does appear to be less important in the formation of new (strong) partnerships during the course of studies.
+WOS:000575822100001
+</snippet>
+</document>
+
+<document id="8">
+<title>Is having an educationally diverse social network good for health?</title>
+<url>http://dx.doi.org/10.1017/nws.2020.14</url>
+<snippet>While network research often focuses on social integration as a predictor of health, a less-explored idea is that connections to dissimilar others may benefit well-being. As such, this study investigates whether network diversity is associated with changes in four health outcomes over a 3-year period of time in the U.S.A. Specifically, we focus on how an underexplored measure of network diversity-educational attainment assortativity-is associated with common self-reported outcomes: propensity to exercise, body-mass index, mental health, and physical health. We extend prior research by conducting multilevel analyses using this measure of diversity while adjusting for a range of socio-demographic and network confounders. Data are drawn from a longitudinal probability sample of U.S. adults (n=10.679) in which respondents reported information about themselves and eight possible alters during three yearly surveys (2013-2015). We find, first, that higher educational attainment is associated with more educationally insular networks, while less-educated adults have more educationally diverse networks. Results further suggest that having educationally similar networks is associated with higher body-mass index among the less educated. Further exploration of the relationship between ego network diversity, tie strength, and health is warranted.
+WOS:000556240100007
+</snippet>
+</document>
+
+<document id="9">
+<title>Social capital across the life course: Accumulation, diminution, or segregation?</title>
+<url>http://dx.doi.org/10.1017/nws.2020.26</url>
+<snippet>This study examines changes in individual social capital during adult life within a 19-year period. Social capital theory and life course theory are combined, and it is argued that changes in social networks do not necessarily go together with changes in social capital: while personal networks are known to decline in size with age, social capital can be expected to accumulate, in particular for those who had a better starting position and therefore more resources to share. Panel data from the survey of the social networks of the Dutch (SSND) (1999-2018) at four points of measurement are employed to inquire into this argument. Social capital is measured by the position generator instrument, and three indicators, that is, resource extensity, mean prestige access, and resource range are analyzed. Results of fixed effect models show that, on average, people maintain access to social capital, and that men and higher educated gain social capital through their life as opposed to women and lower educated. Implications for the understanding of the reproduction of social inequality are discussed. The paper concludes with a reflection upon the value of ego-centered network analysis in the era of big data and data science.
+WOS:000556240100002
+</snippet>
+</document>
+
+<document id="10">
+<title>Egonets as systematically biased windows on society</title>
+<url>http://dx.doi.org/10.1017/nws.2020.5</url>
+<snippet>A persons egonet, the set of others with whom that person is connected, is a personal sample of society which especially influences that persons experience and perceptions of society. We show that egonets systematically misrepresent the general population because each person is included in as many egonets as that person has "friends." Previous research has recognized that this unequal weighting in egonets leads many people to find that their friends have more friends than they themselves have. This paper builds upon that research to show that peoples egonets provide them with systematically biased samples of the population more generally. We discuss how this ubiquitous egonet bias may have far reaching implications for peoples experiences and perceptions of frequencies of other peoples ties and traits in ways that may influence their own feelings and behaviors. In particular, these egonet biases may help explain peoples tendencies to disproportionately experience and overestimate the prevalence of certain types of deviance and other social behaviors and consequently be influenced toward them. We illustrate egonet bias with analyses of all friends among 63,731 Facebook users. We call for further empirical investigation of egonet biases and their consequences for individuals and society.
+WOS:000556240100006
+</snippet>
+</document>
+
+<document id="11">
+<title>Growing-up and coming-out: Are 4-cycles present in adult hetero/gay hook-ups?</title>
+<url>http://dx.doi.org/10.1017/nws.2016.3</url>
+<snippet>
+WOS:000383885200007
+</snippet>
+</document>
+
+<document id="12">
+<title>Political isolation in America</title>
+<url>http://dx.doi.org/10.1017/nws.2020.9</url>
+<snippet>This study documents historical trends of size and political diversity in Americans discussion networks, which are often seen as important barometers of social and political health. Contrasting findings from data drawn out of a nationally representative survey experiment of 1,055 Americans during the contentious 2016 U.S. presidential election to data arising from 11 national data sets covering nearly three decades, we find that Americans core networks are significantly smaller and more politically homogeneous than at any other period. Several methodological artifacts seem unlikely to account for the effect. We show that in this period, more than before, "important matters" were often framed as political matters, and that this association probably accounts for the smaller networks.
+WOS:000556240100003
+</snippet>
+</document>
+
+<document id="13">
+<title>Community structure: A comparative evaluation of community detection methods</title>
+<url>http://dx.doi.org/10.1017/nws.2019.59</url>
+<snippet>Discovering community structure in complex networks is a mature field since a tremendous number of community detection methods have been introduced in the literature. Nevertheless, it is still very challenging for practitioners to determine which method would be suitable to get insights into the structural information of the networks they study. Many recent efforts have been devoted to investigating various quality scores of the community structure, but the problem of distinguishing between different types of communities is still open. In this paper, we propose a comparative, extensive, and empirical study to investigate what types of communities many state-of-the-art and well-known community detection methods are producing. Specifically, we provide comprehensive analyses on computation time, community size distribution, a comparative evaluation of methods according to their optimization schemes as well as a comparison of their partitioning strategy through validation metrics. We process our analyses on a very large corpus of hundreds of networks from five different network categories and propose ways to classify community detection methods, helping a potential user to navigate the complex landscape of community detection.
+WOS:000578288500001
+</snippet>
+</document>
+
+<document id="14">
+<title>Out of sync, out of society: Political beliefs and social networks</title>
+<url>http://dx.doi.org/10.1017/nws.2020.2</url>
+<snippet>Who is more likely to be isolated from society in terms of political beliefs? To answer this question, we measure whether individuals beliefs are "out of sync"-the extent to which their views differ with their contemporaries-and examine how the level of synchronization is associated with the size of important-matter and political-matter discussion networks. The results show that people with weaker belief synchronization are more likely to have smaller important-matter discussion networks. However, additional analyses of political-matter discussion networks show that weaker belief synchronization is associated with smaller networks only among those without a high school diploma and even provides some advantage in maintaining larger networks for the college-educated. Overall, the results imply that political beliefs that are "out of sync" correspond to the individual being "out of society," whereas the aspects of "out of society" are quite different among educational groups.
+WOS:000556240100008
+</snippet>
+</document>
+
+<document id="15">
+<title>Noting the ties after tying the knot: Photo-based elicitation of retrospective personal network data</title>
+<url>http://dx.doi.org/10.1017/nws.2019.8</url>
+<snippet>We report on an interview method using photo-based network elicitation and a landmark anchoring event to collect data on relationship change in ego networks retrospectively. Using the wedding albums of married or formerly married respondents, we populate a network from many years ago with persons pictured in the album and then collect data about each respondents relationship with each person at the time of the wedding and at the time of the interview. This data collection method mitigates many of the problems associated with retrospective data collection and does not have the logistical difficulties associated with panel studies. Our findings show that this method is successful in collecting significant numbers of connections that have undergone change, and especially reductions in activity along various dimensions.
+WOS:000537535500007
+</snippet>
+</document>
+
+<document id="16">
+<title>Structure in personal networks: Constructing and comparing typologies</title>
+<url>http://dx.doi.org/10.1017/nws.2019.29</url>
+<snippet>A recurrent finding in personal network research is that individual and social outcomes are influenced not just by the kind of people one knows, but also by how those people are connected to each other. Personal network structure - the way in which ones personal contacts know and interact with each other - reflects broader trends in social organization and personal communities, and shapes patterns of social capital, support, and isolation. This article proposes a method to identify typologies of structure in large collections of personal networks. The method is applied to six datasets collected in widely different circumstances and using various survey instruments. It is then compared with another recently introduced method to extract typologies of egocentric network structure. Findings show that personal network structure can be effectively summarized using just three measures of cohesive subgroup characteristics. Structural typologies can then be identified by applying standard cluster analysis techniques to the three variables. Both methods considered in the article capture significant variation in network structures, but they also show substantial levels of disagreement and cross-classification. I discuss similarities and differences between the methods, and potential applications of the proposed typologies to substantive research on personal communities, social support, and social capital.
+WOS:000537535500002
+</snippet>
+</document>
+
+<document id="17">
+<title>Where you are, what you want, and what you can do: The role of master statuses, personality traits, and social cognition in shaping ego network size, structure, and composition</title>
+<url>http://dx.doi.org/10.1017/nws.2020.6</url>
+<snippet>Ego networks are thought to be influenced by the opportunities provided to associate with others given by our master statuses (e.g., race or sex), by the preferences individuals possess for interaction given our personality traits (e.g., extroverted or neurotic), and by the capacity to manage interactions on an ongoing basis given our cognitive ability to recall network information. However, prior research has been unable to examine all three classes of predictors concurrently. We rectify this deficiency in the literature by using a novel dataset of nearly 1000 respondents collected using controlled laboratory designs; using this dataset, we can simultaneously examine the impact of master statuses, personality traits, and social cognitive competencies on ego network size, structure (i.e., density), and composition (i.e., diversity). We find that all classes of predictors influence our ego networks, though in different ways, and point to new avenues for research into human sociability.
+WOS:000556240100004
+</snippet>
+</document>
+
+<document id="18">
+<title>Assessing the stability of egocentric networks over time using the digital participant-aided sociogram tool Network Canvas</title>
+<url>http://dx.doi.org/10.1017/nws.2019.27</url>
+<snippet>This paper examines the stability of egocentric networks as reported over time using a novel touchscreen-based participant-aided sociogram. Past work has noted the instability of nominated network alters, with a large proportion leaving and reappearing between interview observations. To explain this instability of networks over time, researchers often look to structural embeddedness, namely the notion that alters are connected to other alters within egocentric networks. Recent research has also asked whether the interview situation itself may play a role in conditioning respondents to what might be the appropriate size and shape of a social network, and thereby which alters ought to be nominated or not. We report on change in these networks across three waves and assess whether this change appears to be the result of natural churn in the network or whether changes might be the result of factors in the interview itself, particularly anchoring and motivated underreporting. Our results indicate little change in average network size across waves, particularly for indirect tie nominations. Slight, significant changes were noted between waves one and two particularly among those with the largest networks. Almost no significant differences were observed between waves two and three, either in terms of network size, composition, or density. Data come from three waves of a Chicago-based panel study of young men who have sex with men.
+WOS:000537535500005
+</snippet>
+</document>
+
+<document id="19">
+<title>The networked question in the digital era: How do networked, bounded, and limited individuals connect at different stages in the life course?</title>
+<url>http://dx.doi.org/10.1017/nws.2019.28</url>
+<snippet>We used in-depth interviews with 101 participants in the East York section of Toronto, Canada to understand how digital media affects social connectivity in general-and networked individualism in particular-for people at different stages of the life course. Although people of all ages intertwined their use of digital media with their face-to-face interactions, younger adults used more types of digital media and have more diversified personal networks. People in different age-groups conserved media, tending to stick with the digital media they learned to use in earlier life stages. Approximately one-third of the participants were Networked Individuals: In each age-group, they were the most actively using digital media to maintain ties and to develop new ones. Another one-third were Socially Bounded, who often actively used digital media but kept their connectivity within a smaller set of social groups. The remaining one-third, who were Socially Limited, were the least likely to use digital media. Younger adults were the most likely to be Networked Individuals, leading us to wonder if the percentage of the population who are Bounded or Limited will decline over time.
+WOS:000556240100001
+</snippet>
+</document>
+
+<document id="20">
+<title>Creating context for social influence processes in multiplex networks</title>
+<url>http://dx.doi.org/10.1017/nws.2016.28</url>
+<snippet>This paper elaborates on two theories of social influence processes to multiplex network structures. First, cohesion influence is based on mutual communication made by different types of relations, and second comparison influence that is built on contrasting types of tie. While a system of bundles with a mutual character constitutes the setting for a multiplex network exposure measure within cohesion, comparison influence is defined algebraically through classes of actors in terms of a weakly balanced semiring structure that considers positive, negative, and also ambivalent types of tie. A case study with these approaches is made on an entrepreneurial community network with formal business relations, informal friendship ties, and perceived competition among the firms, and the methods are validated with the Sampson Monastery data set.
+WOS:000399161500001
+</snippet>
+</document>
+
+</searchresult>

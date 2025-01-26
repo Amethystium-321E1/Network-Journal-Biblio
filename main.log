@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.9)  25 JAN 2025 17:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.9)  26 JAN 2025 13:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -478,37 +478,40 @@ LaTeX Warning: Citation `VanEck2010' on page 8 undefined on input line 303.
 
 [8]
 
-<Social Networks/Gephi/largest_component.pdf, id=413, 426.79132pt x 426.79132pt
+<Social Networks/Gephi/largest_component.pdf, id=421, 426.79132pt x 426.79132pt
 >
 File: Social Networks/Gephi/largest_component.pdf Graphic file (type pdf)
 <use Social Networks/Gephi/largest_component.pdf>
 Package pdftex.def Info: Social Networks/Gephi/largest_component.pdf  used on i
-nput line 345.
+nput line 346.
 (pdftex.def)             Requested size: 229.5pt x 229.50006pt.
 
 
 [9 <./Social Networks/Gephi/largest_component.pdf>]
-<Social Networks/Gephi/high_degree.pdf, id=17589, 426.79132pt x 426.79132pt>
+<Social Networks/Gephi/high_degree.pdf, id=17606, 426.79132pt x 426.79132pt>
 File: Social Networks/Gephi/high_degree.pdf Graphic file (type pdf)
 <use Social Networks/Gephi/high_degree.pdf>
 Package pdftex.def Info: Social Networks/Gephi/high_degree.pdf  used on input l
-ine 354.
+ine 355.
 (pdftex.def)             Requested size: 229.5pt x 229.50006pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<Network Science/Gephi/highly_cited.pdf, id=17592, 426.79132pt x 426.79132pt>
+
+
+<Network Science/Gephi/highly_cited.pdf, id=17609, 426.79132pt x 426.79132pt>
 File: Network Science/Gephi/highly_cited.pdf Graphic file (type pdf)
 <use Network Science/Gephi/highly_cited.pdf>
 Package pdftex.def Info: Network Science/Gephi/highly_cited.pdf  used on input 
-line 391.
+line 392.
 (pdftex.def)             Requested size: 229.5pt x 229.50006pt.
-<Journal of Complex Networks/Gephi/highly_cited.pdf, id=17593, 426.79132pt x 42
+<Journal of Complex Networks/Gephi/highly_cited.pdf, id=17610, 426.79132pt x 42
 6.79132pt>
 File: Journal of Complex Networks/Gephi/highly_cited.pdf Graphic file (type pdf
 )
 <use Journal of Complex Networks/Gephi/highly_cited.pdf>
 Package pdftex.def Info: Journal of Complex Networks/Gephi/highly_cited.pdf  us
-ed on input line 402.
+ed on input line 403.
 (pdftex.def)             Requested size: 229.5pt x 229.50006pt.
 
 
@@ -518,113 +521,370 @@ ed on input line 402.
 
 [11 <./Network Science/Gephi/highly_cited.pdf> <./Journal of Complex Networks/G
 ephi/highly_cited.pdf>]
-<Journal of Complex Networks/Gephi/largest_component.pdf, id=18830, 426.79132pt
+<Journal of Complex Networks/Gephi/largest_component.pdf, id=18847, 426.79132pt
  x 426.79132pt>
 File: Journal of Complex Networks/Gephi/largest_component.pdf Graphic file (typ
 e pdf)
 <use Journal of Complex Networks/Gephi/largest_component.pdf>
 Package pdftex.def Info: Journal of Complex Networks/Gephi/largest_component.pd
-f  used on input line 413.
+f  used on input line 414.
 (pdftex.def)             Requested size: 229.5pt x 229.50006pt.
 
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 431--432
+Underfull \hbox (badness 1019) in paragraph at lines 432--433
 []\OT1/cmr/m/n/10 The anal-y-sis is con-ducted us-ing \OT1/cmr/bx/n/10 VOSviewe
 r,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
+Underfull \hbox (badness 10000) in paragraph at lines 432--433
 
  []
 
-<Social Networks/VOS/Co-citation.pdf, id=18833, 3518.33856pt x 2401.4035pt>
+<Social Networks/VOS/Co-citation.pdf, id=18850, 3518.33856pt x 2401.4035pt>
 File: Social Networks/VOS/Co-citation.pdf Graphic file (type pdf)
 <use Social Networks/VOS/Co-citation.pdf>
 Package pdftex.def Info: Social Networks/VOS/Co-citation.pdf  used on input lin
-e 441.
+e 442.
 (pdftex.def)             Requested size: 229.5pt x 156.6097pt.
 
 
 [12 <./Journal of Complex Networks/Gephi/largest_component.pdf>]
-Underfull \hbox (badness 1033) in paragraph at lines 450--451
+Underfull \hbox (badness 1033) in paragraph at lines 451--452
 \OT1/cmr/m/n/10 ex-po-nen-tial ran-dom graph mod-els (ERGMs)
  []
 
 
 
-<Network Science/VOS/Co-citation.pdf, id=18849, 3957.93475pt x 2282.5025pt>
+<Network Science/VOS/Co-citation.pdf, id=18866, 3957.93475pt x 2282.5025pt>
 File: Network Science/VOS/Co-citation.pdf Graphic file (type pdf)
 <use Network Science/VOS/Co-citation.pdf>
 Package pdftex.def Info: Network Science/VOS/Co-citation.pdf  used on input lin
-e 465.
+e 466.
 (pdftex.def)             Requested size: 229.5pt x 132.34692pt.
 
 
 [13 <./Social Networks/VOS/Co-citation.pdf> <./Network Science/VOS/Co-citation.
 pdf>]
-<Journal of Complex Networks/VOS/Co-citation.pdf, id=24494, 3175.89417pt x 2470
+<Journal of Complex Networks/VOS/Co-citation.pdf, id=24511, 3175.89417pt x 2470
 .73062pt>
 File: Journal of Complex Networks/VOS/Co-citation.pdf Graphic file (type pdf)
 <use Journal of Complex Networks/VOS/Co-citation.pdf>
 Package pdftex.def Info: Journal of Complex Networks/VOS/Co-citation.pdf  used 
-on input line 481.
+on input line 482.
 (pdftex.def)             Requested size: 229.5pt x 178.51076pt.
 
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 501--502
+Underfull \hbox (badness 2343) in paragraph at lines 502--503
 \OT1/cmr/m/n/10 The co-citation anal-y-sis across the three jour-
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 504--505
+Underfull \hbox (badness 2368) in paragraph at lines 505--506
 []\OT1/cmr/bx/n/10 Social Net-works (SN): \OT1/cmr/m/n/10 Ex-hibits a well-
  []
 
 
 
 [14 <./Journal of Complex Networks/VOS/Co-citation.pdf>]
-Underfull \hbox (badness 1629) in paragraph at lines 508--509
+Underfull \hbox (badness 1629) in paragraph at lines 509--510
 []\OT1/cmr/bx/n/10 Journal of Com-plex Net-works (JCN):
  []
 
 
+Underfull \vbox (badness 1783) has occurred while \output is active []
 
-<Social Networks/VOS/co-word.pdf, id=26786, 3433.03477pt x 2759.68442pt>
+
+
+<Social Networks/VOS/co-word.pdf, id=26803, 3433.03477pt x 2759.68442pt>
 File: Social Networks/VOS/co-word.pdf Graphic file (type pdf)
 <use Social Networks/VOS/co-word.pdf>
 Package pdftex.def Info: Social Networks/VOS/co-word.pdf  used on input line 53
-7.
+8.
 (pdftex.def)             Requested size: 150.08344pt x 120.64325pt.
-<Network Science/VOS/co-word.pdf, id=26787, 3928.77086pt x 2767.63747pt>
+<Network Science/VOS/co-word.pdf, id=26804, 3928.77086pt x 2767.63747pt>
 File: Network Science/VOS/co-word.pdf Graphic file (type pdf)
 <use Network Science/VOS/co-word.pdf>
 Package pdftex.def Info: Network Science/VOS/co-word.pdf  used on input line 54
-2.
+3.
 (pdftex.def)             Requested size: 150.08344pt x 105.70341pt.
-<Journal of Complex Networks/VOS/co-word.pdf, id=26788, 3144.07314pt x 2690.758
+<Journal of Complex Networks/VOS/co-word.pdf, id=26805, 3144.07314pt x 2690.758
 7pt>
 File: Journal of Complex Networks/VOS/co-word.pdf Graphic file (type pdf)
 <use Journal of Complex Networks/VOS/co-word.pdf>
 Package pdftex.def Info: Journal of Complex Networks/VOS/co-word.pdf  used on i
-nput line 547.
+nput line 548.
 (pdftex.def)             Requested size: 150.08344pt x 128.42822pt.
 
 
 [15]
-Underfull \vbox (badness 4156) has occurred while \output is active []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/bx/n/7 Top De-gree
+ []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 1142) in paragraph at lines 592--592
+[]|\OT1/cmr/bx/n/7 Top Cen-tral-ity
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Robins G, 2007
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Robins G, 2007
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Robins G, 2007
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 BURT RS, 1980
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 BURT RS, 1980
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 BURT RS, 1980
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Robins G, 2007
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Robins G, 2007
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Robins G, 2007
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Amati V, 2019
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 (SOC NET-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 WORKS, V57,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Block P, 2015
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Fortunato S,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 2010 (PHYS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Valente TW,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Snijders TAB,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Block P, 2015
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 (SOC NET-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 WORKS, V40,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Offer S, 2018
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 (AM SO-CIOL
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Amati V, 2019
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 (SOC NET-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 WORKS, V57,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Snijders TAB,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 2017 (ANNU
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 REV STAT
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Amati V, 2019
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 (SOC NET-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 WORKS, V57,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Block P, 2015
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 (SOC NET-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 WORKS, V40,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Fortunato S,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 2010 (PHYS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Valente TW,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Snijders TAB,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Block P, 2015
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 (SOC NET-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 WORKS, V40,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Offer S, 2018
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 (AM SO-CIOL
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Amati V, 2019
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 (SOC NET-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 WORKS, V57,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\OT1/cmr/m/n/7 Snijders TAB,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 2017 (ANNU
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\OT1/cmr/m/n/7 REV STAT
+ []
 
 
 
 [16 <./Social Networks/VOS/co-word.pdf> <./Network Science/VOS/co-word.pdf> <./
-Journal of Complex Networks/VOS/co-word.pdf>] (main.bbl
+Journal of Complex Networks/VOS/co-word.pdf>] [17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+(main.bbl
 Underfull \hbox (badness 1389) in paragraph at lines 4--7
 []\OT1/cmr/m/n/10 Aria, M. and Cuc-cu-
  []
@@ -635,25 +895,25 @@ Underfull \hbox (badness 1990) in paragraph at lines 14--17
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 46--49
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+[]\OT1/cmr/m/n/10 Barab^^Sasi, Albert-
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 52--55
 \OT1/cmr/m/n/10 Moreno, Y., Chavez, M., and Hwang, D.-U.
  []
 
 
-Underfull \hbox (badness 6741) in paragraph at lines 61--65
+
+[18]
+Underfull \hbox (badness 6741) in paragraph at lines 67--71
 []\OT1/cmr/m/n/10 Bornmann, L. and
  []
 
 
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 67--71
+Underfull \hbox (badness 1259) in paragraph at lines 73--77
 []\OT1/cmr/m/n/10 B^^?orner, K., Sanyal, S., and
- []
-
-
-Underfull \hbox (badness 4013) in paragraph at lines 73--77
-[]\OT1/cmr/m/n/10 Callon, M., Cour-tial, J.-P.,
  []
 
 
@@ -662,65 +922,77 @@ Underfull \hbox (badness 4013) in paragraph at lines 79--83
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--89
+Underfull \hbox (badness 4013) in paragraph at lines 85--89
+[]\OT1/cmr/m/n/10 Callon, M., Cour-tial, J.-P.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--95
 []\OT1/cmr/m/n/10 Caroline
  []
 
 
 
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 125--128
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--134
 []\OT1/cmr/m/n/10 Donthu, N., Ku-mar, S.,
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 125--128
+Underfull \hbox (badness 1337) in paragraph at lines 131--134
 \OT1/cmr/m/n/10 How to con-duct a bib-lio-met-ric anal-y-sis: An
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 135--140
+Underfull \hbox (badness 2050) in paragraph at lines 141--146
 []\OT1/cmr/m/n/10 Fortunato, S., Bergstrom,
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 154--157
+
+[19]
+Underfull \hbox (badness 1466) in paragraph at lines 176--179
 \OT1/cmr/m/n/10 meth-ods for de-tect-ing and an-a-lyz-ing re-search
  []
 
 
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 172--175
+Underfull \hbox (badness 10000) in paragraph at lines 199--202
 []\OT1/cmr/m/n/10 Katy B^^?orner,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--181
+Underfull \hbox (badness 10000) in paragraph at lines 204--208
 []\OT1/cmr/m/n/10 Katy B^^?orner, Chen-
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 201--205
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 228--232
 \OT1/cmr/m/n/10 Mea-sur-ing jour-nal per-for-mance for mul-ti-dis-ci-
  []
 
 
 
-[18]
+[20]
+Underfull \hbox (badness 5217) in paragraph at lines 351--355
+[]\OT1/cmr/m/n/10 Robins, Garry, P. P.
+ []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 308--311
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 371--374
 []\OT1/cmr/m/n/10 Stefano Boc-
  []
 
 
 
-[19])
+[21])
 
 
 
-[20
+[22
 
 ] (main.aux)
  ***********
@@ -732,16 +1004,16 @@ L3 programming layer <2024-08-30>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9905663F6078D177E9A2F553FD0F23CF;1883.
+(rerunfilecheck)             Checksum: F4344F654D13965F67016ECC5308DA0F;1878.
  ) 
 Here is how much of TeX's memory you used:
- 9273 strings out of 473899
- 144987 string characters out of 5742897
- 557589 words of memory out of 5000000
- 31915 multiletter control sequences out of 15000+600000
+ 9302 strings out of 473899
+ 145371 string characters out of 5742897
+ 558286 words of memory out of 5000000
+ 31928 multiletter control sequences out of 15000+600000
  566077 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,949b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,949b,540s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Amethystium\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm1000.pk> <C:\Users\Amethystium\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
 pen/ec/dpi600\tcrm0800.pk><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
@@ -754,9 +1026,9 @@ msfonts/cm/cmr7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/MikT
 eX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/MikTeX/fonts/type1/public/amsf
 onts/cm/cmti7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><D:/MikTe
 X/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (20 pages, 5447963 bytes).
+Output written on main.pdf (22 pages, 5467081 bytes).
 PDF statistics:
- 26944 PDF objects out of 31911 (max. 8388607)
- 131 named destinations out of 1000 (max. 500000)
+ 26992 PDF objects out of 31911 (max. 8388607)
+ 147 named destinations out of 1000 (max. 500000)
  154 words of extra memory for PDF output out of 10000 (max. 10000000)
 
