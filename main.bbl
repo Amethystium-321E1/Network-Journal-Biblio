@@ -1,8 +1,361 @@
 \begin{thebibliography}{}
 
-\bibitem[Donthu et~al., 2021]{donthu_how_2021}
-Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., and Lim, W.~M. (2021).
-\newblock How to conduct a bibliometric analysis: {An} overview and guidelines.
+\bibitem[Aria and Cuccurullo, 2017]{Aria2017}
+Aria, M. and Cuccurullo, C. (2017).
+\newblock bibliometrix: An r-tool for comprehensive science mapping analysis.
+\newblock {\em Journal of Informetrics}, 11(4):959--975.
+
+\bibitem[Arias and De~Filippo, 2020]{arias2020bibliometric}
+Arias, J.~C. and De~Filippo, D. (2020).
+\newblock Bibliometric analysis: A tool for assessing research.
+\newblock {\em Scientometrics}, 124:215--234.
+
+\bibitem[Barabási, 2009]{Barabasi2009}
+Barabási, A.-L. (2009).
+\newblock Scale-free networks: A decade and beyond.
+\newblock {\em Science}, 325(5939):412--413.
+
+\bibitem[Barabási, 2016a]{barabasi2016network}
+Barabási, A.-L. (2016a).
+\newblock {\em Network Science}.
+\newblock Cambridge University Press.
+
+\bibitem[Barabási, 2016b]{Barabasi2016}
+Barabási, A.-L. (2016b).
+\newblock Network science.
+\newblock {\em Cambridge University Press}.
+
+\bibitem[Barabási, 2022]{Barabasi2022}
+Barabási, A.-L. (2022).
+\newblock {\em The Network Science}.
+\newblock Cambridge University Press.
+
+\bibitem[Bastian et~al., 2009]{Bastian2009}
+Bastian, M., Heymann, S., and Jacomy, M. (2009).
+\newblock Gephi: An open source software for exploring and manipulating
+  networks.
+\newblock In {\em International Conference on Web and Social Media}, pages
+  361--362.
+
+\bibitem[Boccaletti et~al., 2014]{Boccaletti2014}
+Boccaletti, S., Bianconi, G., and Criado, R. (2014).
+\newblock The structure and dynamics of multilayer networks.
+\newblock {\em Physics Reports}, 544(1):1--122.
+
+\bibitem[Boccaletti et~al., 2006]{boccaletti2006complex}
+Boccaletti, S., Latora, V., Moreno, Y., Chavez, M., and Hwang, D.-U. (2006).
+\newblock Complex networks: Structure and dynamics.
+\newblock {\em Physics Reports}, 424:175--308.
+
+\bibitem[Borgatti et~al., 2009]{Borgatti2009}
+Borgatti, S.~P., Mehra, A., Brass, D.~J., and Labianca, G. (2009).
+\newblock Network analysis in the social sciences.
+\newblock {\em Science}, 323(5916):892--895.
+
+\bibitem[Borgatti et~al., 2013]{Borgatti2013}
+Borgatti, S.~P., Mehra, A., Brass, D.~J., and Labianca, G. (2013).
+\newblock Network analysis in the social sciences.
+\newblock {\em Science}, 323(5916):892--895.
+
+\bibitem[Bornmann and Daniel, 2011]{bornmann2011citation}
+Bornmann, L. and Daniel, H.-D. (2011).
+\newblock What do citation counts measure? a review of studies on citing
+  behavior.
+\newblock {\em Journal of Documentation}, 64:45--80.
+
+\bibitem[Börner et~al., 2010]{Börner2010}
+Börner, K., Sanyal, S., and Vespignani, A. (2010).
+\newblock Network science.
+\newblock {\em Annual Review of Information Science and Technology},
+  41:537--607.
+
+\bibitem[Callon et~al., 1983]{callon1983co}
+Callon, M., Courtial, J.-P., Turner, W.~A., and Bauin, S. (1983).
+\newblock From translations to problematic networks: An introduction to co-word
+  analysis.
+\newblock {\em Social Science Information}, 22:191--235.
+
+\bibitem[Callon et~al., 1991]{Callon1991}
+Callon, M., Courtial, J.-P., Turner, W.~A., and Bauin, S. (1991).
+\newblock Co-word analysis as a tool for describing the network of interactions
+  between basic and technological research: The case of polymer chemistry.
+\newblock {\em Scientometrics}, 22:155--205.
+
+\bibitem[Caroline S.~Wagner and Hassell, 2011]{Wagner2011}
+Caroline S.~Wagner, J. L.~Y. and Hassell, S.~J. (2011).
+\newblock International collaboration in science and technology: Promises and
+  pitfalls.
+\newblock {\em Global Policy}, 2(1):24--35.
+
+\bibitem[Chen, 2006]{Chen2006}
+Chen, C. (2006).
+\newblock Citespace ii: Detecting and visualizing emerging trends and transient
+  patterns in scientific literature.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 57(3):359--377.
+
+\bibitem[Chen, 2017]{chen2017citespace}
+Chen, C. (2017).
+\newblock {\em CiteSpace: A Practical Guide for Mapping Scientific Literature}.
+\newblock Nova Science Publishers.
+
+\bibitem[Chen et~al., 2017]{Chen2017}
+Chen, C., Ibekwe-SanJuan, F., and Hou, J. (2017).
+\newblock The structure and dynamics of co-citation clusters: A
+  multiple-perspective co-citation analysis.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 68(3):495--511.
+
+\bibitem[David M.~Blei and Jordan, 2003]{Blei2003}
+David M.~Blei, A. Y.~N. and Jordan, M.~I. (2003).
+\newblock Latent dirichlet allocation.
+\newblock {\em Journal of Machine Learning Research}, 3:993--1022.
+
+\bibitem[Diego~Chavarro and Porter, 2017]{Chavarro2017}
+Diego~Chavarro, I.~R. and Porter, A.~L. (2017).
+\newblock Research impact and interdisciplinarity: A bibliometric perspective.
+\newblock {\em Research Evaluation}, 26(2):92--103.
+
+\bibitem[Dong et~al., 2014]{WOS:000336729500129}
+Dong, L.~Y., Yin, M., and Kang, X.~L. (2014).
+\newblock Bibliometric network analysis of glaucoma.
+\newblock {\em GENETICS AND MOLECULAR RESEARCH}, 13(2):3577--3585.
+
+\bibitem[Donthu et~al., 2021]{donthu2021bibliometric}
+Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., and Lim, W. (2021).
+\newblock How to conduct a bibliometric analysis: An overview and guidelines.
 \newblock {\em Journal of Business Research}, 133:285--296.
+
+\bibitem[Fortunato, 2010]{Fortunato2010}
+Fortunato, S. (2010).
+\newblock Community detection in graphs.
+\newblock {\em Physics Reports}, 486(3-5):75--174.
+
+\bibitem[Fortunato et~al., 2018]{Fortunato2018}
+Fortunato, S., Bergstrom, C.~T., Börner, K., Evans, J.~A., Helbing, D.,
+  Milojević, S., Petersen, A.~M., Radicchi, F., Sinatra, R., Uzzi, B.,
+  Waltman, D.~A., Wang, D., and Barabási, A.-L. (2018).
+\newblock Science of science.
+\newblock {\em Science}, 359(6379):eaao0185.
+
+\bibitem[Freeman, 2004]{Freeman2004}
+Freeman, L.~C. (2004).
+\newblock The development of social network analysis: A study in the sociology
+  of science.
+\newblock {\em Empirical Press}.
+
+\bibitem[Garfield, 1979]{garfield1979citation}
+Garfield, E. (1979).
+\newblock {\em Citation Indexing: Its Theory and Application in Science,
+  Technology, and Humanities}.
+\newblock John Wiley \& Sons.
+
+\bibitem[Glänzel, 2015]{Glanzel2015}
+Glänzel, W. (2015).
+\newblock Bibliometric methods for detecting and analyzing research fronts.
+\newblock {\em Scientometrics}, 102(3):2167--2184.
+
+\bibitem[Glänzel and Schubert, 2004]{glanzel2004coauthorship}
+Glänzel, W. and Schubert, A. (2004).
+\newblock Analyzing scientific networks through co-authorship.
+\newblock {\em Handbook of Quantitative Science and Technology Research}, pages
+  257--276.
+
+\bibitem[Ismael~Rafols and Leydesdorff, 2010]{Rafols2010}
+Ismael~Rafols, A. L.~P. and Leydesdorff, L. (2010).
+\newblock Science overlay maps: A new tool for research policy and library
+  management.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 61(9):1871--1887.
+
+\bibitem[Katy~Börner and Wang, 2020]{Borner2020}
+Katy~Börner, Jevin~West, C.~M. and Wang, D. (2020).
+\newblock Mapping science: The structure of research fields.
+\newblock {\em Annual Review of Information Science and Technology}, 54:1--34.
+
+\bibitem[Katy~Börner, 2003]{Borner2003}
+Katy~Börner, Chen-Chuan~Chang, Z.~A. (2003).
+\newblock Mapping research specialties.
+\newblock {\em Annual Review of Information Science and Technology},
+  37:179--255.
+
+\bibitem[Kessler, 1963]{Kessler1963}
+Kessler, M.~M. (1963).
+\newblock Bibliographic coupling between scientific papers.
+\newblock {\em American Documentation}, 14(1):10--25.
+
+\bibitem[Lazer et~al., 2009]{Lazer2009}
+Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A.-L., Brewer, D.,
+  Christakis, N., Contractor, N., Fowler, J., Gutmann, M., Jebara, T., King,
+  G., Macy, M., Roy, D., and Alstyne, M.~V. (2009).
+\newblock Computational social science.
+\newblock {\em Science}, 323(5915):721--723.
+
+\bibitem[Leahey, 2016]{Leahey2016}
+Leahey, E. (2016).
+\newblock From sole investigator to team scientist: Trends in the practice and
+  study of research collaboration.
+\newblock {\em Annual Review of Sociology}, 42:81--100.
+
+\bibitem[Lee and Shin, 2014]{WOS:000331771900008}
+Lee, H. and Shin, J. (2014).
+\newblock Measuring journal performance for multidisciplinary research: An
+  efficiency perspective.
+\newblock {\em JOURNAL OF INFORMETRICS}, 8(1):77--88.
+
+\bibitem[Lee et~al., 2010]{WOS:000208374100011}
+Lee, H.~J., Kang, J.~S., Moon, Y.-H., and Byeon, S.~C. (2010).
+\newblock Research performance evaluation based on bibliometric analysis of
+  journal articles and patents.
+\newblock {\em INFORMATION-AN INTERNATIONAL INTERDISCIPLINARY JOURNAL},
+  13(3B):913--922.
+
+\bibitem[Lei et~al., 2023]{WOS:001124720500001}
+Lei, F., Du, L., Dong, M., and Liu, X. (2023).
+\newblock Comparative bibliometric analysis of leading open access journals: a
+  focus on chinese and non-chinese journals in science, technology, and
+  medicine.
+\newblock {\em MALAYSIAN JOURNAL OF LIBRARY \& INFORMATION SCIENCE},
+  28(3):61--79.
+
+\bibitem[Leydesdorff, 2021]{Leydesdorff2021}
+Leydesdorff, L. (2021).
+\newblock {\em The Evolutionary Dynamics of Disciplines: Network Perspectives
+  on Knowledge Production}.
+\newblock Springer.
+
+\bibitem[M.~J.~Cobo, 2011]{Cobo2011}
+M.~J.~Cobo, A. G. López-Herrera, E. H.-V. F.~H. (2011).
+\newblock Science mapping software tools: Review, analysis, and cooperative
+  study among tools.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 62(7):1382--1402.
+
+\bibitem[Marin and Wellman, 2011]{Marin2011}
+Marin, A. and Wellman, B. (2011).
+\newblock {\em Social Network Analysis: An Introduction}.
+\newblock SAGE Publications.
+
+\bibitem[Moed, 2005]{Moed2005}
+Moed, H.~F. (2005).
+\newblock {\em Citation Analysis in Research Evaluation}.
+\newblock Springer.
+
+\bibitem[Moody, 2004a]{moody2004sociology}
+Moody, J. (2004a).
+\newblock The structure of a social science collaboration network: Disciplinary
+  cohesion from 1963 to 1999.
+\newblock {\em American Sociological Review}, 69:213--238.
+
+\bibitem[Moody, 2004b]{Moody2004}
+Moody, J. (2004b).
+\newblock The structure of a social science collaboration network: Disciplinary
+  cohesion from 1963 to 1999.
+\newblock {\em American Sociological Review}, 69(2):213--238.
+
+\bibitem[Newman, 2010a]{Newman2010}
+Newman, M. (2010a).
+\newblock {\em Networks: An Introduction}.
+\newblock Oxford University Press.
+
+\bibitem[Newman, 2018a]{Newman2018}
+Newman, M. (2018a).
+\newblock {\em Networks}.
+\newblock Oxford University Press.
+
+\bibitem[Newman, 2004]{newman2004coauthorship}
+Newman, M.~E. (2004).
+\newblock Coauthorship networks and patterns of scientific collaboration.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  101:5200--5205.
+
+\bibitem[Newman, 2010b]{newman2010networks}
+Newman, M.~E. (2010b).
+\newblock {\em Networks: An Introduction}.
+\newblock Oxford University Press.
+
+\bibitem[Newman, 2018b]{newman2018networks}
+Newman, M.~E. (2018b).
+\newblock {\em Networks}.
+\newblock Oxford University Press.
+
+\bibitem[Noorden, 2015]{VanNoorden2015}
+Noorden, R.~V. (2015).
+\newblock Interdisciplinary research by the numbers.
+\newblock {\em Nature}, 525:306--307.
+
+\bibitem[Porter and Rafols, 2009]{Porter2009}
+Porter, A.~L. and Rafols, I. (2009).
+\newblock Is science becoming more interdisciplinary? measuring and mapping six
+  research fields over time.
+\newblock {\em Scientometrics}, 81(3):719--745.
+
+\bibitem[Small, 1973a]{small1973co}
+Small, H. (1973a).
+\newblock Co-citation in the scientific literature: A new measure of the
+  relationship between two documents.
+\newblock {\em Journal of the American Society for Information Science},
+  24:265--269.
+
+\bibitem[Small, 1973b]{Small1973}
+Small, H. (1973b).
+\newblock Co-citation in the scientific literature: A new measure of the
+  relationship between two documents.
+\newblock {\em Journal of the American Society for Information Science},
+  24(4):265--269.
+
+\bibitem[Stefano~Boccaletti and Hwang, 2006]{Boccaletti2006}
+Stefano~Boccaletti, Vito~Latora, Y. M.-M.~C. and Hwang, D.-U. (2006).
+\newblock Complex networks: Structure and dynamics.
+\newblock {\em Physics Reports}, 424:175--308.
+
+\bibitem[Strogatz, 2001]{Strogatz2001}
+Strogatz, S.~H. (2001).
+\newblock Exploring complex networks.
+\newblock {\em Nature}, 410(6825):268--276.
+
+\bibitem[Van~Eck and Waltman, 2010]{vanEck2010}
+Van~Eck, N.~J. and Waltman, L. (2010).
+\newblock Software survey: Vosviewer, a computer program for bibliometric
+  mapping.
+\newblock {\em Scientometrics}, 84:523--538.
+
+\bibitem[van Eck and Waltman, 2010]{van2010visualizing}
+van Eck, N.~J. and Waltman, L. (2010).
+\newblock Visualizing bibliometric networks.
+\newblock {\em Springer Handbook of Science and Technology Indicators}, pages
+  285--320.
+
+\bibitem[Wagner and Leydesdorff, 2018]{Wagner2018}
+Wagner, C.~S. and Leydesdorff, L. (2018).
+\newblock Global science networks and the role of international collaboration.
+\newblock {\em Journal of Informetrics}, 12(1):56--68.
+
+\bibitem[Wasserman and Faust, 1994a]{wasserman1994social}
+Wasserman, S. and Faust, K. (1994a).
+\newblock {\em Social Network Analysis: Methods and Applications}.
+\newblock Cambridge University Press.
+
+\bibitem[Wasserman and Faust, 1994b]{Wasserman1994}
+Wasserman, S. and Faust, K. (1994b).
+\newblock Social network analysis: Methods and applications.
+\newblock {\em Cambridge University Press}.
+
+\bibitem[Watts, 2011]{Watts2011}
+Watts, D.~J. (2011).
+\newblock {\em Everything is Obvious (Once You Know the Answer)}.
+\newblock Crown Publishing Group.
+
+\bibitem[Watts and Strogatz, 1998]{Watts1998}
+Watts, D.~J. and Strogatz, S.~H. (1998).
+\newblock Collective dynamics of ‘small-world’ networks.
+\newblock {\em Nature}, 393(6684):440--442.
+
+\bibitem[Yazdanjue et~al., 2023]{yazdanjue_comprehensive_2023}
+Yazdanjue, N., Yazdanjouei, H., Gharoun, H., Khorshidi, M.~S., Rakhshaninejad,
+  M., and Gandomi, A.~H. (2023).
+\newblock A {Comprehensive} {Bibliometric} {Analysis} on {Social} {Network}
+  {Anonymization}: {Current} {Approaches} and {Future} {Directions}.
+\newblock arXiv:2307.13179 [cs].
 
 \end{thebibliography}

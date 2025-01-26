@@ -1,48 +1,210 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
+Case mismatch error between cite keys VanEck2010 and vanEck2010
+---line 86 of file main.aux
+ : \citation{VanEck2010
+ :                     }
+I'm skipping whatever remains of this command
 Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
 Reallocating 'name_of_file' (item size: 1) to 4 items.
 Database file #1: ref.bib
-You've used 1 entry,
+Repeated entry---line 283 of file ref.bib
+ : @article{Small1973
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 294 of file ref.bib
+ : @article{Callon1991
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 304 of file ref.bib
+ : @article{Cobo2011
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 345 of file ref.bib
+ : @article{Moed2005
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 413 of file ref.bib
+ : @book{Barabasi2016
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 467 of file ref.bib
+ : @book{Freeman2004
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 509 of file ref.bib
+ : @article{Lazer2009
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 573 of file ref.bib
+ : @article{Leahey2016
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 583 of file ref.bib
+ : @article{Porter2009
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 594 of file ref.bib
+ : @article{Wagner2011
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 605 of file ref.bib
+ : @article{Chavarro2017
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 674 of file ref.bib
+ : @article{Freeman2004
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 681 of file ref.bib
+ : @article{Borgatti2009
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 691 of file ref.bib
+ : @book{Newman2010
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 698 of file ref.bib
+ : @book{Barabasi2016
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 705 of file ref.bib
+ : @article{Fortunato2018
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 715 of file ref.bib
+ : @article{Fortunato2018
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 755 of file ref.bib
+ : @book{Freeman2004
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 762 of file ref.bib
+ : @article{Borgatti2009
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 772 of file ref.bib
+ : @article{Moody2004
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 782 of file ref.bib
+ : @book{Newman2010
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 789 of file ref.bib
+ : @book{Barabasi2016
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 803 of file ref.bib
+ : @article{Watts1998
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 823 of file ref.bib
+ : @article{Cobo2011
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 842 of file ref.bib
+ : @article{Aria2017
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 852 of file ref.bib
+ : @article{Chen2006
+ :                  ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "WOS:000356343600002"
+Warning--I didn't find a database entry for "bibid"
+Warning--I didn't find a database entry for "Donthu2021"
+Warning--I didn't find a database entry for "Leydesdorff2019"
+Name 1 in "David M. Blei, Andrew Y. Ng, and Michael I. Jordan" has a comma at the end for entry Blei2003
+while executing---line 1023 of file apalike.bst
+Name 1 in "David M. Blei, Andrew Y. Ng, and Michael I. Jordan" has a comma at the end for entry Blei2003
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "M. J. Cobo, A. G. López-Herrera, E. Herrera-Viedma, F. Herrera" for entry Cobo2011
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "M. J. Cobo, A. G. López-Herrera, E. Herrera-Viedma, F. Herrera" for entry Cobo2011
+while executing---line 1023 of file apalike.bst
+Name 1 in "Stefano Boccaletti, Vito Latora, Yamir Moreno, Mario Chavez, and D.-U. Hwang" has a comma at the end for entry Boccaletti2006
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Stefano Boccaletti, Vito Latora, Yamir Moreno, Mario Chavez, and D.-U. Hwang" for entry Boccaletti2006
+while executing---line 1023 of file apalike.bst
+Name 1 in "Stefano Boccaletti, Vito Latora, Yamir Moreno, Mario Chavez, and D.-U. Hwang" has a comma at the end for entry Boccaletti2006
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Stefano Boccaletti, Vito Latora, Yamir Moreno, Mario Chavez, and D.-U. Hwang" for entry Boccaletti2006
+while executing---line 1023 of file apalike.bst
+Name 1 in "Katy Börner, Jevin West, Cassi Meyer, and Dashun Wang" has a comma at the end for entry Borner2020
+while executing---line 1023 of file apalike.bst
+Name 1 in "Katy Börner, Jevin West, Cassi Meyer, and Dashun Wang" has a comma at the end for entry Borner2020
+while executing---line 1023 of file apalike.bst
+Name 1 in "Caroline S. Wagner, Julia L. Yezril, and Scott J. Hassell" has a comma at the end for entry Wagner2011
+while executing---line 1023 of file apalike.bst
+Name 1 in "Caroline S. Wagner, Julia L. Yezril, and Scott J. Hassell" has a comma at the end for entry Wagner2011
+while executing---line 1023 of file apalike.bst
+Name 1 in "Diego Chavarro, Ismael Rafols, and Alan L. Porter" has a comma at the end for entry Chavarro2017
+while executing---line 1023 of file apalike.bst
+Name 1 in "Diego Chavarro, Ismael Rafols, and Alan L. Porter" has a comma at the end for entry Chavarro2017
+while executing---line 1023 of file apalike.bst
+Name 1 in "Ismael Rafols, Alan L. Porter, and Loet Leydesdorff" has a comma at the end for entry Rafols2010
+while executing---line 1023 of file apalike.bst
+Name 1 in "Ismael Rafols, Alan L. Porter, and Loet Leydesdorff" has a comma at the end for entry Rafols2010
+while executing---line 1023 of file apalike.bst
+Name 1 in "Caroline S. Wagner, Julia L. Yezril, and Scott J. Hassell" has a comma at the end for entry Wagner2011
+while executing---line 1098 of file apalike.bst
+Name 1 in "David M. Blei, Andrew Y. Ng, and Michael I. Jordan" has a comma at the end for entry Blei2003
+while executing---line 1098 of file apalike.bst
+Name 1 in "Diego Chavarro, Ismael Rafols, and Alan L. Porter" has a comma at the end for entry Chavarro2017
+while executing---line 1098 of file apalike.bst
+Name 1 in "Ismael Rafols, Alan L. Porter, and Loet Leydesdorff" has a comma at the end for entry Rafols2010
+while executing---line 1098 of file apalike.bst
+Name 1 in "Katy Börner, Jevin West, Cassi Meyer, and Dashun Wang" has a comma at the end for entry Borner2020
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "M. J. Cobo, A. G. López-Herrera, E. Herrera-Viedma, F. Herrera" for entry Cobo2011
+while executing---line 1098 of file apalike.bst
+Name 1 in "Stefano Boccaletti, Vito Latora, Yamir Moreno, Mario Chavez, and D.-U. Hwang" has a comma at the end for entry Boccaletti2006
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Stefano Boccaletti, Vito Latora, Yamir Moreno, Mario Chavez, and D.-U. Hwang" for entry Boccaletti2006
+while executing---line 1098 of file apalike.bst
+You've used 63 entries,
             1935 wiz_defined-function locations,
-            478 strings with 3883 characters,
-and the built_in function-call counts, 503 in all, are:
-= -- 47
-> -- 28
-< -- 0
-+ -- 10
-- -- 10
-* -- 46
-:= -- 93
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 10
-chr.to.int$ -- 1
-cite$ -- 1
-duplicate$ -- 14
-empty$ -- 30
-format.name$ -- 11
-if$ -- 92
-int.to.chr$ -- 1
+            848 strings with 12976 characters,
+and the built_in function-call counts, 24197 in all, are:
+= -- 2360
+> -- 906
+< -- 50
++ -- 320
+- -- 298
+* -- 2036
+:= -- 4230
+add.period$ -- 189
+call.type$ -- 63
+change.case$ -- 451
+chr.to.int$ -- 57
+cite$ -- 63
+duplicate$ -- 906
+empty$ -- 1752
+format.name$ -- 399
+if$ -- 4731
+int.to.chr$ -- 7
 int.to.str$ -- 0
-missing$ -- 1
-newline$ -- 8
-num.names$ -- 3
-pop$ -- 8
+missing$ -- 75
+newline$ -- 318
+num.names$ -- 189
+pop$ -- 372
 preamble$ -- 1
-purify$ -- 10
+purify$ -- 464
 quote$ -- 0
-skip$ -- 11
+skip$ -- 692
 stack$ -- 0
-substring$ -- 37
-swap$ -- 1
-text.length$ -- 0
+substring$ -- 1823
+swap$ -- 89
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
+type$ -- 352
 warning$ -- 0
-while$ -- 4
+while$ -- 197
 width$ -- 0
-write$ -- 15
+write$ -- 804
+(There were 51 error messages)
