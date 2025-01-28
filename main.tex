@@ -7,6 +7,7 @@
 \usepackage{booktabs}
 \usepackage{authblk}
 \usepackage{abstract}
+\usepackage{mathbbol}
 
 \title{\textbf{Mapping the Intellectual Structure of Social Network Research: A Comparative Bibliometric Analysis}}
 \author{Pengjia Cui \thanks{Corresponding author: pcui@ucsd.edu}}
@@ -296,14 +297,21 @@ This specialization reflects the diversification of network science into distinc
 	
 
 	
-	\section{Science Mapping} 
-	
-	Science mapping provides a visual and structural representation of the intellectual landscape of a research domain \cite{Cobo2011, Börner2010}. By analyzing co-citation networks, bibliographic coupling, and keyword co-occurrence patterns, this approach uncovers thematic clusters, influential works, and evolving research trends \cite{Aria2017, Chen2006}. 
-	
-	In this study, we employ three widely used bibliometric tools—VOSviewer, Gephi, and CiteSpace—to conduct science mapping. VOSviewer is utilized for constructing and visualizing bibliometric networks \cite{VanEck2010}, Gephi enables advanced network analysis of scholarly collaboration \cite{Bastian2009}, and CiteSpace facilitates the identification of emerging trends and intellectual turning points \cite{Chen2017}. Through these methods, we systematically examine the thematic development, conceptual linkages, and structural properties of the selected journals within the field of social and complex network research.
+\section{Science Mapping} 
+
+Science mapping provides a visual and structural representation of the intellectual landscape of a research domain \cite{Cobo2011, Börner2010}. By analyzing co-citation networks, bibliographic coupling, and keyword co-occurrence patterns, this approach uncovers thematic clusters, influential works, and evolving research trends \cite{Aria2017, Chen2006}. 
+
+In this study, we employ three widely used bibliometric tools—VOSviewer, Gephi, and CiteSpace—to conduct science mapping. VOSviewer is utilized for constructing and visualizing bibliometric networks \cite{VanEck2010}, Gephi enables advanced network analysis of scholarly collaboration \cite{Bastian2009}, and CiteSpace facilitates the identification of emerging trends and intellectual turning points \cite{Chen2017}. Through these methods, we systematically examine the thematic development, conceptual linkages, and structural properties of the selected journals within the field of social and complex network research.
 	
 	
 \subsection{Citation Analysis}
+
+For all datasets, we use the \textit{g-index} to regulate the network size. The \textit{g-index} is defined by the equation:
+
+$$g^2 \leq k \sum_{i \leq g} c_i, \quad k \in \mathbb{Z}^+$$,
+
+where we set $k = 25$ to constrain the network size.
+
 
 Citation analysis identifies the most influential publications within a research domain by examining citation counts and scholarly impact \cite{Garfield1972, Small1973}. Highly cited papers shape the intellectual structure of a field, serving as foundational works that influence subsequent research \cite{Leydesdorff1998, Moed2005}. 
 
@@ -497,8 +505,6 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 		
 		Overall, JCN’s co-citation structure underscores its focus on methodological innovation and theoretical contributions to complex network analysis. The dispersion of research clusters suggests a broad yet specialized research landscape, where computational approaches are deeply integrated with applied network studies.
 		
-		\subsubsection*{Conclusion of Co-citation Analysis}
-		
 		The co-citation analysis across the three journals—\textit{Social Networks}, \textit{Network Science}, and \textit{Journal of Complex Networks}—reveals distinct intellectual structures and thematic orientations within the broader domain of network research.
 		
 		\begin{itemize}
@@ -562,27 +568,112 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 		
 		These differences reflect the distinct epistemic communities served by each journal. \textit{Social Networks} maintains a traditional focus on social theory and empirical analysis, leading to a high-density conceptual core. \textit{Journal of Complex Networks} balances theoretical and computational perspectives, resulting in a moderately cohesive structure. \textit{Network Science} embraces a broad interdisciplinary scope, leading to a lower-density conceptual space with more loosely connected research topics.
 		
+		\subsection{Co-authorship Analysis}
+		
+		\subsubsection*{Social Networks}
+		
+		To analyze the co-authorship patterns in the journal \textit{Social Networks}, we constructed a co-authorship network using bibliometric data. The visualization was generated using VOSviewer 1.6.20, which clusters authors based on their collaborative relationships. Figure \ref{fig.fig13} illustrates the co-authorship network, where nodes represent individual authors, and edges denote co-authorship links. The size of each node corresponds to the author's publication volume, while edge thickness reflects the frequency of co-authorship.
+		
+		\begin{figure}[htbp]
+			\centering
+			\includegraphics[width=\columnwidth]{Social Networks/WOS data/VOS/co-authorship.pdf}
+			\caption{Co-authorship network visualization}
+			\label{fig.fig13}
+		\end{figure}
+		
+		To assess the density and connectivity within the co-authorship network, we further analyzed the structural properties of the network. Figure \ref{fig.fig14} presents the co-authorship density map, where highly collaborative authors appear in denser regions. The intensity of colors in the visualization represents the concentration of co-authored works, with brighter regions indicating stronger collaboration patterns.
+		
+		\begin{figure}[htbp]
+			\centering
+			\includegraphics[width=\columnwidth]{Social Networks/WOS data/VOS/co-authorship-density.pdf}
+			\caption{Co-authorship network density visualization}
+			\label{fig.fig14}
+		\end{figure}
+		
+		The co-authorship network reveals several key insights into the collaborative structure of research in \textit{Social Networks}:
+		
+		\begin{itemize}
+			\item \textbf{Prominent Authors:} The network highlights several influential authors, including \textit{Tom A.B. Snijders, Stephen P. Borgatti, and Garry Robins}, who exhibit strong co-authorship connections.
+			\item \textbf{Clustered Communities:} The network is characterized by well-defined clusters, each representing a group of authors who frequently collaborate. These clusters correspond to distinct research subfields within network science.
+			\item \textbf{Interdisciplinary Connections:} Some nodes serve as bridges between different research clusters, facilitating knowledge exchange across disciplines.
+			\item \textbf{High-Density Regions:} The density visualization identifies research hubs where collaboration is particularly intense, suggesting influential research groups driving the field forward.
+		\end{itemize}
+		
+		\subsubsection*{Network Science}
+		
+		To examine co-authorship trends in the journal \textit{Network Science}, we constructed a co-authorship network using bibliometric data. The visualization, generated via VOSviewer 1.6.20, organizes authors into clusters based on their collaborative relationships. Figure \ref{fig.fig15} presents the co-authorship network, where each node represents an author, and edges signify co-authored publications. The size of a node corresponds to the author’s publication count, while edge thickness reflects the frequency of collaboration.
+		
+		\begin{figure}[htbp]
+			\centering
+			\includegraphics[width=\columnwidth]{Network Science/VOS/co-authorship.pdf}
+			\caption{Co-authorship network visualization for \textit{Network Science}}
+			\label{fig.fig15}
+		\end{figure}
+		
+		To further assess the network’s structural properties, we examined its density and connectivity. Figure \ref{fig.fig16} illustrates the co-authorship density map, highlighting regions of intense collaboration. The color gradient in the visualization signifies the concentration of co-authored works, with brighter areas indicating more frequent collaboration.
+		
+		\begin{figure}[htbp]
+			\centering
+			\includegraphics[width=\columnwidth]{Network Science/VOS/co-authorship-density.pdf}
+			\caption{Co-authorship network density visualization for \textit{Network Science}}
+			\label{fig.fig16}
+		\end{figure}
+		
+		Analysis of the co-authorship network yields several insights into collaborative research patterns within \textit{Network Science}:
+		
+		\begin{itemize}
+			\item \textbf{Key Contributors:} The network underscores the prominence of several influential scholars, including \textit{Tom A.B. Snijders, Carter T. Butts, and Alessandro Lomi}, who maintain extensive co-authorship ties.
+			\item \textbf{Distinct Research Groups:} The network is composed of well-defined clusters, each representing a set of researchers frequently collaborating within a particular subfield of network science.
+			\item \textbf{Interdisciplinary Linkages:} Certain nodes function as bridges between clusters, facilitating the exchange of ideas across different research domains.
+			\item \textbf{Areas of High Collaboration:} The density visualization pinpoints key research hubs where collaboration is particularly active, highlighting influential groups shaping the field.
+		\end{itemize}
+		
+		\subsubsection*{Journal of Complex Networks}
+		
+		Also, for Journal of Complex Networks: 
+		
+		\begin{figure}[htbp]
+			\centering
+			\includegraphics[width=\columnwidth]{Journal of Complex Networks/VOS/co-authorship.pdf}
+			\caption{Co-authorship network visualization in the \textit{Journal of Complex Networks}.}
+			\label{fig.fig12}
+		\end{figure}
+		
+		To further analyze the structural characteristics of the co-authorship network, we examined the density of connections among researchers. Figure \ref{fig.fig17} presents the co-authorship density visualization, where regions of higher collaboration intensity are highlighted. The color intensity in the visualization reflects the degree of co-authorship concentration, with brighter areas indicating stronger collaborative activity.
+		
+		\begin{figure}[htbp]
+			\centering
+			\includegraphics[width=\columnwidth]{Journal of Complex Networks/VOS/co-authorship-density.pdf}
+			\caption{Co-authorship network density visualization in the \textit{Journal of Complex Networks}.}
+			\label{fig.fig17}
+		\end{figure}
+		
+		The analysis of the co-authorship network yields several key insights into the collaborative structure of research within the \textit{Journal of Complex Networks}:
+		
+		\begin{itemize}
+			\item \textbf{Prominent Authors:} The network highlights several influential contributors, including *Hiroki Sayama, David J.P. O’Sullivan, José L. Mateos, Nishant Malik, Hsuan-Wei Lee, and Lucas Lacasa*, who exhibit extensive co-authorship connections.
+			\item \textbf{Clustered Research Communities:} The co-authorship network is characterized by distinct clusters, each representing a group of researchers who frequently collaborate. These clusters likely correspond to specialized subfields within complex network science.
+			\item \textbf{Interdisciplinary Collaborations:} Several authors serve as intermediaries connecting different research clusters, facilitating the exchange of knowledge across distinct domains.
+			\item \textbf{High-Density Collaborative Hubs:} The density visualization highlights key research hubs where collaboration is particularly strong, indicating the presence of influential research groups shaping the direction of the field.
+		\end{itemize}
+		
+		
+		
+		
+		
+		
 		\section{Network Metrics}
 		
 		Network analysis is a fundamental bibliometric technique used to examine the structure of scholarly interactions by mapping relationships among authors, institutions, and research themes \cite{Newman2001, Barabasi2002, Borgatti2009}. By constructing co-authorship, institutional collaboration, and citation networks, this method provides insights into the structural properties of academic discourse and the diffusion of knowledge \cite{Otte2002, Liu2005}.
 		
-		To quantify the influence of individual publications, we evaluate key network metrics, including degree centrality, betweenness centrality, and sigma scores. Table \ref{table.tab6} presents the most dominant publications based on these metrics across the three journals analyzed.
-		
-		
-		
-		This study employs network analysis to explore collaboration patterns across three major journals in social network research: \textit{Social Networks}, \textit{Journal of Complex Networks}, and \textit{Network Science}. Specifically, we analyze: \begin{itemize} \item Co-authorship networks to identify leading researchers and collaborative clusters. \item Institutional collaboration networks to assess inter-organizational partnerships. \item Citation networks to map the intellectual structure and evolution of the field. \end{itemize}
-		
-		Through these analyses, we uncover the underlying dynamics shaping research communities, highlight key contributors, and identify emerging interdisciplinary trends. The results provide a data-driven perspective on the extent of knowledge exchange within and across disciplinary boundaries, offering a comprehensive view of the evolving landscape of network science research \cite{Glanzel2004, Waltman2014}.
+		To quantify the influence of individual publications, we evaluate key network metrics, including degree centrality, betweenness centrality, and sigma scores. Table \ref{table.tab5} presents the most dominant publications based on these metrics across the three journals analyzed.
 		
 		
 		
 		
 		
-		\subsection*{Social Networks}
 		
 		
-		
-	\pagebreak
 	\bibliographystyle{apalike}
 	\bibliography{ref}
 	

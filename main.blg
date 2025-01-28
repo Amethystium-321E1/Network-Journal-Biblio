@@ -268,45 +268,45 @@ Name 1 in "Stefano Boccaletti, Vito Latora, Yamir Moreno, Mario Chavez, and D.-U
 while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Stefano Boccaletti, Vito Latora, Yamir Moreno, Mario Chavez, and D.-U. Hwang" for entry Boccaletti2006
 while executing---line 1098 of file apalike.bst
-You've used 75 entries,
+You've used 73 entries,
             1935 wiz_defined-function locations,
-            920 strings with 14619 characters,
-and the built_in function-call counts, 28885 in all, are:
-= -- 2850
-> -- 1032
-< -- 63
-+ -- 362
-- -- 336
-* -- 2441
-:= -- 5016
-add.period$ -- 225
-call.type$ -- 75
-change.case$ -- 530
-chr.to.int$ -- 69
-cite$ -- 75
-duplicate$ -- 1083
-empty$ -- 2111
-format.name$ -- 463
-if$ -- 5656
+            911 strings with 14329 characters,
+and the built_in function-call counts, 28054 in all, are:
+= -- 2761
+> -- 1012
+< -- 60
++ -- 356
+- -- 330
+* -- 2379
+:= -- 4883
+add.period$ -- 219
+call.type$ -- 73
+change.case$ -- 517
+chr.to.int$ -- 67
+cite$ -- 73
+duplicate$ -- 1046
+empty$ -- 2049
+format.name$ -- 453
+if$ -- 5483
 int.to.chr$ -- 7
 int.to.str$ -- 0
-missing$ -- 87
-newline$ -- 378
-num.names$ -- 225
-pop$ -- 417
+missing$ -- 85
+newline$ -- 368
+num.names$ -- 219
+pop$ -- 408
 preamble$ -- 1
-purify$ -- 543
+purify$ -- 530
 quote$ -- 0
-skip$ -- 836
+skip$ -- 802
 stack$ -- 0
-substring$ -- 2260
-swap$ -- 110
-text.length$ -- 4
+substring$ -- 2188
+swap$ -- 99
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 424
+type$ -- 412
 warning$ -- 0
-while$ -- 246
+while$ -- 237
 width$ -- 0
-write$ -- 960
+write$ -- 934
 (There were 99 error messages)

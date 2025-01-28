@@ -1,6 +1,0 @@
-Using social network analysis to study crime: Navigating the challenges of criminal justice records
-Communities in criminal networks: A case study
-Geodesic based centrality: Unifying the local and the global
-Network closure and integration in the mid-20th century American mafia
-Social network analysis of Australian poly-drug trafficking networks: How do drug traffickers manage multiple illicit drugs?
-The structure and vulnerability of a drug trafficking collaboration network

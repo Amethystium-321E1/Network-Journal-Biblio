@@ -1,0 +1,1821 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Daraganova, G
+   Pattison, Pip
+   Koskinen, Johan
+   Mitchell, Bill
+   Bill, Anthea
+   Watts, Martin
+   Baum, Scott
+TI Networks and geography: Modelling community network structures as the outcome of both spatial and network processes
+SO SOCIAL NETWORKS
+DE exponential random graph models; endogenous network processes;clustering; distance; spatial processes
+AB This paper focuses on how to extend the exponential random graph models to take into account the geographical embeddedness of individuals in modelling social networks. We develop a hierarchical set of nested models for spatially embedded social networks, in which, following Butts (2002), an interaction function between tie probability and Euclidean distance between nodes is introduced. The models are illustrated by an empirical example from a study of the role of social networks in understanding spatial clustering in unemployment in Australia. The analysis suggests that a spatial effect cannot solely explain the emergence of organised network structure and it is necessary to include both spatial and endogenous network effects in the model. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Daraganova, Galina; Pattison, Pip] Univ Melbourne, Sch Behav Sci, Melbourne, Vic 3010, Australia.   
+[Koskinen, Johan] Univ Oxford, Nuffield Coll, Oxford OX1 2JD, England.   
+[Mitchell, Bill; Bill, Anthea; Watts, Martin] Univ Newcastle, Callaghan, NSW 2308, Australia.   
+[Baum, Scott] Griffith Univ, Nathan, Qld 4111, Australia.
+RP Daraganova, G (corresponding author), Univ Melbourne, Sch Behav Sci, Melbourne, Vic 3010, Australia.
+CR Unknown -, 2010, STATISTICAL METHODOLOGY, V0, P0
+   Unknown -, 2002, JOURNAL OF SOCIAL STRUCTURE, V0, P0
+   Axhausen KW, 2006, MOVING NETS PHYS SOC, V0, P0
+   BERNARD HR, 1988, ETHNOLOGY, V27, P155, DOI 10.2307/3773626
+   BESAG J, 1974, J ROY STAT SOC B MET, V36, P192
+   BLAKE RR, 1956, SOCIOMETRY, V19, P133, DOI 10.2307/2786123
+   Brown LA, 1970, ENVIRON PLANN, V2, P443
+   Butts CT, 2011, SPACE STRUCTURE METH, V0, P0
+   Butts CT, 2000, SPATIAL MODELS OF LARGE-SCALE INTERPERSONAL NETWORKS, V0, P0
+   Butts CT, 2007, J MATH SOCIOL, V31, P121, DOI 10.1080/00222500601188056
+   Butts CT, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, V0, P313
+   Caplow T, 1950, AM SOCIOL REV, V15, P357, DOI 10.2307/2087177
+   CARLEY K, 1991, KNOWLEDGE, V12, P406, DOI 10.1177/107554709101200405
+   Carley K, 2000, SPATIAL MODELS UNPUB, V0, P0
+   CARROTHERS GAP, 1956, J AM I PLANNERS, V22, P94, DOI 10.1080/01944365608979229
+   Daraganova G, 2008, THESIS U MELBOURNE, V0, P0
+   Dodds PS, 2003, SCIENCE, V301, P827, DOI 10.1126/science.1081058
+   Erdos P, 1959, PUBL. MATH. DEBR, V6, P290
+   Faust K, 1999, SOC NETWORKS, V21, P311
+   Festinger L, 1950, SOCIAL PRESSURES IN INFORMAL GROUPS; A STUDY OF HUMAN FACTORS IN HOUSING, V0, P141
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Frank O, 1994, J OFF STAT, V10, P53
+   Frank O, 2005, MODELS METHODS SOCIA, V0, P31
+   FREEMAN LC, 1976, DEMOGRAPHY, V13, P571, DOI 10.2307/2060511
+   Goodman LA, 1961, SOURCE: ANN. MATH. STAT., V32, P148, DOI [DOI 10.1214/AOMS/1177705148, 10.1214/aoms/1177705148]
+   Goodreau S, 2007, SOCIAL NETWORKS, V29, P0
+   Handcock MS, 2007, J ROY STAT SOC A STA, V170, P301, DOI 10.1111/j.1467-985X.2007.00471.x
+   Handcock MS, 2010, ANN APPL STAT, V4, P5, DOI 10.1214/08-AOAS221
+   Hoff PD, 2002, J AM STAT ASSOC, V97, P1090, DOI 10.1198/016214502388618906
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   IRWIN MD, 1992, SOC FORCES, V71, P17, DOI 10.2307/2579964
+   KILLWORTH PD, 1978, SOC NETWORKS, V1, P159, DOI 10.1016/0378-8733(78)90018-7
+   Kleinberg JM, 2000, NATURE, V406, P845, DOI 10.1038/35022643
+   Korte C, 1970, J PERSONALITY SOCIAL, V15, P0
+   Larsen Jonas, 2006, MOBILITIES NETWORKS, V0, P0, DOI DOI 10.1016/j.gloenvcha.2006.05.001
+   LATANE B, 1995, PERS SOC PSYCHOL B, V21, P795, DOI 10.1177/0146167295218002
+   Liben-Nowell D, 2005, P NATL ACAD SCI USA, V102, P11623, DOI 10.1073/pnas.0503018102
+   Merton R, 1948, CURRENT TRENDS IN SOCIAL PSYCHOLOGY, V0, P163
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Mok D, 2007, SOC NETWORKS, V29, P430, DOI 10.1016/j.socnet.2007.01.009
+   MORRILL RL, 1963, PAPERS P REGIONAL SC, V11, P75
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   Pattison P, 2008, HANDBOOK OF PROBABILITY: THEORY AND APPLICATIONS, V0, P291
+   Preciado P, 2012, SOC NETWORKS, V34, P18, DOI 10.1016/j.socnet.2011.01.002
+   Robins G, 2005, AM J SOCIOL, V110, P894, DOI 10.1086/427322
+   Robins G, 2001, PSYCHOMETRIKA, V66, P161, DOI 10.1007/BF02294834
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Sommer R, 1969, PERSONAL SPACE, V0, P0
+   TRAVERS J, 1969, SOCIOMETRY, V32, P425, DOI 10.2307/2786545
+   WANG P, 2008, PNET PROGRAM SIMULAT, V0, P0
+   Wasserman S, 1996, PSYCHOMETRIKA, V61, P401, DOI 10.1007/BF02294547
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   Wellman B, 1996, SOC NETWORKS, V18, P347, DOI 10.1016/0378-8733(95)00282-0
+   Whyte WilliamHollingsworth, 1957, ORG MAN, V0, P0
+   Wong LH, 2006, PHYSICA A, V360, P99, DOI 10.1016/j.physa.2005.04.029
+NR 56
+TC 95
+Z9 0
+U1 2.0
+U2 45.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2012
+VL 34
+BP 6
+EP 17
+DI 10.1016/j.socnet.2010.12.001
+PG 12
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000300131600002
+PM 
+ER
+
+PT J
+AU Bright, D
+   Brewer, Russell
+   Morselli, Carlo
+TI Using social network analysis to study crime: Navigating the challenges of criminal justice records (Reprinted from vol 66, pages 50-64, 2021)
+SO SOCIAL NETWORKS
+DE illicit networks; criminal networks; criminal justice records; offender databases; investigative records; prosecution files; court files;department inquiries and commissions
+AB The use of social network analysis to study groups of offenders engaged in illicit activities such as drug trafficking and terrorism has grown in popularity over the last three decades. Along with such growth, however, researchers have been confronted with a suite of challenges related to the use of data extracted from criminal justice records. In this paper, we review these challenges through a discussion of the extant empirical literature utilizing social network analysis approaches that draw data from the criminal justice system. First, we outline and discuss the different types of data used across this literature. Second, we chronicle the challenges that have emerged across the field of criminal networks via a comprehensive review of the literature. In particular, we draw on the documented experiences of researchers in the field, including our own, and detail "archeological" approaches that future researchers can utilize to adapt and overcome said challenges. The use of criminal justice records can suffer from a number of limitations, mainly with respect to accuracy, validity and reliability. Such data may include errors, both intentional (e.g. aliases, false information) and unintentional (e.g. transcription errors), including missing data. The use of criminal justice records present particular problems with defining the network boundary as the boundary as determined by law enforcement or prosecution agencies may not correspond to the boundary as defined by network members. We conclude by offering a number of recommendations for re-searchers about data collection and preparation when utilizing criminal justice records.
+C1 [Bright, David] Flinders Univ S Australia, Ctr Crime Policy & Res, Adelaide, SA, Australia.   
+[Brewer, Russell] Univ Adelaide, Sch Social Sci, Adelaide, SA, Australia.   
+[Morselli, Carlo] Univ Montreal, Sch Criminol, Int Ctr Comparat Criminol, Montreal, PQ, Canada.
+RP Bright, D (corresponding author), Flinders Univ S Australia, Ctr Crime Policy & Res, Adelaide, SA, Australia.
+CR Agreste S, 2016, INFORM SCIENCES, V351, P30, DOI 10.1016/j.ins.2016.02.027
+   Athey NC, 2013, GLOB CRIME, V14, P216, DOI 10.1080/17440572.2013.790312
+   Becker Howard, 1963, OUTSIDERS: STUDIES IN THE SOCIOLOGY OF DEVIANCE, V0, P0
+   Belli R, 2015, DYNAMICS OF ASYMMETRIC CONFLICT, V8, P263, DOI DOI 10.1080/17467586.2015.1104420
+   Berlusconi G, 2013, GLOB CRIME, V14, P61, DOI 10.1080/17440572.2012.746940
+   Bichler G, 2019, CRIME DELINQUENCY, V65, P875, DOI 10.1177/0011128717739607
+   Borgatti SP, 2006, SOC NETWORKS, V28, P466, DOI 10.1016/j.socnet.2005.11.005
+   Bouchard M, 2014, CRIME AND NETWORKS, V0, P81
+   Brewer R, 2017, REGULATORY THEORY: FOUNDATIONS AND APPLICATIONS, V0, P447
+   Bright D, 2015, PREVENTING CRIME NET, V0, P0
+   Bright DA, 2014, CRIME AND NETWORKS, V0, P148
+   Bright D, 2020, STUD CONFL TERROR, V43, P638, DOI 10.1080/1057610X.2018.1494411
+   Bright D, 2019, J QUANT CRIMINOL, V35, P237, DOI 10.1007/s10940-018-9379-8
+   Bright D, 2017, GLOB CRIME, V18, P424, DOI 10.1080/17440572.2017.1377614
+   Bright DA, 2015, GLOB CRIME, V16, P219, DOI 10.1080/17440572.2015.1039164
+   Bright DA, 2013, GLOB CRIME, V14, P238, DOI 10.1080/17440572.2013.787927
+   Bright DA, 2015, J CONTEMP CRIM JUST, V31, P262, DOI 10.1177/1043986214553378
+   Bright DA, 2012, CRIME LAW SOCIAL CH, V57, P151, DOI 10.1007/s10611-011-9336-z
+   Bright DA, 2010, INT J DRUG POLICY, V21, P359, DOI 10.1016/j.drugpo.2009.12.001
+   Burcher M, 2015, GLOB CRIME, V16, P104, DOI 10.1080/17440572.2015.1005363
+   Calderoni F, 2014, CRIMINOLOGY JUSTICE, V0, P0
+   Calderoni F, 2012, CRIME LAW SOCIAL CH, V58, P321, DOI 10.1007/s10611-012-9387-9
+   Campana P, 2018, EUR J CRIMINOL, V15, P481, DOI 10.1177/1477370817749179
+   Campana P, 2016, BRIT J CRIMINOL, V56, P68, DOI 10.1093/bjc/azv027
+   Campana P, 2012, TRENDS ORGAN CRIME, V15, P13, DOI 10.1007/s12117-011-9131-3
+   Carley K, 2015, ILLUMINATING DARK NE, V0, P103
+   Cockbain E, 2011, POLIC-J POLICY PRACT, V5, P144, DOI 10.1093/police/par025
+   Costa J, 2017, GLOB CRIME, V18, P353, DOI 10.1080/17440572.2017.1332594
+   De Moor S, 2018, EUR J CRIMINOL, V15, P632, DOI 10.1177/1477370817749499
+   Decary-Hetu D, 2014, CRIME NETWORKS, V0, PP218, DOI DOI 10.4324/9781315885018-16
+   Décary-Hétu D, 2012, GLOB CRIME, V13, P160, DOI 10.1080/17440572.2012.702523
+   Denton E, 2016, J HUMAN TRAFFICKING, V2, P32, DOI DOI 10.1080/23322705.2016.1136540
+   Duijn PAC, 2014, NETWORKS AND NETWORK ANALYSIS FOR DEFENCE AND SECURITY, V0, PP121, DOI [DOI 10.1007/978-3-319-04147-6, 6, 10.1007/978-3-319-04147-66, DOI 10.1007/978-3-319-04147-66]
+   Duijn PAC, 2014, SCI REP-UK, V4, P0, DOI 10.1038/srep04238
+   Englefield A, 2017, INT J SOC SCI STUD, V5, P0
+   Faust K, 2019, ANNU REV CRIMINOL, V2, P99, DOI 10.1146/annurev-criminol-011518-024701
+   Fitzgerald G, 1989, REPORT COMMISSION IN, V0, P0
+   Framis AG-S, 2014, CRIME AND NETWORKS, V0, P131
+   Grund TU, 2015, J CONTEMP CRIM JUST, V31, P354, DOI 10.1177/1043986214553377
+   Harris-Hogan S, 2013, BEHAV SCI TERROR POL, V5, P137, DOI 10.1080/19434472.2012.727096
+   Hashimi S, 2017, POLICING, V40, P768, DOI 10.1108/PIJPSM-06-2016-0079
+   Helfstein S, 2011, J CONFLICT RESOLUT, V55, P785, DOI 10.1177/0022002710393919
+   Hofmann DC, 2015, GLOB CRIME, V16, P123, DOI 10.1080/17440572.2015.1008627
+   Hughes CE, 2017, SOC NETWORKS, V51, P135, DOI 10.1016/j.socnet.2016.11.004
+   Jones NP, 2020, TRENDS ORGAN CRIME, V23, P154, DOI 10.1007/s12117-018-9352-9
+   Kenney M, 2015, ILLUMINATING DARK NE, V0, PP52, DOI [10.1017/CBO9781316212639.005, DOI 10.1017/CBO9781316212639.005]
+   Knoke D, 1982, NETWORK ANAL, V0, P0
+   Koskinen JH, 2013, SOC NETWORKS, V35, P514, DOI 10.1016/j.socnet.2013.07.003
+   Lauchs M, 2012, CRIME LAW SOCIAL CH, V57, P195, DOI 10.1007/s10611-011-9337-y
+   Lauchs M, 2011, POLIC SOC, V21, P110, DOI 10.1080/10439463.2010.540656
+   Leuprecht C, 2014, CRIMINOLOGY CRIMINAL, V15, P57
+   Mainas ED, 2012, INTERNATIONAL JOURNAL OF POLICE SCIENCE MANAGEMENT, V14, P264
+   Malm A, 2013, TRENDS ORGAN CRIME, V16, P365, DOI 10.1007/s12117-013-9205-5
+   Malm A, 2011, GLOB CRIME, V12, P112, DOI 10.1080/17440572.2011.567832
+   Malm A, 2011, J RES CRIME DELINQ, V48, P271, DOI 10.1177/0022427810391535
+   Malm A, 2010, SECUR J, V23, P52, DOI 10.1057/sj.2009.18
+   Malm AE, 2008, SECUR J, V21, P77, DOI 10.1057/palgrave.sj.8350069
+   Mancuso M, 2014, TRENDS ORGAN CRIME, V17, P66, DOI 10.1007/s12117-013-9199-z
+   McCuish EC, 2015, J CONTEMP CRIM JUST, V31, P319, DOI 10.1177/1043986214553375
+   Meyers TJ, 2017, CRIME LAW SOCIAL CH, V68, P251, DOI 10.1007/s10611-017-9689-z
+   Morselli C, 2009, STUD ORGANIZE CRIME, V8, P1, DOI 10.1007/978-0-387-09526-4
+   Morselli C, 2002, CAN J CRIMINOL, V44, P255
+   Morselli C, 2013, SECUR INFORM, V2, P0
+   Morselli C, 2010, J. CONTEMP. CRIM. JUSTICE, V26, P382, DOI [10.1177/1043986210377105, DOI 10.1177/1043986210377105]
+   Morselli C, 2015, DISRUPTING CRIMINAL, V0, PP47, DOI DOI 10.1515/9781626372573-005
+   Morselli C, 2007, GLOB CRIME, V8, P109, DOI 10.1080/17440570701362208
+   Morselli C, 2008, CRIMINOLOGY, V46, P71, DOI 10.1111/j.1745-9125.2008.00103.x
+   Morselli C, 2007, SOC NETWORKS, V29, P143, DOI 10.1016/j.socnet.2006.05.001
+   Morselli C, 2006, CRIME LAW SOCIAL CH, V45, P185, DOI 10.1007/s10611-006-9034-4
+   Morselli C, 2014, ANN AM ACAD POLIT SS, V653, P247, DOI 10.1177/0002716214521995
+   Morselli C, 2009, TRENDS ORGAN CRIME, V12, P145, DOI 10.1007/s12117-009-9065-1
+   Natarajan M, 2000, CRIME PREV STUDIES, V11, P273
+   Natarajan M, 2006, J QUANT CRIMINOL, V22, P171, DOI 10.1007/s10940-006-9007-x
+   Ouellet M, 2018, DEVIANT BEHAV, V39, P1467, DOI 10.1080/01639625.2018.1481678
+   Papachristos AV, 2013, CRIME AND NETWORKS, V0, PP97, DOI 10.2139/ssrn.2159899
+   Papachristos AV, 2015, CRIMINOLOGY, V53, P624, DOI 10.1111/1745-9125.12091
+   Randle J, 2017, CRIME PREVENTION 21, V0, PP165, DOI DOI 10.1007/978-3-319-27793-6, 12
+   Rostami A, 2019, TRENDS ORGAN CRIME, V22, P34, DOI 10.1007/s12117-017-9310-y
+   Rostami A, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0119309
+   Smith CM, 2016, AM SOCIOL REV, V81, P644, DOI 10.1177/0003122416650149
+   Smith JA, 2013, SOC NETWORKS, V35, P652, DOI 10.1016/j.socnet.2013.09.003
+   SPARROW MK, 1991, SOC NETWORKS, V13, P251, DOI 10.1016/0378-8733(91)90008-H
+   Wolfe AW, 1997, AM ETHNOL, V24, P219, DOI 10.1525/ae.1997.24.1.219
+NR 83
+TC 7
+Z9 0
+U1 2.0
+U2 16.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2022
+VL 69
+BP 235
+EP 250
+DI 10.1016/j.socnet.2022.01.008
+PG 16
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000777028500007
+PM 
+ER
+
+PT J
+AU Koskinen, J
+   Jones, Pete
+   Medeuov, Darkhan
+   Antonyuk, Artem
+   Puzyreva, Kseniia
+   Basov, Nikita
+TI Analysing networks of networks
+SO SOCIAL NETWORKS
+DE multiplex networks; multilevel networks; sociosemantic networks;multigraphs
+AB We consider data with multiple observations or reports on a network in the case when these networks themselves are connected through some form of network ties. We could take the example of a cognitive social structure where there is another type of tie connecting the actors that provide the reports; or the study of interpersonal spillover effects from one cultural domain to another facilitated by the social ties. Another example is when the individual semantic structures are represented as semantic networks of a group of actors and connected through these actors social ties to constitute knowledge of a social group. How to jointly represent the two types of networks is not trivial as the layers and not the nodes of the layers of the reported networks are coupled through a network on the reports. We propose to transform the different multiple networks using line graphs, where actors are affiliated with ties represented as nodes, and represent the totality of the different types of ties as a multilevel network. This affords studying the associations between the social network and the reports as well as the alignment of the reports to a criterion graph. We illustrate how the procedure can be applied to studying the social construction of knowledge in local flood management groups. Here we use multilevel exponential random graph models but the representation also lends itself to stochastic actor-oriented models, multilevel blockmodels, and any model capable of handling multilevel networks.
+C1 [Koskinen, Johan] Stockholm Univ, Dept Stat, Stockholm, Sweden.   
+[Koskinen, Johan] Univ Melbourne, Melbourne Sch Psychol Sci, Social Networks Lab, Melbourne, Australia.   
+[Jones, Pete] Univ Alberta, Fac Arts Interdisciplinary Studies, Edmonton, AB, Canada.   
+[Medeuov, Darkhan] Nazarbayev Univ, Astana, Kazakhstan.   
+[Antonyuk, Artem; Puzyreva, Kseniia] St Petersburg Univ, Ctr German & European Studies, St Petersburg, Russia.   
+[Antonyuk, Artem; Puzyreva, Kseniia] Bielefeld Univ, Bielefeld, Russia.   
+[Basov, Nikita] Univ Manchester, Dept Social Stat, Manchester, England.
+RP Koskinen, J (corresponding author), Stockholm Univ, Dept Stat, Stockholm, Sweden.
+FU Russian Science Foundation [19-18-00394]
+CR Unknown -, 1993, ALGEBRAIC MODELS FOR SOCIAL NETWORK, V0, P0
+   Antonyuk A, 2019, PRINCIPLES PAT UNPUB, V0, P0
+   Barnes ML, 2019, NAT COMMUN, V10, P0, DOI 10.1038/s41467-019-09994-1
+   Basov N, 2020, POETICS, V78, P0, DOI 10.1016/j.poetic.2019.02.004
+   Basov N, 2017, RES SOCIOL ORGAN-RES, V53, P87, DOI 10.1108/S0733-558X20170000053005
+   Basov N, 2021, AM J CULT SOCIOL, V9, P376, DOI 10.1057/s41290-019-00084-9
+   Basov N, 2018, SOC NETWORKS, V54, P179, DOI 10.1016/j.socnet.2018.02.003
+   Basov N, 2017, STUD COMPUT INTELL, V693, P785, DOI 10.1007/978-3-319-50901-3, 62
+   Batchelder WH, 1997, J MATH SOCIOL, V22, P29, DOI 10.1080/0022250X.1997.9990193
+   BATCHELDER WH, 1988, PSYCHOMETRIKA, V53, P71, DOI 10.1007/BF02294195
+   Blumer H, 1969, SYMB INTERACT, V0, P0
+   Bodin Ö, 2016, ECOL SOC, V21, P0, DOI 10.5751/ES-08368-210140
+   Bodin Ö, 2012, GLOBAL ENVIRON CHANG, V22, P430, DOI 10.1016/j.gloenvcha.2012.01.005
+   Bolton CD, 1981, SYMB INTERACT, V4, P245
+   Borgatti SP, 1997, SOC NETWORKS, V19, P243, DOI 10.1016/S0378-8733(96)00301-2
+   Borsboom D, 2013, ANNU REV CLIN PSYCHO, V9, P91, DOI 10.1146/annurev-clinpsy-050212-185608
+   BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667
+   Butts CT, 2003, SOC NETWORKS, V25, P103, DOI 10.1016/S0378-8733(02)00038-2
+   CARLEY K, 1986, INSTR SCI, V14, P381, DOI 10.1007/BF00051829
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   Centola D, 2007, AM J SOCIOL, V113, P702, DOI 10.1086/521848
+   COLEMAN JS, 1988, AM J SOCIOL, V94, PS95, DOI 10.1086/228943
+   Contractor N, 2011, INT J COMMUN-US, V5, P39
+   Daraganova G, 2013, EXPONENTIAL RANDOM GRAPH MODELS FOR SOCIAL NETWORKS, V0, PP102, DOI [DOI 10.1017/CBO9780511894701.011, 10.1017/CBO9780511894701.011]
+   DAVIS JA, 1968, SOCIOMETRY, V31, P102, DOI 10.2307/2786483
+   Etzrodt C, 2008, HUM STUD, V31, P157, DOI 10.1007/s10746-008-9082-0
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Friedkin NE, 2016, SCIENCE, V354, P321, DOI 10.1126/science.aag2624
+   Harary F, 1960, REND. CIRC. MAT. PALERMO, V9, P161, DOI DOI 10.1007/BF02854581
+   Hellsten I, 2017, ARXIV, V0, P0
+   Hobson John A, 1954, EVOLUTION MODERN CAP, V0, P0
+   Hollander JA, 2006, SYMB INTERACT, V29, P183, DOI 10.1525/si.2006.29.2.183
+   Hollway J, 2017, NETW SCI, V5, P187, DOI 10.1017/nws.2017.8
+   Kapferer B, 1972, STRATEGY AND TRANSACTION IN AN AFRICAN FACTORY: AFRICAN WORKERS AND INDIAN MANAGEMENT IN A ZAMBIAN TOWN, V0, P0
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Kneser, 1955, ARCH MATH, V6, P382
+   Koehly LM, 2005, MODELS METHODS SOCIA, V0, P162
+   Koskinen J, 2009, P 6 ST PETERSBURG WO, VII, P845
+   Koskinen J, 2004, RES REPORT, V0, P3
+   Koskinen J, 2022, J ROY STAT SOC A, V185, P1469
+   Koskinen J, 2013, J STAT PHYS, V151, P523, DOI 10.1007/s10955-013-0732-x
+   Koskinen J, 2018, PSYCHOMETRIKA, V83, P809, DOI 10.1007/s11336-018-9635-8
+   Koskinen J, 2012, SOC NETWORKS, V34, P309, DOI 10.1016/j.socnet.2010.03.001
+   Krackhardt D, 1999, RES SOC ORG, V16, P183
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   Krivitsky PN, 2020, PSYCHOMETRIKA, V85, P630, DOI 10.1007/s11336-020-09720-7
+   Lazega E, 1999, SOC NETWORKS, V21, P67, DOI 10.1016/S0378-8733(99)00002-7
+   Lazega E, 2008, SOC NETWORKS, V30, P159, DOI 10.1016/j.socnet.2008.02.001
+   Leenders RTAJ, 2002, SOC NETWORKS, V24, P21, DOI 10.1016/S0378-8733(01)00049-1
+   Leoncini R, 1996, RES POLICY, V25, P415, DOI 10.1016/0048-7333(95)00843-8
+   Lusher D, 2013, EXPONENTIAL RANDOM GRAPH MODELS FOR SOCIAL NETWORKS: THEORY, V0, P0
+   Maki A, 2019, NAT SUSTAIN, V2, P307, DOI 10.1038/s41893-019-0263-9
+   MITCHELL JC, 1974, ANNU REV ANTHROPOL, V3, P279, DOI 10.1146/annurev.an.03.100174.001431
+   Monge PR, 2003, THEORIES COMMUNICATI, V0, P0
+   Moreno JL, 1938, SOCIOMETRY, V1, P342, DOI 10.2307/2785588
+   Moreno JL, 1934, NERV MENT DIS MONOGR, V0, P3
+   NEWCOMB T, 1958, AM SOCIOL REV, V23, P742, DOI 10.2307/2089062
+   Newcomb TM, 1961, THE ACQUAINTANCE PROCESS, V0, P0, DOI DOI 10.1037/13156-000
+   Ostoic JAR, 2020, J STAT SOFTW, V92, P0, DOI 10.18637/jss.v092.i11
+   Ostoic JAR, 2017, NETW SCI, V5, P1, DOI 10.1017/nws.2016.28
+   PADGETT JF, 1993, AM J SOCIOL, V98, P1259, DOI 10.1086/230190
+   Rawlings CM, 2019, AM J SOCIOL, V124, P1763
+   Robins G, 2004, COMPUTATIONAL & MATHEMATICAL ORGANIZATION THEORY, V10, P69, DOI 10.1023/B:CMOT.0000032580.12184.c0
+   ROMNEY AK, 1986, AM ANTHROPOL, V88, P313, DOI 10.1525/aa.1986.88.2.02a00020
+   Roth C, 2010, SOC NETWORKS, V32, P16, DOI 10.1016/j.socnet.2009.04.005
+   Sampson S, 1969, CRISIS IN A CLOISTER, V0, P0
+   Schultz F, 2012, PUBLIC RELAT REV, V38, P97, DOI 10.1016/j.pubrev.2011.08.003
+   Schweinberger M, 2020, STAT NEERL, V74, P342, DOI 10.1111/stan.12196
+   Shafie T, 2015, J SOC STRUCT, V16, P0
+   Simmel Georg, 1950, THE SOCIOLOGY OF GEORG SIMMEL, V0, P0
+   Snijders TAB, 2019, TEACHING MAT FROM WO, V0, P0
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snijders TAB, 2013, SOC NETWORKS, V35, P265, DOI 10.1016/j.socnet.2012.05.005
+   SNOW DA, 1986, AM SOCIOL REV, V51, P464, DOI 10.2307/2095581
+   Squartini T, 2011, PHYS REV E, V84, P0, DOI 10.1103/PhysRevE.84.046117
+   STRANG D, 1993, AM J SOCIOL, V99, P614, DOI 10.1086/230318
+   Stys P, 2020, GLOB CRIME, V21, P74, DOI 10.1080/17440572.2019.1596806
+   Vörös A, 2017, SOC NETWORKS, V49, P93, DOI 10.1016/j.socnet.2017.01.002
+   Wang M, 2015, ASME 2015 INT DES EN, V0, P0
+   Wang P, 2013, SOC NETWORKS, V35, P96, DOI 10.1016/j.socnet.2013.01.004
+   Wang P, 2009, SOC NETWORKS, V31, P12, DOI 10.1016/j.socnet.2008.08.002
+   Wang Robins, 2014, MPNET PROGRAM SIMULA, V0, P0
+   WASSERMAN S, 1991, BRIT J MATH STAT PSY, V44, P13, DOI 10.1111/j.2044-8317.1991.tb00949.x
+   Wasserman S, 1994, SOCIAL NETWORK ANALYSIS: METHODS AND APPLICATIONS, V0, P0, DOI [10.1017/CBO9780511815478, DOI 10.1017/CBO9780511815478]
+   WHITE HC, 1976, AM J SOCIOL, V81, P730, DOI 10.1086/226141
+   White Theodore H, 1963, LIFE, V0, P0
+   Wijffels Jan, 2021, UDPIPE TOKENIZATION, V0, P0
+   Ziberna A, 2016, METHODS SER, V12, P173, DOI 10.1007/978-3-319-24520-1, 8
+NR 88
+TC 3
+Z9 0
+U1 6.0
+U2 17.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2023
+VL 74
+BP 102
+EP 117
+DI 10.1016/j.socnet.2023.02.002
+PG 16
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000972522300001
+PM 
+ER
+
+PT J
+AU Stys, P
+   Muhindo, Samuel
+   N'simire, Sandrine
+   Tchumisi, Ishara
+   Muzuri, Papy
+   Balume, Bauma
+   Koskinen, Johan
+TI Trust, quality, and the network collection experience: A tale of two studies on the Democratic Republic of the Congo
+SO SOCIAL NETWORKS
+DE social network research; data collection; participant-aided sociogram;ego-net; democratic republic of the congo; drc; social support; social services; network sampling; link-tracing designs; mixed methods
+AB Data collection in social network research has advanced to include online questionnaires, digital metadata mining of internet sites, and the use of remote-sensing technologies. Some scholars however call for more attention to nuanced understandings of ties and contexts in studies of social structure and relationships, evoking practices that characterise the fields foundational works. This articles two studies reference these earlier efforts, drawing on ethnography and primary data collection. Both were undertaken in conflict-affected eastern Democratic Republic of the Congo (DRC) and broadly aimed to refine understandings of public authority and governance. Such research strives to inform humanitarian interventions to support social structures and actors which benefit their communities - however unexpected and unconventional. The first study (2016) employed a novel link-tracing design to examine personal support networks entwining purportedly hostile sub-populations, from combatants to unaffiliated civilians. The second (2018-20) focussed on access to essential social services across different governance arrangements, areas dominated by tenuous alliances of domestic or foreign militias and other actors. Leveraging an egocentric network design, it yielded multilevel relational network chain data. Each study was rife with obstacles related to accessing participants, sampling, reliability, and validity. We reflect on this network collection experience, foregrounding the interdependence between trust and data quality brought into stark relief by the settings instability and insecurity. This interdependency impacts all social network research, especially when it involves precarious contexts or sensitive topics.
+C1 [Stys, Patrycja; Muhindo, Samuel; N'simire, Sandrine; Tchumisi, Ishara; Muzuri, Papy; Balume, Bauma] London Sch Econ & Polit Sci, Ctr Publ Author & Int Dev, Firoz Lalji Inst Africa, Houghton St, London WC2A 2AE, England.   
+[Koskinen, Johan] Univ Melbourne, Melbourne Sch Psychol Sci, Melbourne, Vic, Australia.
+RP Stys, P (corresponding author), London Sch Econ & Polit Sci, Ctr Publ Author & Int Dev, Firoz Lalji Inst Africa, Houghton St, London WC2A 2AE, England.
+FU Centre for Public Authority and International Development at the London
+CR adams j, 2019, GATHERING SOCIAL NETWORK DATA, V0, P0
+   Allcott H, 2007, AM ECON REV, V97, P80, DOI 10.1257/aer.97.2.80
+   Unknown -, 1994, DESIGNING SOCIAL INQUIRY: SCIENTIFC INFERENCE IN QUALITATIVE RESEARCH, V0, P0
+   Unknown -, 2012, AFRICAN CONFLICTS IN, V0, P0
+   Unknown -, 2016, NETWORK CANVAS: SOFTWARE TO SIMPLIFY COMPLEX NETWORK DATA COLLECTION, V0, P0
+   Unknown -, 2015, SOCIAL NETWORK ANAL, V0, P0
+   Unknown -, 2009, WHOM CAN WE TRUST?, V0, P0
+   Arjona Ana, 2015, REBEL GOVERNANCE CIV, V0, P180
+   Avenarius CB, 2014, STRUC AN S, V0, P177
+   Baaz ME, 2018, REV AFR POLIT ECON, V45, P250, DOI 10.1080/03056244.2018.1451317
+   Basov N, 2020, POETICS, V78, P0, DOI 10.1016/j.poetic.2019.02.004
+   Basov N, 2018, SOC NETWORKS, V54, P179, DOI 10.1016/j.socnet.2018.02.003
+   BATCHELDER WH, 1988, PSYCHOMETRIKA, V53, P71, DOI 10.1007/BF02294195
+   Bayer JB, 2020, CURR DIR PSYCHOL SCI, V29, P279, DOI 10.1177/0963721420915866
+   Bellotti E, 2015, QUALITATIVE NETWORKS, V0, P0
+   BERNARD HR, 1980, SOC NETWORKS, V2, P191, DOI 10.1016/0378-8733(79)90014-5
+   Boissevain Jeremy, 1974, FRIENDS FRIENDS NETW, V0, P0
+   Boswell DM, 1969, SOCIAL NETWORKS IN URBAN SITUATIONS, V0, P245
+   Bott E, 1957, FAMILY AND SOCIAL NETWORK, V0, P0
+   Brailly J, 2016, SOC NETWORKS, V44, P319, DOI 10.1016/j.socnet.2015.03.005
+   Brandt CO, 2019, 72 ODI, V0, P0
+   Bright D, 2013, CRIME NETWORKS, V0, PP148, DOI DOI 10.4324/9781315885018
+   Burnhams NH, 2016, SUBST ABUSE TREAT PR, V11, P0, DOI 10.1186/s13011-016-0074-1
+   Burt R, 2001, SOCIAL CAPITAL THEOR, V0, P31
+   Burt RS, 2005, BROKERAGE AND CLOSURE, V0, P0
+   Burt RS, 1992, STRUCTURAL HOLES, V0, P0
+   Burt RS, 1999, SHARED COGNITION ORG, V0, P213
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Burt RS, 1998, SOC NETWORKS, V20, P63, DOI 10.1016/S0378-8733(97)00005-1
+   Buscher Karen, 2012, URBAN FORUM, V23, P483
+   Buskens V, 2010, SOC NETWORKS, V32, P301, DOI 10.1016/j.socnet.2010.05.001
+   Buskens Vincent, 2002, SOCIAL NETWORKS TRUS, V0, P0
+   Coghlan Benjamin, 2007, MORTALITY IN THE DEMOCRATIC REPUBLIC OF THE CONGO: AN ONGOING CRISIS, V0, P0
+   Coleman J, 2008, FOUNDATIONS OF SOCIAL THEORY, V0, P0
+   COLEMAN JS, 1988, AM J SOCIOL, V94, PS95, DOI 10.1086/228943
+   Cowan FM, 2013, PLOS ONE, V8, P0, DOI 10.1371/journal.pone.0077080
+   Davies C, 2002, REFLEXIVE ETHNOGRAPH, V0, P0
+   De Herdt T, 2015, REAL GOVERNANCE PRAC, V0, P0, DOI 10.18352/ijc.605
+   De Herdt Tom, 2019, NEGOTIATING PUBLIC SERVICES IN THE CONGO: STATE, V0, P0
+   de Nooy Wouter, 2009, METHODOLOGICAL INNOVATIONS ONLINE, V4, P39, DOI DOI 10.1177/205979910900400105
+   Dominguez S, 2014, STRUC AN S, V0, PP1, DOI 10.1017/CBO9781139227193
+   Duffield M, 2014, REV AFR POLIT ECON, V41, PS75, DOI 10.1080/03056244.2014.976366
+   Dusenge V, 2004, AUTO ORG REFUGIES CA, V0, P0
+   Easterby-Smith M, 1999, ACAD MANAGE J, V42, P76, DOI 10.5465/256875
+   ELLIS S, 1989, AFR AFFAIRS, V88, P321, DOI 10.1093/oxfordjournals.afraf.a098185
+   Etikan I, 2016, AMERICAN JOURNAL OF THEORETICAL AND APPLIED STATISTICS, V5, P1, DOI [10.11648/j.ajtas.20160501.11, DOI 10.11648/J.AJTAS.20160501.11]
+   Fellows IE, 2019, STAT MED, V38, P131, DOI 10.1002/sim.7973
+   Ferru M, 2011, 51 C EUR REG SCI ASS, V0, P0
+   Ferru M, 2014, EUR PLAN STUD, V22, P975, DOI 10.1080/09654313.2012.752440
+   Freeman LC, 2004, THE DEVELOPMENT OF SOCIAL NETWORK ANALYSIS: A STUDY IN THE SOCIOLOGY OF SCIENCE, V0, P0
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Fujii LA, 2010, J PEACE RES, V47, P231, DOI 10.1177/0022343309353097
+   Gamper M, 2012, SOCIAL NETWORKING CO, V0, P0
+   Gauntlett D, 2007, CREATIVE EXPLORATION, V0, P0
+   Geenen S, 2016, 201605 I DEV POL MAN, V0, P0
+   Geertz C, 1973, INTERPRETATION CULTU, V0, P0
+   Gile KJ, 2010, SOCIOL METHODOL, V40, P285, DOI 10.1111/j.1467-9531.2010.01223.x
+   Gluesing JC, 2014, STRUC AN S, V0, P203
+   Godart FC, 2010, POETICS, V38, P567, DOI 10.1016/j.poetic.2010.09.003
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Granovetter Mark, 1995, GETTING JOB STUDY CO, V0, P0
+   Greiner AL, 2014, AM J EPIDEMIOL, V180, P536, DOI 10.1093/aje/kwu149
+   Guba EG, 1900, P15, V0, P0
+   Hardin R, 2003, RUSSELL SAGE TRUST, V6, P80
+   Harries-Jones Peter, 1969, SOCIAL NETWORKS IN URBAN SITUATIONS: ANALYSES OF PERSONAL RELATIONSHIPS IN CENTRAL AFRICAN TOWNS, V0, P297
+   Hoffmann K, 2013, 7 JSRP, V0, P0
+   Hoffmann K, 2019, AFR AFFAIRS, V118, P352, DOI 10.1093/afraf/ady039
+   Hogan B, 2016, COMMUNICATION, V0, P0
+   Hogan B, 2007, FIELD METHOD, V19, P116, DOI 10.1177/1525822X06298589
+   Hogan B, 2016, 34TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, V0, P5360, DOI 10.1145/2858036.2858368
+   Igarashi T, 2008, ASIAN J SOC PSYCHOL, V11, P88, DOI 10.1111/j.1467-839X.2007.00246.x
+   Jennings HH, 1943, LEADERSHIP ISOLATION, V0, P0
+   JOHANSEN UC, 2002, CHRONICLING CULTURES, V0, P81
+   Johnston LG, 2017, J EPIDEMIOL GLOB HEA, V7, P45, DOI 10.1016/j.jegh.2016.08.003
+   Jones A, 2018, FORUM QUALITATIVE SOZIALFORSCHUNG, V19, P1, DOI [DOI 10.17169/FQS-19.2.2905, 10.17169/fqs-19.2.2905]
+   Kabaghe AN, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0172266
+   Kapferer B, 1972, STRATEGY AND TRANSACTION IN AN AFRICAN FACTORY: AFRICAN WORKERS AND INDIAN MANAGEMENT IN A ZAMBIAN TOWN, V0, P0
+   Kapferer B, 1973, NETWORK ANAL STUDIES, V0, P83
+   Kapferer Bruce, 1969, SOCIAL NETWORKS IN URBAN SITUATIONS, V0, P181
+   KILLWORTH PD, 1979, SOC NETWORKS, V2, P19, DOI 10.1016/0378-8733(79)90009-1
+   Kitts JA, 2021, SOC NETWORKS, V66, P161, DOI 10.1016/j.socnet.2021.01.004
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Koskinen J, 2019, NEW STATISTICAL DEVELOPMENTS IN DATA SCIENCE, VVolume 288, P105
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   Lee N, 1969, SEARCH ABORTIONIST, V0, P0
+   Levy Brian, 2014, WORKING GRAIN INTEGR, V0, P0
+   LIN N, 1986, SOC NETWORKS, V8, P365, DOI 10.1016/0378-8733(86)90003-1
+   Lin N, 2001, SOCIAL CAPITAL: THEORY AND RESEARCH, V0, PP57, DOI [10.4324/9781315129457-3, DOI 10.4324/9781315129457-3]
+   Lin N, 2001, SOCIAL CAPITAL: THEORY AND RESEARCH, V0, PP3, DOI 10.1017/CBO9780511815447
+   Lubbers MJ, 2010, SOC NETWORKS, V32, P91, DOI 10.1016/j.socnet.2009.05.001
+   Lund C, 2006, DEV CHANGE, V37, P685, DOI 10.1111/j.1467-7660.2006.00497.x
+   Lusher D, 2014, SMALL GR RES, V45, P3, DOI 10.1177/1046496413510362
+   Marsden PV, 2003, SOC NETWORKS, V25, P1, DOI 10.1016/S0378-8733(02)00009-6
+   MAYER RC, 1995, ACAD MANAGE REV, V20, P709, DOI 10.2307/258792
+   Meagher K, 2014, UNRAVELLING PUBLIC AUTHORITY PATHS OF HYBRID GOVERNANCE IN AFRICA, V0, P0
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Mitchell JClyde, 1969, SOCIAL NETWORKS URBA, V0, P0
+   Mohr JW, 2008, THEOR SOC, V37, P485, DOI 10.1007/s11186-008-9066-0
+   Moreno JL, 1943, SOCIOMETRY, V6, P425, DOI 10.2307/2785221
+   Moreno JL, 1932, APPLICATION OF THE GROUP METHOD TO CLASSIFICATION, V0, P0
+   Moreno JL, 1934, NERVOUS MENTAL DIS M, V0, P0
+   Neal JW, 2015, AM J COMMUN PSYCHOL, V56, P422, DOI 10.1007/s10464-015-9745-8
+   Newcomb TM, 1961, THE ACQUAINTANCE PROCESS, V0, P0, DOI DOI 10.1037/13156-000
+   Niang A, 2000, SETLU TECHNIQUE TRAD, V0, P0
+   Ott MQ, 2019, J ROY STAT SOC C, V68, P1411, DOI 10.1111/rssc.12353
+   Pattison P, 2017, 2 ANN AUSTR SOC NETW, V0, P0
+   Pattison P, 1994, ADV SOCIAL NETWORK A, V0, P79
+   Punton M, 2018, WHAT WORKS WHAT COND, V0, P0
+   Robins Garry L, 2015, DOING SOCIAL NETWORK RESEARCH, V0, P0
+   Roden B, 2022, SOC NETWORKS, V69, P3, DOI 10.1016/j.socnet.2020.04.005
+   ROMNEY AK, 1986, AM ANTHROPOL, V88, P313, DOI 10.1525/aa.1986.88.2.02a00020
+   ROMNEY AK, 1987, AM BEHAV SCI, V31, P163, DOI 10.1177/000276487031002003
+   ROSENTHAL E, 1996, THESIS U CHICAGO CHI, V0, P0
+   Ross MW, 2016, BMJ OPEN, V6, P0, DOI 10.1136/bmjopen-2016-012072
+   Rydgren J, 2013, AM J SOCIOL, V118, P1650, DOI 10.1086/669854
+   Saint-Charles J, 2018, SOC NETWORKS, V52, P228, DOI 10.1016/j.socnet.2017.09.001
+   Sall E, 2003, SOCIAL SCI AFRICA TR, V0, P0
+   Sandfort TGM, 2015, AIDS BEHAV, V19, P2270, DOI 10.1007/s10461-015-1067-1
+   Sarndal CE, 1992, MODEL ASSISTED SURVE, V0, P0
+   Schiffer E, 2007, IFPRI DISCUSSION PAP, V0, P0
+   Schiffer E, 2010, FIELD METHOD, V22, P231, DOI 10.1177/1525822X10374798
+   Schouten P, 2016, 30 JSRP LSE, V0, P0
+   Scott J, 2015, BMJ OPEN, V5, P0, DOI 10.1136/bmjopen-2014-007057
+   Simmel G, 1906, AM J SOCIOL, V11, P441, DOI 10.1086/211418
+   Simmel Georg, 1908, SOZIOLOGIE, V0, P0
+   Snijders TomAB, 1999, LA REVUE TOCQUEVILLE, VXX, P27, DOI DOI 10.3138/TTR.20.1.27
+   Stys P, 2018, TECHNICAL BRIEF E DR, V0, P0
+   Stys P, 2020, GLOB CRIME, V21, P74, DOI 10.1080/17440572.2019.1596806
+   Themnér A, 2016, CIV WARS, V18, P255, DOI 10.1080/13698249.2016.1215639
+   Thoits P, 1985, SOC SUPPORT THEORY, V0, P0, DOI DOI 10.1007/978-94-009-5115-0, 4
+   Thompson SK, 2002, DRUG ALCOHOL DEPEN, V68, P0
+   THOMPSON SK, 1990, J AM STAT ASSOC, V85, P1050, DOI 10.2307/2289601
+   Tippett J, 1995, KETSO, V0, P0
+   Trefon T, 2012, CONGO MASQUERADE, V0, P0
+   Trefon T, 2016, CONGOS ENVIRONMENTAL PARADOX: POTENTIAL AND PREDATION IN A LAND OF PLENTY, V0, P0
+   Trefon T, 2011, CONGO MEASQUERADE PO, V0, P0
+   Van Der Gaag M, 2005, SOC NETWORKS, V27, P1, DOI 10.1016/j.socnet.2004.10.001
+   van der Zouwen J, 2001, SOCIOL METHOD RES, V30, P35, DOI 10.1177/0049124101030001003
+   Van Tilburg T, 1998, SOCIOL METHOD RES, V26, P300, DOI 10.1177/0049124198026003002
+   VANDERPOEL MGM, 1993, SOC NETWORKS, V15, P49, DOI 10.1016/0378-8733(93)90021-C
+   Varese Federico, 2001, RUSSIAN MAFIA PRIVAT, V0, P0
+   Vigh H, 2012, AFRICAN CONFLICTS AND INFORMAL POWER BIG MEN AND NETWORKS, V0, P0
+   Vlassenroot K, 2013, URBAN STUD, V50, P3168, DOI 10.1177/0042098013487772
+   Walther O, 2017, SOCIAL NETWORK ANAL, V0, P0
+   Wane Y, 1969, COLLECTION INITIATIO, V0, P0
+   Weissinger LB, 2022, SOC NETWORKS, V69, P136, DOI 10.1016/j.socnet.2020.06.005
+   WELLER SC, 1987, AM BEHAV SCI, V31, P178, DOI 10.1177/000276487031002004
+   WELLER SC, 1984, AM ANTHROPOL, V86, P966, DOI 10.1525/aa.1984.86.4.02a00100
+   White DouglasR, 2005, NETWORK ANAL ETHNOGR, V0, P0
+   White HC, 1992, IDENTITY AND CONTROL: A STRUCTURAL THEORY OF SOCIAL ACTION, V0, P0
+   White K, 2000, SOC NETWORKS, V22, P337, DOI 10.1016/S0378-8733(00)00030-7
+   Whyte W, 1993, STREET CORNER SOC, V4th, P0
+   Wiebel W W, 1990, NIDA RES MONOGR, V98, P4
+NR 153
+TC 5
+Z9 0
+U1 1.0
+U2 18.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2022
+VL 68
+BP 237
+EP 255
+DI 10.1016/j.socnet.2021.08.002
+PG 19
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000702773800001
+PM 
+ER
+
+PT J
+AU Jones, P
+   Quinn, Eithne
+   Koskinen, Johan
+TI Measuring centrality in film narratives using dynamic character interaction networks
+SO SOCIAL NETWORKS
+DE character networks; dialogue networks; dynamic centrality; narrative;interactions; gender
+AB The tools of social network analysis offer a promising framework for studying fictional texts and the relational activity of the characters therein. The goal of this paper is to offer both a conceptual refinement of the project of measuring the centrality of characters within narratives using network tools, as well as the proposal of a novel measure with which to do so. Conceptually, we argue that as questions of time, order and sequence are central in narratives, measures of characters narrative importance should be based on dynamic network representations which respect the time-ordering of narrative events. We suggest a directed dynamic measure of relative character importance based on character interactions and illustrate it through an examination of gender in the 2015 film Star Wars: The Force Awakens. We find that the measure helps illuminate important narrative dynamics which cannot be captured by static measures, and presents a platform on which future character network research can productively build.
+C1 [Jones, Pete; Quinn, Eithne] Univ Manchester, Manchester, Lancs, England.   
+[Koskinen, Johan] Univ Melbourne, Melbourne, Vic, Australia.   
+[Koskinen, Johan] Linkoping Univ, Inst Analyt Sociol, Linkoping, Sweden.
+RP Jones, P (corresponding author), Univ Manchester, Sch Social Sci, Manchester M13 9PL, Lancs, England.
+FU Ministry of Science and Technology, Taiwan [MOST106-2410-H-001-051-MY3]
+CR Abbott HPorter, 2008, CAMBRIDGE INTRO NARR, V2, P0, DOI [DOI 10.1017/CBO9780511816932, 10.1017/CBO9780511816932]
+   Abell P, 2004, ANNU REV SOCIOL, V30, P287, DOI 10.1146/annurev.soc.29.010202.100113
+   Agarwal A, 2012, NAACL-HLT, V2012, P88
+   Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001
+   Bal M, 2017, NARRATOLOGY INTRO TH, V0, P0
+   Bazzini DG, 1997, SEX ROLES, V36, P531, DOI 10.1007/BF02766689
+   Bearman PS, 2000, POETICS, V27, P69, DOI 10.1016/S0304-422X(99)00022-4
+   Bechdel Alison, 1986, DYKES TO WATCH OUT FOR, V0, P0
+   Bonacich P, 2001, SOC NETWORKS, V23, P191, DOI 10.1016/S0378-8733(01)00038-7
+   Bonacich P, 2012, INTRO MATH SOCIOLOGY, V0, P0
+   Bordwell D, 1985, NARRATION IN THE FICTION FILM, V0, P0
+   Brandes U, 2013, NETWORK SCIENCE, V1, P1, DOI [10.1017/NWS.2013.2, DOI 10.1017/NWS.2013.2]
+   BRANIGAN Edward, 1992, NARRATIVE COMPREHENS, V0, P0
+   Broccatelli C, 2016, METHODOL INNOV, V9, P1
+   CHATMAN S, 1980, CRIT INQUIRY, V7, P121, DOI 10.1086/448091
+   Cox Susan, 2015, FEMINIST CURRENT, V0, P27
+   Elson DK, 2010, ACL 2010: 48TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, V0, P138
+   Everett MG, 2018, SOC NETWORKS, V55, P63, DOI 10.1016/j.socnet.2018.05.003
+   Faludi S, 1992, BACKLASH UNDECLARED, V0, P0
+   Falzon L, 2018, SOC NETWORKS, V54, P168, DOI 10.1016/j.socnet.2018.02.002
+   Fischer Frank, 2017, DIGITAL HUMANITIES, V0, P0
+   Frermann Lea, 2018, T ASSOC COMPUT LING, V6, P1
+   Garber Megan, 2015, ATLANTIC, V0, P19
+   Genette Gerard, 1980, NARRATIVE DISCOURSE, V0, P0
+   Gil Sebastian, 2011, TECHNICAL REPORT, V0, P0
+   Gould Henry W, 1965, FIBONACCI Q, V3, P257
+   Grayson Siobhan, 2016, SENSE SENSIBILITY DI, V0, P0
+   Haskell Molly, 1987, REVERENCE RAPE, V0, P0
+   Holme P, 2012, PHYS REP, V519, P97, DOI 10.1016/j.physrep.2012.03.001
+   Masías VH, 2017, DIGIT SCHOLARSH HUM, V32, P837, DOI 10.1093/llc/fqw029
+   Inness SA, 2004, ACTION CHICKS: NEW IMAGES OF TOUGH WOMEN IN POPULAR CULTURE, V0, PP1, DOI 10.1057/9781403981240
+   Jayannavar P, 2015, P 4 WORKSHOP COMPUTA, V0, PP32, DOI 10.3115/v1/w15-0704
+   Jones P, 2020, FEM MEDIA STUD, V20, P18, DOI 10.1080/14680777.2018.1510846
+   Kagan Dima, 2019, 190306469 ARXIV, V0, P0
+   Kaplan EAnn, 1983, WOMEN FILM BOT SIDES, V0, P0
+   KATZ L, 1953, PSYCHOMETRIKA, V18, P39, DOI DOI 10.1007/BF02289026
+   Kermode Mark, 2015, GUARDIAN, V0, P20
+   Kontoleon N, 2013, J MATH PSYCHOL, V57, P310, DOI 10.1016/j.jmp.2013.11.002
+   Kydros D, 2015, INT J HUMANIT ARTS C, V9, P115, DOI 10.3366/ijhac.2015.0141
+   Lauzen Martha, 2018, ITS MANS CELLULOID W, V0, P0
+   Lauzen MM, 2005, SEX ROLES, V52, P437, DOI 10.1007/s11199-005-3710-1
+   Lv JN, 2018, IEEE ACCESS, V6, P25958, DOI 10.1109/ACCESS.2018.2832087
+   McRobbie A, 2004, FEM MEDIA STUD, V4, P255, DOI DOI 10.1080/1468077042000309937
+   Miller KM, 2014, POSTERIOR CAPSULAR RUPTURE: A PRACTICAL GUIDE TO PREVENTION AND MANAGEMENT, V0, P51
+   Min Semi, 2016, 160403029 ARXIV, V0, P0
+   Moody J, 2005, AM J SOCIOL, V110, P1206, DOI 10.1086/421509
+   Moody J, 2002, SOC FORCES, V81, P25, DOI 10.1353/sof.2002.0056
+   Moretti F, 2011, NEW LEFT REV, V0, P80
+   Mourchid Youssef, 2018, 181205718V1 ARXIV, V0, P0
+   Mulvey Laura, 2009, VISUAL OTHER PLEASUR, V0, P0
+   Niehaus J, 2014, LIT LINGUIST COMPUT, V29, P561, DOI 10.1093/llc/fqu056
+   OMeara J, 2016, FEM MEDIA STUD, V16, P1120, DOI 10.1080/14680777.2016.1234239
+   ODay Marc, 2004, ACTION AND ADVENTURE CINEMA, V0, P0
+   Opsahl T, 2010, SOC NETWORKS, V32, P245, DOI 10.1016/j.socnet.2010.03.006
+   Padgett JF, 2018, AM J SOCIOL, V124, P406, DOI 10.1086/700831
+   Prado Sandra D, 2016, 160207275 ARXIV, V0, P0
+   Purse Lisa, 2011, CONT ACTION CINEMA, V0, P0
+   RICOEUR P, 1980, CRIT INQUIRY, V7, P169, DOI 10.1086/448093
+   Roddy Michael, 2015, REUTERS, V0, P16
+   Ruegg C, 2020, DIGIT SCHOLARSH HUM, V35, P146, DOI 10.1093/llc/fqz001
+   Sack GA, 2014, COMPLEXITY AND THE HUMAN EXPERIENCE: MODELING COMPLEXITY IN THE HUMANITIES AND SOCIAL SCIENCES, V0, P81
+   Schoch David, 2019, COMMUNICATION, V0, P0
+   Schubart Rikke, 2007, SUPER BITCHES ACTION, V0, P0
+   Smith Stacy L, 2018, INEQUALITY 1100 POPU, V0, P0
+   Smith T, 2007, POETICS, V35, P22, DOI 10.1016/j.poetic.2006.11.001
+   Sutherland JA, 2017, J GENDER STUD, V26, P618, DOI 10.1080/09589236.2016.1152956
+   Tasker Yvonne, 1993, SPECTACULAR BODIES: GENDER, V0, P0
+   Taylor D, 2017, MULTISCALE MODEL SIM, V15, P537, DOI 10.1137/16M1066142
+   Waumans MC, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0126470
+   Weng CY, 2009, IEEE T MULTIMEDIA, V11, P256, DOI 10.1109/TMM.2008.2009684
+   Woloch A, 2003, ONE VS THE MANY: MINOR CHARACTERS AND THE SPACE OF THE PROTAGONIST IN THE NOVEL, V0, P1
+NR 71
+TC 4
+Z9 0
+U1 1.0
+U2 25.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2020
+VL 63
+BP 21
+EP 37
+DI 10.1016/j.socnet.2020.03.003
+PG 17
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000563919700003
+PM 
+ER
+
+PT J
+AU Robins, G
+   Bright, David
+   Weissinger, Laurin
+   Stys, Pat
+TI Data collection for social network research
+SO SOCIAL NETWORKS
+RP Matous, P (corresponding author), Univ Sydney, Sydney, NSW, Australia.
+CR Bright, David
+   Robins, Garry
+   Stys, Pat
+   Weissinger, Laurin
+NR 4
+TC 1
+Z9 0
+U1 0.0
+U2 3.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2022
+VL 69
+BP 1
+EP 2
+DI 10.1016/j.socnet.2021.08.010
+PG 2
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000777556900001
+PM 
+ER
+
+PT J
+AU Everett, MG
+   Broccatelli, Chiara
+   Borgatti, Stephen P
+   Koskinen, Johan
+TI Measuring knowledge and experience in two mode temporal networks
+SO SOCIAL NETWORKS
+DE two-mode networks; temporal networks; knowledge; experience; covert networks
+AB Two mode social network data consisting of actors attending events is a common type of social network data. For these kinds of data it is also common to have additional information about the timing or sequence of the events. We call data of this type two-mode temporal data. We explore the idea that actors attending events gain information from the event in two ways. Firstly the event itself may provide information or training; secondly, as co-attendees interact, they may pass on skills or information they have gleaned from other events. We propose a method of measuring these gains and demonstrate its usefulness using the classic Southern Women Data and a covert network dataset. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Everett, Martin G.; Koskinen, Johan] Univ Manchester, Manchester, Lancs, England.   
+[Broccatelli, Chiara] Univ Glasgow, Glasgow, Lanark, Scotland.   
+[Borgatti, Stephen P.] Univ Kentucky, Lexington, KY 40506 USA.
+RP Everett, MG (corresponding author), Univ Manchester, Sch Social Sci, Mitchell Ctr Social Network Anal, Arthur Lewis Bldg,Bridgeford St, Manchester M13 9PL, Lancs, England.
+FU Leverhulme Trust [R116318]
+CR Unknown -, 2002, UCINET 6 FOR WINDOWS, V0, P0
+   Unknown -, 2008, ARMED GROUPS: STUDIES IN NATIONAL SECURITY, V0, P0
+   Unknown -, 2013, ANALYZING SOCIAL NETWORKS, V0, P0
+   BARON SW, 1993, SOC NETWORKS, V15, P255, DOI 10.1016/0378-8733(93)90008-9
+   Borgatti SP, 2009, SCIENCE, V6, P1
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Bouchard M, 2007, GLOB CRIME, V8, P325, DOI 10.1080/17440570701739702
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   Bright DA, 2015, ILLUMINATING DARK NE, V0, P0
+   Broccatelli C, 2016, METHODOL INNOV, V9, P1
+   Campana P, 2015, BR J CRIMINOL, V2005, P1
+   Carley Kathleen, 2002, CONNECTIONS, V24, P79
+   Davis Allison, 1941, DEEP SOUTH, V0, P0
+   Diani Mario, 2015, THE CEMENT OF CIVIL SOCIETY, V0, P0
+   Everett MG, 2016, METHODOL INNOV, V9, P205979911663066, DOI [10.1177/2059799116630662, DOI 10.1177/2059799116630662]
+   Everton SF, 2012, DISRUPTING DARK NETW, V0, P0
+   Faust K, 1997, SOC NETWORKS, V19, P157, DOI 10.1016/S0378-8733(96)00300-0
+   Freeman LC, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, V0, P39
+   FREEMAN LC, 1991, SOC NETWORKS, V13, P141, DOI 10.1016/0378-8733(91)90017-N
+   Gerdes LM, 2014, NETW SCI, V2, P213, DOI 10.1017/nws.2014.8
+   International Crisis Report, 2006, 114 INT CRIS REP, V0, P0
+   Kenney M, 2008, NIJ J, V0, P0
+   Khadka AG, 2013, 6 ANN POL NETW C IND, V0, P1
+   Malm A, 2011, J RES CRIME DELINQ, V48, P271, DOI 10.1177/0022427810391535
+   MCCARTHY B, 1995, SOC SCI RES, V24, P63, DOI 10.1006/ssre.1995.1003
+   McGloin JM, 2014, CRIME AND NETWORKS, V0, P13
+   Milward Brinton, 2006, INTERNATIONAL PUBLIC MANAGEMENT JOURNAL, V9, P333, DOI 10.1080/10967490600899747
+   Morselli C, 2006, CRIMINOLOGY, V44, P17, DOI 10.1111/j.1745-9125.2006.00041.x
+   North MJ, 2006, ACM T MODEL COMPUT S, V16, P1, DOI 10.1145/1122012.1122013
+   Raab J, 2003, J PUBL ADM RES THEOR, V13, P413, DOI 10.1093/jopart/mug029
+   Sageman M, 2004, UNDERSTANDING TERROR NETWORKS, V0, P1
+   Sarnecki J, 1990, J QUANT CRIMINOL, V6, P31, DOI [10.1007/BF01065288, DOI 10.1007/BF01065288]
+   Sarnecki Jerzy, 2001, DELINQUENT NETWORKS, V0, P0, DOI DOI 10.1017/CBO9780511489310
+   Shaw ME, 1971, GROUP DYNAMICS, V0, P0
+   SPARROW MK, 1991, SOC NETWORKS, V13, P251, DOI 10.1016/0378-8733(91)90008-H
+   STEPHENSON K, 1989, SOC NETWORKS, V11, P1, DOI 10.1016/0378-8733(89)90016-6
+   Sutherland Edwin, 1937, THE PROFESSIONAL THIEF, V0, P0
+   Varese F, 2013, EUR SOCIOL REV, V29, P899, DOI 10.1093/esr/jcs067
+   Walther Olivier J, 2014, TERRORISM POLITICAL, V26, P1
+   Xu J, 2003, INTELL SECUR INF, V958, P0
+NR 40
+TC 18
+Z9 0
+U1 1.0
+U2 34.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2018
+VL 55
+BP 63
+EP 73
+DI 10.1016/j.socnet.2018.05.003
+PG 11
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000444666300007
+PM 
+ER
+
+PT J
+AU Robins, G
+   Lusher, Dean
+   Broccatelli, Chiara
+   Bright, David
+   Gallagher, Colin
+   Karkavandi, Maedeh Aboutalebi
+   Matous, Petr
+   Coutinho, James
+   Wang, Peng
+   Koskinen, Johan
+   Roden, Bopha
+   Sadewo, Giovanni Radhitio Putra
+TI Multilevel network interventions: Goals, actions, and outcomes
+SO SOCIAL NETWORKS
+AB COVID-19 has resulted in dramatic and widespread social network interventions across the globe, with public health measures such as distancing and isolation key epidemiological responses to minimize transmission. Because these measures affect social interactions between people, the networked structure of daily lives is changed. Such largescale changes to social structures, present simultaneously across many different societies and touching many different people, give renewed significance to the conceptualization of social network interventions. As social network researchers, we need a framework for understanding and describing network interventions consistent with the COVID-19 experience, one that builds on past work but able to cast interventions across a broad societal framework. In this theoretical paper, we extend the conceptualization of social network interventions in these directions. We follow Valente (2012) with a tripartite categorization of interventions but add a multilevel dimension to capture hierarchical aspects that are a key feature of any society and implicit in any network. This multilevel dimension distinguishes goals, actions, and outcomes at different levels, from individuals to the whole of the society. We illustrate this extended taxonomy with a range of COVID-19 public health measures of different types and at multiple levels, and then show how past network intervention research in other domains can also be framed in this way. We discuss what counts as an effective network, an effective intervention, plausible causality, and careful selection and evaluation, as central to a full theory of network interventions.
+C1 [Robins, Garry; Lusher, Dean; Karkavandi, Maedeh Aboutalebi; Coutinho, James; Wang, Peng; Roden, Bopha; Sadewo, Giovanni Radhitio Putra] Swinburne Univ Technol, Melbourne, Australia.   
+[Robins, Garry; Gallagher, Colin; Koskinen, Johan] Univ Melbourne, Melbourne, Australia.   
+[Matous, Petr] Univ Sydney, Sydney, Australia.   
+[Broccatelli, Chiara] Univ Queensland, Brisbane, Australia.   
+[Bright, David] Deakin Univ, Geelong, Australia.
+RP Robins, G (corresponding author), Swinburne Univ Technol, Melbourne, Australia.
+FU Florida Institute for Built Environment Resilience
+CR Albott CS, 2020, ANESTH ANALG, V131, P43, DOI 10.1213/ANE.0000000000004912
+   Alexander C, 2001, J ADOLESCENT HEALTH, V29, P22, DOI 10.1016/S1054-139X(01)00210-5
+   An WH, 2015, SOC NETWORKS, V43, P48, DOI 10.1016/j.socnet.2015.03.006
+   An Weihua, 2011, THE SAGE HANDBOOK OF SOCIAL NETWORK ANALYSIS, V0, PP514, DOI DOI 10.4135/9781446294413
+   Unknown -, 2003, J. APPL. BEHAV. SCI, V0, P0
+   Aral Sinan, 2016, THE OXFORD HANDBOOK OF THE ECONOMICS OF NETWORKS, V0, P376
+   Argomaniz J, 2019, EUR J CRIMINOL, V16, P351, DOI 10.1177/1477370819829653
+   Barnes ML, 2017, ECOL SOC, V22, P0, DOI 10.5751/ES-09769-220416
+   Beaudry G, 2021, LANCET PSYCHIAT, V8, P759, DOI 10.1016/S2215-0366(21)00170-X
+   Bell DC, 1999, SOC NETWORKS, V21, P1, DOI 10.1016/S0378-8733(98)00010-0
+   Berardo R, 2010, AM J POLIT SCI, V54, P632, DOI 10.1111/j.1540-5907.2010.00451.x
+   BERGER M, 1980, YOUNG CHILDREN, V35, P22
+   Boda Z, 2020, SCI REP-UK, V10, P0, DOI 10.1038/s41598-020-59594-z
+   Bodin Ö, 2019, NAT SUSTAIN, V2, P551, DOI 10.1038/s41893-019-0308-0
+   Boettcher J, 2020, BMC FAM PRACT, V21, P0, DOI 10.1186/s12875-020-01312-9
+   Boman JH, 2017, CRIMINOL PUBLIC POL, V16, P753, DOI 10.1111/1745-9133.12307
+   Bramoullé Y, 2009, J ECONOMETRICS, V150, P41, DOI 10.1016/j.jeconom.2008.12.021
+   Brandes U, 2013, NETWORK SCIENCE, V1, P1, DOI [10.1017/NWS.2013.2, DOI 10.1017/NWS.2013.2]
+   Brennecke J, 2019, ACAD MANAGEMENT P 79, V0, P0
+   Bright D, 2020, STUD CONFL TERROR, V43, P638, DOI 10.1080/1057610X.2018.1494411
+   Bright DA, 2012, CRIME LAW SOCIAL CH, V57, P151, DOI 10.1007/s10611-011-9336-z
+   Buller AM, 2016, BMC PUBLIC HEALTH, V16, P0, DOI 10.1186/s12889-016-3129-3
+   Buller DB, 1999, JNCI-J NATL CANCER I, V91, P1491, DOI 10.1093/jnci/91.17.1491
+   Burt RS, 2004, AM J SOCIOL, V110, P349, DOI 10.1086/421787
+   BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667
+   Cacioppo JT, 2009, J PERS SOC PSYCHOL, V97, P977, DOI 10.1037/a0016076
+   Calderoni F, 2019, CRIME LAW SOCIAL CH, V72, P419, DOI 10.1007/s10611-019-09829-6
+   CALLOWAY M, 1993, SOC NETWORKS, V15, P377, DOI 10.1016/0378-8733(93)90013-B
+   Campbell R, 2008, LANCET, V371, P1595, DOI 10.1016/S0140-6736(08)60692-3
+   Castillo EG, 2019, CURR PSYCHIAT REP, V21, P0, DOI 10.1007/s11920-019-1017-0
+   Christakis NA, 2007, NEW ENGL J MED, V357, P370, DOI 10.1056/NEJMsa066082
+   Cialdini RB, 2004, ANNU REV PSYCHOL, V55, P591, DOI 10.1146/annurev.psych.55.090902.142015
+   Cilliers J, 2016, SCIENCE, V352, P787, DOI 10.1126/science.aad9682
+   Cluver L, 2016, BMC PUBLIC HEALTH, V16, P0, DOI 10.1186/s12889-016-3262-z
+   Coutinho JA, 2020, SOC NETWORKS, V63, P56, DOI 10.1016/j.socnet.2020.04.002
+   de la Haye K, 2019, J HEALTH SOC BEHAV, V60, P362, DOI 10.1177/0022146519870521
+   de la Haye K, 2013, J RES ADOLESCENCE, V23, P524, DOI 10.1111/jora.12045
+   DOREIAN P, 1982, SOCIOL METHOD RES, V10, P243, DOI 10.1177/0049124182010003001
+   Ellis BH, 2017, AM PSYCHOL, V72, P289, DOI 10.1037/amp0000065
+   ERBRING L, 1979, SOCIOL METHOD RES, V7, P396, DOI 10.1177/004912417900700404
+   Fafchamps M, 2015, REV ECON-FR, V66, P657, DOI 10.3917/reco.664.0657
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Frank O, 2007, J MATH SOCIOL, V31, P1, DOI 10.1080/00222500601011423
+   Friedkin NE, 1998, A STRUCTURAL THEORY OF SOCIAL INFLUENCE, V0, P0
+   FRIEDKIN NE, 1990, J MATH SOCIOL, V15, P193, DOI 10.1080/0022250X.1990.9990069
+   Funder DC, 2009, J RES PERS, V43, P120, DOI 10.1016/j.jrp.2008.12.041
+   Gerdes LM, 2015, ILLUMINATING DARK NETWORKS: THE STUDY OF CLANDESTINE GROUPS AND ORGANIZATIONS, V0, P0
+   Gray SM, 2019, PERS PSYCHOL, V72, P599, DOI 10.1111/peps.12337
+   Grund T, 2017, SOC NETWORKS, V51, P14, DOI 10.1016/j.socnet.2017.03.008
+   HARDIN G, 1968, SCIENCE, V162, P1243, DOI 10.1126/science.162.3859.1243
+   Hickert A, 2019, J RES CRIME DELINQ, V56, P563, DOI 10.1177/0022427819826302
+   Hoffman IF, 2013, AIDS BEHAV, V17, P2510, DOI 10.1007/s10461-013-0563-4
+   HOUSE R, 1995, RES ORGAN BEHAV, V17, P71
+   Hunter RF, 2019, PLOS MED, V16, P0, DOI 10.1371/journal.pmed.1002890
+   Kadushin C, 2005, SOC NETWORKS, V27, P139, DOI 10.1016/j.socnet.2005.01.005
+   Kashima Y, 2013, SOC NETWORKS, V35, P711, DOI 10.1016/j.socnet.2013.06.002
+   Katz E, 1955, PERSONAL INFLUENCE, V0, P0
+   Kaufman TML, 2020, INT. J. BULLYING PREV., V3, P75, DOI [10.1007/s42380-020-00064-5, DOI 10.1007/S42380-020-00064-5]
+   Keeling MJ, 2005, J R SOC INTERFACE, V2, P295, DOI 10.1098/rsif.2005.0051
+   Kenis P, 2020, PERSPECT PUBLIC MAN, V3, P109, DOI 10.1093/ppmgov/gvaa005
+   Koskinen J, 2022, ARXIV, V0, P0
+   Kozlowski SWJ, 2000, MULTILEVEL THEORY, V0, P3
+   Krebs VE, 2002, CONNECTIONS, V24, P43
+   Kremer M, 2008, J ECON PERSPECT, V22, P189, DOI 10.1257/jep.22.3.189
+   Latkin CA, 2015, BEHAV MED, V41, P90, DOI 10.1080/08964289.2015.1034645
+   Laumann EO, 1983, APPLIED NETWORK ANALYSIS: A METHODOLOGICAL INTRODUCTION, V0, P18
+   Lazega E, 2016, MULTILEVEL NETWORK ANALYSIS FOR THE SOCIAL SCIENCES: THEORY, V0, P0
+   Lazega E, 2008, SOC NETWORKS, V30, P159, DOI 10.1016/j.socnet.2008.02.001
+   LEAVITT HJ, 1951, J ABNORM SOC PSYCH, V46, P38, DOI 10.1037/h0057189
+   Litt MD, 2007, J CONSULT CLIN PSYCH, V75, P542, DOI 10.1037/0022-006X.75.4.542
+   Logan M, 2017, JOURNAL FOR DERADICALIZATION, V10, P147
+   Lomi A, 2011, SOC SCI RES, V40, P1506, DOI 10.1016/j.ssresearch.2011.06.010
+   LUNDIN RA, 1998, PROJECTS AS ARENAS FOR RENEWAL AND LEARNING PROCESSES, V0, PP13, DOI DOI 10.1007/978-1-4615-5691-62
+   Lyons R, 2011, ARXIV PREPRINT ARXIV, V2, P0, DOI [DOI 10.2202/2151-7509.1024, DOI 10.2202/2151]
+   MacArthur GJ, 2016, ADDICTION, V111, P391, DOI 10.1111/add.13224
+   Malm A, 2011, J RES CRIME DELINQ, V48, P271, DOI 10.1177/0022427810391535
+   MANSKI CF, 1993, REV ECON STUD, V60, P531, DOI 10.2307/2298123
+   Matous P, 2021, SOC NETWORKS, V66, P72, DOI 10.1016/j.socnet.2021.02.004
+   Matous P, 2021, SOC NETWORKS, V65, P110, DOI 10.1016/j.socnet.2020.12.008
+   Matous P, 2019, SOC NETWORKS, V56, P10, DOI 10.1016/j.socnet.2018.08.002
+   McEvily B, 2014, ACAD MANAG ANN, V8, P299, DOI 10.1080/19416520.2014.885252
+   Monge PR, 2003, THEORIES COMMUNICATI, V0, P0
+   Moreno JL, 1934, WHO SHALL SURVIVE? A NEW APPROACH TO THE PROBLEM OF HUMAN INTERRELATIONS, V0, P0, DOI [DOI 10.1037/10648-000, 10.1037/10648-000]
+   Morrissey JP, 1997, J MENT HEALTH ADMIN, V24, P4
+   MORRISSEY JP, 1994, COMMUNITY MENT HLT J, V30, P565, DOI 10.1007/BF02188593
+   Morselli C, 2009, STUD ORGANIZE CRIME, V8, P1, DOI 10.1007/978-0-387-09526-4
+   Morselli C, 2008, CRIMINOLOGY, V46, P71, DOI 10.1111/j.1745-9125.2008.00103.x
+   Morselli C, 2009, TRENDS ORGAN CRIME, V12, P145, DOI 10.1007/s12117-009-9065-1
+   Müller S, 2020, PR I-A I C AD S N A, V0, PP353, DOI 10.1109/ASONAM49781.2020.9381481
+   Nishi A, 2020, P NATL ACAD SCI USA, V117, P30285, DOI 10.1073/pnas.2014297117
+   ODwyer K, 2019, IRISH PROBAT J, V16, P0
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   Pescosolido BA, 2006, J HEALTH SOC BEHAV, V47, P189, DOI 10.1177/002214650604700301
+   Pescosolido BA, 2011, HANDB SOCIOL SOC RES, V0, PP39, DOI 10.1007/978-1-4419-7261-3, 3
+   Read JM, 2008, J R SOC INTERFACE, V5, P1001, DOI 10.1098/rsif.2008.0013
+   Robins Garry L, 2015, DOING SOCIAL NETWORK RESEARCH, V0, P0
+   Rogers EM, 1983, DIFFUSION INNOVATION, V0, P0, DOI DOI 10.1007/978-3-642-79868-9, 2
+   Rolls DA, 2012, J THEOR BIOL, V297, P73, DOI 10.1016/j.jtbi.2011.12.008
+   Rolls DA, 2013, SOC NETWORKS, V35, P699, DOI 10.1016/j.socnet.2013.06.003
+   Rolls DA, 2013, PLOS ONE, V8, P0, DOI 10.1371/journal.pone.0078286
+   Rousseau C, 2019, ARCH PUBLIC HEALTH, V77, P0, DOI 10.1186/s13690-019-0372-y
+   Rubin DB, 2005, J AM STAT ASSOC, V100, P322, DOI 10.1198/016214504000001880
+   RUBIN DB, 1974, J EDUC PSYCHOL, V66, P688, DOI 10.1037/h0037350
+   Sacerdote B, 2001, Q J ECON, V116, P681, DOI 10.1162/00335530151144131
+   Sarnecki J, 1999, COOFFENDING YOUTH NE, V0, P0
+   Schaefer DR, 2013, HEALTH EDUC BEHAV, V40, P24S, DOI 10.1177/1090198113493091
+   Shalizi CR, 2011, SOCIOL METHOD RES, V40, P211, DOI 10.1177/0049124111404820
+   Shannon CM, 2020, PREV MED, V130, P1
+   Siciliano MD, 2024, ARXIV, V0, P0
+   Skivington K, 2021, NIHR HLTH TECHNOL AS, V25, P0
+   Smit CR, 2021, PUBLIC HEALTH NUTR, V24, P2324, DOI 10.1017/S1368980020004802
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Srivastava SB, 2015, SOC FORCES, V94, P427, DOI 10.1093/sf/sov041
+   Stouten J, 2018, ACAD MANAG ANN, V12, P752, DOI 10.5465/annals.2016.0095
+   Sutherland EH, 1947, PRINCIPLES OF CRIMINOLOGY, V4th, P0
+   Toumbourou JW, 2019, HEALTH PSYCHOL, V38, P536, DOI 10.1037/hea0000735
+   Valente TW, 1995, NETWORK MODELS OF THE DIFFUSION OF INNOVATIONS, V0, P0
+   Valente TW, 2007, HEALTH EDUC BEHAV, V34, P881, DOI 10.1177/1090198106297855
+   Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330
+   Valente TW, 2003, AM J PUBLIC HEALTH, V93, P1837, DOI 10.2105/AJPH.93.11.1837
+   Valente TW, 1999, ANN AM ACAD POLIT SS, V566, P55, DOI 10.1177/0002716299566001005
+   VALENTE TW, 1995, SCI COMMUN, V16, P242, DOI 10.1177/1075547095016003002
+   Van Waes S, 2018, NETWORKED BY DESIGN: INTERVENTIONS FOR TEACHERS TO DEVELOP SOCIAL CAPITAL, V0, P44
+   van Waes S, 2017, THE TIES THAT TEACH. TEACHING NETWORKS IN HIGHER EDUCATION, V0, P0
+   Van Waes S, 2018, LEARN INSTR, V53, P34, DOI 10.1016/j.learninstruc.2017.07.005
+   VanderWeele TJ, 2016, INT J EPIDEMIOL, V45, P1904, DOI 10.1093/ije/dyw277
+   Veenstra R, 2022, CURR OPIN PSYCHOL, V44, P157, DOI 10.1016/j.copsyc.2021.09.015
+   Wang P, 2013, SOC NETWORKS, V35, P96, DOI 10.1016/j.socnet.2013.01.004
+   WHITE HC, 1981, AM J SOCIOL, V87, P517, DOI 10.1086/227495
+   Whyte J, 2021, PROJ MANAG J, V52, P237, DOI 10.1177/8756972821992246
+   Young LE, 2021, AM J PUBLIC HEALTH, V111, P514, DOI 10.2105/AJPH.2020.306063
+NR 131
+TC 8
+Z9 0
+U1 3.0
+U2 20.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2023
+VL 72
+BP 108
+EP 120
+DI 10.1016/j.socnet.2022.09.005
+PG 13
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000871117900003
+PM 36188126
+ER
+
+PT J
+AU Bright, D
+   Brewer, Russell
+   Morselli, Carlo
+TI Using social network analysis to study crime: Navigating the challenges of criminal justice records
+SO SOCIAL NETWORKS
+DE illicit networks; criminal networks; criminal justice records; offender databases; investigative records; prosecution files; court files;department inquiries and commissions
+AB The use of social network analysis to study groups of offenders engaged in illicit activities such as drug trafficking and terrorism has grown in popularity over the last three decades. Along with such growth, however, researchers have been confronted with a suite of challenges related to the use of data extracted from criminal justice records. In this paper, we review these challenges through a discussion of the extant empirical literature utilizing social network analysis approaches that draw data from the criminal justice system. First, we outline and discuss the different types of data used across this literature. Second, we chronicle the challenges that have emerged across the field of criminal networks via a comprehensive review of the literature. In particular, we draw on the documented experiences of researchers in the field, including our own, and detail "archeological" approaches that future researchers can utilize to adapt and overcome said challenges. The use of criminal justice records can suffer from a number of limitations, mainly with respect to accuracy, validity and reliability. Such data may include errors, both intentional (e.g. aliases, false information) and unintentional (e.g. transcription errors), including missing data. The use of criminal justice records present particular problems with defining the network boundary as the boundary as determined by law enforcement or prosecution agencies may not correspond to the boundary as defined by network members. We conclude by offering a number of recommendations for researchers about data collection and preparation when utilizing criminal justice records.
+C1 [Bright, David] Flinders Univ S Australia, Ctr Crime Policy & Res, Adelaide, SA, Australia.   
+[Brewer, Russell] Univ Adelaide, Sch Social Sci, Adelaide, SA, Australia.   
+[Morselli, Carlo] Univ Montreal, Int Ctr Comparat Criminol, Sch Criminol, Montreal, PQ, Canada.
+RP Bright, D (corresponding author), Flinders Univ S Australia, Ctr Crime Policy & Res, Adelaide, SA, Australia.
+FU Leverhulme Trust
+CR Agreste S, 2016, INFORM SCIENCES, V351, P30, DOI 10.1016/j.ins.2016.02.027
+   Unknown -, 2015, CRIME PREVENTION STUDIES, V0, P0
+   Athey NC, 2013, GLOB CRIME, V14, P216, DOI 10.1080/17440572.2013.790312
+   Becker Howard, 1973, OUTSIDERS: STUDIES IN THE SOCIOLOGY OF DEVIANCE, V0, P0
+   Belli R, 2015, DYNAMICS OF ASYMMETRIC CONFLICT, V8, P263, DOI DOI 10.1080/17467586.2015.1104420
+   Berlusconi G, 2013, GLOB CRIME, V14, P61, DOI 10.1080/17440572.2012.746940
+   Bichler G, 2019, CRIME DELINQUENCY, V65, P875, DOI 10.1177/0011128717739607
+   Blanchette J, 2014, 2014 4TH JOINT WORKSHOP ON HANDS-FREE SPEECH COMMUNICATION AND MICROPHONE ARRAYS (HSCMA), V0, PP87, DOI 10.1109/HSCMA.2014.6843257
+   Borgatti SP, 2006, SOC NETWORKS, V28, P466, DOI 10.1016/j.socnet.2005.11.005
+   Bouchard M, 2016, OXFORD HDB ONLINE, V0, P0
+   Brewer R, 2017, REGULATORY THEORY: FOUNDATIONS AND APPLICATIONS, V0, P447
+   Bright D, 2015, PREVENTING CRIME NET, V0, P0
+   Bright DA, 2014, CRIME AND NETWORKS, V0, P148
+   Bright D, 2020, STUD CONFL TERROR, V43, P638, DOI 10.1080/1057610X.2018.1494411
+   Bright D, 2019, J QUANT CRIMINOL, V35, P237, DOI 10.1007/s10940-018-9379-8
+   Bright D, 2017, GLOB CRIME, V18, P424, DOI 10.1080/17440572.2017.1377614
+   Bright DA, 2015, GLOB CRIME, V16, P219, DOI 10.1080/17440572.2015.1039164
+   Bright DA, 2013, GLOB CRIME, V14, P238, DOI 10.1080/17440572.2013.787927
+   Bright DA, 2015, J CONTEMP CRIM JUST, V31, P262, DOI 10.1177/1043986214553378
+   Bright DA, 2012, CRIME LAW SOCIAL CH, V57, P151, DOI 10.1007/s10611-011-9336-z
+   Bright DA, 2010, INT J DRUG POLICY, V21, P359, DOI 10.1016/j.drugpo.2009.12.001
+   Burcher M, 2015, GLOB CRIME, V16, P104, DOI 10.1080/17440572.2015.1005363
+   Calderoni F, 2014, DISRUPTING CRIMINAL, V0, P89
+   Calderoni F, 2014, CRIME NETWORKS CRIMI, V0, P0
+   Calderoni F, 2012, CRIME LAW SOCIAL CH, V58, P321, DOI 10.1007/s10611-012-9387-9
+   Campana P, 2018, EUR J CRIMINOL, V15, P481, DOI 10.1177/1477370817749179
+   Campana P, 2016, BRIT J CRIMINOL, V56, P68, DOI 10.1093/bjc/azv027
+   Campana P, 2012, TRENDS ORGAN CRIME, V15, P13, DOI 10.1007/s12117-011-9131-3
+   Carley K, 2015, ILLUMINATING DARK NE, V0, P103
+   Cockbain E, 2011, POLIC-J POLICY PRACT, V5, P144, DOI 10.1093/police/par025
+   Costa J, 2017, GLOB CRIME, V18, P353, DOI 10.1080/17440572.2017.1332594
+   De Moor S, 2018, EUR J CRIMINOL, V15, P632, DOI 10.1177/1477370817749499
+   Decary-Hetu D, 2014, CRIME NETWORKS, V0, PP218, DOI DOI 10.4324/9781315885018-16
+   Décary-Hétu D, 2012, GLOB CRIME, V13, P160, DOI 10.1080/17440572.2012.702523
+   Denton E, 2016, J HUMAN TRAFFICKING, V2, P32, DOI DOI 10.1080/23322705.2016.1136540
+   Duijn PAC, 2014, NETWORKS AND NETWORK ANALYSIS FOR DEFENCE AND SECURITY, V0, PP121, DOI [DOI 10.1007/978-3-319-04147-6, 6, 10.1007/978-3-319-04147-66, DOI 10.1007/978-3-319-04147-66]
+   Duijn PAC, 2014, SCI REP-UK, V4, P0, DOI 10.1038/srep04238
+   Dupont B, 2014, CRIME AND NETWORKS, V0, P195
+   Englefield A, 2017, INT J SOC SCI STUD, V5, P0
+   Faust K, 2019, ANNU REV CRIMINOL, V2, P99, DOI 10.1146/annurev-criminol-011518-024701
+   Fitzgerald G, 1989, REPORT COMMISSION IN, V0, P0
+   Framis AG-S, 2014, CRIME AND NETWORKS, V0, P131
+   Gallupe O, 2016, WILEY HDB MEASUREMEN, V0, P555
+   Grund TU, 2015, J CONTEMP CRIM JUST, V31, P354, DOI 10.1177/1043986214553377
+   Harris-Hogan S, 2013, BEHAV SCI TERROR POL, V5, P137, DOI 10.1080/19434472.2012.727096
+   Hashimi S, 2017, POLICING, V40, P768, DOI 10.1108/PIJPSM-06-2016-0079
+   Helfstein S, 2011, J CONFLICT RESOLUT, V55, P785, DOI 10.1177/0022002710393919
+   Hofmann DC, 2015, GLOB CRIME, V16, P123, DOI 10.1080/17440572.2015.1008627
+   Hughes CE, 2017, SOC NETWORKS, V51, P135, DOI 10.1016/j.socnet.2016.11.004
+   Iwanski N, 2014, CRIME AND NETWORKS, V0, P0
+   Jones NP, 2020, TRENDS ORGAN CRIME, V23, P154, DOI 10.1007/s12117-018-9352-9
+   Kenney M, 2015, ILLUMINATING DARK NE, V0, PP52, DOI [10.1017/CBO9781316212639.005, DOI 10.1017/CBO9781316212639.005]
+   Knoke D, 1982, NETWORK ANAL, V0, P0
+   Koskinen JH, 2013, SOC NETWORKS, V35, P514, DOI 10.1016/j.socnet.2013.07.003
+   Laengle S, 2013, SECUR INF, V2, P1, DOI DOI 10.1186/2190-8532-2-4
+   Lauchs M, 2012, CRIME LAW SOCIAL CH, V57, P195, DOI 10.1007/s10611-011-9337-y
+   Lauchs M, 2011, POLIC SOC, V21, P110, DOI 10.1080/10439463.2010.540656
+   LeClerc B, 2017, CRIME PREVENTION 21, V0, P187
+   Leuprecht C, 2014, CRIMINOLOGY CRIMINAL, V15, P57
+   Mainas ED, 2012, INTERNATIONAL JOURNAL OF POLICE SCIENCE MANAGEMENT, V14, P264
+   Malm A, 2013, TRENDS ORGAN CRIME, V16, P365, DOI 10.1007/s12117-013-9205-5
+   Malm A, 2011, GLOB CRIME, V12, P112, DOI 10.1080/17440572.2011.567832
+   Malm A, 2011, J RES CRIME DELINQ, V48, P271, DOI 10.1177/0022427810391535
+   Malm A, 2010, SECUR J, V23, P52, DOI 10.1057/sj.2009.18
+   Malm AE, 2008, SECUR J, V21, P77, DOI 10.1057/palgrave.sj.8350069
+   Mancuso M, 2014, TRENDS ORGAN CRIME, V17, P66, DOI 10.1007/s12117-013-9199-z
+   McCuish EC, 2015, J CONTEMP CRIM JUST, V31, P319, DOI 10.1177/1043986214553375
+   Meyers TJ, 2017, CRIME LAW SOCIAL CH, V68, P251, DOI 10.1007/s10611-017-9689-z
+   Morselli C, 2009, STUD ORGANIZE CRIME, V8, P1, DOI 10.1007/978-0-387-09526-4
+   Morselli C, 2002, CAN J CRIMINOL, V44, P255
+   Morselli C, 2010, J. CONTEMP. CRIM. JUSTICE, V26, P382, DOI [10.1177/1043986210377105, DOI 10.1177/1043986210377105]
+   Morselli C, 2015, DISRUPTING CRIMINAL, V0, PP47, DOI DOI 10.1515/9781626372573-005
+   Morselli C, 2007, GLOB CRIME, V8, P109, DOI 10.1080/17440570701362208
+   Morselli C, 2008, CRIMINOLOGY, V46, P71, DOI 10.1111/j.1745-9125.2008.00103.x
+   Morselli C, 2007, SOC NETWORKS, V29, P143, DOI 10.1016/j.socnet.2006.05.001
+   Morselli C, 2006, CRIME LAW SOCIAL CH, V45, P185, DOI 10.1007/s10611-006-9034-4
+   Morselli C, 2014, ANN AM ACAD POLIT SS, V653, P247, DOI 10.1177/0002716214521995
+   Morselli C, 2009, TRENDS ORGAN CRIME, V12, P145, DOI 10.1007/s12117-009-9065-1
+   Natarajan M, 2000, CRIME PREV STUDIES, V11, P273
+   Natarajan M, 2006, J QUANT CRIMINOL, V22, P171, DOI 10.1007/s10940-006-9007-x
+   Ouellet M, 2018, DEVIANT BEHAV, V39, P1467, DOI 10.1080/01639625.2018.1481678
+   Papachristos AV, 2013, CRIME AND NETWORKS, V0, PP97, DOI 10.2139/ssrn.2159899
+   Papachristos AV, 2015, CRIMINOLOGY, V53, P624, DOI 10.1111/1745-9125.12091
+   Randle J, 2017, CRIME PREVENTION 21, V0, PP165, DOI DOI 10.1007/978-3-319-27793-6, 12
+   Rostami A, 2019, TRENDS ORGAN CRIME, V22, P34, DOI 10.1007/s12117-017-9310-y
+   Rostami A, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0119309
+   Smith CM, 2016, AM SOCIOL REV, V81, P644, DOI 10.1177/0003122416650149
+   Smith JA, 2013, SOC NETWORKS, V35, P652, DOI 10.1016/j.socnet.2013.09.003
+   SPARROW MK, 1991, SOC NETWORKS, V13, P251, DOI 10.1016/0378-8733(91)90008-H
+   van Mastrigt SB, 2014, CRIME AND NETWORKS, V0, P28
+   Wolfe AW, 1997, AM ETHNOL, V24, P219, DOI 10.1525/ae.1997.24.1.219
+NR 91
+TC 41
+Z9 0
+U1 4.0
+U2 31.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2021
+VL 66
+BP 50
+EP 64
+DI 10.1016/j.socnet.2021.01.006
+PG 15
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000648645200005
+PM 
+ER
+
+PT J
+AU Basov, N
+   Kholodova, Darya
+TI Networks of context: Three-layer socio-cultural mapping for a <i>Verstehende</i> network analysis
+SO SOCIAL NETWORKS
+DE verstehende network analysis; three-layer socio-cultural network;network data; mixed method; cultural context
+AB What social ties are and how they operate depends on the cultural context constitutive of their meaning. Pursuing an explanatory account for the cultural embeddedness of social ties, we draw on Verstehende sociology and rely on indepth insight into subjective perceptions developed by social network actors throughout their practice to represent symbolic and material contexts of social ties structurally. We put forward a new mixed data collection and processing approach that ethnographically maps interconnected three-layer socio-cultural networks of individuals, signs, and material objects. Opening cultural contexts to application of formal and statistical techniques, this approach allows for an interpretive explanation of social ties. Illustrating the approach with our own longitudinal study of five European art groups, we discuss the peculiarities of three-layer socio-cultural data collection and processing, the new discoveries enabled, the challenges encountered, the solutions we came up with, and the utility of this approach for conducting Verstehende network analysis in various fields of application.
+C1 [Basov, Nikita; Kholodova, Darya] St Petersburg State Univ, Ctr German & European Studies, St Petersburg, Russia.
+RP Basov, N (corresponding author), Univ Skaya 7-9, St Petersburg, Russia.
+FU Russian Science Foundation [19-18-00394]; Russian Foundation for Basic
+CR Unknown -, 1983, SOCIOLOGICAL THEORY, V0, P0, DOI 10.2307/202050]
+   Unknown -, 2007, ART NETWORK STRATEGI, V0, P0
+   Unknown -, 2008, RESEARCHING SOCIAL LIFE, V0, P0
+   Antonyuk Artem, 2021, NETWORKS IN THE GLOBAL WORLD V. PROCEEDINGS OF NETGLOW 2020. LECTURE NOTES IN NETWORKS AND SYSTEMS (LNNS 181), V0, PP101, DOI 10.1007/978-3-030-64877-0, 7
+   Basov N, 2019, AC MAN P, V0, P13720
+   Basov N, 2020, POETICS, V78, P0, DOI 10.1016/j.poetic.2020.101433
+   Basov N, 2020, POETICS, V78, P0, DOI 10.1016/j.poetic.2019.02.004
+   Basov N, 2021, AM J CULT SOCIOL, V9, P376, DOI 10.1057/s41290-019-00084-9
+   Basov N, 2018, SOC NETWORKS, V54, P179, DOI 10.1016/j.socnet.2018.02.003
+   Basov N, 2017, STUD COMPUT INTELL, V693, P785, DOI 10.1007/978-3-319-50901-3, 62
+   Bellotti E, 2016, SOCIOL RES ONLINE, V21, P0, DOI 10.5153/sro.3936
+   Bellotti E, 2016, J CONSUM CULT, V16, P718, DOI 10.1177/1469540514536191
+   Bellotti Elisa, 2014, QUALITATIVE NETWORKS, V0, P0
+   Bennett EA, 2013, AM J SOCIOL, V119, P518, DOI 10.1086/674006
+   Birch M, 2012, ETHICS IN QUALITATIVE RESEARCH, V2nd, P0
+   BOURDIEU P, 1983, POETICS, V12, P311, DOI 10.1016/0304-422X(83)90012-8
+   Breiger RL, 2015, INTERNATIONAL ENCYCLOPEDIA OF SOCIAL AND BEHAVIORAL SCIENCES, V5, P557
+   Brint S, 1992, SOCIOLOGICAL THEORY, V0, P194
+   CARLEY K, 1994, POETICS, V22, P291, DOI 10.1016/0304-422X(94)90011-6
+   CARLEY K, 1991, AM SOCIOL REV, V56, P331, DOI 10.2307/2096108
+   CARLEY K, 1986, J MATH SOCIOL, V12, P137, DOI 10.1080/0022250X.1986.9990010
+   Conti N, 2010, SOC NETWORKS, V32, P30, DOI 10.1016/j.socnet.2009.08.001
+   Crossley N, 2016, SOCIOL RES ONLINE, V21, P0, DOI 10.5153/sro.3920
+   Crossley N, 2010, SOCIOLOGICA, V0, P0, DOI 10.2383/32049
+   de Nooy W, 2005, STRUCT DYN, V1, P0
+   de Nooy Wouter, 2009, METHODOLOGICAL INNOVATIONS ONLINE, V4, P39, DOI DOI 10.1177/205979910900400105
+   Desmond M, 2014, THEOR SOC, V43, P547, DOI 10.1007/s11186-014-9232-5
+   Dominguez S, 2014, STRUC AN S, V0, PP1, DOI 10.1017/CBO9781139227193
+   Elmer T, 2019, BEHAV RES METHODS, V51, P2120, DOI 10.3758/s13428-018-1180-y
+   EMIRBAYER M, 1994, AM J SOCIOL, V99, P1411, DOI 10.1086/230450
+   Emmel Nick, 2009, THE METHODS USED IN CONNECTED LIVES: INVESTIGATING NETWORKS, V0, P0
+   Farrell MichaelP, 2003, COLLABORATIVE CIRCLE, V0, P0
+   Fine GA, 2012, RUSSELL SAGE TRUST, V0, P1
+   Fuhse J, 2011, QUAL QUANT, V45, P1067, DOI 10.1007/s11135-011-9492-3
+   Fuhse JA, 2009, SOCIOL THEOR, V27, P51, DOI 10.1111/j.1467-9558.2009.00338.x
+   Godart FC, 2010, POETICS, V38, P567, DOI 10.1016/j.poetic.2010.09.003
+   HALL JR, 1981, HUM STUD, V4, P131
+   Herz A, 2014, FORUM QUAL SOC RES, V16, P0
+   Hogan B, 2007, FIELD METHOD, V19, P116, DOI 10.1177/1525822X06298589
+   Johnson JC, 2003, J MATH SOCIOL, V27, P89, DOI 10.1080/00222500305890
+   KILLWORTH PD, 1976, HUM ORGAN, V35, P269, DOI 10.17730/humo.35.3.10215j2m359266n2
+   Kogovsek T, 2013, SOC NETWORKS, V35, P1, DOI 10.1016/j.socnet.2012.10.002
+   KRACKHARDT D, 1990, AM ANTHROPOL, V92, P142, DOI 10.1525/aa.1990.92.1.02a00100
+   Lee M, 2018, POETICS, V68, P18, DOI 10.1016/j.poetic.2018.01.001
+   Lee M, 2015, AM J CULT SOCIOL, V3, P1, DOI 10.1057/ajcs.2014.13
+   Martin JL, 2002, AM J SOCIOL, V107, P861, DOI 10.1086/343192
+   McNely B, 2012, COMMUNICATION DESIGN, V1, P27, DOI [DOI 10.1145/2448917.2448923, 10.1145/2448917.2448923]
+   Miller T, 2002, IN ETHICS IN QUALITATIVE RESEARCH, V0, P61
+   Mische Ann, 2003, SOCIAL MOVEMENTS AND NETWORKS: RELATIONAL APPROACHES TO COLLECTIVE ACTION, V0, P258
+   Mohr JW, 2008, THEOR SOC, V37, P485, DOI 10.1007/s11186-008-9066-0
+   Mohr JW, 2000, POETICS, V27, P57, DOI 10.1016/S0304-422X(00)00002-4
+   Mohr JW, 1998, ANNU REV SOCIOL, V24, P345, DOI 10.1146/annurev.soc.24.1.345
+   Moreno JL, 1934, NERVOUS MENTAL DIS M, V0, P0
+   Mutzel Sophie, 2020, THE OXFORD HANDBOOK OF SOCIAL NETWORKS, V0, P392
+   Pahl Ray, 2004, SOCIAL NETWORKS AND SOCIAL EXCLUSION, V0, P72
+   Rawlings CM, 2019, AM J SOCIOL, V124, P1763
+   Riggins SH, 1990, BEYOND GOFFMAN: STUDIES ON COMMUNICATION, V0, P0
+   Robins Garry L, 2015, DOING SOCIAL NETWORK RESEARCH, V0, P0
+   Schultz J, 2010, POETICS, V38, P610, DOI 10.1016/j.poetic.2010.09.002
+   Schutz A, 1962, COLLECTED PAPERS I: THE PROBLEM OF SOCIAL REALITY, V0, P0, DOI DOI 10.1007/978-94-010-2851-6, 1
+   Schutz Alfred, 1972, THE PHENOMENOLOGY OF THE SOCIAL WORLD, V0, P0
+   Sinclair J, 1991, CORPUS, V0, P0
+   Torlo VJ, 2017, SOC FORCES, V96, P389, DOI 10.1093/sf/sox040
+   Umphress EE, 2003, ORGAN SCI, V14, P738, DOI 10.1287/orsc.14.6.738.24865
+   WEBER M, 1981, SOCIOL QUART, V22, P151, DOI 10.1111/j.1533-8525.1981.tb00654.x
+   Weber M, 1991, NATURE SOCIAL ACTION, V0, P3
+   Weber M, 1978, ECONOMY AND SOCIETY, V0, P0, DOI DOI 10.1086/657562
+   White HC, 1992, IDENTITY AND CONTROL: A STRUCTURAL THEORY OF SOCIAL ACTION, V0, P0
+   White HarrisonC, 1993, CAREERS CREATIVITY S, V0, P0
+NR 69
+TC 9
+Z9 0
+U1 1.0
+U2 8.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2022
+VL 69
+BP 84
+EP 101
+DI 10.1016/j.socnet.2021.03.003
+PG 18
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000777556900009
+PM 
+ER
+
+PT J
+AU Block, P
+   Koskinen, Johan
+   Hollway, James
+   Steglich, Christian
+   Stadtfeld, Christoph
+TI Change we can believe in: Comparing longitudinal network models on consistency, interpretability and predictive power
+SO SOCIAL NETWORKS
+DE saom; ergm; tergm; longitudinal network models; network evolution;out-of-sample testing; parameter interpretation; auto-regressive network models; process-based network models
+AB While several models for analysing longitudinal network data have been proposed, their main differences, especially regarding the treatment of time, have not been discussed extensively in the literature. However, differences in treatment of time strongly impact the conclusions that can be drawn from data. In this article we compare auto-regressive network models using the example of TERGMs - a temporal extensions of ERGMs - and process-based models using SAOs as an example. We conclude that the TERGM has, in contrast to the ERGM, no consistent interpretation on tie-level probabilities, as well as no consistent interpretation on processes of network change. Further, parameters in the TERGM are strongly dependent on the interval length between two time-points. Neither limitation is true for process -based network models such as the SAOM. Finally, both compared models perform poorly in out-of-sample prediction compared to trivial predictive models. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Block, Per; Stadtfeld, Christoph] Swiss Fed Inst Technol, Chair Social Networks, Zurich, Switzerland.   
+[Koskinen, Johan] Univ Manchester, Mitchell Ctr SNA, Manchester M13 9PL, Lancs, England.   
+[Koskinen, Johan] Univ Manchester, Social Stat Discipline Area, Manchester M13 9PL, Lancs, England.   
+[Hollway, James] Grad Inst Geneva, Dept Int Relat Polit Sci, Geneva, Switzerland.   
+[Steglich, Christian] Linkoping Univ, Inst Analyt Sociol, Linkoping, Sweden.   
+[Steglich, Christian] Univ Groningen, Dept Sociol ICS, Groningen, Netherlands.
+RP Block, P (corresponding author), Swiss Fed Inst Technol, Chair Social Networks, Zurich, Switzerland.
+CR Unknown -, 2005, MODELS AND METHODS IN SOCIAL NETWORK ANALYSIS, V0, P0
+   Athey S, 2017, SCIENCE, V355, P483, DOI 10.1126/science.aal4321
+   Block P, 2016, SOCIOL METH IN PRESS, V0, P0
+   Breiman L, 2001, STAT SCI, V16, P199, DOI 10.1214/ss/1009213726
+   Desmarais BA, 2012, POLICY STUD J, V40, P402, DOI 10.1111/j.1541-0072.2012.00459.x
+   Elster J, 2007, EXPLAINING SOCIAL BEHAVIOUR: MORE NUTS AND BOLTS FOR THE SOCIAL SCIENCES, V0, P0
+   Epstein JM, 2008, JASSS-J ARTIF SOC S, V11, P0
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Gneiting T, 2007, J R STAT SOC B, V69, P243, DOI 10.1111/j.1467-9868.2007.00587.x
+   Hamill TM, 2001, MON WEATHER REV, V129, P550, DOI 10.1175/1520-0493(2001)129<0550:IORHFV>2.0.CO;2
+   Hanneke S, 2010, ELECTRON J STAT, V4, P585, DOI 10.1214/09-EJS548
+   Hedstrdm P, 2005, DISSECTING SOCIAL PR, V0, P0
+   HOLLAND PW, 1977, J MATH SOCIOL, V5, P5, DOI 10.1080/0022250X.1977.9989862
+   Hollway J, 2016, SOC NETWORKS, V44, P281, DOI 10.1016/j.socnet.2015.03.001
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Hunter DR, 2006, J COMPUT GRAPH STAT, V15, P565, DOI 10.1198/106186006X133069
+   Hunter DR, 2008, J STAT SOFTW, V24, P0, DOI [DOI 10.18637/JSS.V024.I03, 10.18637/jss.v024.i03]
+   Jasso Guillermina, 1988, SOCIOL THEOR, V6, P1, DOI DOI 10.2307/201910
+   Koskinen J, 2015, NETW SCI, V3, P58, DOI 10.1017/nws.2015.3
+   Koskinen JH, 2007, J STAT PLAN INFER, V137, P3930, DOI 10.1016/j.jspi.2007.04.011
+   Krivitsky PN, 2014, J ROY STAT SOC B, V76, P29, DOI 10.1111/rssb.12014
+   LEENDERS RTAJ, 1995, J MATH SOCIOL, V20, P1, DOI 10.1080/0022250X.1995.9990149
+   Leifeld P, 2016, WORKING PAPER, V0, P0
+   Lerner J, 2013, J MATH PSYCHOL, V57, P275, DOI 10.1016/j.jmp.2012.03.002
+   Lospinoso J, 2012, THESIS, V0, P0
+   Lü LY, 2011, PHYSICA A, V390, P1150, DOI 10.1016/j.physa.2010.11.027
+   Lusher D, 2013, THEORY, V0, P0
+   McFarland DA, 2014, AM SOCIOL REV, V79, P1088, DOI 10.1177/0003122414554001
+   Pattison P, 1999, BRIT J MATH STAT PSY, V52, P169, DOI 10.1348/000711099159053
+   Pattison P, 2013, EXPONENTIAL RANDOM GRAPH MODELS FOR SOCIAL NETWORKS, V0, P287
+   Ripley R, 2016, MANUAL FOR RSIENA, V0, P0
+   Robins G, 2005, AM J SOCIOL, V110, P894, DOI 10.1086/427322
+   Robins G, 2001, J MATH SOCIOL, V25, P5, DOI 10.1080/0022250X.2001.9990243
+   Salter-Townshend M, 2012, STATISTICAL ANALYSIS AND DATA MINING, V5, P243, DOI 10.1002/sam.11146
+   Schweinberger M, 2012, BRIT J MATH STAT PSY, V65, P263, DOI 10.1111/j.2044-8317.2011.02022.x
+   Shalizi CR, 2013, ANN STAT, V41, P508, DOI 10.1214/12-AOS1044
+   Snijders T, 2013, EXPONENTIAL RANDOM GRAPH MODELS FOR SOCIAL NETWORKS: THEORY, V0, P0, DOI [10.1017/CBO9780511894701, DOI 10.1017/CBO9780511894701]
+   Snijders TAB, 2012, MULTILEVEL ANAL INTR, V2nd, P0
+   Snijders TAB, 2001, SOCIOL METHOD RES, V30, P3, DOI 10.1177/0049124101030001001
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snijders TAB, 2010, ANN APPL STAT, V4, P567, DOI 10.1214/09-AOAS313
+   Snijders TAB, 2010, SOC NETWORKS, V32, P44, DOI 10.1016/j.socnet.2009.02.004
+   Steglich C, 2012, SOC NETWORKS, V34, P359, DOI 10.1016/j.socnet.2010.07.001
+   Steglich C, 2010, SOCIOL METHODOL, V40, P329, DOI 10.1111/j.1467-9531.2010.01225.x
+   van Duijn MAJ, 2004, STAT NEERL, V58, P234
+   Voelkle MC, 2012, PSYCHOL METHODS, V17, P176, DOI 10.1037/a0027543
+   Wang P, 2014, MPNET MELBOURNE SCH, V0, P0
+   WASSERMAN S, 1980, J AM STAT ASSOC, V75, P280, DOI 10.2307/2287447
+NR 48
+TC 63
+Z9 0
+U1 18.0
+U2 87.0
+J9 SOCIAL NETWORKS
+PD JAN
+PY 2018
+VL 52
+BP 180
+EP 191
+DI 10.1016/j.socnet.2017.08.001
+PG 12
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000416496300017
+PM 
+ER
+
+PT J
+AU Basov, N
+TI Socio-material network analysis: A mixed method study of five European artistic collectives
+SO SOCIAL NETWORKS
+DE socio-material network; physical object; object usage; material structure; two-mode approach; exponential random graph model; mixed method
+AB In this paper, I argue that we can better understand the relationship between social structure and materiality by combining qualitative analysis of practices in shared physical space with statistical analysis. Drawing on the two-mode approach, I treat social and material structures together with the relationship between them as a two-level socio-material network. In a mixed method study, formalized ethnographic data on such networks in five European artistic collectives are subjected to multilevel exponential random graph modelling. It sheds light on how different kinds of interpersonal ties condition the engagement of individuals with similar materiality over time. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Basov, Nikita] St Petersburg State Univ, Ctr German & European Studies, Univ Skaya 7-9, St Petersburg 199034, Russia.
+RP Basov, N (corresponding author), St Petersburg State Univ, Ctr German & European Studies, Univ Skaya 7-9, St Petersburg 199034, Russia.
+FU Russian Foundation for Humanities [15-03-00722]; Russian Foundation for
+CR Akers RL, 1985, DEVIANT BEHAVIOR: A SOCIAL LEARNING APPROACH, V3rd, P0
+   Unknown -, 1954, FREEDOM AND CONTROL IN MODERN SOCIETY, V0, P0, DOI DOI 10.1007/978-3-658-21742-676
+   Unknown -, 1955, CONFLICT AND THE WEB OF GROUP AFFILIATIONS, V0, P0
+   Unknown -, 2016, STUDIES COMPUTATIONA, V0, P0
+   Unknown -, 2002, JOURNAL OF SOCIAL STRUCTURE, V0, P0
+   Balkundi P, 2006, ACAD MANAGE J, V49, P49, DOI [10.5465/AMJ.2006.20785500, 10.2307/20159745]
+   Berns S, 2016, J MAT CULT, V21, P153, DOI 10.1177/1359183515615896
+   Borgatti SP, 2003, J MANAGE, V29, P991, DOI 10.1016/S0149-2063(03)00087-4
+   Bourdieu P, 1990, OTHER WORDS, V0, P0
+   Bourdieu Pierre, 2004, SCIENCE OF SCIENCE AND REFLEXIVITY, V0, P0
+   BREIGER RL, 1986, SOC NETWORKS, V8, P215, DOI 10.1016/0378-8733(86)90006-7
+   Breiger RL, 2000, POETICS, V27, P91, DOI 10.1016/S0304-422X(99)00026-1
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   Breiger Ronald L, 2015, INT ENCY SOCIAL BEHA, V0, P0
+   Brennecke J, 2017, RES POLICY, V46, P768, DOI 10.1016/j.respol.2017.02.002
+   CARLEY K, 1986, INSTR SCI, V14, P381, DOI 10.1007/BF00051829
+   CARLEY K, 1991, AM SOCIOL REV, V56, P331, DOI 10.2307/2096108
+   Carley K, 2013, ORA USERS GUIDE, V0, P0
+   CARLOZZI AF, 1995, J PSYCHOL, V129, P365, DOI 10.1080/00223980.1995.9914974
+   COHEN J, 1978, PAC SOCIOL REV, V21, P441
+   Comunian R, 2011, URBAN STUD, V48, P1157, DOI 10.1177/0042098010370626
+   Craig A, 2011, J MAT CULT, V16, P47, DOI 10.1177/1359183510394943
+   Crossley N, 2009, POETICS, V37, P24, DOI 10.1016/j.poetic.2008.10.002
+   De Nooy W, 2002, POETICS, V30, P147, DOI 10.1016/S0304-422X(01)00044-4
+   De Nooy W, 1999, POETICS, V26, P385, DOI 10.1016/S0304-422X(99)00009-1
+   DIMAGGIO P, 1978, THEOR SOC, V5, P141, DOI 10.1007/BF01702159
+   DIMAGGIO P, 1987, AM SOCIOL REV, V52, P440, DOI 10.2307/2095290
+   Erickson BH, 1988, SOCIAL STRUCTURES NE, V0, P99
+   Erickson BH, 1996, AM J SOCIOL, V102, P217, DOI 10.1086/230912
+   Fang RL, 2015, ORGAN SCI, V26, P1243, DOI 10.1287/orsc.2015.0972
+   FARARO TJ, 1984, SOC NETWORKS, V6, P141, DOI 10.1016/0378-8733(84)90015-7
+   Farrell MichaelP, 2003, COLLABORATIVE CIRCLE, V0, P0
+   Fuhse J, 2011, QUAL QUANT, V45, P1067, DOI 10.1007/s11135-011-9492-3
+   Godart FC, 2009, SOC FORCES, V88, P671, DOI 10.1353/sof.0.0266
+   Griswold W, 2013, QUAL SOCIOL, V36, P343, DOI 10.1007/s11133-013-9264-6
+   Haynie DL, 2001, AM J SOCIOL, V106, P1013, DOI 10.1086/320298
+   Heider F, 1958, PSYCHOL INTERPERSONA, V0, P0
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   IBARRA H, 1995, ACAD MANAGE J, V38, P673, DOI 10.5465/256742
+   Jarness V, 2015, POETICS, V53, P65, DOI 10.1016/j.poetic.2015.08.002
+   Kalish Y, 2013, EXPONENTIAL RANDOM G, V0, P226
+   KANDEL DB, 1978, AM J SOCIOL, V84, P427, DOI 10.1086/226792
+   KILDUFF M, 1990, ORGAN BEHAV HUM DEC, V47, P270, DOI DOI 10.1016/0749-5978(90)90039-C
+   Kim JY, 2016, STRATEGIC MANAGE J, V37, P22, DOI 10.1002/smj.2454
+   KRACKHARDT D, 1990, AM ANTHROPOL, V92, P142, DOI 10.1525/aa.1990.92.1.02a00100
+   KROHN MD, 1986, SOC PROBL, V33, PS81, DOI 10.1525/sp.1986.33.6.03a00050
+   Latour, 2005, REASSEMBLING THE SOCIAL: AN INTRODUCTION TO ACTOR-NETWORK THEORY, V0, P0
+   LINCOLN JR, 1979, ADMIN SCI QUART, V24, P181, DOI 10.2307/2392493
+   Luhmann Niklas, 2000, ART SOCIAL SYSTEM, V0, P0
+   Lusher D, 2012, EXPONENTIAL RANDOM GRAPH MODELS FOR SOCIAL NETWORKS: THEORY, V0, P0
+   Maisonneuve S, 2001, POETICS, V29, P89, DOI 10.1016/S0304-422X(01)00029-8
+   Mark N, 1998, SOC FORCES, V77, P453, DOI 10.2307/3005535
+   MARSDEN PV, 1982, SOC FORCES, V60, P1023, DOI 10.2307/2577876
+   Martin JL, 2000, POETICS, V27, P195, DOI 10.1016/S0304-422X(99)00025-X
+   McAndrew S, 2015, CULT SOCIOL-LONDON, V9, P56, DOI 10.1177/1749975514542486
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Mead GH, 1912, J PHILOS PSYCHOL SCI, V9, P401, DOI DOI 10.2307/2012643
+   Meusburger P, 2009, KNOWL SPACE, V2, P97
+   MEYER GW, 1994, HUM RELAT, V47, P1013, DOI 10.1177/001872679404700901
+   Michel Callon, 1986, MAPPING DYNAMICS SCI, V0, P0
+   Mohr JW, 2008, THEOR SOC, V37, P485, DOI 10.1007/s11186-008-9066-0
+   Mohr JW, 2009, RES SOCIOL ORGAN-RES, V27, P203, DOI 10.1108/S0733-558X(2009)0000027009
+   Mohr JohnW, 2010, HDB CULTURAL SOCIOLO, V0, P118
+   Mohr JW, 2000, POETICS, V27, P57, DOI 10.1016/S0304-422X(00)00002-4
+   Mohr JW, 1997, THEOR SOC, V26, P305, DOI 10.1023/A:1006896022092
+   Nenko A, 2017, GEOJOURNAL LIB, V123, P241, DOI 10.1007/978-3-319-53217-2, 11
+   Newton-Francis M, 2015, POETICS, V52, P1, DOI 10.1016/j.poetic.2015.06.003
+   Oberlin KC, 2015, POETICS, V50, P20, DOI 10.1016/j.poetic.2015.01.001
+   Pastor JC, 2002, ACAD MANAGE J, V45, P410, DOI 10.5465/3069355
+   Pivovarov AM, 2016, INDIAN JOURNAL OF SCIENCE AND TECHNOLOGY, V9, P1, DOI [10.17485/ijst/2016/v9i25/90760, DOI 10.17485/ijst/2016/v9i25/90760]
+   Rice RE, 1993, PROGRESS IN COMMUNICATION SCIENCES, V12, P43
+   RICE RE, 1991, ADMIN SCI QUART, V36, P219, DOI 10.2307/2393354
+   Riggins SH, 1990, BEYOND GOFFMAN: STUDIES ON COMMUNICATION, V0, P0
+   Schultz J, 2010, POETICS, V38, P610, DOI 10.1016/j.poetic.2010.09.002
+   SCHWEIZER T, 1993, CURR ANTHROPOL, V34, P469, DOI 10.1086/204194
+   Stigliani I, 2012, ACAD MANAGE J, V55, P1232, DOI 10.5465/amj.2010.0890
+   Umphress EE, 2003, ORGAN SCI, V14, P738, DOI 10.1287/orsc.14.6.738.24865
+   Vaisey S, 2010, SOC FORCES, V88, P1595
+   Wang P, 2013, EXPONENTIAL RANDOM G, V0, P115
+   Wang P, 2014, MPNET PROGRAM SIMULA, V0, P0
+   Wang P, 2013, SOC NETWORKS, V35, P96, DOI 10.1016/j.socnet.2013.01.004
+   Warr M, 1996, CRIMINOLOGY, V34, P11, DOI 10.1111/j.1745-9125.1996.tb01193.x
+   WARR M, 1991, CRIMINOLOGY, V29, P851, DOI 10.1111/j.1745-9125.1991.tb01090.x
+   Zappa P, 2016, SOC NETWORKS, V44, P295, DOI 10.1016/j.socnet.2015.03.003
+NR 84
+TC 16
+Z9 0
+U1 2.0
+U2 19.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2018
+VL 54
+BP 179
+EP 195
+DI 10.1016/j.socnet.2018.02.003
+PG 17
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000432768600016
+PM 
+ER
+
+PT J
+AU Koskinen, J
+   Edling, Christofer
+TI Modelling the evolution of a bipartite network-Peer referral in interlocking directorates
+SO SOCIAL NETWORKS
+DE stochastic actor-oriented models; bipartite graphs; interlocking directorates; bayesian analysis; longitudinal network data; prediction
+AB A central part of relational ties between social actors is constituted by shared affiliations and events. The action of joint participation reinforces personal ties between social actors as well as mutually shared values and norms that in turn perpetuate the patterns of social action that define groups. Therefore the study of bipartite networks is central to social science. Furthermore, the dynamics of these processes suggests that bipartite networks should not be considered static structures but rather be studied over time. In order to model the evolution of bipartite networks empirically we introduce a class of models and a Bayesian inference scheme that extends previous stochastic actor-oriented models for unimodal graphs. Contemporary research on interlocking directorates provides an area of research in which it seems reasonable to apply the model. Specifically, we address the question of how tie formation, i.e. director recruitment, contributes to the structural properties of the interlocking directorate network. For boards of directors on the Stockholm stock exchange we propose that a prolific mechanism in tie formation is that of peer referral. The results indicate that such a mechanism is present, generating multiple interlocks between boards. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Koskinen, Johan] Univ Oxford, Dept Polit & Int Relat, ReMiSS, Oxford OX1 3UQ, England.   
+[Koskinen, Johan] Univ Oxford Nuffield Coll, Oxford OX1 1NF, England.   
+[Edling, Christofer] Jacobs Univ, Sch Humanities & Social Sci, Bremen, Germany.
+RP Koskinen, J (corresponding author), Univ Oxford, Dept Polit & Int Relat, ReMiSS, Manor Rd, Oxford OX1 3UQ, England.
+CR Unknown -, 2005, MODELS AND METHODS IN SOCIAL NETWORK ANALYSIS, V0, P0
+   Barnes RoyC, 2001, CRIT SOCIOL, V27, P192
+   Bohman L, 2009, INTERLOCKING D UNPUB, V0, P0
+   Bohman L, 2006, EUR SOCIOL REV, V22, P383, DOI 10.1093/esr/jcl003
+   Borgatti SP, 1997, SOC NETWORKS, V19, P243, DOI 10.1016/S0378-8733(96)00301-2
+   BREIGER RL, 1986, SOC NETWORKS, V8, P215, DOI 10.1016/0378-8733(86)90006-7
+   BREIGER RL, 1974, SOC FORCES, V53, P181, DOI 10.2307/2576011
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Carpenter MA, 2001, ACAD MANAGE J, V44, P639, DOI 10.5465/3069408
+   Doreian P, 1979, CLASSIFYING SOCIAL D, V0, P0
+   Edling C, 2001, EUR SOCIOL REV, V17, P389, DOI 10.1093/esr/17.4.389
+   FELD SL, 1981, AM J SOCIOL, V86, P1015, DOI 10.1086/227352
+   Fich EM, 2003, WAKE FOREST LAW REVIEW, V38, P935
+   Fich EM, 2005, J CORP FINANC, V11, P175, DOI 10.1016/j.jcorpfin.2003.06.002
+   FRANK O, 1986, J AM STAT ASSOC, V81, P832, DOI 10.2307/2289017
+   Frank O, 2007, J MATH SOCIOL, V31, P1, DOI 10.1080/00222500601011423
+   FREEMAN LC, 1993, SOCIOL METHODOL, V23, P127, DOI 10.2307/271008
+   GALASKIEWICZ J, 1985, SOC FORCES, V64, P403, DOI 10.2307/2578648
+   GALASKIEWICZ J, 1981, AM SOCIOL REV, V46, P475, DOI 10.2307/2095266
+   HOLLAND PW, 1977, Z SOZIOL, V6, P386
+   HOLLAND PW, 1977, J MATH SOCIOL, V5, P5, DOI 10.1080/0022250X.1977.9989862
+   Huisman M, 2003, SOCIOL METHOD RES, V32, P253, DOI 10.1177/0049124103256096
+   Izraeli DN, 1997, INT REV WOMEN LEADER, V2, P26
+   Kanter RM, 1977, MEN AND WOMEN OF THE ORGANIZATION, V0, P0
+   KAPLAN SN, 1990, J FINANC ECON, V27, P389, DOI 10.1016/0304-405X(90)90061-4
+   KATZ L, 1959, PSYCHOMETRIKA, V24, P317, DOI 10.1007/BF02289814
+   KOSKINEN J, 2004, 20044 STOCKH U DEP S, V0, P0
+   Koskinen JH, 2004, 24 INT SUNB SOC NETW, V0, P0
+   Koskinen JH, 2007, J STAT PLAN INFER, V137, P3930, DOI 10.1016/j.jspi.2007.04.011
+   LEENDERS RTAJ, 1995, J MATH SOCIOL, V20, P1, DOI 10.1080/0022250X.1995.9990149
+   MAYER TF, 1984, J MATH SOCIOL, V10, P51, DOI 10.1080/0022250X.1984.9989958
+   Mills CW, 1956, THE POWER ELITE, V0, P0
+   Mizruchi MS, 1996, ANNU REV SOCIOL, V22, P271, DOI 10.1146/annurev.soc.22.1.271
+   MIZRUCHI MS, 1988, ADMIN SCI QUART, V33, P194, DOI 10.2307/2393055
+   Newman MEJ, 2001, PHYS REV E, V64, P0, DOI [10.1103/PhysRevE.64.016132, 10.1103/PhysRevE.64.016131]
+   ORNSTEIN M, 1984, ADMIN SCI QUART, V29, P210, DOI 10.2307/2393174
+   ORNSTEIN MD, 1982, SOC NETWORKS, V4, P3, DOI 10.1016/0378-8733(82)90011-9
+   PALMER D, 1986, AM SOCIOL REV, V51, P781, DOI 10.2307/2095367
+   PALMER D, 1983, ADMIN SCI QUART, V28, P40, DOI 10.2307/2392384
+   Pattison P, 2002, SOCIOL METHODOL, V32, P301, DOI 10.1111/1467-9531.00119
+   Podolny JoelM, 2005, STATUS SIGNALS, V0, P0
+   Robins G, 2004, COMPUTATIONAL & MATHEMATICAL ORGANIZATION THEORY, V10, P69, DOI 10.1023/B:CMOT.0000032580.12184.c0
+   Robins G, 2001, J MATH SOCIOL, V25, P5, DOI 10.1080/0022250X.2001.9990243
+   Ruigrok W, 2006, J MANAGE STUD, V43, P1201, DOI 10.1111/j.1467-6486.2006.00634.x
+   SANIL A, 1995, SOC NETWORKS, V17, P65, DOI 10.1016/0378-8733(94)00249-A
+   Skvoretz J, 1999, SOCIOL METHODOL, V29, P253, DOI 10.1111/0081-1750.00066
+   SMALL H, 1973, J AM SOC INFORM SCI, V24, P265, DOI 10.1002/asi.4630240406
+   Smångs M, 2006, ORGANIZATION, V13, P889, DOI 10.1177/1350508406068816
+   Snijders TA, 2007, MANUAL SIENA VERSION, V0, P0
+   Snijders TAB, 2006, P 43 SCI M ITALIAN S, V0, P281
+   Snijders TAB, 2001, SOCIOL METHODOL, V31, P361, DOI 10.1111/0081-1750.00099
+   Snijders TAB, 1996, J MATH SOCIOL, V21, P149, DOI 10.1080/0022250X.1996.9990178
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Snijders TAB, 2010, ANN APPL STAT, V4, P567, DOI 10.1214/09-AOAS313
+   Snijders TomAB, 1997, SIMULATING SOCIAL PHENOMENA, V0, P493
+   Stafsudd A, 2006, EUR MANAG REV, V3, P177, DOI 10.1057/palgrave.emr.1500062
+   Useem M, 1984, THE INNER CIRCLE, V0, P0
+   Wang P, 2009, SOC NETWORKS, V31, P12, DOI 10.1016/j.socnet.2008.08.002
+   WASSERMAN S, 1988, PSYCHOMETRIKA, V53, P261, DOI 10.1007/BF02294137
+   WASSERMAN S, 1980, J AM STAT ASSOC, V75, P280, DOI 10.2307/2287447
+   Wasserman SS, 1980, SOCIO METHODOL, V11, P392, DOI [DOI 10.2307/270870, 10.2307/270870]
+   ZAJAC EJ, 1994, STRATEGIC MANAGE J, V15, P121, DOI 10.1002/smj.4250150909
+NR 62
+TC 79
+Z9 0
+U1 1.0
+U2 55.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2012
+VL 34
+BP 309
+EP 322
+DI 10.1016/j.socnet.2010.03.001
+PG 14
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000305495600003
+PM 24944435
+ER
+
+PT J
+AU Bright, D
+   Lerner, Jurgen
+   Sadewo, Giovanni Radhitio Putra
+   Whelan, Chad
+TI Offence versatility among co-offenders: A dynamic network analysis
+SO SOCIAL NETWORKS
+DE co-offending; relational hyperevent models; crime
+AB Research examining co-offending has become increasingly popular over the last two decades. Despite this, there remains a dearth of research examining the dynamics of co-offending across time, largely due to limited access to longitudinal data. In the current paper we are interested in explaining crime versatility, and therefore we employ Relational Hyperevent Models (RHEM) to model the conditional probability that a given group of co-offenders engages in one set of crime categories rather than another. Thus, we are analyzing a two-mode network (actors by crime categories) and explain, conditional on a given group of co-offenders, their participation in the set of specific crime types involved in a particular crime event. With respect to co-offending, results reveal that, compared with solo offenders, groups of two or more co-offenders are more likely to engage in crime events involving more than just one crime category. Results suggest that in the context of co-offending both market and property crime show evidence of differential association and social learning. Naive partners in co-offending partnerships learn the skills and knowledge needed to participate in co-offending involving market and property crime.
+C1 [Bright, David; Sadewo, Giovanni Radhitio Putra; Whelan, Chad] Deakin Univ, Sch Humanities & Social Sci, Melbourne, Australia.   
+[Lerner, Jurgen] Univ Konstanz, Dept Comp & Informat Sci, Constance, Germany.   
+[Lerner, Jurgen] RWTH Univ, Human Technol Ctr, Aachen, Germany.
+RP Bright, D (corresponding author), Deakin Univ, Sch Humanities & Social Sci, Melbourne, Australia.
+FU Australian Institute of Criminology, Criminology Research Grant [CRG 49
+CR Akers RL, 2011, SOCIAL LEARNING THEORY AND THE EXPLANATION OF CRIME, V1, P0
+   Akers RL, 1985, DEVIANT BEHAVIOR: A SOCIAL LEARNING APPROACH, V3rd, P0
+   Akers RL, 2017, PRESENT, V0, P37
+   Andresen MA, 2012, INT J OFFENDER THER, V56, P811, DOI 10.1177/0306624X11407154
+   Andrews DA, 1989, FORUM ON CORRECTIONAL RESEARCH, V1, P11
+   Aral S, 2012, SCIENCE, V337, P337, DOI 10.1126/science.1215842
+   Bouchard M, 2020, CRIME JUSTICE, V49, P425
+   Bright D, 2024, J QUANT CRIMINOL, V40, P445, DOI 10.1007/s10940-023-09576-x
+   Bright D, 2022, GLOB CRIME, V23, P101, DOI 10.1080/17440572.2022.2047654
+   Bright DA, 2015, GLOB CRIME, V16, P219, DOI 10.1080/17440572.2015.1039164
+   Bright DA, 2013, GLOB CRIME, V14, P238, DOI 10.1080/17440572.2013.787927
+   Bright DA, 2012, CRIME LAW SOCIAL CH, V57, P151, DOI 10.1007/s10611-011-9336-z
+   Burcher M, 2018, TRENDS ORGAN CRIME, V21, P278, DOI 10.1007/s12117-017-9313-8
+   Butts CT, 2008, SOCIOL METHODOL, V38, P155, DOI 10.1111/j.1467-9531.2008.00203.x
+   Carrington PJ, 2002, CAN J CRIMINOL, V44, P277
+   Charette Y, 2017, SOC NETWORKS, V51, P3, DOI 10.1016/j.socnet.2016.12.005
+   Conway KP, 2002, AGGRESSIVE BEHAV, V28, P97, DOI 10.1002/ab.90011
+   Felson M, 2003, JOURNAL OF CRIME PREVENTION STUDIES, V16, P149
+   Grund T, 2017, SOC NETWORKS, V51, P14, DOI 10.1016/j.socnet.2017.03.008
+   Halsey M, 2023, BRIT J CRIMINOL, V63, P134, DOI 10.1093/bjc/azab123
+   Hester R, 2019, AM J CRIM JUSTICE, V44, P353, DOI 10.1007/s12103-018-9460-8
+   HINDELANG MJ, 1976, BRIT J CRIMINOL, V16, P109, DOI 10.1093/oxfordjournals.bjc.a046710
+   Lantz B, 2020, CRIME DELINQUENCY, V66, P93, DOI 10.1177/0011128719834564
+   Lantz B, 2019, CRIM JUSTICE BEHAV, V46, P437, DOI 10.1177/0093854818810314
+   Lantz B, 2017, J DEV LIFE-COURSE CR, V3, P76, DOI 10.1007/s40865-016-0047-0
+   Lerner J, 2023, J ROY STAT SOC A, V186, P577, DOI 10.1093/jrsssa/qnac012
+   Lerner J, 2021, SOC NETWORKS, V66, P224, DOI 10.1016/j.socnet.2021.04.001
+   Malm A, 2013, TRENDS ORGAN CRIME, V16, P365, DOI 10.1007/s12117-013-9205-5
+   Malm A, 2011, GLOB CRIME, V12, P112, DOI 10.1080/17440572.2011.567832
+   McCuish EC, 2015, J CONTEMP CRIM JUST, V31, P319, DOI 10.1177/1043986214553375
+   McGloin JM, 2014, CRIME AND NETWORKS, V0, P13
+   McGloin JM, 2008, CRIMINOLOGY, V46, P155, DOI 10.1111/j.1745-9125.2008.00105.x
+   McGloin JM, 2011, J RES CRIME DELINQ, V48, P419, DOI 10.1177/0022427810393019
+   McGloin JM, 2010, J RES CRIME DELINQ, V47, P63, DOI 10.1177/0022427809348905
+   Morselli C, 2009, STUD ORGANIZE CRIME, V8, P1, DOI 10.1007/978-0-387-09526-4
+   Morselli C, 2015, DISRUPTING CRIMINAL, V0, PP47, DOI DOI 10.1515/9781626372573-005
+   Nieto A, 2022, SOC NETWORKS, V70, P325, DOI 10.1016/j.socnet.2022.02.013
+   Ouellet F, 2013, GLOB CRIME, V14, P141, DOI 10.1080/17440572.2013.787930
+   Perry PO, 2013, J R STAT SOC B, V75, P821, DOI 10.1111/rssb.12013
+   Reiss AJ, 1988, CRIME JUSTICE, V10, P117, DOI [10.1086/449145, DOI 10.1086/449145]
+   REISS AJ, 1991, J CRIM LAW CRIM, V82, P360, DOI 10.2307/1143811
+   Sarnecki Jerzy, 2001, DELINQUENT NETWORKS, V0, P0, DOI DOI 10.1017/CBO9780511489310
+   Sutherland EH, 1973, ON ANALYZING CRIME, V0, P0
+   Therneau T, 2015, S R PACKAGE VERSION, V2, P0
+   Thomas KJ, 2015, CRIMINOLOGY, V53, P280, DOI 10.1111/1745-9125.12069
+   van Mastrigt SB, 2009, BRIT J CRIMINOL, V49, P552, DOI 10.1093/bjc/azp021
+   Warr M, 2002, COMPANIONS IN CRIME: THE SOCIAL ASPECTS OF CRIMINAL CONDUCT, V0, P0, DOI DOI 10.1017/CBO9780511803956
+   Weerman FM, 2003, BRIT J CRIMINOL, V43, P398, DOI 10.1093/bjc/43.2.398
+   ZIMRING FE, 1981, J CRIM LAW CRIM, V72, P867, DOI 10.2307/1143269
+NR 49
+TC 8
+Z9 0
+U1 9.0
+U2 13.0
+J9 SOCIAL NETWORKS
+PD JUL
+PY 2024
+VL 78
+BP 1
+EP 11
+DI 10.1016/j.socnet.2023.10.003
+PG 11
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:001111459000001
+PM 
+ER
+
+PT J
+AU Coutinho, JA
+   Diviak, Tomas
+   Bright, David
+   Koskinen, Johan
+TI Multilevel determinants of collaboration between organised criminal groups
+SO SOCIAL NETWORKS
+DE illegal drugs; multilevel networks; exponential random graph models;illegal markets; criminal groups
+AB Collaboration between members of different criminal groups is an important feature of crime that is considered organised, as it allows criminals to access resources and skills in order to exploit illicit economic opportunities. Collaboration across criminal groups is also difficult and risky due to the lack of institutions supporting peaceful cooperation in illicit markets. Thus cross-group collaboration has been thought to take place mostly among small and transient groups. This paper determines whether and under what conditions members of different, larger organised crime groups collaborate with one another. To do so we use intelligence data from the Canadian province of Alberta, centering on criminals and criminal groups engaged in multiple crime types in multiple geographic locations. We apply a multilevel network analytical framework and exponential random graph models using Bayesian techniques to uncover the determinants of cross-group criminal collaboration. We find cross-group collaboration depends not only on co-location, but also on the types of groups to which the criminals are affiliated, and on illicit market overlap between groups. When groups are operating in the same geographically-situated illicit markets their members tend not to collaborate with one another, providing evidence for the difficulty or undesirability of cross-group collaboration in illicit markets. Conversely, members of Outlaw Motorcycle Gangs are more likely to collaborate across groups when markets overlap, suggesting the superior capacity and motivation of biker gangs to coordinate criminal activity. Our paper contributes to the understanding of criminal networks as complex, emergent, and spatially embedded market phenomena.
+C1 [Coutinho, James A.] Swinburne Univ Technol, Fac Business & Law, Melbourne, Vic, Australia.   
+[Diviak, Tomas] Univ Manchester, Manchester, Lancs, England.   
+[Diviak, Tomas] Univ Groningen, Groningen, Netherlands.   
+[Diviak, Tomas] Charles Univ Prague, Prague, Czech Republic.   
+[Bright, David] Flinders Univ S Australia, Adelaide, SA, Australia.   
+[Koskinen, Johan] Univ Melbourne, Melbourne, Vic, Australia.   
+[Koskinen, Johan] Linkoping Univ, Inst Analyt Sociol, Linkoping, Sweden.
+RP Coutinho, JA (corresponding author), Swinburne Univ Technol, Fac Business & Law, Melbourne, Vic, Australia.
+FU Leverhulme Trust [RPG-2013-140]
+CR Unknown -, 2001, ECONOMICS OF GOVERNANCE, V0, P0
+   Unknown -, 1950, SPATIAL ECOLOGY GROU, V0, P0
+   Asal V, 2015, INT STUD QUART, V59, P112, DOI 10.1111/isqu.12162
+   Aziani A, 2021, DEVIANT BEHAV, V42, P245, DOI 10.1080/01639625.2019.1666606
+   BARON SW, 1993, SOC NETWORKS, V15, P255, DOI 10.1016/0378-8733(93)90008-9
+   Baum JAC, 1999, STRATEGIC MANAGE J, V20, P251, DOI 10.1002/(SICI)1097-0266(199903)20:3<251::AID-SMJ23>3.0.CO;2-H
+   Benaglia T, 2009, J STAT SOFTW, V32, P1
+   Bichler G, 2017, CRIME SCI, V6, P0, DOI 10.1186/s40163-017-0063-3
+   Bjorgo T, 2019, TRENDS ORGAN CRIME, V22, P84, DOI 10.1007/s12117-017-9322-7
+   Blanchette J, 2014, 2014 4TH JOINT WORKSHOP ON HANDS-FREE SPEECH COMMUNICATION AND MICROPHONE ARRAYS (HSCMA), V0, PP87, DOI 10.1109/HSCMA.2014.6843257
+   Blokland A, 2019, TRENDS ORGAN CRIME, V22, P10, DOI 10.1007/s12117-017-9303-x
+   Boivan R, 2014, CRIME NETWORKS, V0, P182
+   Bouchard M, 2014, THE OXFORD HANDBOOK OF ORGANIZED CRIME, V0, P288
+   Bouchard M, 2007, GLOB CRIME, V8, P325, DOI 10.1080/17440570701739702
+   Brass DJ, 2004, ACAD MANAGE J, V47, P795, DOI 10.5465/20159624
+   Brennecke J, 2017, RES POLICY, V46, P768, DOI 10.1016/j.respol.2017.02.002
+   Brennecke J, 2016, SOC NETWORKS, V44, P307, DOI 10.1016/j.socnet.2015.02.004
+   Bright D, 2019, J QUANT CRIMINOL, V35, P237, DOI 10.1007/s10940-018-9379-8
+   Bright DA, 2015, GLOB CRIME, V16, P219, DOI 10.1080/17440572.2015.1039164
+   Bright DA, 2013, GLOB CRIME, V14, P238, DOI 10.1080/17440572.2013.787927
+   Bright DA, 2012, CRIME LAW SOCIAL CH, V57, P151, DOI 10.1007/s10611-011-9336-z
+   Broccatelli C, 2016, METHODOL INNOV, V9, P1
+   Bruinsma G, 2004, CRIME LAW SOCIAL CH, V41, P79, DOI 10.1023/B:CRIS.0000015283.13923.aa
+   Burcher M, 2015, GLOB CRIME, V16, P104, DOI 10.1080/17440572.2015.1005363
+   Butts CT, 2003, SOC NETWORKS, V25, P103, DOI 10.1016/S0378-8733(02)00038-2
+   Caimo A, 2011, SOC NETWORKS, V33, P41, DOI 10.1016/j.socnet.2010.09.004
+   Calderoni F, 2014, ENCY CRIMINOLOGY CRI, V0, PP4972, DOI DOI 10.1007/978-1-4614-5690-2, 239
+   Calderoni F, 2012, CRIME LAW SOCIAL CH, V58, P321, DOI 10.1007/s10611-012-9387-9
+   CARTWRIGHT D, 1956, PSYCHOL REV, V63, P277, DOI 10.1037/h0046049
+   COLEMAN JS, 1988, AM J SOCIOL, V94, PS95, DOI 10.1086/228943
+   Cunningham D, 2016, UNDERSTANDING DARK NETWORKS. A STRATEGIC FRAMEWORK FOR THE USE OF SOCIAL NETWORK ANALYSIS, V0, P0
+   Deryol R, 2016, J QUANT CRIMINOL, V32, P305, DOI 10.1007/s10940-015-9278-1
+   Descormiers K, 2011, INT CRIM JUSTICE REV, V21, P297, DOI 10.1177/1057567711418501
+   Diviák T, 2022, SOC NETWORKS, V69, P160, DOI 10.1016/j.socnet.2019.10.002
+   Diviák T, 2020, GLOB CRIME, V21, P51, DOI 10.1080/17440572.2019.1645653
+   Diviák T, 2019, TRENDS ORGAN CRIME, V22, P274, DOI 10.1007/s12117-018-9334-y
+   Donkin K, 2017, POLICE WATCHING EXPA, V0, P0
+   Duijn PAC, 2014, SCI REP-UK, V4, P0, DOI 10.1038/srep04238
+   Dwyer R, 2010, BRIT J CRIMINOL, V50, P82, DOI 10.1093/bjc/azp065
+   Eck JE, 2000, CRIME PREV STUD, V0, P0
+   Faust K, 2019, ANNU REV CRIMINOL, V2, P99, DOI 10.1146/annurev-criminol-011518-024701
+   Felson Marcus, 2006, THE ECOSYSTEM FOR ORGANIZED CRIME, V0, P0
+   Fijnaut C, 1998, ORG CRIME NETHERLAND, V0, P0
+   Gambetta D, 2009, CODES OF THE UNDERWORLD: HOW CRIMINALS COMMUNICATE, V0, P1
+   Glückler J, 2016, J ECON GEOGR, V16, P1123, DOI 10.1093/jeg/lbw041
+   Gottschalk P, 2010, INT. J. ENTREPRENEURSHIP AND SMALL BUSINESS, V9, P295
+   GRANDORI A, 1995, ORGAN STUD, V16, P183, DOI 10.1177/017084069501600201
+   Grassi R, 2019, SOC NETWORKS, V56, P23, DOI 10.1016/j.socnet.2018.08.001
+   Grund TU, 2012, EUR J CRIMINOL, V9, P388, DOI 10.1177/1477370812447738
+   Hofmann DC, 2015, GLOB CRIME, V16, P123, DOI 10.1080/17440572.2015.1008627
+   Hollway J, 2016, SOC NETWORKS, V44, P281, DOI 10.1016/j.socnet.2015.03.001
+   Hunter DR, 2008, J AM STAT ASSOC, V103, P248, DOI 10.1198/016214507000000446
+   Johnson BD, 2000, CRIME PREV STUDIES, V11, P19
+   Kadushin Charles, 2012, UNDERSTANDING SOCIAL NETWORKS: THEORIES, V0, P0
+   Kenny Michael, 2007, PABLO OSAMA TRAFFICK, V0, P0
+   Kilduff GJ, 2019, ACAD MANAGE REV, V44, P774, DOI 10.5465/amr.2017.0257
+   Kleemans ER, 2014, OXFORD HDB ORG CRIME, V0, PP32, DOI DOI 10.1093/OXFORDHB/9780199730445.001.0001
+   KLEIN KJ, 1994, ACAD MANAGE REV, V19, P195, DOI 10.2307/258703
+   Koskinen J, 2019, NEW STAT DEV DATA SC, V288, P105, DOI [10.1007/978-3-030-21158-5, 9, DOI 10.1007/978-3-030-21158-5, 9]
+   Koskinen JH, 2008, LINKED IMPORTANCE SA, V0, P0
+   Koskinen JH, 2007, J STAT PLAN INFER, V137, P3930, DOI 10.1016/j.jspi.2007.04.011
+   Koskinen JH, 2013, SOC NETWORKS, V35, P514, DOI 10.1016/j.socnet.2013.07.003
+   Lauchs M, 2015, PALGRAVE PIVOT, V0, PP1, DOI 10.1057/9781137456298
+   Lauchs M, 2019, GLOB CRIME, V20, P69, DOI 10.1080/17440572.2019.1583107
+   Lauchs M, 2019, DEVIANT BEHAV, V40, P287, DOI 10.1080/01639625.2017.1421128
+   Lazega E, 2008, SOC NETWORKS, V30, P159, DOI 10.1016/j.socnet.2008.02.001
+   Lazega E, 2016, SOC NETWORKS, V47, P1, DOI 10.1016/j.socnet.2016.04.001
+   Lazega E, 2016, METHODS SER, V12, P47, DOI 10.1007/978-3-319-24520-1, 3
+   Lerner J, 2016, SOC NETWORKS, V45, P66, DOI 10.1016/j.socnet.2015.12.002
+   Levitt SD, 2000, Q J ECON, V115, P755, DOI 10.1162/003355300554908
+   Lomi A, 2012, SOC NETWORKS, V34, P101, DOI 10.1016/j.socnet.2010.10.005
+   Lusher D, 2013, THEORY, V0, P0
+   Magliocca NR, 2019, P NATL ACAD SCI USA, V116, P7784, DOI 10.1073/pnas.1812459116
+   Malm A, 2011, GLOB CRIME, V12, P112, DOI 10.1080/17440572.2011.567832
+   Malm A, 2011, J RES CRIME DELINQ, V48, P271, DOI 10.1177/0022427810391535
+   Markman GD, 2009, ACAD MANAGE REV, V34, P423, DOI 10.5465/AMR.2009.40632072
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI 10.1146/annurev.soc.27.1.415
+   Meredith C, 2017, SOC NETWORKS, V50, P35, DOI 10.1016/j.socnet.2017.03.006
+   Moreno JL, 1938, SOCIOMETRY, V1, P342, DOI 10.2307/2785588
+   Morselli C, 2004, CRIMINOLOGY, V42, P773, DOI 10.1111/j.1745-9125.2004.tb00536.x
+   Morselli C, 2009, STUD ORGANIZE CRIME, V8, P1, DOI 10.1007/978-0-387-09526-4
+   Morselli C, 2010, J. CONTEMP. CRIM. JUSTICE, V26, P382, DOI [10.1177/1043986210377105, DOI 10.1177/1043986210377105]
+   Morselli C, 2007, GLOB CRIME, V8, P109, DOI 10.1080/17440570701362208
+   Morselli C, 2017, SOC NETWORKS, V51, P118, DOI 10.1016/j.socnet.2017.04.003
+   Morselli C, 2009, TRENDS ORGAN CRIME, V12, P145, DOI 10.1007/s12117-009-9065-1
+   Nese A, 2018, EUR ECON REV, V107, P86, DOI 10.1016/j.euroecorev.2018.05.004
+   Ouellet M, 2019, CRIMINOLOGY, V57, P5, DOI 10.1111/1745-9125.12194
+   Ouellet M, 2017, SOC NETWORKS, V51, P171, DOI 10.1016/j.socnet.2017.01.005
+   Papachristos AV, 2013, AM SOCIOL REV, V78, P417, DOI 10.1177/0003122413486800
+   Papachristos AV, 2012, J CRIM LAW CRIM, V102, P397
+   Paruchuri S, 2019, HDB MULTILEVEL THEOR, V0, P0, DOI [10.1037/0000115-010, DOI 10.1037/0000115-010]
+   Piquette JC, 2014, ENCYCLOPEDIA OF CRIMINOLOGY AND CRIMINAL JUSTICE, V0, PP4981, DOI 10.1007/978-1-4614-5690-2, 240
+   Quinn JF, 2001, DEVIANT BEHAV, V22, P379, DOI 10.1080/016396201750267870
+   Rand DG, 2011, NAT COMMUN, V2, P0, DOI 10.1038/ncomms1442
+   Ritter A, 2012, EVALUATING DRUG LAW, V0, P0
+   Robins G, 2013, EXPONENTIAL RANDOM G, V0, P0
+   Robins G, 2009, TRENDS ORGAN CRIME, V12, P166, DOI 10.1007/s12117-008-9059-4
+   Ruddell R, 2011, AM J CRIM JUSTICE, V36, P265, DOI 10.1007/s12103-011-9108-4
+   Sanderson K, 2014, MUSTANG J LAW LEG ST, V0, P0
+   Schneider Stephen, 2013, SOCIOLOGIA, V0, P125
+   Shipilov A, 2012, STRATEG ORGAN, V10, P215, DOI 10.1177/1476127012452825
+   Small ML, 2019, ANNU REV SOCIOL, V45, P111, DOI 10.1146/annurev-soc-073018-022707
+   Snijders TAB, 2013, HANDBOOK OF RATIONAL CHOICE SOCIAL RESEARCH, V0, P252
+   Snijders TAB, 2006, SOCIOL METHODOL, V36, P99, DOI 10.1111/j.1467-9531.2006.00176.x
+   Sohn C, 2020, GEOGR ANAL, V52, P428, DOI 10.1111/gean.12218
+   Stys P, 2020, GLOB CRIME, V21, P74, DOI 10.1080/17440572.2019.1596806
+   Tita GE, 2011, J QUANT CRIMINOL, V27, P521, DOI 10.1007/s10940-011-9136-8
+   Ünal MC, 2019, SOC NETWORKS, V57, P1, DOI 10.1016/j.socnet.2018.11.001
+   Van de Bunt H, 2014, OXFORD HDB ORG CRIME, V0, P0, DOI DOI 10.1093/OXFORDHB/9780199730445.013.030
+   van Mastrigt SB, 2014, CRIME AND NETWORKS, V0, P28
+   Von Lampe K, 2004, GLOBAL CRIME, V6, P159, DOI [10.1080/17440570500096734, DOI 10.1080/17440570500096734]
+   Wang P, 2016, METHODS SER, V12, P125, DOI 10.1007/978-3-319-24520-1, 6
+   Wang P, 2013, SOC NETWORKS, V35, P96, DOI 10.1016/j.socnet.2013.01.004
+   Ward T, 2019, PSYCHOL CRIME LAW, V25, P709, DOI 10.1080/1068316X.2019.1572754
+   Williams P, 2002, CRIME LAW SOCIAL CH, V37, P311, DOI 10.1023/A:1016095317864
+   Wood G, 2017, SOC NETWORKS, V48, P1, DOI 10.1016/j.socnet.2016.07.001
+   Yu TY, 2013, J MANAGE, V39, P76, DOI 10.1177/0149206312462456
+   Zappa P, 2016, SOC NETWORKS, V44, P295, DOI 10.1016/j.socnet.2015.03.003
+NR 118
+TC 16
+Z9 0
+U1 3.0
+U2 19.0
+J9 SOCIAL NETWORKS
+PD OCT
+PY 2020
+VL 63
+BP 56
+EP 69
+DI 10.1016/j.socnet.2020.04.002
+PG 14
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000563919700006
+PM 
+ER
+
+PT J
+AU Stys, P
+   Muhindo, Samuel
+   N'simire, Sandrine
+   Tchumisi, Ishara
+   Muzuri, Papy
+   Balume, Bauma
+   Koskinen, Johan
+TI Trust, quality, and the network collection experience: A tale of two studies on the Democratic Republic of the Congo (Reprinted from vol 68, pages 237-255, 2022)
+SO SOCIAL NETWORKS
+DE social network research; data collection; participant-aided sociogram;ego-net; democratic republic of the congo; drc; social support; social services; network sampling; link-tracing designs; mixed methods
+AB Data collection in social network research has advanced to include online questionnaires, digital metadata mining of internet sites, and the use of remote-sensing technologies. Some scholars however call for more attention to nuanced understandings of ties and contexts in studies of social structure and relationships, evoking practices that characterise the fields foundational works. This articles two studies reference these earlier efforts, drawing on ethnography and primary data collection. Both were undertaken in conflict-affected eastern Democratic Republic of the Congo (DRC) and broadly aimed to refine understandings of public authority and governance. Such research strives to inform humanitarian interventions to support social structures and actors which benefit their communities - however unexpected and unconventional. The first study (2016) employed a novel link-tracing design to examine personal support networks entwining purportedly hostile sub-populations, from combatants to unaffiliated civilians. The second (2018-20) focussed on access to essential social services across different governance arrangements, areas dominated by tenuous alliances of domestic or foreign militias and other actors. Leveraging an egocentric network design, it yielded multilevel relational network chain data. Each study was rife with obstacles related to accessing participants, sampling, reliability, and validity. We reflect on this network collection experience, foregrounding the interdependence between trust and data quality brought into stark relief by the settings instability and insecurity. This interdependency impacts all social network research, especially when it involves precarious contexts or sensitive topics.
+C1 [Stys, Patrycja; Muhindo, Samuel; N'simire, Sandrine; Tchumisi, Ishara; Muzuri, Papy; Balume, Bauma] London Sch Econ & Polit Sci, Ctr Publ Author & Int Dev, Firoz Lalji Inst Africa, Houghton St, London WC2A 2AE, England.   
+[Koskinen, Johan] Univ Melbourne, Melbourne Sch Psychol Sci, Melbourne, Vic, Australia.
+RP Stys, P (corresponding author), London Sch Econ & Polit Sci, Ctr Publ Author & Int Dev, Firoz Lalji Inst Africa, Houghton St, London WC2A 2AE, England.
+FU Centre for Public Authority and International Development at the London
+CR adams j, 2019, GATHERING SOCIAL NETWORK DATA, V0, P0
+   Allcott H, 2007, AM ECON REV, V97, P80, DOI 10.1257/aer.97.2.80
+   Unknown -, 1994, DESIGNING SOCIAL INQUIRY: SCIENTIFC INFERENCE IN QUALITATIVE RESEARCH, V0, P0
+   Unknown -, 2016, NETWORK CANVAS SOFTW, V0, P0
+   Unknown -, 2004, AUTOORGANISATION REF, V0, P0
+   Unknown -, 2015, SOCIAL NETWORK ANAL, V0, P0
+   Unknown -, 2009, WHOM CAN WE TRUST?, V0, P0
+   Arjona Ana, 2015, REBEL GOVERNANCE CIV, V0, P180
+   Avenarius CB, 2014, STRUC AN S, V0, P177
+   Baaz ME, 2018, REV AFR POLIT ECON, V45, P250, DOI 10.1080/03056244.2018.1451317
+   Basov N, 2020, POETICS, V78, P0, DOI 10.1016/j.poetic.2019.02.004
+   Basov N, 2018, SOC NETWORKS, V54, P179, DOI 10.1016/j.socnet.2018.02.003
+   BATCHELDER WH, 1988, PSYCHOMETRIKA, V53, P71, DOI 10.1007/BF02294195
+   Bayer JB, 2020, CURR DIR PSYCHOL SCI, V29, P279, DOI 10.1177/0963721420915866
+   Bellotti E, 2015, QUALITATIVE NETWORKS, V0, P0
+   BERNARD HR, 1980, SOC NETWORKS, V2, P191, DOI 10.1016/0378-8733(79)90014-5
+   Boissevain Jeremy, 1974, FRIENDS FRIENDS NETW, V0, P0
+   Boswell DM, 1969, SOCIAL NETWORKS IN URBAN SITUATIONS, V0, P245
+   Bott E, 1957, FAMILY AND SOCIAL NETWORK, V0, P0
+   Brailly J, 2016, SOC NETWORKS, V44, P319, DOI 10.1016/j.socnet.2015.03.005
+   Brandt CO, 2019, 72 ODI SEC LIV RES C, V0, P0
+   Bright D, 2013, CRIME NETWORKS, V0, PP148, DOI DOI 10.4324/9781315885018
+   Burnhams NH, 2016, SUBST ABUSE TREAT PR, V11, P0, DOI 10.1186/s13011-016-0074-1
+   Burt R, 2001, SOCIAL CAPITAL THEOR, V0, P31
+   Burt RS, 2005, BROKERAGE AND CLOSURE, V0, P0
+   Burt RS, 1992, STRUCTURAL HOLES, V0, P0
+   Burt RS, 1999, SHARED COGNITION ORG, V0, P213
+   Burt RS, 2000, RES ORGAN BEHAV, V22, P345, DOI 10.1016/S0191-3085(00)22009-1
+   Burt RS, 1998, SOC NETWORKS, V20, P63, DOI 10.1016/S0378-8733(97)00005-1
+   Buscher Karen, 2012, URBAN FORUM, V23, P483
+   Buskens V, 2010, SOC NETWORKS, V32, P301, DOI 10.1016/j.socnet.2010.05.001
+   Buskens Vincent, 2002, SOCIAL NETWORKS TRUS, V0, P0
+   Coghlan Benjamin, 2007, MORTALITY IN THE DEMOCRATIC REPUBLIC OF THE CONGO: AN ONGOING CRISIS, V0, P0
+   Coleman J, 2008, FOUNDATIONS OF SOCIAL THEORY, V0, P0
+   COLEMAN JS, 1988, AM J SOCIOL, V94, PS95, DOI 10.1086/228943
+   Cowan FM, 2013, PLOS ONE, V8, P0, DOI 10.1371/journal.pone.0077080
+   Davies C, 2002, REFLEXIVE ETHNOGRAPH, V0, P0
+   De Herdt T, 2015, REAL GOVERNANCE PRAC, V0, P0, DOI 10.18352/ijc.605
+   De Herdt Tom, 2019, NEGOTIATING PUBLIC SERVICES IN THE CONGO: STATE, V0, P0
+   de Nooy Wouter, 2009, METHODOLOGICAL INNOVATIONS ONLINE, V4, P39, DOI DOI 10.1177/205979910900400105
+   Duffield M, 2014, REV AFR POLIT ECON, V41, PS75, DOI 10.1080/03056244.2014.976366
+   Easterby-Smith M, 1999, ACAD MANAGE J, V42, P76, DOI 10.5465/256875
+   ELLIS S, 1989, AFR AFFAIRS, V88, P321, DOI 10.1093/oxfordjournals.afraf.a098185
+   Etikan I, 2016, AMERICAN JOURNAL OF THEORETICAL AND APPLIED STATISTICS, V5, P1, DOI [10.11648/j.ajtas.20160501.11, DOI 10.11648/J.AJTAS.20160501.11]
+   Fellows IE, 2019, STAT MED, V38, P131, DOI 10.1002/sim.7973
+   Ferru M, 2011, 51 C EUR REG SCI ASS, V0, P0
+   Ferru M, 2014, EUR PLAN STUD, V22, P975, DOI 10.1080/09654313.2012.752440
+   Freeman LC, 2004, THE DEVELOPMENT OF SOCIAL NETWORK ANALYSIS: A STUDY IN THE SOCIOLOGY OF SCIENCE, V0, P0
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   Fujii LA, 2010, J PEACE RES, V47, P231, DOI 10.1177/0022343309353097
+   Gamper M, 2012, SOCIAL NETWORKING CO, V0, P0
+   Gauntlett D, 2007, CREATIVE EXPLORATION, V0, P0
+   Geenen S, 2016, 201605 I DEV POL MAN, V0, P0
+   Geertz C, 1973, INTERPRETATION CULTU, V0, P0
+   Gile KJ, 2010, SOCIOL METHODOL, V40, P285, DOI 10.1111/j.1467-9531.2010.01223.x
+   Gluesing JC, 2014, STRUC AN S, V0, P203
+   Godart FC, 2010, POETICS, V38, P567, DOI 10.1016/j.poetic.2010.09.003
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Granovetter Mark, 1995, GETTING JOB STUDY CO, V0, P0
+   Greiner AL, 2014, AM J EPIDEMIOL, V180, P536, DOI 10.1093/aje/kwu149
+   Guba EG, 1900, P15, V0, P0
+   Hardin R, 2005, TRUST RECIPROCITY IN, V0, P80
+   Harries-Jones Peter, 1969, SOCIAL NETWORKS IN URBAN SITUATIONS: ANALYSES OF PERSONAL RELATIONSHIPS IN CENTRAL AFRICAN TOWNS, V0, P297
+   Hoffmann K, 2013, 7 JSRP, V0, P0
+   Hoffmann K, 2019, AFR AFFAIRS, V118, P352, DOI 10.1093/afraf/ady039
+   Hogan B, 2016, COMMUNICATION, V0, P0
+   Hogan B, 2007, FIELD METHOD, V19, P116, DOI 10.1177/1525822X06298589
+   Hogan B, 2016, 34TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, V0, P5360, DOI 10.1145/2858036.2858368
+   Igarashi T, 2008, ASIAN J SOC PSYCHOL, V11, P88, DOI 10.1111/j.1467-839X.2007.00246.x
+   Jennings HH, 1943, LEADERSHIP ISOLATION, V0, P0
+   JOHANSEN UC, 2002, CHRONICLING CULTURES, V0, P81
+   Johnston LG, 2017, J EPIDEMIOL GLOB HEA, V7, P45, DOI 10.1016/j.jegh.2016.08.003
+   Jones A, 2018, FORUM QUALITATIVE SOZIALFORSCHUNG, V19, P1, DOI [DOI 10.17169/FQS-19.2.2905, 10.17169/fqs-19.2.2905]
+   Kabaghe AN, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0172266
+   Kapferer B, 1972, STRATEGY AND TRANSACTION IN AN AFRICAN FACTORY: AFRICAN WORKERS AND INDIAN MANAGEMENT IN A ZAMBIAN TOWN, V0, P0
+   Kapferer B, 1973, NETWORK ANAL STUDIES, V0, P83
+   Kapferer Bruce, 1969, SOCIAL NETWORKS IN URBAN SITUATIONS, V0, P181
+   KILLWORTH PD, 1979, SOC NETWORKS, V2, P19, DOI 10.1016/0378-8733(79)90009-1
+   Kitts JA, 2021, SOC NETWORKS, V66, P161, DOI 10.1016/j.socnet.2021.01.004
+   Kivela M, 2014, J COMPLEX NETW, V2, P203, DOI 10.1093/comnet/cnu016
+   Koskinen J, 2019, NEW STATISTICAL DEVELOPMENTS IN DATA SCIENCE, VVolume 288, P105
+   KRACKHARDT D, 1987, SOC NETWORKS, V9, P109, DOI 10.1016/0378-8733(87)90009-8
+   Lee N, 1969, SEARCH ABORTIONIST, V0, P0
+   Levy Brian, 2014, WORKING GRAIN INTEGR, V0, P0
+   LIN N, 1986, SOC NETWORKS, V8, P365, DOI 10.1016/0378-8733(86)90003-1
+   Lin N, 2001, SOCIAL CAPITAL: THEORY AND RESEARCH, V0, PP57, DOI [10.4324/9781315129457-3, DOI 10.4324/9781315129457-3]
+   Lin N, 2001, SOCIAL CAPITAL: THEORY AND RESEARCH, V0, PP3, DOI 10.1017/CBO9780511815447
+   Lubbers MJ, 2010, SOC NETWORKS, V32, P91, DOI 10.1016/j.socnet.2009.05.001
+   Lund C, 2006, DEV CHANGE, V37, P685, DOI 10.1111/j.1467-7660.2006.00497.x
+   Lusher D, 2014, SMALL GR RES, V45, P3, DOI 10.1177/1046496413510362
+   Marsden PV, 2003, SOC NETWORKS, V25, P1, DOI 10.1016/S0378-8733(02)00009-6
+   Maya-Jariego I, 2014, STRUC AN S, V0, P153
+   MAYER RC, 1995, ACAD MANAGE REV, V20, P709, DOI 10.2307/258792
+   Meagher K, 2014, UNRAVELLING PUBLIC AUTHORITY PATHS OF HYBRID GOVERNANCE IN AFRICA, V0, P0
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   Mitchell JClyde, 1969, SOCIAL NETWORKS URBA, V0, P0
+   Mohr JW, 2008, THEOR SOC, V37, P485, DOI 10.1007/s11186-008-9066-0
+   Moreno JL, 1943, SOCIOMETRY, V6, P425, DOI 10.2307/2785221
+   Moreno JL, 1932, APPLICATION OF THE GROUP METHOD TO CLASSIFICATION, V0, P0
+   Moreno JL, 1934, NERVOUS MENTAL DIS M, V0, P0
+   Neal JW, 2015, AM J COMMUN PSYCHOL, V56, P422, DOI 10.1007/s10464-015-9745-8
+   Newcomb TM, 1961, THE ACQUAINTANCE PROCESS, V0, P0, DOI DOI 10.1037/13156-000
+   Niang A, 2000, SETLU TECHNIQUE TRAD, V0, P0
+   Ott MQ, 2019, J ROY STAT SOC C, V68, P1411, DOI 10.1111/rssc.12353
+   Pattison P, 2017, 2 ANN AUSTR SOC NETW, V0, P0
+   Pattison P, 1994, ADV SOCIAL NETWORK A, V0, P79
+   Punton M, 2018, ADAPTIVE PROGRAMMING, V0, P0
+   Robins Garry L, 2015, DOING SOCIAL NETWORK RESEARCH, V0, P0
+   Roden B, 2022, SOC NETWORKS, V69, P3, DOI 10.1016/j.socnet.2020.04.005
+   ROMNEY AK, 1986, AM ANTHROPOL, V88, P313, DOI 10.1525/aa.1986.88.2.02a00020
+   ROMNEY AK, 1987, AM BEHAV SCI, V31, P163, DOI 10.1177/000276487031002003
+   ROSENTHAL E, 1996, THESIS U CHICAGO CHI, V0, P0
+   Ross MW, 2016, BMJ OPEN, V6, P0, DOI 10.1136/bmjopen-2016-012072
+   Rydgren J, 2013, AM J SOCIOL, V118, P1650, DOI 10.1086/669854
+   Saint-Charles J, 2018, SOC NETWORKS, V52, P228, DOI 10.1016/j.socnet.2017.09.001
+   Sall E, 2003, SOCIAL SCI AFRICA TR, V0, P0
+   Sandfort TGM, 2015, AIDS BEHAV, V19, P2270, DOI 10.1007/s10461-015-1067-1
+   Sarndal CE, 2003, MODEL ASSISTED SURVEY SAMPLING, V0, P0
+   Schiffer E, 2007, IFPRI DISCUSSION PAP, V0, P0
+   Schiffer E, 2010, FIELD METHOD, V22, P231, DOI 10.1177/1525822X10374798
+   Schouten P, 2016, 30 JSRP, V0, P0
+   Scott J, 2015, BMJ OPEN, V5, P0, DOI 10.1136/bmjopen-2014-007057
+   Simmel G, 1906, AM J SOCIOL, V11, P441, DOI 10.1086/211418
+   Simmel Georg, 1908, SOZIOLOGIE, V0, P0
+   Snijders TomAB, 1999, LA REVUE TOCQUEVILLE, VXX, P27, DOI DOI 10.3138/TTR.20.1.27
+   Stys P, 2018, POVERTY CONFLICT COM, V0, P0
+   Stys P, 2020, GLOB CRIME, V21, P74, DOI 10.1080/17440572.2019.1596806
+   Themnér A, 2016, CIV WARS, V18, P255, DOI 10.1080/13698249.2016.1215639
+   Thoits P, 1985, SOC SUPPORT THEORY, V0, P0, DOI DOI 10.1007/978-94-009-5115-0, 4
+   Thompson SK, 2002, DRUG ALCOHOL DEPEN, V68, P0
+   THOMPSON SK, 1990, J AM STAT ASSOC, V85, P1050, DOI 10.2307/2289601
+   Tippett J, 1995, KETSO, V0, P0
+   Trefon T, 2012, CONGO MASQUERADE, V0, P0
+   Trefon T, 2016, CONGOS ENVIRONMENTAL PARADOX: POTENTIAL AND PREDATION IN A LAND OF PLENTY, V0, P0
+   Trefon T, 2011, CONGO MEASQUERADE PO, V0, P0
+   Utas Mats, 2012, AFRICAN CONFLICTS AND INFORMAL POWER: BIG MEN AND NETWORKS, V0, P1
+   Van Der Gaag M, 2005, SOC NETWORKS, V27, P1, DOI 10.1016/j.socnet.2004.10.001
+   van der Zouwen J, 2001, SOCIOL METHOD RES, V30, P35, DOI 10.1177/0049124101030001003
+   Van Tilburg T, 1998, SOCIOL METHOD RES, V26, P300, DOI 10.1177/0049124198026003002
+   VANDERPOEL MGM, 1993, SOC NETWORKS, V15, P49, DOI 10.1016/0378-8733(93)90021-C
+   Varese Federico, 2001, RUSSIAN MAFIA PRIVAT, V0, P0
+   Vigh H, 2012, AFRICAN CONFLICTS AND INFORMAL POWER BIG MEN AND NETWORKS, V0, P0
+   Vlassenroot K, 2013, URBAN STUD, V50, P3168, DOI 10.1177/0042098013487772
+   Walther O, 2017, SOCIAL NETWORK ANAL, V0, P0
+   Wane Y, 1969, COLLECTION INITIATIO, V0, P0
+   Weissinger LB, 2022, SOC NETWORKS, V69, P136, DOI 10.1016/j.socnet.2020.06.005
+   WELLER SC, 1987, AM BEHAV SCI, V31, P178, DOI 10.1177/000276487031002004
+   WELLER SC, 1984, AM ANTHROPOL, V86, P966, DOI 10.1525/aa.1984.86.4.02a00100
+   White DouglasR, 2005, NETWORK ANAL ETHNOGR, V0, P0
+   White HC, 1992, IDENTITY AND CONTROL: A STRUCTURAL THEORY OF SOCIAL ACTION, V0, P0
+   White K, 2000, SOC NETWORKS, V22, P337, DOI 10.1016/S0378-8733(00)00030-7
+   Whyte W, 1993, STREET CORNER SOC, V4th, P0
+   Wiebel W W, 1990, NIDA RES MONOGR, V98, P4
+NR 153
+TC 2
+Z9 0
+U1 0.0
+U2 5.0
+J9 SOCIAL NETWORKS
+PD MAY
+PY 2022
+VL 69
+BP 307
+EP 325
+DI 10.1016/j.socnet.2022.01.003
+PG 19
+SC ANTHROPOLOGY; SOCIOLOGY
+UT WOS:000777028500012
+PM 
+ER
+

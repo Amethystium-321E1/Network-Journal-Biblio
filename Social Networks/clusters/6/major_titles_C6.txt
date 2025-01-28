@@ -1,24 +1,9 @@
-Forgetting in the recall-based elicitation of personal and social networks
-Accuracy, stability and reciprocity in informal conversational networks in rural Kenya
-Ego-centered networks and the ripple effect
-Network inference, error, and informant (in)accuracy: a Bayesian approach
-Friends and neighbors on the Web
-Trust in triads: An experimental study
-Decay functions
-Connections between A.K. Romney's analyses of endogamy and other developments in log-linear models and network analysis
-Are respondents more likely to list alters with certain characteristics? Implications for name generator data
-Advances in biased net theory: definitions, derivations, and estimations
-Interpretation and interview context: examining the General Social Survey name generator using cognitive methods
-No associative biases in the first name cued recall procedure for eliciting personal networks
-Calculating status with negative relations
-Scaling and statistical models for affiliation networks: patterns of participation among Soviet politicians during the Brezhnev era
-Egocentric and sociocentric measures of network centrality
-The complexity of social networks: theoretical and empirical findings
-The tie effect on information dissemination: the spread of a commercial rumor in Hong Kong
-Tribal regimes in academia: a comparative analysis of market structure across disciplines
-Goal specific social capital and job satisfaction -: Effects of different types of networks on instrumental and social aspects of work
-Missing data in networks:: exponential random graph (<i>p</i>*) models for networks with non-respondents
-Group composition and network structure in school classes:: a multilevel application of the <i>p</i>* model
-Lattices and dimensional representations: matrix decompositions and ordering structures
-Structure and time evolution of an Internet dating community
-Interviewer effects in measuring network size using a single name generator
+Networks and geography: Modelling community network structures as the outcome of both spatial and network processes
+Analysing networks of networks
+Trust, quality, and the network collection experience: A tale of two studies on the Democratic Republic of the Congo
+Multilevel network interventions: Goals, actions, and outcomes
+Using social network analysis to study crime: Navigating the challenges of criminal justice records
+Networks of context: Three-layer socio-cultural mapping for a <i>Verstehende</i> network analysis
+Socio-material network analysis: A mixed method study of five European artistic collectives
+Multilevel determinants of collaboration between organised criminal groups
+Trust, quality, and the network collection experience: A tale of two studies on the Democratic Republic of the Congo (Reprinted from vol 68, pages 237-255, 2022)
