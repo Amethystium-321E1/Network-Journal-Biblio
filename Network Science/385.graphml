@@ -4876,7 +4876,7 @@
   <data key="year">2023</data>
 </edge>
 <edge source="14" target="30">
-  <data key="weight">5.773502634838223E-4</data>
+  <data key="weight">0.5773502588272095</data>
   <data key="slice">3</data>
   <data key="year">2017</data>
 </edge>
@@ -5021,7 +5021,7 @@
   <data key="year">2015</data>
 </edge>
 <edge source="21" target="34">
-  <data key="weight">7.071067811921239E-4</data>
+  <data key="weight">0.7071067690849304</data>
   <data key="slice">2</data>
   <data key="year">2016</data>
 </edge>
@@ -5706,7 +5706,7 @@
   <data key="year">2023</data>
 </edge>
 <edge source="55" target="307">
-  <data key="weight">4.082483355887234E-4</data>
+  <data key="weight">0.40824830532073975</data>
   <data key="slice">9</data>
   <data key="year">2023</data>
 </edge>
@@ -6806,7 +6806,7 @@
   <data key="year">2023</data>
 </edge>
 <edge source="127" target="307">
-  <data key="weight">5.000000237487257E-4</data>
+  <data key="weight">0.5</data>
   <data key="slice">9</data>
   <data key="year">2023</data>
 </edge>
@@ -7261,7 +7261,7 @@
   <data key="year">2017</data>
 </edge>
 <edge source="163" target="190">
-  <data key="weight">5.000000237487257E-4</data>
+  <data key="weight">0.5</data>
   <data key="slice">3</data>
   <data key="year">2017</data>
 </edge>
@@ -8291,12 +8291,12 @@
   <data key="year">2023</data>
 </edge>
 <edge source="298" target="315">
-  <data key="weight">5.000000237487257E-4</data>
+  <data key="weight">0.5</data>
   <data key="slice">6</data>
   <data key="year">2020</data>
 </edge>
 <edge source="298" target="348">
-  <data key="weight">5.000000237487257E-4</data>
+  <data key="weight">0.5</data>
   <data key="slice">6</data>
   <data key="year">2020</data>
 </edge>
@@ -8356,7 +8356,7 @@
   <data key="year">2020</data>
 </edge>
 <edge source="308" target="348">
-  <data key="weight">4.082483355887234E-4</data>
+  <data key="weight">0.40824830532073975</data>
   <data key="slice">6</data>
   <data key="year">2020</data>
 </edge>

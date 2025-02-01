@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-28T12:50:36.484-0800",
+  "date": "2025-02-01T02:20:30.897-0800",
   "pruningType": "None",
   "LRF": 0,
   "pruneWithMST": false,
@@ -43,7 +43,7 @@
   "wordsID": true,
   "topNpctCap": 100,
   "wordsAB": true,
-  "timeStamp": "January 28, 2025, 12:50:36\u202fPM PST",
+  "timeStamp": "February 1, 2025, 2:20:30\u202fAM PST",
   "dataHomePath": "F:\\GitHub_Local_Repo\\Network-Journal-Biblio\\Network Science\\WOS data",
   "linkWeightModificationRate": 9.999999974752427E-7,
   "endTime": "2025-DEC",

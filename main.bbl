@@ -1,5 +1,22 @@
 \begin{thebibliography}{}
 
+\bibitem[Allen-Perkins, 2019]{AllenPerkins2019}
+Allen-Perkins, A. (2019).
+\newblock The statistical properties of random graphs.
+\newblock {\em Journal of Statistical Mechanics: Theory and Experiment},
+  2019:0.
+
+\bibitem[Amati, 2019]{Amati2019}
+Amati, V. (2019).
+\newblock Latent space models for multiplex networks.
+\newblock {\em Social Networks}, 57:18--30.
+
+\bibitem[Andjelkovic et~al., 2020]{Andjelkovic2020}
+Andjelkovic, M., Tolic, D., and Rajkovic, M. (2020).
+\newblock Topological robustness of real-world networks: The role of
+  percolation.
+\newblock {\em Scientific Reports}, 10:0.
+
 \bibitem[Aria and Cuccurullo, 2017]{Aria2017}
 Aria, M. and Cuccurullo, C. (2017).
 \newblock bibliometrix: An r-tool for comprehensive science mapping analysis.
@@ -9,6 +26,16 @@ Aria, M. and Cuccurullo, C. (2017).
 Arias, J.~C. and De~Filippo, D. (2020).
 \newblock Bibliometric analysis: A tool for assessing research.
 \newblock {\em Scientometrics}, 124:215--234.
+
+\bibitem[Asztalos, 2012]{Asztalos2012}
+Asztalos, A. (2012).
+\newblock Statistical properties of weighted networks.
+\newblock {\em European Physical Journal B}, 85:0.
+
+\bibitem[Bakshy, 2015]{Bakshy2015}
+Bakshy, E. (2015).
+\newblock Exposure to ideologically diverse news and opinion on facebook.
+\newblock {\em Science}, 348:1130--1132.
 
 \bibitem[Barabási, 2009]{Barabasi2009}
 Barabási, A.-L. (2009).
@@ -36,12 +63,23 @@ Barabási, Albert-László, J. H. N.-Z. R. E.-S.~A. and Vicsek, T. (2002).
 \newblock {\em Physica A: Statistical Mechanics and its Applications},
   311(3-4):590--614.
 
-\bibitem[Bastian et~al., 2009]{Bastian2009}
-Bastian, M., Heymann, S., and Jacomy, M. (2009).
+\bibitem[Bastian et~al., 2009a]{Bastian2009}
+Bastian, M., Heymann, S., and Jacomy, M. (2009a).
 \newblock Gephi: An open source software for exploring and manipulating
   networks.
 \newblock In {\em International Conference on Web and Social Media}, pages
   361--362.
+
+\bibitem[Bastian et~al., 2009b]{bastian2009gephi}
+Bastian, M., Heymann, S., and Jacomy, M. (2009b).
+\newblock Gephi: An open source software for exploring and manipulating
+  networks.
+\newblock 3(1):361--362.
+
+\bibitem[Block, 2015]{Block2015}
+Block, P. (2015).
+\newblock Reciprocity, transitivity, and the mysterious three-cycle.
+\newblock {\em Social Networks}, 40:163--173.
 
 \bibitem[Boccaletti et~al., 2014]{Boccaletti2014}
 Boccaletti, S., Bianconi, G., and Criado, R. (2014).
@@ -52,6 +90,16 @@ Boccaletti, S., Bianconi, G., and Criado, R. (2014).
 Boccaletti, S., Latora, V., Moreno, Y., Chavez, M., and Hwang, D.-U. (2006).
 \newblock Complex networks: Structure and dynamics.
 \newblock {\em Physics Reports}, 424:175--308.
+
+\bibitem[Borgatti and Everett, 1992]{Borgatti1992}
+Borgatti, S.~P. and Everett, M.~G. (1992).
+\newblock Notions of position in social network analysis.
+\newblock {\em Social Networks}, 14:91--106.
+
+\bibitem[Borgatti and Everett, 1999]{borgatti1999core}
+Borgatti, S.~P. and Everett, M.~G. (1999).
+\newblock Models of core/periphery structures.
+\newblock {\em Social Networks}, 21(4):375--395.
 
 \bibitem[Borgatti et~al., 2009]{Borgatti2009}
 Borgatti, S.~P., Mehra, A., Brass, D.~J., and Labianca, G. (2009).
@@ -68,6 +116,21 @@ Bornmann, L. and Daniel, H.-D. (2011).
 \newblock What do citation counts measure? a review of studies on citing
   behavior.
 \newblock {\em Journal of Documentation}, 64:45--80.
+
+\bibitem[Burt, 1983]{Burt1983}
+Burt, R.~S. (1983).
+\newblock Applied network analysis: A methodological introduction.
+\newblock {\em Social Networks}, 5:67--81.
+
+\bibitem[Burt, 1992a]{burt1992structural}
+Burt, R.~S. (1992a).
+\newblock {\em Structural Holes: The Social Structure of Competition}.
+\newblock Harvard University Press, Cambridge, MA.
+
+\bibitem[Burt, 1992b]{Burt1992}
+Burt, R.~S. (1992b).
+\newblock {\em Structural Holes: The Social Structure of Competition}.
+\newblock Harvard University Press.
 
 \bibitem[Börner et~al., 2010]{Börner2010}
 Börner, K., Sanyal, S., and Vespignani, A. (2010).
@@ -93,8 +156,15 @@ Caroline S.~Wagner, J. L.~Y. and Hassell, S.~J. (2011).
   pitfalls.
 \newblock {\em Global Policy}, 2(1):24--35.
 
-\bibitem[Chen, 2006]{Chen2006}
-Chen, C. (2006).
+\bibitem[Chen, 2006a]{Chen2006}
+Chen, C. (2006a).
+\newblock Citespace ii: Detecting and visualizing emerging trends and transient
+  patterns in scientific literature.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 57(3):359--377.
+
+\bibitem[Chen, 2006b]{chen2006citespace}
+Chen, C. (2006b).
 \newblock Citespace ii: Detecting and visualizing emerging trends and transient
   patterns in scientific literature.
 \newblock {\em Journal of the American Society for Information Science and
@@ -112,6 +182,13 @@ Chen, C., Ibekwe-SanJuan, F., and Hou, J. (2017).
 \newblock {\em Journal of the American Society for Information Science and
   Technology}, 68(3):495--511.
 
+\bibitem[Coulter, 1998]{coulter1998co}
+Coulter, N., M. I. . K.-S. (1998).
+\newblock Software engineering as seen through its research literature: A study
+  in co-word analysis.
+\newblock {\em Journal of the American Society for Information Science},
+  49(13):1206--1223.
+
 \bibitem[David M.~Blei and Jordan, 2003]{Blei2003}
 David M.~Blei, A. Y.~N. and Jordan, M.~I. (2003).
 \newblock Latent dirichlet allocation.
@@ -122,6 +199,12 @@ Diego~Chavarro, I.~R. and Porter, A.~L. (2017).
 \newblock Research impact and interdisciplinarity: A bibliometric perspective.
 \newblock {\em Research Evaluation}, 26(2):92--103.
 
+\bibitem[Ding et~al., 2001]{ding2001co}
+Ding, Y., Chowdhury, G., and Foo, S. (2001).
+\newblock Bibliometric cartography of information retrieval research by using
+  co-word analysis.
+\newblock {\em Information Processing \& Management}, 37(6):817--842.
+
 \bibitem[Dong et~al., 2014]{WOS:000336729500129}
 Dong, L.~Y., Yin, M., and Kang, X.~L. (2014).
 \newblock Bibliometric network analysis of glaucoma.
@@ -131,6 +214,16 @@ Dong, L.~Y., Yin, M., and Kang, X.~L. (2014).
 Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., and Lim, W. (2021).
 \newblock How to conduct a bibliometric analysis: An overview and guidelines.
 \newblock {\em Journal of Business Research}, 133:285--296.
+
+\bibitem[Doreian, 1987]{Doreian1987}
+Doreian, P. (1987).
+\newblock Measuring social structure with blockmodels.
+\newblock {\em Social Networks}, 9:89--120.
+
+\bibitem[Elmer, 2019]{Elmer2019}
+Elmer, T. (2019).
+\newblock Social network analysis in psychological research.
+\newblock {\em Behavior Research Methods}, 51:2120--2130.
 
 \bibitem[Fortunato, 2010]{Fortunato2010}
 Fortunato, S. (2010).
@@ -155,6 +248,11 @@ Freeman, L.~C. (2004).
   of science.
 \newblock {\em Empirical Press}.
 
+\bibitem[Fruchterman and Reingold, 1991]{fruchterman1991graph}
+Fruchterman, T. M.~J. and Reingold, E.~M. (1991).
+\newblock Graph drawing by force-directed placement.
+\newblock {\em Software: Practice and Experience}, 21(11):1129--1164.
+
 \bibitem[Garfield, 1972]{Garfield1972}
 Garfield, E. (1972).
 \newblock Citation analysis as a tool in journal evaluation.
@@ -166,6 +264,12 @@ Garfield, E. (1979).
   Technology, and Humanities}.
 \newblock John Wiley \& Sons.
 
+\bibitem[Glänzel, 2004]{glanzel2004handbook}
+Glänzel, W. (2004).
+\newblock {\em Handbook of Quantitative Science and Technology Research: The
+  Use of Publication and Patent Statistics in Studies of S\&T Systems}.
+\newblock Springer.
+
 \bibitem[Glänzel, 2015]{Glanzel2015}
 Glänzel, W. (2015).
 \newblock Bibliometric methods for detecting and analyzing research fronts.
@@ -176,6 +280,25 @@ Glänzel, W. and Schubert, A. (2004).
 \newblock Analyzing scientific networks through co-authorship.
 \newblock {\em Handbook of Quantitative Science and Technology Research}, pages
   257--276.
+
+\bibitem[Granovetter, 1973]{granovetter1973strength}
+Granovetter, M.~S. (1973).
+\newblock The strength of weak ties.
+\newblock {\em American Journal of Sociology}, 78(6):1360--1380.
+
+\bibitem[Hagberg et~al., 2008]{SciPyProceedings_11}
+Hagberg, A.~A., Schult, D.~A., and Swart, P.~J. (2008).
+\newblock Exploring network structure, dynamics, and function using networkx.
+\newblock In Varoquaux, G., Vaught, T., and Millman, J., editors, {\em
+  Proceedings of the 7th Python in Science Conference}, pages 11 -- 15,
+  Pasadena, CA USA.
+
+\bibitem[Holland and Leinhardt, 1981]{holland1981exponential}
+Holland, P.~W. and Leinhardt, S. (1981).
+\newblock An exponential family of probability distributions for directed
+  graphs.
+\newblock {\em Journal of the American Statistical Association},
+  76(373):33--50.
 
 \bibitem[Holland and Leinhardt, 1983]{Holland1983}
 Holland, P.~W. and Leinhardt, S. (1983).
@@ -257,6 +380,11 @@ Liu, J. and Xia, J. (2005).
 \newblock {\em Journal of the American Society for Information Science and
   Technology}, 56(2):131--139.
 
+\bibitem[Lomi, 2012]{Lomi2012}
+Lomi, A. (2012).
+\newblock The network structure of social capital.
+\newblock {\em Social Networks}, 34:101--107.
+
 \bibitem[M.~J.~Cobo, 2011]{Cobo2011}
 M.~J.~Cobo, A. G. López-Herrera, E. H.-V. F.~H. (2011).
 \newblock Science mapping software tools: Review, analysis, and cooperative
@@ -296,8 +424,8 @@ Newman, M. (2018a).
 \newblock {\em Networks}.
 \newblock Oxford University Press.
 
-\bibitem[Newman, 2001]{Newman2001}
-Newman, M.~E. (2001).
+\bibitem[Newman, 2001a]{Newman2001}
+Newman, M.~E. (2001a).
 \newblock The structure of scientific collaboration networks.
 \newblock {\em Proceedings of the National Academy of Sciences},
   98(2):404--409.
@@ -318,10 +446,21 @@ Newman, M.~E. (2018b).
 \newblock {\em Networks}.
 \newblock Oxford University Press.
 
+\bibitem[Newman, 2001b]{newman2001scientific}
+Newman, M. E.~J. (2001b).
+\newblock Scientific collaboration networks: I. network construction and
+  fundamental results.
+\newblock {\em Physical Review E}, 64(1):016131.
+
 \bibitem[Noorden, 2015]{VanNoorden2015}
 Noorden, R.~V. (2015).
 \newblock Interdisciplinary research by the numbers.
 \newblock {\em Nature}, 525:306--307.
+
+\bibitem[Nyberg, 2015]{Nyberg2015}
+Nyberg, A. (2015).
+\newblock Network models for biological processes.
+\newblock {\em Journal of Complex Networks}, 3:543--567.
 
 \bibitem[Opsahl and Skvoretz, 2010]{Opsahl2010}
 Opsahl, Tore, A.~F. and Skvoretz, J. (2010).
@@ -347,6 +486,16 @@ Robins, Garry, P. P. K.~Y. and Lusher, D. (2007).
   social networks.
 \newblock {\em Social Networks}, 29(2):173--191.
 
+\bibitem[Salehi, 2015]{Salehi2015}
+Salehi, M. (2015).
+\newblock Spreading processes in multilayer networks.
+\newblock {\em IEEE Transactions on Network Science and Engineering}, 2:65--83.
+
+\bibitem[Scott, 2017]{Scott2017}
+Scott, J. (2017).
+\newblock {\em Social Network Analysis}.
+\newblock SAGE Publications.
+
 \bibitem[Small, 1973a]{small1973co}
 Small, H. (1973a).
 \newblock Co-citation in the scientific literature: A new measure of the
@@ -361,6 +510,26 @@ Small, H. (1973b).
 \newblock {\em Journal of the American Society for Information Science},
   24(4):265--269.
 
+\bibitem[Snijders, 2017]{Snijders2017}
+Snijders, T.~A. (2017).
+\newblock Stochastic actor-oriented models for network dynamics.
+\newblock {\em Annual Review of Statistics and Its Application}, 4:343--363.
+
+\bibitem[Snijders et~al., 2010a]{snijders2010stochastic}
+Snijders, T.~A., van~de Bunt, G.~G., and Steglich, C.~E. (2010a).
+\newblock Introduction to stochastic actor-based models for network dynamics.
+\newblock {\em Social Networks}, 32(1):44--60.
+
+\bibitem[Snijders, 2001]{snijders2001statistical}
+Snijders, T. A.~B. (2001).
+\newblock The statistical evaluation of social network dynamics.
+\newblock {\em Sociological Methodology}, 31(1):361--395.
+
+\bibitem[Snijders et~al., 2010b]{snijders2010introduction}
+Snijders, T. A.~B., Van~de Bunt, G.~G., and Steglich, C. E.~G. (2010b).
+\newblock Introduction to stochastic actor-based models for network dynamics.
+\newblock {\em Social Networks}, 32(1):44--60.
+
 \bibitem[Stefano~Boccaletti and Hwang, 2006]{Boccaletti2006}
 Stefano~Boccaletti, Vito~Latora, Y. M.-M.~C. and Hwang, D.-U. (2006).
 \newblock Complex networks: Structure and dynamics.
@@ -371,11 +540,33 @@ Strogatz, S.~H. (2001).
 \newblock Exploring complex networks.
 \newblock {\em Nature}, 410(6825):268--276.
 
-\bibitem[Van~Eck and Waltman, 2010]{vanEck2010}
-Van~Eck, N.~J. and Waltman, L. (2010).
+\bibitem[Valente, 2012]{Valente2012}
+Valente, T.~W. (2012).
+\newblock Network interventions.
+\newblock {\em Science}, 337:49--53.
+
+\bibitem[van~der Hofstad, 2017]{vanDerHofstad2017}
+van~der Hofstad, R. (2017).
+\newblock Random graphs and complex networks.
+\newblock {\em Physical Review E}, 95:0.
+
+\bibitem[Van~Eck and Waltman, 2010a]{vanEck2010}
+Van~Eck, N.~J. and Waltman, L. (2010a).
 \newblock Software survey: Vosviewer, a computer program for bibliometric
   mapping.
 \newblock {\em Scientometrics}, 84:523--538.
+
+\bibitem[Van~Eck and Waltman, 2010b]{vanEck2010vosviewer}
+Van~Eck, N.~J. and Waltman, L. (2010b).
+\newblock Software survey: Vosviewer, a computer program for bibliometric
+  mapping.
+\newblock {\em Scientometrics}, 84(2):523--538.
+
+\bibitem[Van~Eck and Waltman, 2010c]{van2010software}
+Van~Eck, N.~J. and Waltman, L. (2010c).
+\newblock Software survey: Vosviewer, a computer program for bibliometric
+  mapping.
+\newblock {\em Scientometrics}, 84(2):523--538.
 
 \bibitem[van Eck and Waltman, 2010]{van2010visualizing}
 van Eck, N.~J. and Waltman, L. (2010).
@@ -387,6 +578,11 @@ van Eck, N.~J. and Waltman, L. (2010).
 Wagner, C.~S. and Leydesdorff, L. (2018).
 \newblock Global science networks and the role of international collaboration.
 \newblock {\em Journal of Informetrics}, 12(1):56--68.
+
+\bibitem[Wang, 2013]{Wang2013}
+Wang, P. (2013).
+\newblock Exponential random graph models for affiliation networks.
+\newblock {\em Social Networks}, 35:96--115.
 
 \bibitem[Wasserman and Faust, 1994a]{wasserman1994social}
 Wasserman, S. and Faust, K. (1994a).
@@ -403,8 +599,13 @@ Watts, D.~J. (2011).
 \newblock {\em Everything is Obvious (Once You Know the Answer)}.
 \newblock Crown Publishing Group.
 
-\bibitem[Watts and Strogatz, 1998]{Watts1998}
-Watts, D.~J. and Strogatz, S.~H. (1998).
+\bibitem[Watts and Strogatz, 1998a]{watts1998collective}
+Watts, D.~J. and Strogatz, S.~H. (1998a).
+\newblock Collective dynamics of 'small-world' networks.
+\newblock {\em Nature}, 393(6684):440--442.
+
+\bibitem[Watts and Strogatz, 1998b]{Watts1998}
+Watts, D.~J. and Strogatz, S.~H. (1998b).
 \newblock Collective dynamics of ‘small-world’ networks.
 \newblock {\em Nature}, 393(6684):440--442.
 
@@ -414,5 +615,10 @@ Yazdanjue, N., Yazdanjouei, H., Gharoun, H., Khorshidi, M.~S., Rakhshaninejad,
 \newblock A {Comprehensive} {Bibliometric} {Analysis} on {Social} {Network}
   {Anonymization}: {Current} {Approaches} and {Future} {Directions}.
 \newblock arXiv:2307.13179 [cs].
+
+\bibitem[Zappa, 2015]{Zappa2015}
+Zappa, P. (2015).
+\newblock Network analysis for organizational research.
+\newblock {\em Organizational Research Methods}, 18:542--567.
 
 \end{thebibliography}

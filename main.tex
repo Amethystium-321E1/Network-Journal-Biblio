@@ -8,10 +8,13 @@
 \usepackage{authblk}
 \usepackage{abstract}
 \usepackage{mathbbol}
+\usepackage{longtable}
+\usepackage{geometry}
 
 \title{\textbf{Mapping the Intellectual Structure of Social Network Research: A Comparative Bibliometric Analysis}}
-\author{Pengjia Cui \thanks{Corresponding author: pcui@ucsd.edu}}
-\affil{Computational Social Science \\
+\author[1]{Pengjia Cui \thanks{Corresponding author: pcui@ucsd.edu}}
+\author[2]{Yawen Dong}
+\affil[1,2]{Computational Social Science, 
 	University of California San Diego}
 \date{}
 
@@ -32,13 +35,11 @@
 	\twocolumn[
 	\maketitle
 	\begin{onecolabstract}
-		Understanding the intellectual structure of social network research requires a systematic analysis of its thematic evolution and methodological diversification. This study conducts a bibliometric analysis of three key journals—\textit{Social Networks}, \textit{Journal of Complex Networks}, and \textit{Network Science}—chosen for their distinct disciplinary orientations. 
+		Network science is an interdisciplinary field that transcends traditional academic boundaries, offering profound insights into complex systems across disciplines. This study conducts a bibliometric analysis of three leading journals—\textit{Social Networks}, \textit{Network Science}, and the \textit{Journal of Complex Networks}—each representing a distinct yet interconnected perspective within the field. \textit{Social Networks} focuses on empirical and theoretical advancements in social structures, emphasizing sociological and behavioral approaches. \textit{Network Science} bridges physics, computer science, and applied mathematics to explore network dynamics in diverse domains. The \textit{Journal of Complex Networks}, by contrast, is dedicated to the mathematical and algorithmic foundations of network theory. By employing co-authorship and citation network analysis, we map the intellectual landscape of these journals, identifying key contributors, influential works, and structural trends in collaboration. Through centrality measures such as degree, betweenness, and eigenvector centrality, we uncover the most impactful publications and their roles in shaping the discourse within and beyond their respective domains. Our analysis not only delineates the disciplinary contours of network science but also highlights its convergence points, revealing the evolving trajectory of this dynamic and rapidly expanding field.
 		
-		Using \textit{Web of Science} data, we apply \textbf{performance analysis} to assess publication and citation trends, \textbf{science mapping} to identify research domains, and \textbf{network analysis} to examine collaboration patterns. Results reveal increasing specialization, with a divergence between empirical and computational approaches. Key publications shaping the field and emerging research directions are also identified.
-		
-		By comparing these journals, this study clarifies the field’s structural evolution and collaboration networks, offering insights for researchers and policymakers.
 	\end{onecolabstract}
 	
+	\noindent\textbf{Keywords:} Bibliometric Analysis, Citation Network, Social Networks, Scholarly Collaboration, Intellectual Structure, Research Impact, Centrality Metrics, Cluster Analysis, Thematic Mapping
 	
 	\vspace{1cm}
 	]
@@ -274,9 +275,9 @@ This specialization reflects the diversification of network science into distinc
 	
 	To assess the research impact and scholarly influence of the three selected journals, we computed key bibliometric indicators, summarized in Table \ref{table.tab3}. These metrics provide a structured evaluation of citation patterns, research productivity, and author contributions. Specifically, we analyze the number of cited publications (NCP), the proportion of cited publications (PCP), and the average citations per cited publication (CCP) to assess citation reach. Additionally, we employ widely used impact measures such as the h-index, g-index, and i-index at multiple citation thresholds to capture both depth and breadth of influence within the field. These indicators collectively offer insights into the relative standing and thematic focus of each journal in social and complex network research.
 	\begin{table*}[htbp]
-		\scriptsize
+		\tiny
 		\caption{Citation and Publication Related Metrics}\label{table.tab3}
-		\begin{tabularx}{\textwidth}{l|r|r|r|r|r|r|r|r}
+		\begin{tabularx}{\textwidth}{l|r|r|r|r|r|r|r|c}
 			\toprule
 			Journal & NCP & PCP & CCP & h-index & g-index & i-10 index & i-100 index & i-200 index \\
 			\midrule
@@ -322,27 +323,27 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 
 	\subsubsection*{Social Networks}
 	
-	The citation network of \textit{Social Networks} exhibits a centralized hub structure, where key publications serve as bridges across different research areas. These influential works facilitate knowledge diffusion, linking empirical, computational, and theoretical approaches. To further investigate their impact, we analyze degree centrality, betweenness centrality, and modularity, identifying emerging research trends and intellectual shifts.
+	The citation network of \textit{Social Networks} exhibits a centralized hub structure, where key publications serve as bridges across different research areas. These influential works facilitate knowledge diffusion, linking empirical, computational, and theoretical approaches. To further investigate their impact, we analyze degree centrality, betweenness centrality, and modularity, identifying emerging research trends and intellectual shifts \cite{snijders2010stochastic, Holland1983}.
 	
 	\begin{table*}[htbp]
 		\centering
 		\scriptsize
 		\caption{Top 10 Most Cited Papers in \textit{Social Networks}}
 		\label{table.tab4}
-		\begin{tabularx}{\textwidth}{lXlrl}
+		\begin{tabularx}{\textwidth}{llrl}
 			\toprule
-			\textbf{Rank} & \textbf{Author(s)} & \textbf{Title} & \textbf{Year} & \textbf{Citations} \\
+			\textbf{Author(s)} & \textbf{Title} & \textbf{Year} & \textbf{Citations} \\
 			\midrule
-			1 & Freeman, LC & Centrality in Social Networks: Conceptual Clarification & 1979 & 10811 \\
-			2 & Opsahl, T & Node Centrality in Weighted Networks: Generalizing Degree and Shortest Path & 2010 & 2269 \\
-			3 & Borgatti, SP & Centrality and Network Flow & 2005 & 2108 \\
-			4 & Adamic, LA & Friends and Neighbors on the Web & 2003 & 1786 \\
-			5 & Holland, PW & Stochastic Blockmodels: First Steps & 1983 & 1690 \\
-			6 & Newman, MEJ & A Measure of Betweenness Centrality Based on Random Walks & 2005 & 1420 \\
-			7 & Snijders, TAB & Introduction to Stochastic Actor-Based Models for Network Dynamics & 2010 & 1312 \\
-			8 & Borgatti, SP & Models of Core/Periphery Structures & 1999 & 1282 \\
-			9 & Robins, G & An Introduction to Exponential Random Graph (\textit{p*}) Models & 2007 & 1227 \\
-			10 & Seidman, SB & Network Structure and Minimum Degree & 1983 & 1184 \\
+			Freeman, LC & Centrality in Social Networks: Conceptual Clarification & 1979 & 10811 \\
+			Opsahl, T & Node Centrality in Weighted Networks: Generalizing Degree and Shortest Path & 2010 & 2269 \\
+			Borgatti, SP & Centrality and Network Flow & 2005 & 2108 \\
+			Adamic, LA & Friends and Neighbors on the Web & 2003 & 1786 \\
+			Holland, PW & Stochastic Blockmodels: First Steps & 1983 & 1690 \\
+			Newman, MEJ & A Measure of Betweenness Centrality Based on Random Walks & 2005 & 1420 \\
+			Snijders, TAB & Introduction to Stochastic Actor-Based Models for Network Dynamics & 2010 & 1312 \\
+			Borgatti, SP & Models of Core/Periphery Structures & 1999 & 1282 \\
+			Robins, G & An Introduction to Exponential Random Graph (\textit{p*}) Models & 2007 & 1227 \\
+			Seidman, SB & Network Structure and Minimum Degree & 1983 & 1184 \\
 			\bottomrule
 		\end{tabularx}
 	\end{table*}
@@ -356,7 +357,7 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 		\label{fig.fig3}
 	\end{figure}
 	
-	Further examination of citation patterns reveals that high-degree nodes form tightly connected clusters, suggesting strong citation reciprocity within subfields. This is illustrated in Figure \ref{fig.fig4}, where darker colors indicate nodes with higher degrees. The network layout follows the Fruchterman-Reingold algorithm, with the degree range set between 21 and 61 to highlight structural patterns.
+	Further examination of citation patterns reveals that high-degree nodes form tightly connected clusters, suggesting strong citation reciprocity within subfields. This is illustrated in Figure \ref{fig.fig4}, where darker colors indicate nodes with higher degrees. The network layout follows the Fruchterman-Reingold algorithm \cite{fruchterman1991graph}, with the degree range set between 21 and 61 to highlight structural patterns.
 	
 	\begin{figure}[htbp]
 		\centering
@@ -375,20 +376,20 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 		\scriptsize
 		\caption{Top 10 Most Cited Papers in \textit{Network Science}}
 		\label{table.tab5}
-		\begin{tabularx}{\textwidth}{lXlrl}
+		\begin{tabularx}{\textwidth}{llrl}
 			\toprule
-			\textbf{Rank} & \textbf{Author(s)} & \textbf{Title} & \textbf{Year} & \textbf{Citations} \\
+			\textbf{Author(s)} & \textbf{Title} & \textbf{Year} & \textbf{Citations} \\
 			\midrule
-			1  & Barabási, AL  & Network Science  & 2016  & 901 \\
-			2  & Barabási, AL  & Personal Introduction  & 2016  & 191 \\
-			3  & Génois, M  & Data on Face-to-Face Contacts in an Office Building Suggest a Low-Cost  & 2015  & 147 \\
-			4  & Bothorel, C  & Clustering Attributed Graphs: Models, Measures, and Methods  & 2015  & 136 \\
-			5  & Staudt, CL  & NetworKit: A Tool Suite for Large-Scale Complex Network Analysis  & 2016  & 121 \\
-			6  & Block, P  & Multidimensional Homophily in Friendship Networks  & 2014  & 115 \\
-			7  & Rodriguez, MG  & Uncovering the Structure and Temporal Dynamics of Information  & 2014  & 87 \\
-			8  & Neal, ZP  & How Small is it? Comparing Indices of Small Worldliness  & 2017  & 45 \\
-			9  & Leifeld, P  & A Theoretical and Empirical Comparison of the Temporal Exponential  & 2019  & 43 \\
-			10 & Elmer, T  & The Co-Evolution of Emotional Well-Being with Weak and Strong Friendship  & 2017  & 41 \\
+			Barabási, AL  & Network Science  & 2016  & 901 \\
+			 Barabási, AL  & Personal Introduction  & 2016  & 191 \\
+			Génois, M  & Data on Face-to-Face Contacts in an Office Building Suggest a Low-Cost  & 2015  & 147 \\
+			 Bothorel, C  & Clustering Attributed Graphs: Models, Measures, and Methods  & 2015  & 136 \\
+			Staudt, CL  & NetworKit: A Tool Suite for Large-Scale Complex Network Analysis  & 2016  & 121 \\
+			Block, P  & Multidimensional Homophily in Friendship Networks  & 2014  & 115 \\
+			Rodriguez, MG  & Uncovering the Structure and Temporal Dynamics of Information  & 2014  & 87 \\
+			Neal, ZP  & How Small is it? Comparing Indices of Small Worldliness  & 2017  & 45 \\
+			 Leifeld, P  & A Theoretical and Empirical Comparison of the Temporal Exponential  & 2019  & 43 \\
+			Elmer, T  & The Co-Evolution of Emotional Well-Being with Weak and Strong Friendship  & 2017  & 41 \\
 			\bottomrule
 		\end{tabularx}
 	\end{table*}
@@ -404,7 +405,8 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 	
 	\subsubsection*{Journal of Complex Networks}
 	
-	The \textit{Journal of Complex Networks} (JCN) exhibits \textbf{moderate connectivity} in its citation and collaboration structures. Compared to \textit{Network Science} (NS), JCN demonstrates slightly better overall connectivity, suggesting a higher degree of scholarly interaction. However, its \textbf{largest connected component is significantly smaller than that of Social Networks (SN)}, indicating a more fragmented intellectual structure.
+	The \textit{Journal of Complex Networks} (JCN) exhibits \textbf{moderate connectivity} in its citation and collaboration structures, a characteristic supported by previous studies on academic network structures \cite{Newman2001, Liu2005}. Compared to \textit{Network Science} (NS), JCN demonstrates slightly better overall connectivity, suggesting a higher degree of scholarly interaction \cite{Barabasi2002}. However, its \textbf{largest connected component is significantly smaller than that of Social Networks (SN)}, indicating a more fragmented intellectual structure \cite{Otte2002, Borgatti2009}.
+	
 	
 	\begin{figure}[htbp]
 		\centering
@@ -428,7 +430,7 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 	
 	\subsection{Co-citation Analysis}
 	
-	Co-citation analysis examines the intellectual structure of a research field by identifying relationships between publications that are frequently cited together. In this section, we conduct a co-citation analysis (\textbf{C0-analysis}) across the three selected journals—\textit{Social Networks}, \textit{Journal of Complex Networks}, and \textit{Network Science}—to uncover key scholarly influences and thematic clusters within network science.
+	Co-citation analysis examines the intellectual structure of a research field by identifying relationships between publications that are frequently cited together \cite{small1973co}. In this section, we conduct a co-citation analysis (\textbf{C0-analysis}) across the three selected journals—\textit{Social Networks}, \textit{Journal of Complex Networks}, and \textit{Network Science}—to uncover key scholarly influences and thematic clusters within network science.
 	
 	By mapping co-citation patterns, we aim to:
 	\begin{itemize}
@@ -437,7 +439,7 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 		\item Examine the evolution of intellectual discourse across the three journals.
 	\end{itemize}
 	
-	The analysis is conducted using \textbf{VOSviewer, CiteSpace, and Gephi}, employing network visualization techniques to reveal structural patterns. The following sections present the results for each journal, highlighting the most influential papers and their co-citation relationships. \\
+	The analysis is conducted using \textbf{VOSviewer, CiteSpace, and Gephi}\cite{vanEck2010vosviewer,chen2006citespace,bastian2009gephi}, employing network visualization techniques to reveal structural patterns. The following sections present the results for each journal, highlighting the most influential papers and their co-citation relationships. 
 	
 	\subsubsection*{Social Networks}
 	
@@ -455,13 +457,14 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 	The six detected clusters represent distinct intellectual traditions within social network research:
 	
 	\begin{itemize}
-		\item \textbf{Structural Network Analysis}: This cluster centers around foundational works on network centrality, small-world networks, and structural balance, with key contributions from Freeman (1979), Borgatti \& Everett (1999), and Watts \& Strogatz (1998).
-		\item \textbf{Statistical Network Models}: Influenced by exponential random graph models (ERGMs) and stochastic blockmodels, this cluster includes seminal works by Holland \& Leinhardt (1981) and Snijders (2001).
+		\item \textbf{Structural Network Analysis}: This cluster centers around foundational works on network centrality, small-world networks, and structural balance, with key contributions from Freeman (1979)~\cite{Freeman1979}, Borgatti \& Everett (1999)~\cite{borgatti1999core}, and Watts \& Strogatz (1998)~\cite{watts1998collective}.
+		\item \textbf{Statistical Network Models}: Influenced by exponential random graph models (ERGMs) and stochastic blockmodels, this cluster includes seminal works by Holland \& Leinhardt (1981)~\cite{holland1981exponential} and Snijders (2001)~\cite{snijders2001statistical}.
 		\item \textbf{Computational and Algorithmic Methods}: Emerging as an increasingly influential area, this cluster includes research on network inference, community detection, and machine learning applications in network science.
-		\item \textbf{Social Capital and Influence Diffusion}: Studies on social influence, information diffusion, and network externalities form another major research stream, building on Granovetter (1973) and Burt (1992).
-		\item \textbf{Longitudinal and Dynamic Networks}: This cluster focuses on temporal network analysis, including actor-oriented models for evolving networks (e.g., Snijders et al., 2010).
+		\item \textbf{Social Capital and Influence Diffusion}: Studies on social influence, information diffusion, and network externalities form another major research stream, building on Granovetter (1973)~\cite{granovetter1973strength} and Burt (1992)~\cite{burt1992structural}.
+		\item \textbf{Longitudinal and Dynamic Networks}: This cluster focuses on temporal network analysis, including actor-oriented models for evolving networks (e.g., Snijders et al., 2010)~\cite{snijders2010introduction}.
 		\item \textbf{Applications in Social and Policy Sciences}: The final cluster captures interdisciplinary applications of social network analysis in areas such as epidemiology, political networks, and organizational studies.
 	\end{itemize}
+	
 	
 	These clusters highlight the dual nature of the field, where classical theoretical frameworks continue to shape research trajectories while computational advances and interdisciplinary applications drive emerging themes. The presence of well-defined yet interconnected clusters suggests that social network research maintains a balance between theoretical consolidation and methodological diversification.
 	
@@ -522,7 +525,8 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 		
 		\subsection{Co-word Analysis}
 		
-		Co-word analysis examines the conceptual structure of a research field by identifying patterns of keyword co-occurrence in scholarly publications. By mapping the relationships between frequently co-occurring terms, this method reveals dominant research themes, emerging trends, and the evolution of discourse within a field.
+		Co-word analysis examines the conceptual structure of a research field by identifying patterns of keyword co-occurrence in scholarly publications. By mapping the relationships between frequently co-occurring terms, this method reveals dominant research themes, emerging trends, and the evolution of discourse within a field~\cite{callon1983co, coulter1998co, ding2001co}.
+		
 		
 		In this study, we conduct a co-word analysis across \textit{Social Networks}, \textit{Network Science}, and \textit{Journal of Complex Networks} to:
 		
@@ -572,7 +576,8 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 		
 		\subsubsection*{Social Networks}
 		
-		To analyze the co-authorship patterns in the journal \textit{Social Networks}, we constructed a co-authorship network using bibliometric data. The visualization was generated using VOSviewer 1.6.20, which clusters authors based on their collaborative relationships. Figure \ref{fig.fig13} illustrates the co-authorship network, where nodes represent individual authors, and edges denote co-authorship links. The size of each node corresponds to the author's publication volume, while edge thickness reflects the frequency of co-authorship.
+		To analyze the co-authorship patterns in the journal \textit{Social Networks}, we constructed a co-authorship network using bibliometric data. The visualization was generated using VOSviewer 1.6.20~\cite{van2010software}, which clusters authors based on their collaborative relationships. Figure \ref{fig.fig13} illustrates the co-authorship network, where nodes represent individual authors, and edges denote co-authorship links. The size of each node corresponds to the author's publication volume, while edge thickness reflects the frequency of co-authorship~\cite{glanzel2004handbook, newman2004coauthorship}.
+		
 		
 		\begin{figure}[htbp]
 			\centering
@@ -601,7 +606,8 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 		
 		\subsubsection*{Network Science}
 		
-		To examine co-authorship trends in the journal \textit{Network Science}, we constructed a co-authorship network using bibliometric data. The visualization, generated via VOSviewer 1.6.20, organizes authors into clusters based on their collaborative relationships. Figure \ref{fig.fig15} presents the co-authorship network, where each node represents an author, and edges signify co-authored publications. The size of a node corresponds to the author’s publication count, while edge thickness reflects the frequency of collaboration.
+		To analyze the co-authorship patterns in the journal \textit{Social Networks}, we constructed a co-authorship network using bibliometric data. The visualization was generated using VOSviewer 1.6.20~\cite{van2010software}, which clusters authors based on their collaborative relationships. Figure \ref{fig.fig13} illustrates the co-authorship network, where nodes represent individual authors, and edges denote co-authorship links. The size of each node corresponds to the author's publication volume, while edge thickness reflects the frequency of co-authorship~\cite{glanzel2004handbook, newman2004coauthorship}.
+		
 		
 		\begin{figure}[htbp]
 			\centering
@@ -639,7 +645,8 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 			\label{fig.fig12}
 		\end{figure}
 		
-		To further analyze the structural characteristics of the co-authorship network, we examined the density of connections among researchers. Figure \ref{fig.fig17} presents the co-authorship density visualization, where regions of higher collaboration intensity are highlighted. The color intensity in the visualization reflects the degree of co-authorship concentration, with brighter areas indicating stronger collaborative activity.
+		To further analyze the structural characteristics of the co-authorship network, we examined the density of connections among researchers. Network density measures the overall level of collaboration in the academic community and reflects the extent to which authors frequently co-publish with one another~\cite{newman2001scientific, moody2004sociology, barabasi2016network}. High-density networks indicate strong interdisciplinary cooperation and frequent scholarly interactions, whereas lower-density networks suggest a more fragmented research landscape. This analysis provides deeper insights into the cohesion and collaborative dynamics within the field.
+		
 		
 		\begin{figure}[htbp]
 			\centering
@@ -651,26 +658,86 @@ These citation patterns underscore \textit{Social Networks} as a critical venue 
 		The analysis of the co-authorship network yields several key insights into the collaborative structure of research within the \textit{Journal of Complex Networks}:
 		
 		\begin{itemize}
-			\item \textbf{Prominent Authors:} The network highlights several influential contributors, including *Hiroki Sayama, David J.P. O’Sullivan, José L. Mateos, Nishant Malik, Hsuan-Wei Lee, and Lucas Lacasa*, who exhibit extensive co-authorship connections.
+			\item \textbf{Prominent Authors:} The network highlights several influential contributors, including Hiroki Sayama, David J.P. O’Sullivan, José L. Mateos, Nishant Malik, Hsuan-Wei Lee, and Lucas Lacasa, who exhibit extensive co-authorship connections.
 			\item \textbf{Clustered Research Communities:} The co-authorship network is characterized by distinct clusters, each representing a group of researchers who frequently collaborate. These clusters likely correspond to specialized subfields within complex network science.
 			\item \textbf{Interdisciplinary Collaborations:} Several authors serve as intermediaries connecting different research clusters, facilitating the exchange of knowledge across distinct domains.
 			\item \textbf{High-Density Collaborative Hubs:} The density visualization highlights key research hubs where collaboration is particularly strong, indicating the presence of influential research groups shaping the direction of the field.
 		\end{itemize}
 		
-		
-		
-		
-		
-		
 		\section{Network Metrics}
 		
-		Network analysis is a fundamental bibliometric technique used to examine the structure of scholarly interactions by mapping relationships among authors, institutions, and research themes \cite{Newman2001, Barabasi2002, Borgatti2009}. By constructing co-authorship, institutional collaboration, and citation networks, this method provides insights into the structural properties of academic discourse and the diffusion of knowledge \cite{Otte2002, Liu2005}.
+		Network analysis is a key bibliometric technique for examining the structure of scholarly interactions by mapping relationships among authors, institutions, and research themes~\cite{Newman2001, Barabasi2002, Borgatti2009}. By constructing co-authorship, institutional collaboration, and citation networks, this approach offers valuable insights into the structural properties of academic discourse and the diffusion of knowledge~\cite{Otte2002, Liu2005}.
 		
-		To quantify the influence of individual publications, we evaluate key network metrics, including degree centrality, betweenness centrality, and sigma scores. Table \ref{table.tab5} presents the most dominant publications based on these metrics across the three journals analyzed.
+		To assess the impact of individual publications, we compute key network metrics, including degree centrality, betweenness centrality, and sigma scores. Table~\ref{table.tab5} highlights the most influential publications based on these metrics across the three journals analyzed.
 		
+		For accuracy, we employ NetworkX~\cite{SciPyProceedings_11} to calculate the network metrics. The results are detailed in Table~\ref{table.tab6}. We ranked the list based on a combined evaluation of all three centrality metrics.
 		
+		\begin{table*}[htbp]
+			\centering
+			\caption{Top 10 Publications in 3 Journals with Highest Centrality}
+			\label{table.tab6}
+			\resizebox{\textwidth}{!}{
+				\begin{tabular}{lcccccc}
+					\toprule
+					Label & Degree & Degree Centrality & Betweenness Centrality & Closeness Centrality & Eigenvector Centrality & Journal \\
+					\midrule
+					Scott J, 2017, SOCIAL NETWORK ANALYSIS, V0, P0 & 12 & 0.007335 & 0.239656 & 0.156274 & 0.000088 & Social Networks \\
+					BORGATTI SP, 1992, SOC NETWORKS, V14, P91, DOI 10.1016/0378-8733(92)90015-Y & 8 & 0.004890 & 0.178918 & 0.142706 & 0.000465 & Social Networks \\
+					Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005 & 24 & 0.014670 & 0.108329 & 0.141205 & 0.000058 & Social Networks \\
+					Wang P, 2013, SOC NETWORKS, V35, P96, DOI 10.1016/j.socnet.2013.01.004 & 24 & 0.014670 & 0.094689 & 0.154768 & 0.000206 & Social Networks \\
+					Wasserman S, 1994, SOCIAL NETWORK ANAL, V0, P0 & 26 & 0.015892 & 0.079835 & 0.143585 & 0.000021 & Social Networks \\
+					BURT RS, 1987, AM J SOCIOL, V92, P1287, DOI 10.1086/228667 & 24 & 0.014670 & 0.077956 & 0.109768 & 0.013629 & Social Networks \\
+					Zappa P, 2015, ORGAN RES METHODS, V18, P542, DOI 10.1177/1094428115579225 & 18 & 0.011002 & 0.073588 & 0.153603 & 0.000134 & Social Networks \\
+					DOREIAN P, 1987, SOC NETWORKS, V9, P89, DOI 10.1016/0378-8733(87)90008-6 & 17 & 0.010391 & 0.072486 & 0.120457 & 0.002516 & Social Networks \\
+					BURT RS, 1983, APPLIED NETWORK ANAL, V0, P0 & 25 & 0.015281 & 0.071772 & 0.101817 & 0.039599 & Social Networks \\
+					Burt RS, 1992, STRUCTURAL HOLES, V0, P0 & 17 & 0.010391 & 0.068141 & 0.134295 & 0.000098 & Social Networks \\
+					Snijders TAB, 2017, ANNU REV STAT APPL, V4, P343, DOI 10.1146/annurev-statistics-060116-054035 & 8 & 0.020833 & 0.066634 & 0.088163 & 0.000004 & Network Science \\
+					Block P, 2015, SOC NETWORKS, V40, P163, DOI 10.1016/j.socnet.2014.10.005 & 10 & 0.026042 & 0.066090 & 0.081605 & 0.000002 & Network Science \\
+					Amati V, 2019, SOC NETWORKS, V57, P18, DOI 10.1016/j.socnet.2018.10.001 & 20 & 0.052083 & 0.058764 & 0.091121 & 0.000015 & Network Science \\
+					Lomi A, 2012, SOC NETWORKS, V34, P101, DOI 10.1016/j.socnet.2010.10.005 & 9 & 0.023438 & 0.054830 & 0.074176 & 0.000007 & Network Science \\
+					Leenders RTAJ, 2016, ORGAN PSYCHOL REV, V6, P92, DOI 10.1177/2041386615578312 & 5 & 0.013021 & 0.045654 & 0.084257 & 0.000003 & Network Science \\
+					Brashears ME, 2018, SOC NETWORKS, V55, P104, DOI 10.1016/j.socnet.2018.05.010 & 6 & 0.015625 & 0.045566 & 0.078896 & 0.000000 & Network Science \\
+					Bakshy E, 2015, SCIENCE, V348, P1130, DOI 10.1126/science.aaa1160 & 6 & 0.015625 & 0.036677 & 0.060877 & 0.000000 & Network Science \\
+					Valente TW, 2012, SCIENCE, V337, P49, DOI 10.1126/science.1217330 & 13 & 0.033854 & 0.029537 & 0.065944 & 0.000007 & Network Science \\
+					Salehi M, 2015, IEEE T NETW SCI ENG, V2, P65, DOI 10.1109/TNSE.2015.2425961 & 9 & 0.023438 & 0.026723 & 0.054533 & 0.000001 & Network Science \\
+					Elmer T, 2019, BEHAV RES METHODS, V51, P2120, DOI 10.3758/s13428-018-1180-y & 10 & 0.026042 & 0.026261 & 0.087756 & 0.000004 & Network Science \\
+					Allen-Perkins A, 2019, J STAT MECH-THEORY E, V2019, P0, DOI 10.1088/1742-5468/ab5700 & 3 & 0.005848 & 0.000000 & 0.131349 & 0.000047 & Journal of Complex Networks \\
+					Miklós I, 2013, ELECTRON J COMB, V20, P0 & 2 & 0.003899 & 0.002155 & 0.077071 & 0.000000 & Journal of Complex Networks \\
+					BORGATTI SP, 2011, ORGAN SCI, V22, P1168, DOI 10.1287/orsc.1100.0641 & 2 & 0.003899 & 0.000000 & 0.104677 & 0.000025 & Journal of Complex Networks \\
+					Virtanen P, 2020, NAT METHODS, V17, P261, DOI 10.1038/s41592-019-0686-2 & 1 & 0.001949 & 0.000000 & 0.001949 & 0.000000 & Journal of Complex Networks \\
+					Andjelkovic M, 2020, SCI REP-UK, V10, P0, DOI 10.1038/s41598-020-74392-3 & 7 & 0.013645 & 0.000013 & 0.080586 & 0.000000 & Journal of Complex Networks \\
+					Rattana P, 2013, B MATH BIOL, V75, P466, DOI 10.1007/s11538-013-9816-7 & 1 & 0.001949 & 0.000000 & 0.002599 & 0.000000 & Journal of Complex Networks \\
+					Nyberg A, 2015, J COMPLEX NETW, V3, P543, DOI 10.1093/comnet/cnv004 & 2 & 0.003899 & 0.000000 & 0.003899 & 0.000000 & Journal of Complex Networks \\
+					van der Hofstad R, 2017, PHYS REV E, V95, P0, DOI 10.1103/PhysRevE.95.022307 & 2 & 0.003899 & 0.000000 & 0.003899 & 0.000000 & Journal of Complex Networks \\
+					Asztalos A, 2012, EUR PHYS J B, V85, P0, DOI 10.1140/epjb/e2012-30122-3 & 1 & 0.001949 & 0.000000 & 0.119835 & 0.000093 & Journal of Complex Networks \\
+					\bottomrule
+				\end{tabular}
+			}
+		\end{table*}
 		
+		Table~\ref{table.tab6} presents the ten most central publications in \textit{Social Networks}, \textit{Network Science}, and \textit{Journal of Complex Networks}, ranked based on multiple centrality measures. These rankings offer a structural perspective on the most influential contributions within each journal, revealing key theoretical, methodological, and applied research trends. The centrality measures considered—degree centrality, betweenness centrality, closeness centrality, and eigenvector centrality—capture different aspects of a publication’s influence in the co-authorship and citation networks.
 		
+		The most central publications in \textit{Social Networks} are predominantly foundational works that have shaped the field of network analysis. Classical contributions such as those by Scott (2017), Borgatti (1992), and Wasserman (1994) \cite{Scott2017,Borgatti1992,Wasserman1994} remain highly central due to their widespread adoption. These studies introduced key concepts and methodological advancements that continue to influence contemporary research. The presence of Burt's work \cite{Burt1983,Burt1992,Burt1992} further underscores the lasting significance of structural hole theory in understanding social network dynamics. Additionally, more recent works such as Block \cite{Block2015} and Wang \cite{Wang2013} highlight the increasing role of statistical modeling in network science, reflecting the methodological evolution of the field. Other highly central publications, such as Zappa (2015) \cite{Zappa2015} and Doreian (1987) \cite{Doreian1987}, indicate the application of network models to organizational and structural research.
+		
+		In \textit{Network Science}, central publications primarily focus on computational and statistical methodologies. Works such as Snijders (2017) \cite{Snijders2017} and Block (2015) \cite{Block2015} exemplify the application of stochastic actor-based models, while Valente (2012) \cite{Valente2012} and Bakshy (2015) \cite{Bakshy2015} demonstrate the role of network diffusion and influence dynamics in large-scale systems. Additionally, Amati (2019) \cite{Amati2019} and Lomi (2012) \cite{Lomi2012} highlight the field’s emphasis on empirical network analysis using advanced statistical techniques. The presence of Salehi (2015) \cite{Salehi2015} and Elmer (2019) \cite{Elmer2019} suggests that \textit{Network Science} serves as a critical venue for interdisciplinary methodological developments. Compared to \textit{Social Networks}, which focuses more on empirical and theoretical work in sociology, \textit{Network Science} leans heavily toward computational approaches and large-scale network analysis.
+		
+		The highly central publications in \textit{Journal of Complex Networks} illustrate the journal’s interdisciplinary focus. While the overall centrality values of these works are lower than those in \textit{Social Networks} and \textit{Network Science}, they highlight the diverse applications of network science across multiple domains. Studies such as Allen-Perkins (2019) \cite{AllenPerkins2019} and Borgatti (2011) \cite{Borgatti1992} demonstrate how network methodologies are adapted to different research areas, while works like Andjelkovic (2020) \cite{Andjelkovic2020} and Nyberg (2015) \cite{Nyberg2015} emphasize the integration of network models in biological and physical systems. The presence of Asztalos (2012) \cite{Asztalos2012} and van der Hofstad (2017) \cite{vanDerHofstad2017} suggests a growing interest in applying statistical physics to complex networks, reinforcing the journal’s role in bridging traditional network science with broader scientific disciplines.
+		
+		A comparative analysis of centrality measures provides us with additional insights into the structural positioning of these publications. Works appearing in \textit{Social Networks} tend to exhibit higher degree centrality, indicating frequent citation and recognition within the academic community. Publications with high betweenness centrality, such as Scott (2017) \cite{Scott2017} and Borgatti (1992) \cite{Borgatti1992}, serve as key bridging studies that connect distinct research areas. In contrast, studies with high closeness centrality, including Zappa (2015) \cite{Zappa2015} and Doreian (1987) \cite{Doreian1987}, are structurally positioned to influence a broad range of works due to their network proximity to other publications. Eigenvector centrality, which reflects influence within a citation cluster, highlights the prominence of works such as Burt (1983, 1992) \cite{Burt1983,Burt1992} and Amati (2019) \cite{Amati2019}, suggesting their importance within their respective research communities.
+		
+		The centrality rankings provide a structured view of the most influential works across three major journals in network science. While \textit{Social Networks} primarily features foundational theoretical and methodological contributions, \textit{Network Science} emphasizes computational and statistical modeling approaches. \textit{Journal of Complex Networks}, in contrast, displays a broader disciplinary focus, incorporating network-based methodologies across various scientific domains. These findings highlight the evolving intellectual landscape of network science and offer insights into how different research traditions contribute to the field’s development. 
+		
+		\section{Conlusion}
+		
+		This bibliometric study of social network research across multiple journals reveals the intricate and evolving structure of this academic domain. By examining co-authorship networks, citation patterns, and key centrality measures, we uncover not only the dominant figures and influential publications but also the underlying intellectual currents shaping the field. The presence of well-connected authors and tightly clustered research communities indicates that social network research has matured into a structured discipline with distinct methodological and theoretical foundations.
+		
+		One of the most striking observations is the persistence of foundational works maintaining their relevance over time, demonstrating that certain conceptual and methodological contributions continue to serve as the backbone of network analysis. At the same time, the emergence of new high-impact publications suggests that the field is undergoing expansion, incorporating interdisciplinary perspectives and computational advancements. The increasing prominence of multilayer and dynamic network models reflects a shift toward more complex representations of social structures, driven by the need to account for temporal and contextual variations in relational data.
+		
+		The patterns of collaboration further highlight the dynamics of knowledge production in this field. Highly centralized networks, where a few scholars act as bridges between research clusters, suggest that intellectual leadership is concentrated among a small but influential group of researchers. These bridging scholars facilitate the diffusion of ideas, integrating diverse approaches and fostering methodological innovation. Conversely, the presence of insular clusters hints at specialized subfields that develop independently, potentially limiting cross-fertilization between research traditions.
+		
+		The study also reveals an increasing reliance on computational methodologies, particularly in areas where traditional social science approaches intersect with machine learning, big data analytics, and network inference techniques. This methodological convergence signifies a transformation in how network science is conceptualized and applied, extending beyond classical sociological and statistical approaches to incorporate more predictive and algorithmic paradigms.
+		
+		Looking ahead, the trajectory of social network research will likely be shaped by the growing influence of digital platforms, the proliferation of large-scale networked data, and the increasing demand for network-based interventions in fields such as public health, policy-making, and organizational behavior. The challenge lies in balancing theoretical rigor with methodological innovation, ensuring that as the field expands, it retains coherence and conceptual depth. By continuously refining its analytical frameworks and embracing interdisciplinary perspectives, social network research is poised to remain a critical lens for understanding the complexities of human connectivity in an increasingly networked world.
 		
 		
 		
