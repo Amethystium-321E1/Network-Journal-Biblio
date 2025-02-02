@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 Case mismatch error between cite keys VanEck2010 and vanEck2010
----line 88 of file main.aux
+---line 86 of file main.aux
  : \citation{VanEck2010
  :                     }
 I'm skipping whatever remains of this command
@@ -10,170 +10,113 @@ Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
 Reallocating 'name_of_file' (item size: 1) to 4 items.
 Database file #1: ref.bib
-Repeated entry---line 283 of file ref.bib
+Repeated entry---line 242 of file ref.bib
  : @article{Small1973
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 294 of file ref.bib
+Repeated entry---line 253 of file ref.bib
  : @article{Callon1991
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 304 of file ref.bib
+Repeated entry---line 263 of file ref.bib
  : @article{Cobo2011
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 345 of file ref.bib
+Repeated entry---line 304 of file ref.bib
  : @article{Moed2005
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 413 of file ref.bib
- : @book{Barabasi2016
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 467 of file ref.bib
+Repeated entry---line 419 of file ref.bib
  : @book{Freeman2004
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 509 of file ref.bib
+Repeated entry---line 454 of file ref.bib
  : @article{Lazer2009
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 573 of file ref.bib
+Repeated entry---line 518 of file ref.bib
  : @article{Leahey2016
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 583 of file ref.bib
+Repeated entry---line 528 of file ref.bib
  : @article{Porter2009
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 594 of file ref.bib
+Repeated entry---line 539 of file ref.bib
  : @article{Wagner2011
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 605 of file ref.bib
+Repeated entry---line 550 of file ref.bib
  : @article{Chavarro2017
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 674 of file ref.bib
+Repeated entry---line 609 of file ref.bib
  : @article{Freeman2004
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 681 of file ref.bib
+Repeated entry---line 616 of file ref.bib
  : @article{Borgatti2009
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 691 of file ref.bib
- : @book{Newman2010
- :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 698 of file ref.bib
- : @book{Barabasi2016
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 705 of file ref.bib
+Repeated entry---line 626 of file ref.bib
  : @article{Fortunato2018
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 715 of file ref.bib
- : @article{Fortunato2018
- :                       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 755 of file ref.bib
+Repeated entry---line 666 of file ref.bib
  : @book{Freeman2004
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 762 of file ref.bib
+Repeated entry---line 673 of file ref.bib
  : @article{Borgatti2009
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 772 of file ref.bib
- : @article{Moody2004
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 782 of file ref.bib
- : @book{Newman2010
- :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 789 of file ref.bib
- : @book{Barabasi2016
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 803 of file ref.bib
- : @article{Watts1998
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 823 of file ref.bib
+Repeated entry---line 700 of file ref.bib
  : @article{Cobo2011
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 842 of file ref.bib
+Repeated entry---line 719 of file ref.bib
  : @article{Aria2017
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 852 of file ref.bib
- : @article{Chen2006
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 899 of file ref.bib
+Repeated entry---line 768 of file ref.bib
  : @article{Small1973
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 919 of file ref.bib
+Repeated entry---line 788 of file ref.bib
  : @book{Moed2005
  :               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 986 of file ref.bib
+Repeated entry---line 845 of file ref.bib
  : @article{Borgatti2009
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1061 of file ref.bib
- : @book{Wasserman1994
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1297 of file ref.bib
- : @article{small1973co
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1340 of file ref.bib
+Repeated entry---line 1170 of file ref.bib
  : @article{freeman1979
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1425 of file ref.bib
+Repeated entry---line 1225 of file ref.bib
  : @article{callon1983co
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1477 of file ref.bib
- : @article{newman2004coauthorship
- :                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1488 of file ref.bib
- : @article{van2010software
- :                         ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1499 of file ref.bib
+Repeated entry---line 1266 of file ref.bib
  : @book{glanzel2004handbook
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1507 of file ref.bib
+Repeated entry---line 1274 of file ref.bib
  : @article{newman2004coauthorship
  :                                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1529 of file ref.bib
- : @article{newman2001scientific
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1540 of file ref.bib
- : @article{moody2004sociology
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1551 of file ref.bib
- : @book{barabasi2016network
- :                          ,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "WOS:000356343600002"
-Warning--I didn't find a database entry for "bibid"
-Warning--I didn't find a database entry for "Donthu2021"
-Warning--I didn't find a database entry for "Leydesdorff2019"
+Warning--I didn't find a database entry for "Moody2004"
+Warning--I didn't find a database entry for "Wasserman1994"
+Warning--I didn't find a database entry for "Bastian2009"
+Warning--I didn't find a database entry for "Newman2001"
+Warning--I didn't find a database entry for "small1973co"
+Warning--I didn't find a database entry for "chen2006citespace"
+Warning--I didn't find a database entry for "watts1998collective"
+Warning--I didn't find a database entry for "burt1992structural"
+Warning--I didn't find a database entry for "snijders2010introduction"
+Warning--I didn't find a database entry for "van2010software"
+Warning--I didn't find a database entry for "barabasi2016network"
 Name 1 in "David M. Blei, Andrew Y. Ng, and Michael I. Jordan" has a comma at the end for entry Blei2003
 while executing---line 1023 of file apalike.bst
 Name 1 in "David M. Blei, Andrew Y. Ng, and Michael I. Jordan" has a comma at the end for entry Blei2003
@@ -331,45 +274,45 @@ Name 1 in "Stefano Boccaletti, Vito Latora, Yamir Moreno, Mario Chavez, and D.-U
 while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Stefano Boccaletti, Vito Latora, Yamir Moreno, Mario Chavez, and D.-U. Hwang" for entry Boccaletti2006
 while executing---line 1098 of file apalike.bst
-You've used 111 entries,
+You've used 99 entries,
             1935 wiz_defined-function locations,
-            1104 strings with 18766 characters,
-and the built_in function-call counts, 41646 in all, are:
-= -- 4088
-> -- 1397
-< -- 93
-+ -- 491
-- -- 447
-* -- 3491
-:= -- 7263
-add.period$ -- 333
-call.type$ -- 111
-change.case$ -- 760
-chr.to.int$ -- 97
-cite$ -- 112
-duplicate$ -- 1591
-empty$ -- 3124
-format.name$ -- 622
-if$ -- 8191
-int.to.chr$ -- 15
+            1085 strings with 18141 characters,
+and the built_in function-call counts, 37464 in all, are:
+= -- 3680
+> -- 1279
+< -- 82
++ -- 438
+- -- 411
+* -- 3168
+:= -- 6537
+add.period$ -- 297
+call.type$ -- 99
+change.case$ -- 686
+chr.to.int$ -- 98
+cite$ -- 100
+duplicate$ -- 1411
+empty$ -- 2793
+format.name$ -- 570
+if$ -- 7355
+int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 127
-newline$ -- 558
-num.names$ -- 335
-pop$ -- 573
+missing$ -- 111
+newline$ -- 498
+num.names$ -- 299
+pop$ -- 502
 preamble$ -- 1
-purify$ -- 777
+purify$ -- 699
 quote$ -- 0
-skip$ -- 1214
+skip$ -- 1089
 stack$ -- 0
-substring$ -- 3279
-swap$ -- 145
-text.length$ -- 4
+substring$ -- 2975
+swap$ -- 124
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 632
+type$ -- 568
 warning$ -- 1
-while$ -- 349
+while$ -- 315
 width$ -- 0
-write$ -- 1425
-(There were 119 error messages)
+write$ -- 1273
+(There were 103 error messages)
