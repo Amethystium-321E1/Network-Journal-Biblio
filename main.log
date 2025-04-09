@@ -1,344 +1,351 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.9)  1 FEB 2025 19:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.17)  9 APR 2025 17:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./main.tex
-(main.tex
-LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-08-30>
-(D:\MikTeX\tex/latex/base\article.cls
-Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
-(D:\MikTeX\tex/latex/base\size10.clo
-File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+**main.tex
+(./main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-05-04>
+(e:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(e:/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count194
-\c@section=\count195
-\c@subsection=\count196
-\c@subsubsection=\count197
-\c@paragraph=\count198
-\c@subparagraph=\count199
-\c@figure=\count266
-\c@table=\count267
-\abovecaptionskip=\skip49
-\belowcaptionskip=\skip50
-\bibindent=\dimen141
-) (D:\MikTeX\tex/latex/cite\cite.sty
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(e:/texlive/2022/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-(D:\MikTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
+(e:/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-05-13 v7.00o Hypertext links for LaTeX
 
-(D:\MikTeX\tex/generic/iftex\iftex.sty
+(e:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(e:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-(D:\MikTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
-)
-(D:\MikTeX\tex/latex/kvsetkeys\kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
-(D:\MikTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(D:\MikTeX\tex/generic/pdfescape\pdfescape.sty
-Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-
-(D:\MikTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(D:\MikTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+(e:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(D:\MikTeX\tex/generic/infwarerr\infwarerr.sty
+(e:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-))
-(D:\MikTeX\tex/latex/hycolor\hycolor.sty
+)
+(e:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(e:/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(e:/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(D:\MikTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+(e:/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen139
+\Hy@linkcounter=\count193
+\Hy@pagecounter=\count194
 
-(D:\MikTeX\tex/latex/refcount\refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(D:\MikTeX\tex/generic/gettitlestring\gettitlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(D:\MikTeX\tex/latex/kvoptions\kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-))
-\c@section@level=\count268
-)
-(D:\MikTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count269
-)
-(D:\MikTeX\tex/generic/stringenc\stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
-)
-\@linkdim=\dimen142
-\Hy@linkcounter=\count270
-\Hy@pagecounter=\count271
-
-(D:\MikTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
+(e:/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-05-13 v7.00o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(D:\MikTeX\tex/generic/intcalc\intcalc.sty
+(e:/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count272
+(e:/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count195
 
-(D:\MikTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
+(e:/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-05-13 v7.00o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4157.
-Package hyperref Info: Link nesting OFF on input line 4162.
-Package hyperref Info: Hyper index ON on input line 4165.
-Package hyperref Info: Plain pages OFF on input line 4172.
-Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Hyper figures OFF on input line 4142.
+Package hyperref Info: Link nesting OFF on input line 4147.
+Package hyperref Info: Hyper index ON on input line 4150.
+Package hyperref Info: Plain pages OFF on input line 4157.
+Package hyperref Info: Backreferencing OFF on input line 4162.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count273
- (D:\MikTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip17
+Package hyperref Info: Bookmarks ON on input line 4395.
+\c@Hy@tempcnt=\count196
+
+(e:/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen143
+LaTeX Info: Redefining \url on input line 4742.
+\XeTeXLinkMargin=\dimen140
 
-(D:\MikTeX\tex/generic/bitset\bitset.sty
+(e:/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(D:\MikTeX\tex/generic/bigintcalc\bigintcalc.sty
+(e:/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count274
-\Field@Width=\dimen144
-\Fld@charsize=\dimen145
-Package hyperref Info: Hyper figures OFF on input line 6042.
-Package hyperref Info: Link nesting OFF on input line 6047.
-Package hyperref Info: Hyper index ON on input line 6050.
-Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring OFF on input line 6062.
-Package hyperref Info: Link coloring with OCG OFF on input line 6067.
-Package hyperref Info: PDF/A mode OFF on input line 6072.
+\Fld@menulength=\count197
+\Field@Width=\dimen141
+\Fld@charsize=\dimen142
+Package hyperref Info: Hyper figures OFF on input line 6020.
+Package hyperref Info: Link nesting OFF on input line 6025.
+Package hyperref Info: Hyper index ON on input line 6028.
+Package hyperref Info: backreferencing OFF on input line 6035.
+Package hyperref Info: Link coloring OFF on input line 6040.
+Package hyperref Info: Link coloring with OCG OFF on input line 6045.
+Package hyperref Info: PDF/A mode OFF on input line 6050.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6097.
 
-(D:\MikTeX\tex/latex/base\atbegshi-ltx.sty
+(e:/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count275
-\c@Item=\count276
-\c@Hfootnote=\count277
+\Hy@abspage=\count198
+\c@Item=\count199
+\c@Hfootnote=\count266
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(D:\MikTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
+(e:/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-05-13 v7.00o Hyperref driver for pdfTeX
 
-(D:\MikTeX\tex/latex/base\atveryend-ltx.sty
+(e:/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count278
-\c@bookmark@seq@number=\count279
+\Fld@listcount=\count267
+\c@bookmark@seq@number=\count268
 
-(D:\MikTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+(e:/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(D:\MikTeX\tex/generic/uniquecounter\uniquecounter.sty
+(e:/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-85.
+86.
 )
-\Hy@SectionHShift=\skip51
+\Hy@SectionHShift=\skip49
 )
-(D:\MikTeX\tex/latex/graphics\graphicx.sty
+(e:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(D:\MikTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+(e:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(D:\MikTeX\tex/latex/graphics\trig.sty
-Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+(e:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(D:\MikTeX\tex/latex/graphics-cfg\graphics.cfg
+(e:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 106.
+Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(D:\MikTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+(e:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen146
-\Gin@req@width=\dimen147
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
 )
-(D:\MikTeX\tex/latex/tools\tabularx.sty
-Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
- (D:\MikTeX\tex/latex/tools\array.sty
-Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
-\col@sep=\dimen148
-\ar@mcellbox=\box52
-\extrarowheight=\dimen149
-\NC@list=\toks18
-\extratabsurround=\skip52
-\backup@length=\skip53
-\ar@cellbox=\box53
+(e:/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(e:/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen145
+\ar@mcellbox=\box50
+\extrarowheight=\dimen146
+\NC@list=\toks17
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box51
 )
-\TX@col@width=\dimen150
-\TX@old@table=\dimen151
-\TX@old@col=\dimen152
-\TX@target=\dimen153
-\TX@delta=\dimen154
-\TX@cols=\count280
-\TX@ftn=\toks19
+\TX@col@width=\dimen147
+\TX@old@table=\dimen148
+\TX@old@col=\dimen149
+\TX@target=\dimen150
+\TX@delta=\dimen151
+\TX@cols=\count269
+\TX@ftn=\toks18
 )
-(D:\MikTeX\tex/latex/booktabs\booktabs.sty
+(e:/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen155
-\lightrulewidth=\dimen156
-\cmidrulewidth=\dimen157
-\belowrulesep=\dimen158
-\belowbottomsep=\dimen159
-\aboverulesep=\dimen160
-\abovetopsep=\dimen161
-\cmidrulesep=\dimen162
-\cmidrulekern=\dimen163
-\defaultaddspace=\dimen164
-\@cmidla=\count281
-\@cmidlb=\count282
-\@aboverulesep=\dimen165
-\@belowrulesep=\dimen166
-\@thisruleclass=\count283
-\@lastruleclass=\count284
-\@thisrulewidth=\dimen167
+\heavyrulewidth=\dimen152
+\lightrulewidth=\dimen153
+\cmidrulewidth=\dimen154
+\belowrulesep=\dimen155
+\belowbottomsep=\dimen156
+\aboverulesep=\dimen157
+\abovetopsep=\dimen158
+\cmidrulesep=\dimen159
+\cmidrulekern=\dimen160
+\defaultaddspace=\dimen161
+\@cmidla=\count270
+\@cmidlb=\count271
+\@aboverulesep=\dimen162
+\@belowrulesep=\dimen163
+\@thisruleclass=\count272
+\@lastruleclass=\count273
+\@thisrulewidth=\dimen164
 )
-(D:\MikTeX\tex/latex/preprint\authblk.sty
+(e:/texlive/2022/texmf-dist/tex/latex/preprint/authblk.sty
 Package: authblk 2001/02/27 1.3 (PWD)
-\affilsep=\skip54
-\@affilsep=\skip55
-\c@Maxaffil=\count285
-\c@authors=\count286
-\c@affil=\count287
+\affilsep=\skip52
+\@affilsep=\skip53
+\c@Maxaffil=\count274
+\c@authors=\count275
+\c@affil=\count276
 )
-(D:\MikTeX\tex/latex/abstract\abstract.sty
+(e:/texlive/2022/texmf-dist/tex/latex/abstract/abstract.sty
 Package: abstract 2009/06/08 v1.2a configurable abstracts
-\abstitleskip=\skip56
-\absleftindent=\skip57
-\absrightindent=\skip58
-\absparindent=\skip59
-\absparsep=\skip60
+\abstitleskip=\skip54
+\absleftindent=\skip55
+\absrightindent=\skip56
+\absparindent=\skip57
+\absparsep=\skip58
 )
-(D:\MikTeX\tex/latex/jknappen\mathbbol.sty
+(e:/texlive/2022/texmf-dist/tex/latex/jknapltx/mathbbol.sty
 Package: mathbbol 1995/01/01
 \symbbold=\mathgroup4
 )
-(D:\MikTeX\tex/latex/tools\longtable.sty
-Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
-\LTleft=\skip61
-\LTright=\skip62
-\LTpre=\skip63
-\LTpost=\skip64
-\LTchunksize=\count288
-\LTcapwidth=\dimen168
-\LT@head=\box54
-\LT@firsthead=\box55
-\LT@foot=\box56
-\LT@lastfoot=\box57
-\LT@gbox=\box58
-\LT@cols=\count289
-\LT@rows=\count290
-\c@LT@tables=\count291
-\c@LT@chunks=\count292
-\LT@p@ftn=\toks20
+(e:/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip59
+\LTright=\skip60
+\LTpre=\skip61
+\LTpost=\skip62
+\LTchunksize=\count277
+\LTcapwidth=\dimen165
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@gbox=\box56
+\LT@cols=\count278
+\LT@rows=\count279
+\c@LT@tables=\count280
+\c@LT@chunks=\count281
+\LT@p@ftn=\toks19
 )
-(D:\MikTeX\tex/latex/geometry\geometry.sty
+(e:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(D:\MikTeX\tex/generic/iftex\ifvtex.sty
+(e:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count293
-\Gm@cntv=\count294
-\c@Gm@tempcnt=\count295
-\Gm@bindingoffset=\dimen169
-\Gm@wd@mp=\dimen170
-\Gm@odd@mp=\dimen171
-\Gm@even@mp=\dimen172
-\Gm@layoutwidth=\dimen173
-\Gm@layoutheight=\dimen174
-\Gm@layouthoffset=\dimen175
-\Gm@layoutvoffset=\dimen176
-\Gm@dimlist=\toks21
-
-(D:\MikTeX\tex/latex/geometry\geometry.cfg))
-(D:\MikTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count296
-\l__pdf_internal_box=\box59
-) (main.aux)
+\Gm@cnth=\count282
+\Gm@cntv=\count283
+\c@Gm@tempcnt=\count284
+\Gm@bindingoffset=\dimen166
+\Gm@wd@mp=\dimen167
+\Gm@odd@mp=\dimen168
+\Gm@even@mp=\dimen169
+\Gm@layoutwidth=\dimen170
+\Gm@layoutheight=\dimen171
+\Gm@layouthoffset=\dimen172
+\Gm@layoutvoffset=\dimen173
+\Gm@dimlist=\toks20
+)
+(e:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box57
+)
+(./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-Package hyperref Info: Link coloring OFF on input line 33.
- (main.out)
-(main.out)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+Package hyperref Info: Link coloring OFF on input line 32.
+ (e:/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-13 v2.48 Cross-referencing by name of section
+
+(e:/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(e:/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count286
+)
+(./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
- (D:\MikTeX\tex/context/base/mkii\supp-pdf.mkii
+
+(e:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count297
-\scratchdimen=\dimen177
-\scratchbox=\box60
-\nofMPsegments=\count298
-\nofMParguments=\count299
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count300
-\MPscratchDim=\dimen178
-\MPnumerator=\count301
-\makeMPintoPDFobject=\count302
-\everyMPtoPDFconversion=\toks23
-) (D:\MikTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+\scratchcounter=\count287
+\scratchdimen=\dimen174
+\scratchbox=\box58
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen175
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks22
+) (e:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(D:\MikTeX\tex/latex/00miktex\epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+(e:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -375,584 +382,555 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 45.
+(Font)              <12> on input line 48.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 45.
+(Font)              <8> on input line 48.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 45.
+(Font)              <6> on input line 48.
 LaTeX Font Info:    Trying to load font information for U+bbold on input line 4
-5.
-(D:\MikTeX\tex/latex/jknappen\ubbold.fd
-File: ubbold.fd 1996/01/01 Blackboard Bold Font Definition File (jk)
-)
+8.
+(e:/texlive/2022/texmf-dist/tex/latex/bbold/Ubbold.fd)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 45.
+(Font)              <5> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 48.
 
-Underfull \hbox (badness 3333) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]$\OT1/cmtt/m/n/10 https : / / scholar . google . com . hk / citations ? view 
+_ op = search _ authors & mauthors = Pengjia +
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 52--53
 \OT1/cmr/m/n/10 Bibliometric anal-y-sis pro-vides a sys-tem-atic
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 49--50
+Underfull \hbox (badness 1082) in paragraph at lines 52--53
 \OT1/cmr/m/n/10 method-olog-i-cal trends, and the evo-lu-tion of
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[1{C:/Users/Amethystium/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+ [1{e:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
 []|\OT1/cmr/bx/n/5 Journal of Com-plex
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
 []|\OT1/cmr/m/n/5 Cambridge Uni-ver-sity
  []
 
 
-Underfull \hbox (badness 6893) in paragraph at lines 94--94
+Underfull \hbox (badness 6893) in paragraph at lines 97--97
 []|\OT1/cmr/m/n/5 University of Cal-i-for-nia
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 94--94
+Underfull \hbox (badness 3701) in paragraph at lines 97--97
 []|\OT1/cmr/m/n/5 Network topol-ogy, al-go-
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 98--99
+Underfull \hbox (badness 2334) in paragraph at lines 101--102
 []\OT1/cmr/m/n/10 To sys-tem-at-i-cally an-a-lyze the in-tel-lec-tual
  []
 
 
-Underfull \hbox (badness 1629) in paragraph at lines 98--99
+Underfull \hbox (badness 1629) in paragraph at lines 101--102
 \OT1/cmr/m/n/10 proaches: \OT1/cmr/bx/n/10 per-for-mance anal-y-sis\OT1/cmr/m/n
 /10 , \OT1/cmr/bx/n/10 sci-ence
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 98--99
+Underfull \hbox (badness 1107) in paragraph at lines 101--102
 \OT1/cmr/bx/n/10 map-ping\OT1/cmr/m/n/10 , and \OT1/cmr/bx/n/10 net-work anal-y
 -sis\OT1/cmr/m/n/10 . [[]Don-thu
  []
 
-
-Underfull \hbox (badness 1533) in paragraph at lines 108--109
+[2]
+Underfull \hbox (badness 1533) in paragraph at lines 111--112
 []\OT1/cmr/m/n/10 Reveal his-tor-i-cal and emerg-ing re-search
  []
 
 
-Underfull \hbox (badness 2894) in paragraph at lines 108--109
+Underfull \hbox (badness 2894) in paragraph at lines 111--112
 \OT1/cmr/m/n/10 trends, high-light-ing shifts in dom-i-nant
  []
 
 
-
-[2]
-Underfull \hbox (badness 1173) in paragraph at lines 109--110
+Underfull \hbox (badness 1173) in paragraph at lines 112--113
 []\OT1/cmr/m/n/10 Identify key con-trib-u-tors and in-flu-en-tial
  []
 
 
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 116.
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 [][]$\OT1/cmtt/m/n/10 https : / / www . webofscience . com / wos /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 \OT1/cmtt/m/n/10 woscc / summary / 8b9cb9e7 -[] 5920 -[] 4a8c -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 \OT1/cmtt/m/n/10 8957 -[] 1f45746eb38f -[] 01449729f7 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 [][]$\OT1/cmtt/m/n/10 https : / / www . webofscience . com / wos /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 \OT1/cmtt/m/n/10 woscc / summary / b70d5df8 -[] 5cd9 -[] 4064 -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 \OT1/cmtt/m/n/10 8329 -[] 390221e5fcc0 -[] 014497387b /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 [][]$\OT1/cmtt/m/n/10 https : / / www . webofscience . com / wos /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 \OT1/cmtt/m/n/10 woscc / summary / cfb2985d -[] 4457 -[] 4214 -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 \OT1/cmtt/m/n/10 85c1 -[] 4ee6224ffecb -[] 014497425b /
  []
-
-
 
 [3]
 
 pdfTeX warning: pdflatex.exe (file ./images/Record Count Proportion.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<images/Record Count Proportion.pdf, id=176, 614.05779pt x 384.09445pt>
+<images/Record Count Proportion.pdf, id=181, 614.05779pt x 384.09445pt>
 File: images/Record Count Proportion.pdf Graphic file (type pdf)
 <use images/Record Count Proportion.pdf>
 Package pdftex.def Info: images/Record Count Proportion.pdf  used on input line
- 133.
+ 136.
 (pdftex.def)             Requested size: 210.0023pt x 131.35814pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-[4 <./images/Record Count Proportion.pdf>]
-<images/Top 30 Authors by Publication Count Across Three Journals.pdf, id=240, 
+ [4 <./images/Record Count Proportion.pdf>]
+<images/Top 30 Authors by Publication Count Across Three Journals.pdf, id=244, 
 1084.05pt x 527.35196pt>
 File: images/Top 30 Authors by Publication Count Across Three Journals.pdf Grap
 hic file (type pdf)
 <use images/Top 30 Authors by Publication Count Across Three Journals.pdf>
 Package pdftex.def Info: images/Top 30 Authors by Publication Count Across Thre
-e Journals.pdf  used on input line 166.
+e Journals.pdf  used on input line 169.
 (pdftex.def)             Requested size: 430.00462pt x 209.18285pt.
 
-Underfull \vbox (badness 4846) has occurred while \output is active []
-
-
-
-
-Underfull \hbox (badness 1320) in paragraph at lines 175--176
+Underfull \hbox (badness 1320) in paragraph at lines 178--179
 \OT1/cmr/m/it/10 Net-works \OT1/cmr/m/n/10 pri-or-i-tizes method-olog-i-cal ad-
 vance-
  []
 
 
-Underfull \hbox (badness 2753) in paragraph at lines 178--178
+Underfull \hbox (badness 2753) in paragraph at lines 181--181
 [][]\OT1/cmr/bx/n/10 Patterns of Spe-cial-iza-tion and Cross-
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 182--183
+Underfull \hbox (badness 1005) in paragraph at lines 185--186
 \OT1/cmr/m/it/10 So-cial Net-works \OT1/cmr/m/n/10 might pri-or-i-tize em-pir-i
 -
  []
 
+[5] [6 <./images/Top 30 Authors by Publication Count Across Three Journals.pdf>
+]
+
+LaTeX Warning: Citation `Moody2004' on page 7 undefined on input line 210.
 
 
-[5]
-Underfull \vbox (badness 3019) has occurred while \output is active []
-
-
-
-
-Underfull \vbox (badness 5504) has occurred while \output is active []
-
-
-
-[6 <./images/Top 30 Authors by Publication Count Across Three Journals.pdf>]
-
-LaTeX Warning: Citation `Moody2004' on page 7 undefined on input line 207.
-
-
-
-
-Underfull \hbox (badness 1231) in paragraph at lines 215--216
+Underfull \hbox (badness 1231) in paragraph at lines 218--219
 \OT1/cmr/m/it/10 Network Sci-ence \OT1/cmr/m/n/10 presents a more in-ter-dis-ci
 -
  []
 
 
+Underfull \vbox (badness 4132) has occurred while \output is active []
 
-[7]
-Underfull \hbox (badness 10000) in alignment at lines 284--284
+ [7]
+Underfull \hbox (badness 10000) in alignment at lines 287--287
 [][][][][][][][][] 
  []
 
 
-LaTeX Warning: Citation `Moody2004' on page 8 undefined on input line 286.
+LaTeX Warning: Citation `Moody2004' on page 8 undefined on input line 289.
 
 
-Underfull \vbox (badness 6396) has occurred while \output is active []
+Underfull \vbox (badness 1314) has occurred while \output is active []
+
+ [8]
+
+LaTeX Warning: Citation `Wasserman1994' on page 9 undefined on input line 293.
 
 
-
-
-LaTeX Warning: Citation `Wasserman1994' on page 8 undefined on input line 290.
-
-
-
-[8]
-Underfull \hbox (badness 1019) in paragraph at lines 301--302
+Underfull \hbox (badness 1019) in paragraph at lines 304--305
 \OT1/cmr/m/n/10 Gephi en-ables ad-vanced net-work anal-y-sis of
  []
 
-
-
-
-
 [9]
-Overfull \hbox (2.42365pt too wide) in alignment at lines 344--344
+Overfull \hbox (2.42365pt too wide) in alignment at lines 347--347
 [][][][] 
  []
 
-<Social Networks/Gephi/largest_component.pdf, id=455, 426.79132pt x 426.79132pt
+<Social Networks/Gephi/largest_component.pdf, id=460, 426.79132pt x 426.79132pt
 >
 File: Social Networks/Gephi/largest_component.pdf Graphic file (type pdf)
 <use Social Networks/Gephi/largest_component.pdf>
 Package pdftex.def Info: Social Networks/Gephi/largest_component.pdf  used on i
-nput line 351.
+nput line 354.
 (pdftex.def)             Requested size: 210.0023pt x 210.00223pt.
-
-
-<Social Networks/Gephi/high_degree.pdf, id=458, 426.79132pt x 426.79132pt>
+<Social Networks/Gephi/high_degree.pdf, id=463, 426.79132pt x 426.79132pt>
 File: Social Networks/Gephi/high_degree.pdf Graphic file (type pdf)
 <use Social Networks/Gephi/high_degree.pdf>
 Package pdftex.def Info: Social Networks/Gephi/high_degree.pdf  used on input l
-ine 360.
+ine 363.
 (pdftex.def)             Requested size: 210.0023pt x 210.00223pt.
-
-Underfull \hbox (badness 10000) in alignment at lines 390--390
+[10 <./Social Networks/Gephi/largest_component.pdf> <./Social Networks/Gephi/hi
+gh_degree.pdf>]
+Underfull \hbox (badness 10000) in alignment at lines 393--393
 [][][][] 
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 393--394
+Underfull \hbox (badness 1824) in paragraph at lines 396--397
 []\OT1/cmr/m/n/10 The ci-ta-tion net-work of \OT1/cmr/m/it/10 Net-work Sci-ence
 
  []
 
-
-
-[10 <./Social Networks/Gephi/largest_component.pdf> <./Social Networks/Gephi/hi
-gh_degree.pdf>]
-<Network Science/Gephi/highly_cited.pdf, id=18843, 426.79132pt x 426.79132pt>
+<Network Science/Gephi/highly_cited.pdf, id=19032, 426.79132pt x 426.79132pt>
 File: Network Science/Gephi/highly_cited.pdf Graphic file (type pdf)
 <use Network Science/Gephi/highly_cited.pdf>
 Package pdftex.def Info: Network Science/Gephi/highly_cited.pdf  used on input 
-line 397.
+line 400.
 (pdftex.def)             Requested size: 210.0023pt x 210.00223pt.
-
-
-
-
-[11 <./Network Science/Gephi/highly_cited.pdf>]
-<Journal of Complex Networks/Gephi/highly_cited.pdf, id=18869, 426.79132pt x 42
+<Journal of Complex Networks/Gephi/highly_cited.pdf, id=19038, 426.79132pt x 42
 6.79132pt>
 File: Journal of Complex Networks/Gephi/highly_cited.pdf Graphic file (type pdf
 )
 <use Journal of Complex Networks/Gephi/highly_cited.pdf>
 Package pdftex.def Info: Journal of Complex Networks/Gephi/highly_cited.pdf  us
-ed on input line 409.
+ed on input line 412.
 (pdftex.def)             Requested size: 210.0023pt x 210.00223pt.
 
-Underfull \hbox (badness 2005) in paragraph at lines 414--415
+Underfull \hbox (badness 2005) in paragraph at lines 417--418
 \OT1/cmr/m/n/10 of \OT1/cmr/bx/n/10 smaller, loosely con-nected re-search
  []
 
-<Journal of Complex Networks/Gephi/largest_component.pdf, id=18871, 426.79132pt
+[11 <./Network Science/Gephi/highly_cited.pdf>]
+<Journal of Complex Networks/Gephi/largest_component.pdf, id=19061, 426.79132pt
  x 426.79132pt>
 File: Journal of Complex Networks/Gephi/largest_component.pdf Graphic file (typ
 e pdf)
 <use Journal of Complex Networks/Gephi/largest_component.pdf>
 Package pdftex.def Info: Journal of Complex Networks/Gephi/largest_component.pd
-f  used on input line 420.
+f  used on input line 423.
 (pdftex.def)             Requested size: 210.0023pt x 210.00223pt.
 
-Underfull \hbox (badness 1048) in paragraph at lines 425--426
+Underfull \hbox (badness 1048) in paragraph at lines 428--429
 []\OT1/cmr/m/n/10 We also ob-serve that while JCN ex-hibits
  []
 
-
-
-
-Underfull \hbox (badness 2582) in paragraph at lines 434--435
+[12 <./Journal of Complex Networks/Gephi/highly_cited.pdf>]
+Underfull \hbox (badness 2582) in paragraph at lines 437--438
 []\OT1/cmr/m/n/10 Detect the-matic clus-ters that high-light
  []
 
-
-
-[12 <./Journal of Complex Networks/Gephi/highly_cited.pdf> <./Journal of Comple
-x Networks/Gephi/largest_component.pdf>]
-<Social Networks/VOS/Co-citation.pdf, id=18901, 3518.33856pt x 2401.4035pt>
+<Social Networks/VOS/Co-citation.pdf, id=19081, 3518.33856pt x 2401.4035pt>
 File: Social Networks/VOS/Co-citation.pdf Graphic file (type pdf)
 <use Social Networks/VOS/Co-citation.pdf>
 Package pdftex.def Info: Social Networks/VOS/Co-citation.pdf  used on input lin
-e 448.
+e 451.
 (pdftex.def)             Requested size: 210.0023pt x 143.3085pt.
 
-Underfull \hbox (badness 1845) in paragraph at lines 456--457
+Underfull \hbox (badness 1845) in paragraph at lines 459--460
 []\OT1/cmr/bx/n/10 Structural Net-work Anal-y-sis\OT1/cmr/m/n/10 : This
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 456--457
+Underfull \hbox (badness 1371) in paragraph at lines 459--460
 \OT1/cmr/m/n/10 bu-tions from Free-man (1979) [[]Free-man,
  []
 
 
-
-
-Underfull \hbox (badness 2865) in paragraph at lines 457--458
+Underfull \hbox (badness 2865) in paragraph at lines 460--461
 []\OT1/cmr/bx/n/10 Statistical Net-work Mod-els\OT1/cmr/m/n/10 : In-flu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--459
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 []\OT1/cmr/bx/n/10 Computational and Al-go-rith-mic
  []
 
-
-Underfull \hbox (badness 1009) in paragraph at lines 460--461
+[13 <./Journal of Complex Networks/Gephi/largest_component.pdf> <./Social Netwo
+rks/VOS/Co-citation.pdf>]
+Underfull \hbox (badness 1009) in paragraph at lines 463--464
 \OT1/cmr/m/n/10 anal-y-sis, in-clud-ing actor-oriented mod-els
  []
 
 
-
-[13 <./Social Networks/VOS/Co-citation.pdf>]
-Underfull \hbox (badness 1248) in paragraph at lines 469--470
+Underfull \hbox (badness 1248) in paragraph at lines 472--473
 \OT1/cmr/m/n/10 search pub-lished in \OT1/cmr/m/it/10 Net-work Sci-ence\OT1/cmr
 /m/n/10 . The
  []
 
-<Network Science/VOS/Co-citation.pdf, id=22511, 3957.93475pt x 2282.5025pt>
+<Network Science/VOS/Co-citation.pdf, id=22734, 3957.93475pt x 2282.5025pt>
 File: Network Science/VOS/Co-citation.pdf Graphic file (type pdf)
 <use Network Science/VOS/Co-citation.pdf>
 Package pdftex.def Info: Network Science/VOS/Co-citation.pdf  used on input lin
-e 473.
+e 476.
 (pdftex.def)             Requested size: 210.0023pt x 121.09743pt.
-
-
-<Journal of Complex Networks/VOS/Co-citation.pdf, id=22513, 3175.89417pt x 2470
+<Journal of Complex Networks/VOS/Co-citation.pdf, id=22736, 3175.89417pt x 2470
 .73062pt>
 File: Journal of Complex Networks/VOS/Co-citation.pdf Graphic file (type pdf)
 <use Journal of Complex Networks/VOS/Co-citation.pdf>
 Package pdftex.def Info: Journal of Complex Networks/VOS/Co-citation.pdf  used 
-on input line 489.
+on input line 492.
 (pdftex.def)             Requested size: 210.0023pt x 163.35524pt.
-
-
-[14 <./Network Science/VOS/Co-citation.pdf> <./Journal of Complex Networks/VOS/
-Co-citation.pdf>]
-Underfull \hbox (badness 2452) in paragraph at lines 498--499
+[14 <./Network Science/VOS/co-citation.pdf>]
+Underfull \hbox (badness 2452) in paragraph at lines 501--502
 []\OT1/cmr/bx/n/10 Network Struc-ture and Dy-nam-ics:
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 501--502
+Underfull \hbox (badness 2205) in paragraph at lines 504--505
 []\OT1/cmr/bx/n/10 Statistical Me-chan-ics of Net-works:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 501--502
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
 \OT1/cmr/m/n/10 The-o-ret-i-cal frame-works de-rived from
  []
 
-
-
-
-
-[15]
-Underfull \hbox (badness 2401) in paragraph at lines 535--536
+[15 <./Journal of Complex Networks/VOS/co-citation.pdf>]
+Underfull \hbox (badness 2401) in paragraph at lines 538--539
 \OT1/cmr/m/n/10 and \OT1/cmr/bx/n/10 CiteS-pace\OT1/cmr/m/n/10 , lever-ag-ing n
 et-work vi-su-al-
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 535--536
+Underfull \hbox (badness 1715) in paragraph at lines 538--539
 \OT1/cmr/m/n/10 iza-tion tech-niques to il-lus-trate key-word co-
  []
 
-<Social Networks/VOS/co-word.pdf, id=26864, 3433.03477pt x 2759.68442pt>
+<Social Networks/VOS/co-word.pdf, id=27129, 3433.03477pt x 2759.68442pt>
 File: Social Networks/VOS/co-word.pdf Graphic file (type pdf)
 <use Social Networks/VOS/co-word.pdf>
 Package pdftex.def Info: Social Networks/VOS/co-word.pdf  used on input line 54
-4.
+7.
 (pdftex.def)             Requested size: 137.60461pt x 110.57912pt.
-<Network Science/VOS/co-word.pdf, id=26865, 3928.77086pt x 2767.63747pt>
+<Network Science/VOS/co-word.pdf, id=27130, 3928.77086pt x 2767.63747pt>
 File: Network Science/VOS/co-word.pdf Graphic file (type pdf)
 <use Network Science/VOS/co-word.pdf>
-Package pdftex.def Info: Network Science/VOS/co-word.pdf  used on input line 54
-9.
+Package pdftex.def Info: Network Science/VOS/co-word.pdf  used on input line 55
+2.
 (pdftex.def)             Requested size: 137.60461pt x 96.91943pt.
-<Journal of Complex Networks/VOS/co-word.pdf, id=26866, 3144.07314pt x 2690.758
+<Journal of Complex Networks/VOS/co-word.pdf, id=27131, 3144.07314pt x 2690.758
 7pt>
 File: Journal of Complex Networks/VOS/co-word.pdf Graphic file (type pdf)
 <use Journal of Complex Networks/VOS/co-word.pdf>
 Package pdftex.def Info: Journal of Complex Networks/VOS/co-word.pdf  used on i
-nput line 554.
+nput line 557.
 (pdftex.def)             Requested size: 137.60461pt x 117.75325pt.
 
-Underfull \hbox (badness 2359) in paragraph at lines 564--565
+Underfull \hbox (badness 2359) in paragraph at lines 567--568
 \OT1/cmr/m/n/10 with sev-eral mod-er-ately dense clus-ters.
  []
 
+[16]
 
+LaTeX Warning: Citation `van2010software' on page 17 undefined on input line 57
+8.
 
-
-LaTeX Warning: Citation `van2010software' on page 16 undefined on input line 57
-5.
-
-<Social Networks/WOS data/VOS/co-authorship.pdf, id=26871, 4300.065pt x 2786.41
+<Social Networks/WOS data/VOS/co-authorship.pdf, id=27144, 4300.065pt x 2786.41
 pt>
 File: Social Networks/WOS data/VOS/co-authorship.pdf Graphic file (type pdf)
 <use Social Networks/WOS data/VOS/co-authorship.pdf>
 Package pdftex.def Info: Social Networks/WOS data/VOS/co-authorship.pdf  used o
-n input line 580.
+n input line 583.
 (pdftex.def)             Requested size: 210.0023pt x 136.05484pt.
-
-
-[16]
-<Social Networks/WOS data/VOS/co-authorship-density.pdf, id=26883, 4300.065pt x
+<Social Networks/WOS data/VOS/co-authorship-density.pdf, id=27146, 4300.065pt x
  2786.41pt>
 File: Social Networks/WOS data/VOS/co-authorship-density.pdf Graphic file (type
  pdf)
 <use Social Networks/WOS data/VOS/co-authorship-density.pdf>
 Package pdftex.def Info: Social Networks/WOS data/VOS/co-authorship-density.pdf
-  used on input line 589.
+  used on input line 592.
 (pdftex.def)             Requested size: 210.0023pt x 136.05484pt.
-
-
-
-
 [17 <./Social Networks/VOS/co-word.pdf> <./Network Science/VOS/co-word.pdf> <./
 Journal of Complex Networks/VOS/co-word.pdf> <./Social Networks/WOS data/VOS/co
--authorship.pdf> <./Social Networks/WOS data/VOS/co-authorship-density.pdf>]
-Underfull \hbox (badness 1168) in paragraph at lines 605--606
+-authorship.pdf>]
+Underfull \hbox (badness 1168) in paragraph at lines 608--609
 \OT1/cmr/m/n/10 re-la-tion-ships. Fig-ure []12[] il-lus-trates the co-
  []
 
 
-Underfull \hbox (badness 1558) in paragraph at lines 605--606
+Underfull \hbox (badness 1558) in paragraph at lines 608--609
 \OT1/cmr/m/n/10 links. The size of each node cor-re-sponds
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 605--606
+Underfull \hbox (badness 3769) in paragraph at lines 608--609
 \OT1/cmr/m/n/10 to the au-thor's pub-li-ca-tion vol-ume, while
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 605--606
+Underfull \hbox (badness 1320) in paragraph at lines 608--609
 \OT1/cmr/m/n/10 edge thick-ness re-flects the fre-quency of co-
  []
 
-<Network Science/VOS/co-authorship.pdf, id=27180, 4300.065pt x 2786.41pt>
+<Network Science/VOS/co-authorship.pdf, id=27426, 4300.065pt x 2786.41pt>
 File: Network Science/VOS/co-authorship.pdf Graphic file (type pdf)
 <use Network Science/VOS/co-authorship.pdf>
 Package pdftex.def Info: Network Science/VOS/co-authorship.pdf  used on input l
-ine 610.
+ine 613.
 (pdftex.def)             Requested size: 210.0023pt x 136.05484pt.
 
-Underfull \hbox (badness 1028) in paragraph at lines 615--616
+Underfull \hbox (badness 1028) in paragraph at lines 618--619
 []\OT1/cmr/m/n/10 To fur-ther as-sess the net-work's struc-tural
  []
 
-<Network Science/VOS/co-authorship-density.pdf, id=27182, 4300.065pt x 2786.41p
+<Network Science/VOS/co-authorship-density.pdf, id=27428, 4300.065pt x 2786.41p
 t>
 File: Network Science/VOS/co-authorship-density.pdf Graphic file (type pdf)
 <use Network Science/VOS/co-authorship-density.pdf>
 Package pdftex.def Info: Network Science/VOS/co-authorship-density.pdf  used on
- input line 619.
+ input line 622.
 (pdftex.def)             Requested size: 210.0023pt x 136.05484pt.
-
-
-
-Underfull \hbox (badness 5316) in paragraph at lines 629--630
+[18 <./Social Networks/WOS data/VOS/co-authorship-density.pdf> <./Network Scien
+ce/VOS/co-authorship.pdf> <./Network Science/VOS/co-authorship-density.pdf>]
+Underfull \hbox (badness 5316) in paragraph at lines 632--633
 []\OT1/cmr/bx/n/10 Interdisciplinary Link-ages: \OT1/cmr/m/n/10 Cer-tain
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 630--631
+Underfull \hbox (badness 1270) in paragraph at lines 633--634
 \OT1/cmr/m/n/10 sity vi-su-al-iza-tion pin-points key re-search
  []
 
-<Journal of Complex Networks/VOS/co-authorship.pdf, id=27183, 4300.065pt x 2786
+<Journal of Complex Networks/VOS/co-authorship.pdf, id=27672, 4300.065pt x 2786
 .41pt>
 File: Journal of Complex Networks/VOS/co-authorship.pdf Graphic file (type pdf)
 
 <use Journal of Complex Networks/VOS/co-authorship.pdf>
 Package pdftex.def Info: Journal of Complex Networks/VOS/co-authorship.pdf  use
-d on input line 639.
+d on input line 642.
 (pdftex.def)             Requested size: 210.0023pt x 136.05484pt.
 
-Underfull \hbox (badness 1102) in paragraph at lines 644--645
+Underfull \hbox (badness 1102) in paragraph at lines 647--648
 \OT1/cmr/m/n/10 lower-density net-works sug-gest a more frag-
  []
 
-
-
-[18 <./Network Science/VOS/co-authorship.pdf> <./Network Science/VOS/co-authors
-hip-density.pdf>]
-<Journal of Complex Networks/VOS/co-authorship-density.pdf, id=27419, 4300.065p
+<Journal of Complex Networks/VOS/co-authorship-density.pdf, id=27676, 4300.065p
 t x 2786.41pt>
 File: Journal of Complex Networks/VOS/co-authorship-density.pdf Graphic file (t
 ype pdf)
 <use Journal of Complex Networks/VOS/co-authorship-density.pdf>
 Package pdftex.def Info: Journal of Complex Networks/VOS/co-authorship-density.
-pdf  used on input line 649.
+pdf  used on input line 652.
 (pdftex.def)             Requested size: 210.0023pt x 136.05484pt.
 
-
-
-Underfull \hbox (badness 7308) in paragraph at lines 657--658
+Underfull \hbox (badness 7308) in paragraph at lines 660--661
 []\OT1/cmr/bx/n/10 Prominent Au-thors: \OT1/cmr/m/n/10 The net-work
  []
 
 
-Underfull \hbox (badness 7888) in paragraph at lines 657--658
+Underfull \hbox (badness 7888) in paragraph at lines 660--661
 \OT1/cmr/m/n/10 in-clud-ing Hi-roki Sayama, David J.P.
  []
 
-
-Underfull \hbox (badness 1424) in paragraph at lines 660--661
+[19 <./Journal of Complex Networks/VOS/co-authorship.pdf> <./Journal of Complex
+ Networks/VOS/co-authorship-density.pdf>]
+Underfull \hbox (badness 1424) in paragraph at lines 663--664
 \OT1/cmr/m/n/10 hubs where col-lab-o-ra-tion is par-tic-u-larly
  []
 
 
-
-[19 <./Journal of Complex Networks/VOS/co-authorship.pdf> <./Journal of Complex
- Networks/VOS/co-authorship-density.pdf>]
-Underfull \hbox (badness 1062) in paragraph at lines 716--717
+Underfull \hbox (badness 1062) in paragraph at lines 719--720
 \OT1/cmr/m/it/10 works \OT1/cmr/m/n/10 are pre-dom-i-nantly foun-da-tional work
 s
  []
 
 
-
-
 Underfull \vbox (badness 3386) has occurred while \output is active []
 
-
-
-[20]
+ [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Underfull \hbox (badness 4144) in paragraph at lines 739--740
+[]\OT1/cmr/m/n/10 Looking ahead, the tra-jec-tory of so-cial
+ []
 
 
+Underfull \hbox (badness 2875) in paragraph at lines 739--740
+\OT1/cmr/m/n/10 grow-ing in-flu-ence of dig-i-tal plat-forms, the
+ []
 
-[21] (main.bbl
+
+Underfull \hbox (badness 4193) in paragraph at lines 739--740
+\OT1/cmr/m/n/10 pro-lif-er-a-tion of large-scale net-worked data,
+ []
 
 
+Underfull \hbox (badness 3492) in paragraph at lines 739--740
+\OT1/cmr/m/n/10 policy-making, and or-ga-ni-za-tional be-hav-ior.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 739--740
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--745
+\OT1/cmr/m/n/10 The data used in this study are se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--745
+\OT1/cmr/m/n/10 curely stored and can be ac-cessed at
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--745
+[]$\OT1/cmtt/m/n/10 https : / / github . com / Amethystium -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--745
+\OT1/cmtt/m/n/10 321E1 / Network -[] Journal -[] Biblio$[]\OT1/cmr/m/n/10 . Ad-
+di-
+ []
+
+(./main.bbl [22]
 Underfull \hbox (badness 10000) in paragraph at lines 15--19
 []\OT1/cmr/m/n/10 Andjelkovic, M.,
  []
@@ -973,8 +951,6 @@ Underfull \hbox (badness 5064) in paragraph at lines 73--76
  []
 
 
-
-[22]
 Underfull \hbox (badness 10000) in paragraph at lines 88--91
 []\OT1/cmr/m/n/10 Borgatti, S. P.
  []
@@ -994,9 +970,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 114--117
 []\OT1/cmr/m/n/10 Burt, R. S. (1992).  \OT1/cmr/m/it/10 Struc-tural
  []
 
-
-
-
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 137--141
 []
  []
@@ -1022,8 +996,6 @@ Underfull \hbox (badness 2744) in paragraph at lines 169--172
  []
 
 
-
-[23]
 Underfull \hbox (badness 10000) in paragraph at lines 174--177
 []
  []
@@ -1058,9 +1030,7 @@ Underfull \hbox (badness 4995) in paragraph at lines 210--215
 \OT1/cmr/m/n/10 Bergstrom, C. T., B^^?orner, K., Evans,
  []
 
-
-
-
+[24]
 Underfull \hbox (badness 10000) in paragraph at lines 228--231
 []
  []
@@ -1081,8 +1051,6 @@ Underfull \hbox (badness 1902) in paragraph at lines 244--248
  []
 
 
-
-[24]
 Underfull \hbox (badness 3209) in paragraph at lines 280--283
 \OT1/cmr/m/n/10 mod-els: First steps.  \OT1/cmr/m/it/10 So-cial Net-works\OT1/c
 mr/m/n/10 ,
@@ -1143,10 +1111,6 @@ Underfull \hbox (badness 7851) in paragraph at lines 327--332
 \OT1/cmr/m/n/10 patents.  \OT1/cmr/m/it/10 INFORMATION-AN IN-TER-
  []
 
-
-
-
-
 [25]
 Underfull \hbox (badness 10000) in paragraph at lines 420--424
 []\OT1/cmr/m/n/10 Opsahl, Tore,
@@ -1162,9 +1126,7 @@ Underfull \hbox (badness 4899) in paragraph at lines 432--436
 []\OT1/cmr/m/n/10 Porter, A. L. and
  []
 
-
-
-
+[26]
 Underfull \hbox (badness 10000) in paragraph at lines 476--479
 []
  []
@@ -1180,8 +1142,6 @@ Underfull \hbox (badness 3354) in paragraph at lines 491--494
  []
 
 
-
-[26]
 Underfull \hbox (badness 1442) in paragraph at lines 508--512
 []\OT1/cmr/m/n/10 van Eck, N. J.
  []
@@ -1206,16 +1166,9 @@ Underfull \hbox (badness 4872) in paragraph at lines 539--544
 \OT1/cmr/m/n/10 (2023).  A Com-pre-hen-sive Bib-lio-met-ric
  []
 
+[27]) [28
 
-
-)
-
-[27] (main.aux)
- ***********
-LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-08-30>
- ***********
-
+] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1223,33 +1176,51 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 85E11332D2EE90735BD5EA27A287A9AC;2138.
  ) 
 Here is how much of TeX's memory you used:
- 10061 strings out of 473899
- 158730 string characters out of 5742897
- 582192 words of memory out of 5000000
- 32626 multiletter control sequences out of 15000+600000
- 567189 words of font info for 68 fonts, out of 8000000 for 9000
+ 9723 strings out of 478300
+ 158465 string characters out of 5849123
+ 477907 words of memory out of 5000000
+ 27568 multiletter control sequences out of 15000+600000
+ 478379 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,1456b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Amethystium\AppData\Local\MiKTeX\fonts/pk/ljfour/public/bbold/dpi6
-00\bbold10.pk> <C:\Users\Amethystium\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\tcrm1000.pk> <C:\Users\Amethystium\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\tcrm0800.pk><D:/MikTeX/fonts/type1/public/amsfonts/cm
-/cmbx10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MikTeX/fon
-ts/type1/public/amsfonts/cm/cmbx5.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm
-/cmbx7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/MikTeX/fonts
-/type1/public/amsfonts/cm/cmex10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/
-cmmi10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/MikTeX/fonts
-/type1/public/amsfonts/cm/cmr10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/c
-mr12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/MikTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr8.
-pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/MikTeX/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmsy7.pf
-b><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/MikTeX/fonts/type1/p
-ublic/amsfonts/cm/cmti7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb
-><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (27 pages, 6097943 bytes).
+ 60i,10n,63p,1454b,425s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{cite.B\\unhbox\040\\voidb@x\040\\bgroup\040\\let\04
+0\\unhbox\040\\voidb@x\040\\setbox\040\\@tempboxa\040\\hbox\040{o\\global\040\\
+mathchardef\040\\accent@spacefactor\040\\spacefactor\040}\\let\040\\begingroup\
+040\\let\040\\typeout\040\\protect\040\\begingroup\040\\def\040\\MessageBreak\0
+40{\012\(Font\)\040\040\040\040\040\040\040\040\040\040\040\040\040\040}\\let\0
+40\\protect\040\\immediate\\write\040\\m@ne\040{LaTeX\040Font\040Info:\040\040\
+040\040\040on\040input\040line\040302.}\\endgroup\040\\endgroup\040\\relax\040\
+\let\040\\ignorespaces\040\\relax\040\\accent\040127\040o\\egroup\040\\spacefac
+tor\040\\accent@spacefactor\040rner2010} has been referenced but does not exist
+, replaced by a fixed one
+
+{e:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<e:/texli
+ve/2022/texmf-dist/fonts/type1/public/bbold-type1/bbold10.pfb><e:/texlive/2022/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><e:/texlive/2022/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmbx12.pfb><e:/texlive/2022/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx5.pfb><e:/texlive/2022/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmbx7.pfb><e:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx9.pfb><e:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10
+.pfb><e:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><e:/
+texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><e:/texlive/20
+22/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><e:/texlive/2022/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr12.pfb><e:/texlive/2022/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr5.pfb><e:/texlive/2022/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb><e:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr8.pfb><e:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
+><e:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><e:/texl
+ive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><e:/texlive/2022/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><e:/texlive/2022/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti7.pfb><e:/texlive/2022/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmti9.pfb><e:/texlive/2022/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmtt10.pfb><e:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/
+sfrm0800.pfb><e:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.p
+fb>
+Output written on main.pdf (28 pages, 3184725 bytes).
 PDF statistics:
- 27870 PDF objects out of 31911 (max. 8388607)
- 185 named destinations out of 1000 (max. 500000)
+ 28145 PDF objects out of 31911 (max. 8388607)
+ 27644 compressed objects within 277 object streams
+ 189 named destinations out of 1000 (max. 500000)
  200 words of extra memory for PDF output out of 10000 (max. 10000000)
 

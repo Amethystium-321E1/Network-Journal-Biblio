@@ -1,122 +1,107 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
-Case mismatch error between cite keys VanEck2010 and vanEck2010
----line 86 of file main.aux
- : \citation{VanEck2010
- :                     }
-I'm skipping whatever remains of this command
-Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
-Reallocating 'name_of_file' (item size: 1) to 4 items.
 Database file #1: ref.bib
-Repeated entry---line 242 of file ref.bib
+Repeated entry---line 483 of file ref.bib
  : @article{Small1973
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 253 of file ref.bib
+Repeated entry---line 505 of file ref.bib
  : @article{Callon1991
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 263 of file ref.bib
+Repeated entry---line 525 of file ref.bib
  : @article{Cobo2011
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 304 of file ref.bib
+Repeated entry---line 607 of file ref.bib
  : @article{Moed2005
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 419 of file ref.bib
+Repeated entry---line 837 of file ref.bib
  : @book{Freeman2004
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 454 of file ref.bib
+Repeated entry---line 907 of file ref.bib
  : @article{Lazer2009
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 518 of file ref.bib
+Repeated entry---line 1035 of file ref.bib
  : @article{Leahey2016
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 528 of file ref.bib
+Repeated entry---line 1055 of file ref.bib
  : @article{Porter2009
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 539 of file ref.bib
+Repeated entry---line 1077 of file ref.bib
  : @article{Wagner2011
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 550 of file ref.bib
+Repeated entry---line 1099 of file ref.bib
  : @article{Chavarro2017
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 609 of file ref.bib
+Repeated entry---line 1217 of file ref.bib
  : @article{Freeman2004
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 616 of file ref.bib
+Repeated entry---line 1231 of file ref.bib
  : @article{Borgatti2009
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 626 of file ref.bib
+Repeated entry---line 1251 of file ref.bib
  : @article{Fortunato2018
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 666 of file ref.bib
+Repeated entry---line 1331 of file ref.bib
  : @book{Freeman2004
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 673 of file ref.bib
+Repeated entry---line 1345 of file ref.bib
  : @article{Borgatti2009
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 700 of file ref.bib
+Repeated entry---line 1399 of file ref.bib
  : @article{Cobo2011
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 719 of file ref.bib
+Repeated entry---line 1437 of file ref.bib
  : @article{Aria2017
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 768 of file ref.bib
+Repeated entry---line 1535 of file ref.bib
  : @article{Small1973
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 788 of file ref.bib
+Repeated entry---line 1575 of file ref.bib
  : @book{Moed2005
  :               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 845 of file ref.bib
+Repeated entry---line 1689 of file ref.bib
  : @article{Borgatti2009
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1170 of file ref.bib
+Repeated entry---line 2339 of file ref.bib
  : @article{freeman1979
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1225 of file ref.bib
+Repeated entry---line 2449 of file ref.bib
  : @article{callon1983co
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1266 of file ref.bib
+Repeated entry---line 2531 of file ref.bib
  : @book{glanzel2004handbook
  :                          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1274 of file ref.bib
+Repeated entry---line 2547 of file ref.bib
  : @article{newman2004coauthorship
  :                                ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Moody2004"
 Warning--I didn't find a database entry for "Wasserman1994"
-Warning--I didn't find a database entry for "Bastian2009"
-Warning--I didn't find a database entry for "Newman2001"
-Warning--I didn't find a database entry for "small1973co"
-Warning--I didn't find a database entry for "chen2006citespace"
-Warning--I didn't find a database entry for "watts1998collective"
-Warning--I didn't find a database entry for "burt1992structural"
-Warning--I didn't find a database entry for "snijders2010introduction"
 Warning--I didn't find a database entry for "van2010software"
-Warning--I didn't find a database entry for "barabasi2016network"
 Name 1 in "David M. Blei, Andrew Y. Ng, and Michael I. Jordan" has a comma at the end for entry Blei2003
 while executing---line 1023 of file apalike.bst
 Name 1 in "David M. Blei, Andrew Y. Ng, and Michael I. Jordan" has a comma at the end for entry Blei2003
@@ -276,7 +261,7 @@ Too many commas in name 1 of "Stefano Boccaletti, Vito Latora, Yamir Moreno, Mar
 while executing---line 1098 of file apalike.bst
 You've used 99 entries,
             1935 wiz_defined-function locations,
-            1085 strings with 18141 characters,
+            1075 strings with 17991 characters,
 and the built_in function-call counts, 37464 in all, are:
 = -- 3680
 > -- 1279
@@ -315,4 +300,4 @@ warning$ -- 1
 while$ -- 315
 width$ -- 0
 write$ -- 1273
-(There were 103 error messages)
+(There were 102 error messages)
